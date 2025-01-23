@@ -14,10 +14,11 @@ The **CTITTP** repository provides a comprehensive anlysis of cyber threat intel
 
 The repository is organized into the following directories:
 
-- `data/`: Contains datasets related to cyber threat intelligence.
-- `docs/`: Documentation files providing detailed information on techniques, tactics, and usage instructions.
-- `scripts/`: Python scripts and utilities for data processing, analysis, and visualization.
-- `examples/`: Sample use cases and examples demonstrating the application of techniques and tactics.
+- `ATTACK Excel sheets/`: Contains MITRE ATTA&CK datasets related threat groups.
+- `Dataset Analysis/`: Python scripts and utilities for data processing, analysis, and visualization.
+- `Group Analysis/`: Python scripts and utilities for group and corresponding techniques analysis.
+- `Software Analysis/`: Python scripts and utilities for group and corresponding software analysis.
+- `Malpedia Bib files Analysis/`: Python scripts and malpdedia bib files for analysis.
 
 ## Getting Started
 
