@@ -1,0 +1,4288 @@
+{
+    "S0066": {
+        "name": "3PARA RAT",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0065": {
+        "name": "4H RAT",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0677": {
+        "name": "AADInternals",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0469": {
+        "name": "ABK",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0045": {
+        "name": "ADVSTORESHELL",
+        "aliases": [
+            "AZZY, EVILTOSS, NETUI, Sedreco"
+        ],
+        "type": "malware"
+    },
+    "S1074": {
+        "name": "ANDROMEDA",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0073": {
+        "name": "ASPXSpy",
+        "aliases": [
+            "ASPXTool"
+        ],
+        "type": "malware"
+    },
+    "S1125": {
+        "name": "AcidRain",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1028": {
+        "name": "Action RAT",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0552": {
+        "name": "AdFind",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0331": {
+        "name": "Agent Tesla",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0092": {
+        "name": "Agent.btz",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1129": {
+        "name": "Akira",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1025": {
+        "name": "Amadey",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0504": {
+        "name": "Anchor",
+        "aliases": [
+            "Anchor_DNS"
+        ],
+        "type": "malware"
+    },
+    "S0584": {
+        "name": "AppleJeus",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0622": {
+        "name": "AppleSeed",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0456": {
+        "name": "Aria-body",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0099": {
+        "name": "Arp",
+        "aliases": [
+            "arp.exe"
+        ],
+        "type": "tool"
+    },
+    "S0373": {
+        "name": "Astaroth",
+        "aliases": [
+            "Guildma"
+        ],
+        "type": "malware"
+    },
+    "S1087": {
+        "name": "AsyncRAT",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0438": {
+        "name": "Attor",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1029": {
+        "name": "AuTo Stealer",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0347": {
+        "name": "AuditCred",
+        "aliases": [
+            "Roptimizer"
+        ],
+        "type": "malware"
+    },
+    "S0129": {
+        "name": "AutoIt backdoor",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0640": {
+        "name": "Avaddon",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0473": {
+        "name": "Avenger",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1053": {
+        "name": "AvosLocker",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0344": {
+        "name": "Azorult",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0031": {
+        "name": "BACKSPACE",
+        "aliases": [
+            "Lecna"
+        ],
+        "type": "malware"
+    },
+    "S0245": {
+        "name": "BADCALL",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0642": {
+        "name": "BADFLICK",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1081": {
+        "name": "BADHATCH",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0128": {
+        "name": "BADNEWS",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0470": {
+        "name": "BBK",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0127": {
+        "name": "BBSRAT",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0017": {
+        "name": "BISCUIT",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0190": {
+        "name": "BITSAdmin",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0069": {
+        "name": "BLACKCOFFEE",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0520": {
+        "name": "BLINDINGCAN",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0657": {
+        "name": "BLUELIGHT",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0360": {
+        "name": "BONDUPDATER",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0415": {
+        "name": "BOOSTWRITE",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0114": {
+        "name": "BOOTRASH",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0014": {
+        "name": "BS2005",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0043": {
+        "name": "BUBBLEWRAP",
+        "aliases": [
+            "Backdoor.APT.FakeWinHTTPHelper"
+        ],
+        "type": "malware"
+    },
+    "S1118": {
+        "name": "BUSHWALK",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0638": {
+        "name": "Babuk",
+        "aliases": [
+            "Babyk, Vasa Locker"
+        ],
+        "type": "malware"
+    },
+    "S0414": {
+        "name": "BabyShark",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0475": {
+        "name": "BackConfig",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0093": {
+        "name": "Backdoor.Oldrea",
+        "aliases": [
+            "Havex"
+        ],
+        "type": "malware"
+    },
+    "S0606": {
+        "name": "Bad Rabbit",
+        "aliases": [
+            "Win32/Diskcoder.D"
+        ],
+        "type": "malware"
+    },
+    "S0337": {
+        "name": "BadPatch",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0234": {
+        "name": "Bandook",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0239": {
+        "name": "Bankshot",
+        "aliases": [
+            "Trojan Manuscript"
+        ],
+        "type": "malware"
+    },
+    "S0534": {
+        "name": "Bazar",
+        "aliases": [
+            "Bazaloader, KEGTAP, Team9"
+        ],
+        "type": "malware"
+    },
+    "S0574": {
+        "name": "BendyBear",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0268": {
+        "name": "Bisonal",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0570": {
+        "name": "BitPaymer",
+        "aliases": [
+            "FriedEx, wp_encrypt"
+        ],
+        "type": "malware"
+    },
+    "S1070": {
+        "name": "Black Basta",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1068": {
+        "name": "BlackCat",
+        "aliases": [
+            "ALPHV, Noberus"
+        ],
+        "type": "malware"
+    },
+    "S0089": {
+        "name": "BlackEnergy",
+        "aliases": [
+            "Black Energy"
+        ],
+        "type": "malware"
+    },
+    "S0564": {
+        "name": "BlackMould",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0521": {
+        "name": "BloodHound",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0486": {
+        "name": "Bonadan",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0635": {
+        "name": "BoomBox",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0651": {
+        "name": "BoxCaon",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0252": {
+        "name": "Brave Prince",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0204": {
+        "name": "Briba",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1063": {
+        "name": "Brute Ratel C4",
+        "aliases": [
+            "BRc4"
+        ],
+        "type": "tool"
+    },
+    "S1039": {
+        "name": "Bumblebee",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0482": {
+        "name": "Bundlore",
+        "aliases": [
+            "OSX.Bundlore"
+        ],
+        "type": "malware"
+    },
+    "S0025": {
+        "name": "CALENDAR",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0465": {
+        "name": "CARROTBALL",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0462": {
+        "name": "CARROTBAT",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0222": {
+        "name": "CCBkdr",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0023": {
+        "name": "CHOPSTICK",
+        "aliases": [
+            "Backdoor.SofacyX, SPLM, X-Agent, Xagent, webhp"
+        ],
+        "type": "malware"
+    },
+    "S1105": {
+        "name": "COATHANGER",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0212": {
+        "name": "CORALDECK",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0137": {
+        "name": "CORESHELL",
+        "aliases": [
+            "SOURFACE, Sofacy"
+        ],
+        "type": "malware"
+    },
+    "S0527": {
+        "name": "CSPY Downloader",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0119": {
+        "name": "Cachedump",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0693": {
+        "name": "CaddyWiper",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0454": {
+        "name": "Cadelspy",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0274": {
+        "name": "Calisto",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0077": {
+        "name": "CallMe",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0351": {
+        "name": "Cannon",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0030": {
+        "name": "Carbanak",
+        "aliases": [
+            "Anunak"
+        ],
+        "type": "malware"
+    },
+    "S0484": {
+        "name": "Carberp",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0335": {
+        "name": "Carbon",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0348": {
+        "name": "Cardinal RAT",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0261": {
+        "name": "Catchamas",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0572": {
+        "name": "Caterpillar WebShell",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0144": {
+        "name": "ChChes",
+        "aliases": [
+            "HAYMAKER, Scorpion"
+        ],
+        "type": "malware"
+    },
+    "S0631": {
+        "name": "Chaes",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0220": {
+        "name": "Chaos",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0674": {
+        "name": "CharmPower",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1096": {
+        "name": "Cheerscrypt",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0107": {
+        "name": "Cherry Picker",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0020": {
+        "name": "China Chopper",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1041": {
+        "name": "Chinoxy",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0667": {
+        "name": "Chrommme",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0660": {
+        "name": "Clambling",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0611": {
+        "name": "Clop",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0054": {
+        "name": "CloudDuke",
+        "aliases": [
+            "CloudLook, MiniDionis"
+        ],
+        "type": "malware"
+    },
+    "S0154": {
+        "name": "Cobalt Strike",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0338": {
+        "name": "Cobian RAT",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0369": {
+        "name": "CoinTicker",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0126": {
+        "name": "ComRAT",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0244": {
+        "name": "Comnie",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0608": {
+        "name": "Conficker",
+        "aliases": [
+            "Downadup, Kido"
+        ],
+        "type": "malware"
+    },
+    "S0591": {
+        "name": "ConnectWise",
+        "aliases": [
+            "ScreenConnect"
+        ],
+        "type": "tool"
+    },
+    "S0575": {
+        "name": "Conti",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0492": {
+        "name": "CookieMiner",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0050": {
+        "name": "CosmicDuke",
+        "aliases": [
+            "BotgenStudios, NemesisGemina, TinyBaron"
+        ],
+        "type": "malware"
+    },
+    "S0614": {
+        "name": "CostaBricks",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0046": {
+        "name": "CozyCar",
+        "aliases": [
+            "Cozer, CozyBear, CozyDuke, EuroAPT"
+        ],
+        "type": "malware"
+    },
+    "S0488": {
+        "name": "CrackMapExec",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S1023": {
+        "name": "CreepyDrive",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1024": {
+        "name": "CreepySnail",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0115": {
+        "name": "Crimson",
+        "aliases": [
+            "MSIL/Crimson"
+        ],
+        "type": "malware"
+    },
+    "S0235": {
+        "name": "CrossRAT",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0538": {
+        "name": "Crutch",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0498": {
+        "name": "Cryptoistic",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0625": {
+        "name": "Cuba",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0687": {
+        "name": "Cyclops Blink",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1033": {
+        "name": "DCSrv",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0255": {
+        "name": "DDKONG",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1052": {
+        "name": "DEADEYE",
+        "aliases": [
+            "DEADEYE.APPEND, DEADEYE.EMBED"
+        ],
+        "type": "malware"
+    },
+    "S0616": {
+        "name": "DEATHRANSOM",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0213": {
+        "name": "DOGCALL",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0694": {
+        "name": "DRATzarus",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0497": {
+        "name": "Dacls",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1014": {
+        "name": "DanBot",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0334": {
+        "name": "DarkComet",
+        "aliases": [
+            "DarkKomet, FYNLOS, Fynloski, Krademok"
+        ],
+        "type": "malware"
+    },
+    "S1111": {
+        "name": "DarkGate",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1066": {
+        "name": "DarkTortilla",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0673": {
+        "name": "DarkWatchman",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0187": {
+        "name": "Daserf",
+        "aliases": [
+            "Muirim, Nioupale"
+        ],
+        "type": "malware"
+    },
+    "S0243": {
+        "name": "DealersChoice",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0354": {
+        "name": "Denis",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0021": {
+        "name": "Derusbi",
+        "aliases": [
+            "PHOTO"
+        ],
+        "type": "malware"
+    },
+    "S0659": {
+        "name": "Diavol",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0200": {
+        "name": "Dipsind",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1088": {
+        "name": "Disco",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1021": {
+        "name": "DnsSystem",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0281": {
+        "name": "Dok",
+        "aliases": [
+            "Retefe"
+        ],
+        "type": "malware"
+    },
+    "S0600": {
+        "name": "Doki",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0695": {
+        "name": "Donut",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0186": {
+        "name": "DownPaper",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0134": {
+        "name": "Downdelph",
+        "aliases": [
+            "Delphacy"
+        ],
+        "type": "malware"
+    },
+    "S0384": {
+        "name": "Dridex",
+        "aliases": [
+            "Bugat v5"
+        ],
+        "type": "malware"
+    },
+    "S0547": {
+        "name": "DropBook",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0502": {
+        "name": "Drovorub",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0567": {
+        "name": "Dtrack",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0038": {
+        "name": "Duqu",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0062": {
+        "name": "DustySky",
+        "aliases": [
+            "NeD Worm"
+        ],
+        "type": "malware"
+    },
+    "S0024": {
+        "name": "Dyre",
+        "aliases": [
+            "Dyreza, Dyzap"
+        ],
+        "type": "malware"
+    },
+    "S0593": {
+        "name": "ECCENTRICBANDWAGON",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0605": {
+        "name": "EKANS",
+        "aliases": [
+            "SNAKEHOSE"
+        ],
+        "type": "malware"
+    },
+    "S0064": {
+        "name": "ELMER",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0568": {
+        "name": "EVILNUM",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0377": {
+        "name": "Ebury",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0624": {
+        "name": "Ecipekac",
+        "aliases": [
+            "DESLoader, HEAVYHAND, SigLoader"
+        ],
+        "type": "malware"
+    },
+    "S0554": {
+        "name": "Egregor",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0081": {
+        "name": "Elise",
+        "aliases": [
+            "BKDR_ESILE, Page"
+        ],
+        "type": "malware"
+    },
+    "S0082": {
+        "name": "Emissary",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0367": {
+        "name": "Emotet",
+        "aliases": [
+            "Geodo"
+        ],
+        "type": "malware"
+    },
+    "S0363": {
+        "name": "Empire",
+        "aliases": [
+            "EmPyre, PowerShell Empire"
+        ],
+        "type": "tool"
+    },
+    "S0634": {
+        "name": "EnvyScout",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0091": {
+        "name": "Epic",
+        "aliases": [
+            "TadjMakhal, Tavdig, Wipbot, WorldCupSec"
+        ],
+        "type": "malware"
+    },
+    "S0396": {
+        "name": "EvilBunny",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0152": {
+        "name": "EvilGrab",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0401": {
+        "name": "Exaramel for Linux",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0343": {
+        "name": "Exaramel for Windows",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0361": {
+        "name": "Expand",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0569": {
+        "name": "Explosive",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0181": {
+        "name": "FALLCHILL",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0267": {
+        "name": "FELIXROOT",
+        "aliases": [
+            "GreyEnergy mini"
+        ],
+        "type": "malware"
+    },
+    "S0618": {
+        "name": "FIVEHANDS",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0036": {
+        "name": "FLASHFLOOD",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0173": {
+        "name": "FLIPSIDE",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1120": {
+        "name": "FRAMESTING",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0628": {
+        "name": "FYAnti",
+        "aliases": [
+            "DILLJUICE stage2"
+        ],
+        "type": "malware"
+    },
+    "S0076": {
+        "name": "FakeM",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0512": {
+        "name": "FatDuke",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0171": {
+        "name": "Felismus",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0679": {
+        "name": "Ferocious",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0120": {
+        "name": "Fgdump",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0182": {
+        "name": "FinFisher",
+        "aliases": [
+            "FinSpy"
+        ],
+        "type": "malware"
+    },
+    "S0355": {
+        "name": "Final1stspy",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0696": {
+        "name": "Flagpro",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0143": {
+        "name": "Flame",
+        "aliases": [
+            "Flamer, sKyWIper"
+        ],
+        "type": "malware"
+    },
+    "S0381": {
+        "name": "FlawedAmmyy",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0383": {
+        "name": "FlawedGrace",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0661": {
+        "name": "FoggyWeb",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0193": {
+        "name": "Forfiles",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0503": {
+        "name": "FrameworkPOS",
+        "aliases": [
+            "Trinity"
+        ],
+        "type": "malware"
+    },
+    "S0277": {
+        "name": "FruitFly",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1044": {
+        "name": "FunnyDream",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0410": {
+        "name": "Fysbis",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1117": {
+        "name": "GLASSTOKEN",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0026": {
+        "name": "GLOOXMAIL",
+        "aliases": [
+            "Trojan.GTALK"
+        ],
+        "type": "malware"
+    },
+    "S0417": {
+        "name": "GRIFFON",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0168": {
+        "name": "Gazer",
+        "aliases": [
+            "WhiteBear"
+        ],
+        "type": "malware"
+    },
+    "S0666": {
+        "name": "Gelsemium",
+        "aliases": [
+            "Gelsemine, Gelsenicine, Gelsevirine"
+        ],
+        "type": "malware"
+    },
+    "S0049": {
+        "name": "GeminiDuke",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0460": {
+        "name": "Get2",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0249": {
+        "name": "Gold Dragon",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0597": {
+        "name": "GoldFinder",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0588": {
+        "name": "GoldMax",
+        "aliases": [
+            "SUNSHUTTLE"
+        ],
+        "type": "malware"
+    },
+    "S0493": {
+        "name": "GoldenSpy",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0477": {
+        "name": "Goopy",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0531": {
+        "name": "Grandoreiro",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0237": {
+        "name": "GravityRAT",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0690": {
+        "name": "Green Lambert",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0342": {
+        "name": "GreyEnergy",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0632": {
+        "name": "GrimAgent",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0561": {
+        "name": "GuLoader",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0132": {
+        "name": "H1N1",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0151": {
+        "name": "HALFBAKED",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0037": {
+        "name": "HAMMERTOSS",
+        "aliases": [
+            "HammerDuke, NetDuke"
+        ],
+        "type": "malware"
+    },
+    "S0214": {
+        "name": "HAPPYWORK",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0246": {
+        "name": "HARDRAIN",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0391": {
+        "name": "HAWKBALL",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0061": {
+        "name": "HDoor",
+        "aliases": [
+            "Custom HDoor"
+        ],
+        "type": "malware"
+    },
+    "S0617": {
+        "name": "HELLOKITTY",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0135": {
+        "name": "HIDEDRV",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0232": {
+        "name": "HOMEFRY",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0376": {
+        "name": "HOPLIGHT",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0040": {
+        "name": "HTRAN",
+        "aliases": [
+            "HUC Packet Transmit Tool"
+        ],
+        "type": "tool"
+    },
+    "S0070": {
+        "name": "HTTPBrowser",
+        "aliases": [
+            "HttpDump, Token Control"
+        ],
+        "type": "malware"
+    },
+    "S1097": {
+        "name": "HUI Loader",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0047": {
+        "name": "Hacking Team UEFI Rootkit",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0499": {
+        "name": "Hancitor",
+        "aliases": [
+            "Chanitor"
+        ],
+        "type": "malware"
+    },
+    "S0224": {
+        "name": "Havij",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0170": {
+        "name": "Helminth",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0697": {
+        "name": "HermeticWiper",
+        "aliases": [
+            "DriveSlayer, Trojan.Killdisk"
+        ],
+        "type": "malware"
+    },
+    "S0698": {
+        "name": "HermeticWizard",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1027": {
+        "name": "Heyoka Backdoor",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0087": {
+        "name": "Hi-Zor",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0394": {
+        "name": "HiddenWasp",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0009": {
+        "name": "Hikit",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0601": {
+        "name": "Hildegard",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0431": {
+        "name": "HotCroissant",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0203": {
+        "name": "Hydraq",
+        "aliases": [
+            "9002 RAT, Aurora, HidraQ, HomeUnix, Homux, HydraQ, McRat, MdmBot, Roarur"
+        ],
+        "type": "malware"
+    },
+    "S0398": {
+        "name": "HyperBro",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0537": {
+        "name": "HyperStack",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0189": {
+        "name": "ISMInjector",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1022": {
+        "name": "IceApple",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0483": {
+        "name": "IcedID",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0434": {
+        "name": "Imminent Monitor",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0357": {
+        "name": "Impacket",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0604": {
+        "name": "Industroyer",
+        "aliases": [
+            "CRASHOVERRIDE, Win32/Industroyer"
+        ],
+        "type": "malware"
+    },
+    "S1072": {
+        "name": "Industroyer2",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0259": {
+        "name": "InnaputRAT",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0260": {
+        "name": "InvisiMole",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0231": {
+        "name": "Invoke-PSImage",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0581": {
+        "name": "IronNetInjector",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0015": {
+        "name": "Ixeshe",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0389": {
+        "name": "JCry",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0044": {
+        "name": "JHUHUGIT",
+        "aliases": [
+            "GAMEFISH, JKEYSKW, Sednit, Seduploader, SofacyCarberp, Trojan.Sofacy"
+        ],
+        "type": "malware"
+    },
+    "S0201": {
+        "name": "JPIN",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0648": {
+        "name": "JSS Loader",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0163": {
+        "name": "Janicab",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0528": {
+        "name": "Javali",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0215": {
+        "name": "KARAE",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0271": {
+        "name": "KEYMARBLE",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1051": {
+        "name": "KEYPLUG",
+        "aliases": [
+            "KEYPLUG.LINUX"
+        ],
+        "type": "malware"
+    },
+    "S0526": {
+        "name": "KGH_SPY",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0669": {
+        "name": "KOCTOPUS",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0156": {
+        "name": "KOMPROGO",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0356": {
+        "name": "KONNI",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1075": {
+        "name": "KOPILUWAK",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0088": {
+        "name": "Kasidet",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0265": {
+        "name": "Kazuar",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0585": {
+        "name": "Kerrdown",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0487": {
+        "name": "Kessel",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1020": {
+        "name": "Kevin",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0387": {
+        "name": "KeyBoy",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0276": {
+        "name": "Keydnap",
+        "aliases": [
+            "OSX/Keydnap"
+        ],
+        "type": "malware"
+    },
+    "S0607": {
+        "name": "KillDisk",
+        "aliases": [
+            "Win32/KillDisk.NBB, Win32/KillDisk.NBC, Win32/KillDisk.NBD, Win32/KillDisk.NBH, Win32/KillDisk.NBI"
+        ],
+        "type": "malware"
+    },
+    "S0599": {
+        "name": "Kinsing",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0437": {
+        "name": "Kivars",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0250": {
+        "name": "Koadic",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0641": {
+        "name": "Kobalos",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0162": {
+        "name": "Komplex",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0236": {
+        "name": "Kwampirs",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1119": {
+        "name": "LIGHTWIRE",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1121": {
+        "name": "LITTLELAMB.WOOLTEA",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0042": {
+        "name": "LOWBALL",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0349": {
+        "name": "LaZagne",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0395": {
+        "name": "LightNeuron",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0211": {
+        "name": "Linfo",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0362": {
+        "name": "Linux Rabbit",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0513": {
+        "name": "LiteDuke",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0680": {
+        "name": "LitePower",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0681": {
+        "name": "Lizar",
+        "aliases": [
+            "Tirion"
+        ],
+        "type": "malware"
+    },
+    "S1101": {
+        "name": "LoFiSe",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0397": {
+        "name": "LoJax",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0372": {
+        "name": "LockerGoga",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0447": {
+        "name": "Lokibot",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0582": {
+        "name": "LookBack",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0451": {
+        "name": "LoudMiner",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0121": {
+        "name": "Lslsass",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0532": {
+        "name": "Lucifer",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0010": {
+        "name": "Lurid",
+        "aliases": [
+            "Enfal"
+        ],
+        "type": "malware"
+    },
+    "S0500": {
+        "name": "MCMD",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0443": {
+        "name": "MESSAGETAP",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0233": {
+        "name": "MURKYTOP",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1016": {
+        "name": "MacMa",
+        "aliases": [
+            "DazzleSpy, OSX.CDDS"
+        ],
+        "type": "malware"
+    },
+    "S0282": {
+        "name": "MacSpy",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0409": {
+        "name": "Machete",
+        "aliases": [
+            "Pyark"
+        ],
+        "type": "malware"
+    },
+    "S1060": {
+        "name": "Mafalda",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0413": {
+        "name": "MailSniper",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0652": {
+        "name": "MarkiRAT",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0167": {
+        "name": "Matryoshka",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0449": {
+        "name": "Maze",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0459": {
+        "name": "MechaFlounder",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0576": {
+        "name": "MegaCortex",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0530": {
+        "name": "Melcoz",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0455": {
+        "name": "Metamorfo",
+        "aliases": [
+            "Casbaneiro"
+        ],
+        "type": "malware"
+    },
+    "S0688": {
+        "name": "Meteor",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0339": {
+        "name": "Micropsia",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1015": {
+        "name": "Milan",
+        "aliases": [
+            "James"
+        ],
+        "type": "malware"
+    },
+    "S0179": {
+        "name": "MimiPenguin",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0002": {
+        "name": "Mimikatz",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0133": {
+        "name": "Miner-C",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0051": {
+        "name": "MiniDuke",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0280": {
+        "name": "MirageFox",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0084": {
+        "name": "Mis-Type",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0083": {
+        "name": "Misdat",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1122": {
+        "name": "Mispadu",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0080": {
+        "name": "Mivast",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0079": {
+        "name": "MobileOrder",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0553": {
+        "name": "MoleNet",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1026": {
+        "name": "Mongall",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0149": {
+        "name": "MoonWind",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0284": {
+        "name": "More_eggs",
+        "aliases": [
+            "SKID, SpicyOmelette, Terra Loader"
+        ],
+        "type": "malware"
+    },
+    "S1047": {
+        "name": "Mori",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0256": {
+        "name": "Mosquito",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0699": {
+        "name": "Mythic",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0590": {
+        "name": "NBTscan",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0272": {
+        "name": "NDiskMonitor",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0034": {
+        "name": "NETEAGLE",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0198": {
+        "name": "NETWIRE",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1106": {
+        "name": "NGLite",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1107": {
+        "name": "NKAbuse",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0353": {
+        "name": "NOKKI",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0205": {
+        "name": "Naid",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0228": {
+        "name": "NanHaiShu",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0336": {
+        "name": "NanoCore",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0637": {
+        "name": "NativeZone",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0247": {
+        "name": "NavRAT",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0630": {
+        "name": "Nebulae",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0691": {
+        "name": "Neoichor",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0210": {
+        "name": "Nerex",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0039": {
+        "name": "Net",
+        "aliases": [
+            "net.exe"
+        ],
+        "type": "tool"
+    },
+    "S0056": {
+        "name": "Net Crawler",
+        "aliases": [
+            "NetC"
+        ],
+        "type": "malware"
+    },
+    "S0033": {
+        "name": "NetTraveler",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0457": {
+        "name": "Netwalker",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0118": {
+        "name": "Nidiran",
+        "aliases": [
+            "Backdoor.Nidiran"
+        ],
+        "type": "malware"
+    },
+    "S1090": {
+        "name": "NightClub",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1100": {
+        "name": "Ninja",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0359": {
+        "name": "Nltest",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0368": {
+        "name": "NotPetya",
+        "aliases": [
+            "Diskcoder.C, ExPetr, GoldenEye, Nyetya, Petrwrap"
+        ],
+        "type": "malware"
+    },
+    "S0138": {
+        "name": "OLDBAIT",
+        "aliases": [
+            "Sasfis"
+        ],
+        "type": "malware"
+    },
+    "S0165": {
+        "name": "OSInfo",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0402": {
+        "name": "OSX/Shlayer",
+        "aliases": [
+            "Crossrider, Zshlayer"
+        ],
+        "type": "malware"
+    },
+    "S0352": {
+        "name": "OSX_OCEANLOTUS.D",
+        "aliases": [
+            "Backdoor.MacOS.OCEANLOTUS.F"
+        ],
+        "type": "malware"
+    },
+    "S0644": {
+        "name": "ObliqueRAT",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0346": {
+        "name": "OceanSalt",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0340": {
+        "name": "Octopus",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0439": {
+        "name": "Okrum",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0365": {
+        "name": "Olympic Destroyer",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0052": {
+        "name": "OnionDuke",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0264": {
+        "name": "OopsIE",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0229": {
+        "name": "Orz",
+        "aliases": [
+            "AIRBREAK"
+        ],
+        "type": "malware"
+    },
+    "S0594": {
+        "name": "Out1",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S1017": {
+        "name": "OutSteel",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0072": {
+        "name": "OwaAuth",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0598": {
+        "name": "P.A.S. Webshell",
+        "aliases": [
+            "Fobushell"
+        ],
+        "type": "malware"
+    },
+    "S0016": {
+        "name": "P2P ZeuS",
+        "aliases": [
+            "Gameover ZeuS, Peer-to-Peer ZeuS"
+        ],
+        "type": "malware"
+    },
+    "S0626": {
+        "name": "P8RAT",
+        "aliases": [
+            "GreetCake, HEAVYPOT"
+        ],
+        "type": "malware"
+    },
+    "S1109": {
+        "name": "PACEMAKER",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0158": {
+        "name": "PHOREAL",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1123": {
+        "name": "PITSTOP",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0254": {
+        "name": "PLAINTEE",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0435": {
+        "name": "PLEAD",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0216": {
+        "name": "POORAIM",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0150": {
+        "name": "POSHSPY",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0145": {
+        "name": "POWERSOURCE",
+        "aliases": [
+            "DNSMessenger"
+        ],
+        "type": "malware"
+    },
+    "S0223": {
+        "name": "POWERSTATS",
+        "aliases": [
+            "Powermud"
+        ],
+        "type": "malware"
+    },
+    "S0371": {
+        "name": "POWERTON",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0184": {
+        "name": "POWRUNER",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0613": {
+        "name": "PS1",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1108": {
+        "name": "PULSECHECK",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0196": {
+        "name": "PUNCHBUGGY",
+        "aliases": [
+            "ShellTea"
+        ],
+        "type": "malware"
+    },
+    "S0197": {
+        "name": "PUNCHTRACK",
+        "aliases": [
+            "PSVC"
+        ],
+        "type": "malware"
+    },
+    "S1091": {
+        "name": "Pacu",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0664": {
+        "name": "Pandora",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0208": {
+        "name": "Pasam",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0122": {
+        "name": "Pass-The-Hash Toolkit",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0556": {
+        "name": "Pay2Key",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1050": {
+        "name": "PcShare",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S1102": {
+        "name": "Pcexter",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0683": {
+        "name": "Peirates",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0587": {
+        "name": "Penquin",
+        "aliases": [
+            "Penquin 2.0, Penquin_x64"
+        ],
+        "type": "malware"
+    },
+    "S0643": {
+        "name": "Peppy",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0517": {
+        "name": "Pillowmint",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0048": {
+        "name": "PinchDuke",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0097": {
+        "name": "Ping",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S1031": {
+        "name": "PingPull",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0501": {
+        "name": "PipeMon",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0124": {
+        "name": "Pisloader",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0013": {
+        "name": "PlugX",
+        "aliases": [
+            "DestroyRAT, Kaba, Korplug, Sogu, TVT, Thoper"
+        ],
+        "type": "malware"
+    },
+    "S0428": {
+        "name": "PoetRAT",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0012": {
+        "name": "PoisonIvy",
+        "aliases": [
+            "Breut, Darkmoon, Poison Ivy"
+        ],
+        "type": "malware"
+    },
+    "S0518": {
+        "name": "PolyglotDuke",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0453": {
+        "name": "Pony",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0378": {
+        "name": "PoshC2",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S1046": {
+        "name": "PowGoop",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0177": {
+        "name": "Power Loader",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0139": {
+        "name": "PowerDuke",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1012": {
+        "name": "PowerLess",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0685": {
+        "name": "PowerPunch",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0441": {
+        "name": "PowerShower",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0194": {
+        "name": "PowerSploit",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0393": {
+        "name": "PowerStallion",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1058": {
+        "name": "Prestige",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0113": {
+        "name": "Prikormka",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0654": {
+        "name": "ProLock",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0279": {
+        "name": "Proton",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0238": {
+        "name": "Proxysvc",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0029": {
+        "name": "PsExec",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0078": {
+        "name": "Psylo",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0147": {
+        "name": "Pteranodon",
+        "aliases": [
+            "Pterodo"
+        ],
+        "type": "malware"
+    },
+    "S0192": {
+        "name": "Pupy",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S1032": {
+        "name": "PyDCrypt",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0583": {
+        "name": "Pysa",
+        "aliases": [
+            "Mespinoza"
+        ],
+        "type": "malware"
+    },
+    "S0269": {
+        "name": "QUADAGENT",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1076": {
+        "name": "QUIETCANARY",
+        "aliases": [
+            "Tunnus"
+        ],
+        "type": "malware"
+    },
+    "S1084": {
+        "name": "QUIETEXIT",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0650": {
+        "name": "QakBot",
+        "aliases": [
+            "Pinkslipbot, QBot, QuackBot"
+        ],
+        "type": "malware"
+    },
+    "S0262": {
+        "name": "QuasarRAT",
+        "aliases": [
+            "xRAT"
+        ],
+        "type": "tool"
+    },
+    "S0686": {
+        "name": "QuietSieve",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1113": {
+        "name": "RAPIDPULSE",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0055": {
+        "name": "RARSTONE",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0241": {
+        "name": "RATANKBA",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0662": {
+        "name": "RCSession",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0495": {
+        "name": "RDAT",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0416": {
+        "name": "RDFSNIFFER",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0496": {
+        "name": "REvil",
+        "aliases": [
+            "Sodin, Sodinokibi"
+        ],
+        "type": "malware"
+    },
+    "S0258": {
+        "name": "RGDoor",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0003": {
+        "name": "RIPTIDE",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0684": {
+        "name": "ROADTools",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0112": {
+        "name": "ROCKBOOT",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0240": {
+        "name": "ROKRAT",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0148": {
+        "name": "RTM",
+        "aliases": [
+            "Redaman"
+        ],
+        "type": "malware"
+    },
+    "S0481": {
+        "name": "Ragnar Locker",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0565": {
+        "name": "Raindrop",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0629": {
+        "name": "RainyDay",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0458": {
+        "name": "Ramsay",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0364": {
+        "name": "RawDisk",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0169": {
+        "name": "RawPOS",
+        "aliases": [
+            "DRIFTWOOD, DUEBREW, FIENDCRY"
+        ],
+        "type": "malware"
+    },
+    "S1040": {
+        "name": "Rclone",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0172": {
+        "name": "Reaver",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0153": {
+        "name": "RedLeaves",
+        "aliases": [
+            "BUGJUICE"
+        ],
+        "type": "malware"
+    },
+    "S0075": {
+        "name": "Reg",
+        "aliases": [
+            "reg.exe"
+        ],
+        "type": "tool"
+    },
+    "S0511": {
+        "name": "RegDuke",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0019": {
+        "name": "Regin",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0332": {
+        "name": "Remcos",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0375": {
+        "name": "Remexi",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0166": {
+        "name": "RemoteCMD",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0592": {
+        "name": "RemoteUtilities",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0125": {
+        "name": "Remsec",
+        "aliases": [
+            "Backdoor.Remsec, ProjectSauron"
+        ],
+        "type": "malware"
+    },
+    "S0174": {
+        "name": "Responder",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0379": {
+        "name": "Revenge RAT",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0433": {
+        "name": "Rifdoor",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0448": {
+        "name": "Rising Sun",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0400": {
+        "name": "RobbinHood",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0270": {
+        "name": "RogueRobin",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1078": {
+        "name": "RotaJakiro",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0090": {
+        "name": "Rover",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1073": {
+        "name": "Royal",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1071": {
+        "name": "Rubeus",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0358": {
+        "name": "Ruler",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0253": {
+        "name": "RunningRAT",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0446": {
+        "name": "Ryuk",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0085": {
+        "name": "S-Type",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0461": {
+        "name": "SDBbot",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0195": {
+        "name": "SDelete",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0185": {
+        "name": "SEASHARPEE",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0450": {
+        "name": "SHARPSTATS",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0028": {
+        "name": "SHIPSHAPE",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0063": {
+        "name": "SHOTPUT",
+        "aliases": [
+            "Backdoor.APT.CookieCutter, Pirpi"
+        ],
+        "type": "malware"
+    },
+    "S0217": {
+        "name": "SHUTTERSPEED",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0692": {
+        "name": "SILENTTRINITY",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S1110": {
+        "name": "SLIGHTPULSE",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0533": {
+        "name": "SLOTHFULMEDIA",
+        "aliases": [
+            "JackOfHearts, QueenOfClubs"
+        ],
+        "type": "malware"
+    },
+    "S0218": {
+        "name": "SLOWDRIFT",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1104": {
+        "name": "SLOWPULSE",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0649": {
+        "name": "SMOKEDHAM",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0159": {
+        "name": "SNUGRIDE",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0157": {
+        "name": "SOUNDBITE",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0035": {
+        "name": "SPACESHIP",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0390": {
+        "name": "SQLRat",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1037": {
+        "name": "STARWHALE",
+        "aliases": [
+            "CANOPY"
+        ],
+        "type": "malware"
+    },
+    "S1112": {
+        "name": "STEADYPULSE",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1042": {
+        "name": "SUGARDUMP",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1049": {
+        "name": "SUGARUSH",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0559": {
+        "name": "SUNBURST",
+        "aliases": [
+            "Solorigate"
+        ],
+        "type": "malware"
+    },
+    "S0562": {
+        "name": "SUNSPOT",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0578": {
+        "name": "SUPERNOVA",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1064": {
+        "name": "SVCReady",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0519": {
+        "name": "SYNful Knock",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0464": {
+        "name": "SYSCON",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1018": {
+        "name": "Saint Bot",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0074": {
+        "name": "Sakula",
+        "aliases": [
+            "Sakurel, VIPER"
+        ],
+        "type": "malware"
+    },
+    "S0370": {
+        "name": "SamSam",
+        "aliases": [
+            "Samas"
+        ],
+        "type": "malware"
+    },
+    "S1099": {
+        "name": "Samurai",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1085": {
+        "name": "Sardonic",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0053": {
+        "name": "SeaDuke",
+        "aliases": [
+            "SeaDaddy, SeaDesk"
+        ],
+        "type": "malware"
+    },
+    "S0345": {
+        "name": "Seasalt",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0382": {
+        "name": "ServHelper",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0639": {
+        "name": "Seth-Locker",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0596": {
+        "name": "ShadowPad",
+        "aliases": [
+            "POISONPLUG.SHADOW"
+        ],
+        "type": "malware"
+    },
+    "S0140": {
+        "name": "Shamoon",
+        "aliases": [
+            "Disttrack"
+        ],
+        "type": "malware"
+    },
+    "S1019": {
+        "name": "Shark",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1089": {
+        "name": "SharpDisco",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0546": {
+        "name": "SharpStage",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0444": {
+        "name": "ShimRat",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0445": {
+        "name": "ShimRatReporter",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0589": {
+        "name": "Sibot",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0610": {
+        "name": "SideTwist",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0623": {
+        "name": "Siloscape",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0007": {
+        "name": "Skeleton Key",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0468": {
+        "name": "Skidmap",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0633": {
+        "name": "Sliver",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S1035": {
+        "name": "Small Sieve",
+        "aliases": [
+            "GRAMDOOR"
+        ],
+        "type": "malware"
+    },
+    "S0226": {
+        "name": "Smoke Loader",
+        "aliases": [
+            "Dofoil"
+        ],
+        "type": "malware"
+    },
+    "S1086": {
+        "name": "Snip3",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1124": {
+        "name": "SocGholish",
+        "aliases": [
+            "FakeUpdates"
+        ],
+        "type": "malware"
+    },
+    "S0273": {
+        "name": "Socksbot",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0627": {
+        "name": "SodaMaster",
+        "aliases": [
+            "DARKTOWN, DelfsCake, dfls"
+        ],
+        "type": "malware"
+    },
+    "S0615": {
+        "name": "SombRAT",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0516": {
+        "name": "SoreFang",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0543": {
+        "name": "Spark",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0374": {
+        "name": "SpeakUp",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0646": {
+        "name": "SpicyOmelette",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1030": {
+        "name": "Squirrelwaffle",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0058": {
+        "name": "SslMM",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0188": {
+        "name": "Starloader",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0380": {
+        "name": "StoneDrill",
+        "aliases": [
+            "DROPSHOT"
+        ],
+        "type": "malware"
+    },
+    "S0142": {
+        "name": "StreamEx",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1034": {
+        "name": "StrifeWater",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0491": {
+        "name": "StrongPity",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0603": {
+        "name": "Stuxnet",
+        "aliases": [
+            "W32.Stuxnet"
+        ],
+        "type": "malware"
+    },
+    "S0018": {
+        "name": "Sykipot",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0242": {
+        "name": "SynAck",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0060": {
+        "name": "Sys10",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0663": {
+        "name": "SysUpdate",
+        "aliases": [
+            "FOCUSFJORD, HyperSSL, Soldier"
+        ],
+        "type": "malware"
+    },
+    "S0096": {
+        "name": "Systeminfo",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0098": {
+        "name": "T9000",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0586": {
+        "name": "TAINTEDSCRIBE",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0164": {
+        "name": "TDTESS",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0560": {
+        "name": "TEARDROP",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0146": {
+        "name": "TEXTMATE",
+        "aliases": [
+            "DNSMessenger"
+        ],
+        "type": "malware"
+    },
+    "S0131": {
+        "name": "TINYTYPHON",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0436": {
+        "name": "TSCookie",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0199": {
+        "name": "TURNEDUP",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0263": {
+        "name": "TYPEFRAME",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0011": {
+        "name": "Taidoor",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0467": {
+        "name": "TajMahal",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1011": {
+        "name": "Tarrask",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0057": {
+        "name": "Tasklist",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0595": {
+        "name": "ThiefQuest",
+        "aliases": [
+            "EvilQuest, MacRansom.K"
+        ],
+        "type": "malware"
+    },
+    "S0665": {
+        "name": "ThreatNeedle",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0668": {
+        "name": "TinyTurla",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0004": {
+        "name": "TinyZBot",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0671": {
+        "name": "Tomiris",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0183": {
+        "name": "Tor",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0678": {
+        "name": "Torisma",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0682": {
+        "name": "TrailBlazer",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0266": {
+        "name": "TrickBot",
+        "aliases": [
+            "TSPY_TRICKLOAD, Totbrick"
+        ],
+        "type": "malware"
+    },
+    "S0094": {
+        "name": "Trojan.Karagany",
+        "aliases": [
+            "Karagany, xFrost"
+        ],
+        "type": "malware"
+    },
+    "S0001": {
+        "name": "Trojan.Mebromi",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0178": {
+        "name": "Truvasys",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0647": {
+        "name": "Turian",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0116": {
+        "name": "UACMe",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0333": {
+        "name": "UBoatRAT",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0275": {
+        "name": "UPPERCUT",
+        "aliases": [
+            "ANEL"
+        ],
+        "type": "malware"
+    },
+    "S0136": {
+        "name": "USBStealer",
+        "aliases": [
+            "USB Stealer, Win32/USBStealer"
+        ],
+        "type": "malware"
+    },
+    "S0452": {
+        "name": "USBferry",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0221": {
+        "name": "Umbreon",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0130": {
+        "name": "Unknown Logger",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0022": {
+        "name": "Uroburos",
+        "aliases": [
+            "Snake"
+        ],
+        "type": "malware"
+    },
+    "S0386": {
+        "name": "Ursnif",
+        "aliases": [
+            "Dreambot, Gozi-ISFB, PE_URSNIF"
+        ],
+        "type": "malware"
+    },
+    "S0442": {
+        "name": "VBShower",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0257": {
+        "name": "VERMIN",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0476": {
+        "name": "Valak",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0636": {
+        "name": "VaporRage",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0207": {
+        "name": "Vasport",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0180": {
+        "name": "Volgmer",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1116": {
+        "name": "WARPWIRE",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0109": {
+        "name": "WEBC2",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0155": {
+        "name": "WINDSHIELD",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0219": {
+        "name": "WINERACK",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1115": {
+        "name": "WIREFIRE",
+        "aliases": [
+            "GIFTEDVISITOR"
+        ],
+        "type": "malware"
+    },
+    "S0366": {
+        "name": "WannaCry",
+        "aliases": [
+            "WCry, WanaCry, WanaCrypt, WanaCrypt0r"
+        ],
+        "type": "malware"
+    },
+    "S0670": {
+        "name": "WarzoneRAT",
+        "aliases": [
+            "Ave Maria, Warzone"
+        ],
+        "type": "malware"
+    },
+    "S0612": {
+        "name": "WastedLocker",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0579": {
+        "name": "Waterbear",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0515": {
+        "name": "WellMail",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0514": {
+        "name": "WellMess",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0645": {
+        "name": "Wevtutil",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0689": {
+        "name": "WhisperGate",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0206": {
+        "name": "Wiarp",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0059": {
+        "name": "WinMM",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0466": {
+        "name": "WindTail",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0005": {
+        "name": "Windows Credential Editor",
+        "aliases": [
+            "WCE"
+        ],
+        "type": "tool"
+    },
+    "S0191": {
+        "name": "Winexe",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0176": {
+        "name": "Wingbird",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0430": {
+        "name": "Winnti for Linux",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0141": {
+        "name": "Winnti for Windows",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0041": {
+        "name": "Wiper",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1065": {
+        "name": "Woody RAT",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0161": {
+        "name": "XAgentOSX",
+        "aliases": [
+            "OSX.Sofacy"
+        ],
+        "type": "malware"
+    },
+    "S0658": {
+        "name": "XCSSET",
+        "aliases": [
+            "OSX.DubRobber"
+        ],
+        "type": "malware"
+    },
+    "S0117": {
+        "name": "XTunnel",
+        "aliases": [
+            "Trojan.Shunnael, X-Tunnel, XAPS"
+        ],
+        "type": "malware"
+    },
+    "S0341": {
+        "name": "Xbash",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0388": {
+        "name": "YAHOYAH",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1114": {
+        "name": "ZIPLINE",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0086": {
+        "name": "ZLib",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0251": {
+        "name": "Zebrocy",
+        "aliases": [
+            "Zekapab"
+        ],
+        "type": "malware"
+    },
+    "S0230": {
+        "name": "ZeroT",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0027": {
+        "name": "Zeroaccess",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0330": {
+        "name": "Zeus Panda",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0672": {
+        "name": "Zox",
+        "aliases": [
+            "Gresim, ZoxPNG, ZoxRPC"
+        ],
+        "type": "malware"
+    },
+    "S0412": {
+        "name": "ZxShell",
+        "aliases": [
+            "Sensocode"
+        ],
+        "type": "malware"
+    },
+    "S1013": {
+        "name": "ZxxZ",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0202": {
+        "name": "adbupd",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0110": {
+        "name": "at",
+        "aliases": [
+            "at.exe"
+        ],
+        "type": "tool"
+    },
+    "S0471": {
+        "name": "build_downer",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1043": {
+        "name": "ccf32",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0160": {
+        "name": "certutil",
+        "aliases": [
+            "certutil.exe"
+        ],
+        "type": "tool"
+    },
+    "S0106": {
+        "name": "cmd",
+        "aliases": [
+            "cmd.exe"
+        ],
+        "type": "tool"
+    },
+    "S0472": {
+        "name": "down_new",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0105": {
+        "name": "dsquery",
+        "aliases": [
+            "dsquery.exe"
+        ],
+        "type": "tool"
+    },
+    "S0404": {
+        "name": "esentutl",
+        "aliases": [
+            "esentutl.exe"
+        ],
+        "type": "tool"
+    },
+    "S0095": {
+        "name": "ftp",
+        "aliases": [
+            "ftp.exe"
+        ],
+        "type": "tool"
+    },
+    "S0032": {
+        "name": "gh0st RAT",
+        "aliases": [
+            "Moudoor, Mydoor"
+        ],
+        "type": "malware"
+    },
+    "S0008": {
+        "name": "gsecdump",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0071": {
+        "name": "hcdLoader",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0068": {
+        "name": "httpclient",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0278": {
+        "name": "iKitten",
+        "aliases": [
+            "OSX/MacDownloader"
+        ],
+        "type": "malware"
+    },
+    "S0101": {
+        "name": "ifconfig",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0100": {
+        "name": "ipconfig",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0283": {
+        "name": "jRAT",
+        "aliases": [
+            "Adwind, AlienSpy, Frutas, JSocket, Sockrat, Trojan.Maljava, Unrecom, jBiFrost, jFrutas"
+        ],
+        "type": "malware"
+    },
+    "S1048": {
+        "name": "macOS.OSAMiner",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0175": {
+        "name": "meek",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S1059": {
+        "name": "metaMain",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0102": {
+        "name": "nbtstat",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0108": {
+        "name": "netsh",
+        "aliases": [
+            "netsh.exe"
+        ],
+        "type": "tool"
+    },
+    "S0104": {
+        "name": "netstat",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0508": {
+        "name": "ngrok",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0385": {
+        "name": "njRAT",
+        "aliases": [
+            "Bladabindi, LV, Njw0rm"
+        ],
+        "type": "malware"
+    },
+    "S0067": {
+        "name": "pngdowner",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0006": {
+        "name": "pwdump",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0103": {
+        "name": "route",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0111": {
+        "name": "schtasks",
+        "aliases": [
+            "schtasks.exe"
+        ],
+        "type": "tool"
+    },
+    "S0227": {
+        "name": "spwebmember",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0225": {
+        "name": "sqlmap",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0653": {
+        "name": "xCaon",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0123": {
+        "name": "xCmd",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0248": {
+        "name": "yty",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0350": {
+        "name": "zwShell",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1000": {
+        "name": "ACAD/Medre.A",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1045": {
+        "name": "INCONTROLLER",
+        "aliases": [
+            "PIPEDREAM"
+        ],
+        "type": "malware"
+    },
+    "S1006": {
+        "name": "PLC-Blaster",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1009": {
+        "name": "Triton",
+        "aliases": [
+            "HatMan, TRISIS"
+        ],
+        "type": "malware"
+    },
+    "S1010": {
+        "name": "VPNFilter",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0310": {
+        "name": "ANDROIDOS_ANSERVER.A",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1061": {
+        "name": "AbstractEmu",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0309": {
+        "name": "Adups",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0440": {
+        "name": "Agent Smith",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1095": {
+        "name": "AhRat",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0319": {
+        "name": "Allwinner",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0292": {
+        "name": "AndroRAT",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0525": {
+        "name": "Android/AdDisplay.Ashas",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0304": {
+        "name": "Android/Chuli.A",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0524": {
+        "name": "AndroidOS/MalLocker.B",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0422": {
+        "name": "Anubis",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0540": {
+        "name": "Asacub",
+        "aliases": [
+            "Trojan-SMS.AndroidOS.Smaps"
+        ],
+        "type": "malware"
+    },
+    "S1079": {
+        "name": "BOULDSPY",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1094": {
+        "name": "BRATA",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0293": {
+        "name": "BrainTest",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0432": {
+        "name": "Bread",
+        "aliases": [
+            "Joker"
+        ],
+        "type": "malware"
+    },
+    "S0655": {
+        "name": "BusyGasper",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0555": {
+        "name": "CHEMISTGAMES",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0529": {
+        "name": "CarbonSteal",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0480": {
+        "name": "Cerberus",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1083": {
+        "name": "Chameleon",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0323": {
+        "name": "Charger",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0602": {
+        "name": "Circles",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0426": {
+        "name": "Concipit1248",
+        "aliases": [
+            "Corona Updates"
+        ],
+        "type": "malware"
+    },
+    "S0425": {
+        "name": "Corona Updates",
+        "aliases": [
+            "Concipit1248, Wabi Music"
+        ],
+        "type": "malware"
+    },
+    "S0479": {
+        "name": "DEFENSOR ID",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0301": {
+        "name": "Dendroid",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0505": {
+        "name": "Desert Scorpion",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0550": {
+        "name": "DoubleAgent",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0300": {
+        "name": "DressCode",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1054": {
+        "name": "Drinik",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0320": {
+        "name": "DroidJack",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0315": {
+        "name": "DualToy",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0420": {
+        "name": "Dvmap",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1092": {
+        "name": "Escobar",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0478": {
+        "name": "EventBot",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0522": {
+        "name": "Exobot",
+        "aliases": [
+            "Marcher"
+        ],
+        "type": "malware"
+    },
+    "S0405": {
+        "name": "Exodus",
+        "aliases": [
+            "Exodus One, Exodus Two"
+        ],
+        "type": "malware"
+    },
+    "S0509": {
+        "name": "FakeSpy",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1080": {
+        "name": "Fakecalls",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0408": {
+        "name": "FlexiSpy",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S1103": {
+        "name": "FlixOnline",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1067": {
+        "name": "FluBot",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1093": {
+        "name": "FlyTrap",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0577": {
+        "name": "FrozenCell",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0536": {
+        "name": "GPlayed",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0423": {
+        "name": "Ginp",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0535": {
+        "name": "Golden Cup",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0551": {
+        "name": "GoldenEagle",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0421": {
+        "name": "GolfSpy",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0290": {
+        "name": "Gooligan",
+        "aliases": [
+            "Ghost Push"
+        ],
+        "type": "malware"
+    },
+    "S0406": {
+        "name": "Gustuff",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0544": {
+        "name": "HenBox",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1128": {
+        "name": "HilalRAT",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1077": {
+        "name": "Hornbill",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0322": {
+        "name": "HummingBad",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0321": {
+        "name": "HummingWhale",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0463": {
+        "name": "INSOMNIA",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0325": {
+        "name": "Judy",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0288": {
+        "name": "KeyRaider",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0485": {
+        "name": "Mandrake",
+        "aliases": [
+            "briar, darkmatter, oxide, ricinus"
+        ],
+        "type": "malware"
+    },
+    "S0317": {
+        "name": "Marcher",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0303": {
+        "name": "MazarBOT",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0407": {
+        "name": "Monokle",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0299": {
+        "name": "NotCompatible",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0286": {
+        "name": "OBAD",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0285": {
+        "name": "OldBoot",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0291": {
+        "name": "PJApps",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0399": {
+        "name": "Pallas",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0316": {
+        "name": "Pegasus for Android",
+        "aliases": [
+            "Chrysaor"
+        ],
+        "type": "malware"
+    },
+    "S0289": {
+        "name": "Pegasus for iOS",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1126": {
+        "name": "Phenakite",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0295": {
+        "name": "RCSAndroid",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0539": {
+        "name": "Red Alert 2.0",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0326": {
+        "name": "RedDrop",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0403": {
+        "name": "Riltok",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0411": {
+        "name": "Rotexy",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0313": {
+        "name": "RuMMS",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1062": {
+        "name": "S.O.V.A.",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1055": {
+        "name": "SharkBot",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0294": {
+        "name": "ShiftyBug",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0549": {
+        "name": "SilkBean",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0419": {
+        "name": "SimBad",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0327": {
+        "name": "Skygofree",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0324": {
+        "name": "SpyDealer",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0305": {
+        "name": "SpyNote RAT",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0328": {
+        "name": "Stealth Mango",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1082": {
+        "name": "Sunbird",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0545": {
+        "name": "TERRACOTTA",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0329": {
+        "name": "Tangelo",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1069": {
+        "name": "TangleBot",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S1056": {
+        "name": "TianySpy",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0558": {
+        "name": "Tiktok Pro",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0424": {
+        "name": "Triada",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0427": {
+        "name": "TrickMo",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0307": {
+        "name": "Trojan-SMS.AndroidOS.Agent.ao",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0306": {
+        "name": "Trojan-SMS.AndroidOS.FakeInst.a",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0308": {
+        "name": "Trojan-SMS.AndroidOS.OpFake.a",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0302": {
+        "name": "Twitoor",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0418": {
+        "name": "ViceLeaker",
+        "aliases": [
+            "Triout"
+        ],
+        "type": "malware"
+    },
+    "S0506": {
+        "name": "ViperRAT",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0312": {
+        "name": "WireLurker",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0489": {
+        "name": "WolfRAT",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0314": {
+        "name": "X-Agent for Android",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0318": {
+        "name": "XLoader for Android",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0490": {
+        "name": "XLoader for iOS",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0298": {
+        "name": "Xbot",
+        "aliases": [],
+        "type": "tool"
+    },
+    "S0297": {
+        "name": "XcodeGhost",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0311": {
+        "name": "YiSpecter",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0494": {
+        "name": "Zen",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0287": {
+        "name": "ZergHelper",
+        "aliases": [],
+        "type": "malware"
+    },
+    "S0507": {
+        "name": "eSurv",
+        "aliases": [],
+        "type": "malware"
+    }
+}
