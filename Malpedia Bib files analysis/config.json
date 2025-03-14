@@ -1,0 +1,18 @@
+{
+    "data_directory": "../ATTACK Excel sheets",
+    "file_paths_software_v15": {
+        "enterprise": "enterprise-attack-v15.1-software.xlsx",
+        "ics": "ics-attack-v15.1-software.xlsx",
+        "mobile": "mobile-attack-v15.1-software.xlsx"
+    },
+        "file_paths_software_v16": {
+        "enterprise": "enterprise-attack-v16.1-software.xlsx",
+        "ics": "ics-attack-v16.1-software.xlsx",
+        "mobile": "mobile-attack-v16.1-software.xlsx"
+    },
+            "file_paths_groups_v15": {
+            "enterprise": "enterprise-attack-v15.1-groups.xlsx",
+            "ics": "ics-attack-v15.1-groups.xlsx",
+            "mobile": "mobile-attack-v15.1-groups.xlsx"
+        }
+}
