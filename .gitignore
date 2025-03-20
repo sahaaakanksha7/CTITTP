@@ -1,0 +1,15 @@
+# Ignore all .pdf files
+*.pdf
+
+# Ignore all .bib files
+*.bib
+
+# Ignore all .log files
+*.log
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+
+# Ignore Jupyter Notebook checkpoint files
+Group Analysis/.ipynb_checkpoints/
