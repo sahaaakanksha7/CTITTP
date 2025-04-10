@@ -1,610 +1,1037 @@
 {
     "G1028": {
         "name": "APT-C-23",
-        "associated_groups": "Arid Viper, Big Bang APT, Desert Falcon, Grey Karkadann, Mantis, TAG-63, Two-tailed Scorpion"
+        "aliases": [
+            "Arid Viper",
+            "Big Bang APT",
+            "Desert Falcon",
+            "Grey Karkadann",
+            "Mantis",
+            "TAG-63",
+            "Two-tailed Scorpion"
+        ]
     },
     "G0099": {
         "name": "APT-C-36",
-        "associated_groups": "Blind Eagle"
+        "aliases": [
+            "Blind Eagle"
+        ]
     },
     "G0006": {
         "name": "APT1",
-        "associated_groups": "Comment Crew, Comment Group, Comment Panda"
+        "aliases": [
+            "Comment Crew",
+            "Comment Group",
+            "Comment Panda"
+        ]
     },
     "G0005": {
         "name": "APT12",
-        "associated_groups": "DNSCALC, DynCalc, IXESHE, Numbered Panda"
+        "aliases": [
+            "DNSCALC",
+            "DynCalc",
+            "IXESHE",
+            "Numbered Panda"
+        ]
     },
     "G0023": {
         "name": "APT16",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G0025": {
         "name": "APT17",
-        "associated_groups": "Deputy Dog"
+        "aliases": [
+            "Deputy Dog"
+        ]
     },
     "G0026": {
         "name": "APT18",
-        "associated_groups": "Dynamite Panda, TG-0416, Threat Group-0416"
+        "aliases": [
+            "Dynamite Panda",
+            "TG-0416",
+            "Threat Group-0416"
+        ]
     },
     "G0073": {
         "name": "APT19",
-        "associated_groups": "C0d0so0, Codoso, Codoso Team, Sunshop Group"
+        "aliases": [
+            "C0d0so0",
+            "Codoso",
+            "Codoso Team",
+            "Sunshop Group"
+        ]
     },
     "G0007": {
         "name": "APT28",
-        "associated_groups": "FROZENLAKE, Fancy Bear, Forest Blizzard, Group 74, IRON TWILIGHT, Pawn Storm, SNAKEMACKEREL, STRONTIUM, Sednit, Sofacy, Swallowtail, TG-4127, Threat Group-4127, Tsar Team"
+        "aliases": [
+            "FROZENLAKE",
+            "Fancy Bear",
+            "Forest Blizzard",
+            "Group 74",
+            "IRON TWILIGHT",
+            "Pawn Storm",
+            "SNAKEMACKEREL",
+            "STRONTIUM",
+            "Sednit",
+            "Sofacy",
+            "Swallowtail",
+            "TG-4127",
+            "Threat Group-4127",
+            "Tsar Team"
+        ]
     },
     "G0016": {
         "name": "APT29",
-        "associated_groups": "Blue Kitsune, Cozy Bear, CozyDuke, Dark Halo, IRON HEMLOCK, IRON RITUAL, Midnight Blizzard, NOBELIUM, NobleBaron, SolarStorm, StellarParticle, The Dukes, UNC2452, UNC3524, YTTRIUM"
+        "aliases": [
+            "Blue Kitsune",
+            "Cozy Bear",
+            "CozyDuke",
+            "Dark Halo",
+            "IRON HEMLOCK",
+            "IRON RITUAL",
+            "Midnight Blizzard",
+            "NOBELIUM",
+            "NobleBaron",
+            "SolarStorm",
+            "StellarParticle",
+            "The Dukes",
+            "UNC2452",
+            "UNC3524",
+            "YTTRIUM"
+        ]
     },
     "G0022": {
         "name": "APT3",
-        "associated_groups": "Buckeye, Gothic Panda, Pirpi, TG-0110, Threat Group-0110, UPS Team"
+        "aliases": [
+            "Buckeye",
+            "Gothic Panda",
+            "Pirpi",
+            "TG-0110",
+            "Threat Group-0110",
+            "UPS Team"
+        ]
     },
     "G0013": {
         "name": "APT30",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G0050": {
         "name": "APT32",
-        "associated_groups": "APT-C-00, BISMUTH, Canvas Cyclone, OceanLotus, SeaLotus"
+        "aliases": [
+            "APT-C-00",
+            "BISMUTH",
+            "Canvas Cyclone",
+            "OceanLotus",
+            "SeaLotus"
+        ]
     },
     "G0064": {
         "name": "APT33",
-        "associated_groups": "Elfin, HOLMIUM, Peach Sandstorm"
+        "aliases": [
+            "Elfin",
+            "HOLMIUM",
+            "Peach Sandstorm"
+        ]
     },
     "G0067": {
         "name": "APT37",
-        "associated_groups": "Group123, InkySquid, Reaper, Ricochet Chollima, ScarCruft, TEMP.Reaper"
+        "aliases": [
+            "Group123",
+            "InkySquid",
+            "Reaper",
+            "Ricochet Chollima",
+            "ScarCruft",
+            "TEMP.Reaper"
+        ]
     },
     "G0082": {
         "name": "APT38",
-        "associated_groups": "BeagleBoyz, Bluenoroff, COPERNICIUM, NICKEL GLADSTONE, Sapphire Sleet, Stardust Chollima"
+        "aliases": [
+            "BeagleBoyz",
+            "Bluenoroff",
+            "COPERNICIUM",
+            "NICKEL GLADSTONE",
+            "Sapphire Sleet",
+            "Stardust Chollima"
+        ]
     },
     "G0087": {
         "name": "APT39",
-        "associated_groups": "Chafer, ITG07, Remix Kitten"
+        "aliases": [
+            "Chafer",
+            "ITG07",
+            "Remix Kitten"
+        ]
     },
     "G0096": {
         "name": "APT41",
-        "associated_groups": "BARIUM, Brass Typhoon, Wicked Panda"
+        "aliases": [
+            "BARIUM",
+            "Brass Typhoon",
+            "Wicked Panda"
+        ]
     },
     "G1023": {
         "name": "APT5",
-        "associated_groups": "BRONZE FLEETWOOD, Keyhole Panda, MANGANESE, Mulberry Typhoon, UNC2630"
+        "aliases": [
+            "BRONZE FLEETWOOD",
+            "Keyhole Panda",
+            "MANGANESE",
+            "Mulberry Typhoon",
+            "UNC2630"
+        ]
     },
     "G0130": {
         "name": "Ajax Security Team",
-        "associated_groups": "AjaxTM, Flying Kitten, Operation Saffron Rose, Operation Woolen-Goldfish, Rocket Kitten"
+        "aliases": [
+            "AjaxTM",
+            "Flying Kitten",
+            "Operation Saffron Rose",
+            "Operation Woolen-Goldfish",
+            "Rocket Kitten"
+        ]
     },
     "G1024": {
         "name": "Akira",
-        "associated_groups": "GOLD SAHARA, PUNK SPIDER"
+        "aliases": [
+            "GOLD SAHARA",
+            "PUNK SPIDER"
+        ]
     },
     "G0138": {
         "name": "Andariel",
-        "associated_groups": "Onyx Sleet, PLUTONIUM, Silent Chollima"
+        "aliases": [
+            "Onyx Sleet",
+            "PLUTONIUM",
+            "Silent Chollima"
+        ]
     },
     "G1007": {
         "name": "Aoqin Dragon",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G0143": {
         "name": "Aquatic Panda",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G0001": {
         "name": "Axiom",
-        "associated_groups": "Group 72"
+        "aliases": [
+            "Group 72"
+        ]
     },
     "G1002": {
         "name": "BITTER",
-        "associated_groups": "T-APT-17"
+        "aliases": [
+            "T-APT-17"
+        ]
     },
     "G0060": {
         "name": "BRONZE BUTLER",
-        "associated_groups": "REDBALDKNIGHT, Tick"
+        "aliases": [
+            "REDBALDKNIGHT",
+            "Tick"
+        ]
     },
     "G0135": {
         "name": "BackdoorDiplomacy",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G0063": {
         "name": "BlackOasis",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G0098": {
         "name": "BlackTech",
-        "associated_groups": "Palmerworm"
+        "aliases": [
+            "Palmerworm"
+        ]
     },
     "G0108": {
         "name": "Blue Mockingbird",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G1012": {
         "name": "CURIUM",
-        "associated_groups": "Crimson Sandstorm, TA456, Tortoise Shell"
+        "aliases": [
+            "Crimson Sandstorm",
+            "TA456",
+            "Tortoise Shell"
+        ]
     },
     "G0008": {
         "name": "Carbanak",
-        "associated_groups": "Anunak"
+        "aliases": [
+            "Anunak"
+        ]
     },
     "G0114": {
         "name": "Chimera",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G1021": {
         "name": "Cinnamon Tempest",
-        "associated_groups": "BRONZE STARLIGHT, DEV-0401, Emperor Dragonfly"
+        "aliases": [
+            "BRONZE STARLIGHT",
+            "DEV-0401",
+            "Emperor Dragonfly"
+        ]
     },
     "G0003": {
         "name": "Cleaver",
-        "associated_groups": "TG-2889, Threat Group 2889"
+        "aliases": [
+            "TG-2889",
+            "Threat Group 2889"
+        ]
     },
     "G0080": {
         "name": "Cobalt Group",
-        "associated_groups": "Cobalt Gang, Cobalt Spider, GOLD KINGSWOOD"
+        "aliases": [
+            "Cobalt Gang",
+            "Cobalt Spider",
+            "GOLD KINGSWOOD"
+        ]
     },
     "G0142": {
         "name": "Confucius",
-        "associated_groups": "Confucius APT"
+        "aliases": [
+            "Confucius APT"
+        ]
     },
     "G0052": {
         "name": "CopyKittens",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G0070": {
         "name": "Dark Caracal",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G0079": {
         "name": "DarkHydrus",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G0105": {
         "name": "DarkVishnya",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G0012": {
         "name": "Darkhotel",
-        "associated_groups": "DUBNIUM, Zigzag Hail"
+        "aliases": [
+            "DUBNIUM",
+            "Zigzag Hail"
+        ]
     },
     "G0009": {
         "name": "Deep Panda",
-        "associated_groups": "Black Vine, KungFu Kittens, PinkPanther, Shell Crew, WebMasters"
+        "aliases": [
+            "Black Vine",
+            "KungFu Kittens",
+            "PinkPanther",
+            "Shell Crew",
+            "WebMasters"
+        ]
     },
     "G0017": {
         "name": "DragonOK",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G0035": {
         "name": "Dragonfly",
-        "associated_groups": "BROMINE, Berserk Bear, Crouching Yeti, DYMALLOY, Energetic Bear, Ghost Blizzard, IRON LIBERTY, TEMP.Isotope, TG-4192"
+        "aliases": [
+            "BROMINE",
+            "Berserk Bear",
+            "Crouching Yeti",
+            "DYMALLOY",
+            "Energetic Bear",
+            "Ghost Blizzard",
+            "IRON LIBERTY",
+            "TEMP.Isotope",
+            "TG-4192"
+        ]
     },
     "G1011": {
         "name": "EXOTIC LILY",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G1006": {
         "name": "Earth Lusca",
-        "associated_groups": "CHROMIUM, Charcoal Typhoon, ControlX, TAG-22"
+        "aliases": [
+            "CHROMIUM",
+            "Charcoal Typhoon",
+            "ControlX",
+            "TAG-22"
+        ]
     },
     "G0066": {
         "name": "Elderwood",
-        "associated_groups": "Beijing Group, Elderwood Gang, Sneaky Panda"
+        "aliases": [
+            "Beijing Group",
+            "Elderwood Gang",
+            "Sneaky Panda"
+        ]
     },
     "G1003": {
         "name": "Ember Bear",
-        "associated_groups": "Bleeding Bear, Lorec Bear, Lorec53, Saint Bear, UAC-0056, UNC2589"
+        "aliases": [
+            "Bleeding Bear",
+            "Lorec Bear",
+            "Lorec53",
+            "Saint Bear",
+            "UAC-0056",
+            "UNC2589"
+        ]
     },
     "G0020": {
         "name": "Equation",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G0120": {
         "name": "Evilnum",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G0051": {
         "name": "FIN10",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G1016": {
         "name": "FIN13",
-        "associated_groups": "Elephant Beetle"
+        "aliases": [
+            "Elephant Beetle"
+        ]
     },
     "G0085": {
         "name": "FIN4",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G0053": {
         "name": "FIN5",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G0037": {
         "name": "FIN6",
-        "associated_groups": "Camouflage Tempest, ITG08, Magecart Group 6, Skeleton Spider, TAAL"
+        "aliases": [
+            "Camouflage Tempest",
+            "ITG08",
+            "Magecart Group 6",
+            "Skeleton Spider",
+            "TAAL"
+        ]
     },
     "G0046": {
         "name": "FIN7",
-        "associated_groups": "Carbon Spider, ELBRUS, GOLD NIAGARA, ITG14, Sangria Tempest"
+        "aliases": [
+            "Carbon Spider",
+            "ELBRUS",
+            "GOLD NIAGARA",
+            "ITG14",
+            "Sangria Tempest"
+        ]
     },
     "G0061": {
         "name": "FIN8",
-        "associated_groups": "Syssphinx"
+        "aliases": [
+            "Syssphinx"
+        ]
     },
     "G0137": {
         "name": "Ferocious Kitten",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G0117": {
         "name": "Fox Kitten",
-        "associated_groups": "Lemon Sandstorm, Parisite, Pioneer Kitten, RUBIDIUM, UNC757"
+        "aliases": [
+            "Lemon Sandstorm",
+            "Parisite",
+            "Pioneer Kitten",
+            "RUBIDIUM",
+            "UNC757"
+        ]
     },
     "G0093": {
         "name": "GALLIUM",
-        "associated_groups": "Granite Typhoon"
+        "aliases": [
+            "Granite Typhoon"
+        ]
     },
     "G0036": {
         "name": "GCMAN",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G0115": {
         "name": "GOLD SOUTHFIELD",
-        "associated_groups": "Pinchy Spider"
+        "aliases": [
+            "Pinchy Spider"
+        ]
     },
     "G0084": {
         "name": "Gallmaker",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G0047": {
         "name": "Gamaredon Group",
-        "associated_groups": "ACTINIUM, Aqua Blizzard, Armageddon, DEV-0157, IRON TILDEN, Primitive Bear, Shuckworm"
+        "aliases": [
+            "ACTINIUM",
+            "Aqua Blizzard",
+            "Armageddon",
+            "DEV-0157",
+            "IRON TILDEN",
+            "Primitive Bear",
+            "Shuckworm"
+        ]
     },
     "G0078": {
         "name": "Gorgon Group",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G0043": {
         "name": "Group5",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G0125": {
         "name": "HAFNIUM",
-        "associated_groups": "Operation Exchange Marauder, Silk Typhoon"
+        "aliases": [
+            "Operation Exchange Marauder",
+            "Silk Typhoon"
+        ]
     },
     "G1001": {
         "name": "HEXANE",
-        "associated_groups": "Lyceum, Siamesekitten, Spirlin"
+        "aliases": [
+            "Lyceum",
+            "Siamesekitten",
+            "Spirlin"
+        ]
     },
     "G0126": {
         "name": "Higaisa",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G0100": {
         "name": "Inception",
-        "associated_groups": "Cloud Atlas, Inception Framework"
+        "aliases": [
+            "Cloud Atlas",
+            "Inception Framework"
+        ]
     },
     "G0136": {
         "name": "IndigoZebra",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G0119": {
         "name": "Indrik Spider",
-        "associated_groups": "DEV-0243, Evil Corp, Manatee Tempest"
+        "aliases": [
+            "DEV-0243",
+            "Evil Corp",
+            "Manatee Tempest"
+        ]
     },
     "G0004": {
         "name": "Ke3chang",
-        "associated_groups": "APT15, GREF, Mirage, NICKEL, Nylon Typhoon, Playful Dragon, RoyalAPT, Vixen Panda"
+        "aliases": [
+            "APT15",
+            "GREF",
+            "Mirage",
+            "NICKEL",
+            "Nylon Typhoon",
+            "Playful Dragon",
+            "RoyalAPT",
+            "Vixen Panda"
+        ]
     },
     "G0094": {
         "name": "Kimsuky",
-        "associated_groups": "Black Banshee, Emerald Sleet, THALLIUM, Velvet Chollima"
+        "aliases": [
+            "Black Banshee",
+            "Emerald Sleet",
+            "THALLIUM",
+            "Velvet Chollima"
+        ]
     },
     "G1004": {
         "name": "LAPSUS$",
-        "associated_groups": "DEV-0537, Strawberry Tempest"
+        "aliases": [
+            "DEV-0537",
+            "Strawberry Tempest"
+        ]
     },
     "G0032": {
         "name": "Lazarus Group",
-        "associated_groups": "Diamond Sleet, Guardians of Peace, HIDDEN COBRA, Labyrinth Chollima, NICKEL ACADEMY, ZINC"
+        "aliases": [
+            "Diamond Sleet",
+            "Guardians of Peace",
+            "HIDDEN COBRA",
+            "Labyrinth Chollima",
+            "NICKEL ACADEMY",
+            "ZINC"
+        ]
     },
     "G0140": {
         "name": "LazyScripter",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G0077": {
         "name": "Leafminer",
-        "associated_groups": "Raspite"
+        "aliases": [
+            "Raspite"
+        ]
     },
     "G0065": {
         "name": "Leviathan",
-        "associated_groups": "APT40, BRONZE MOHAWK, Gadolinium, Gingham Typhoon, Kryptonite Panda, MUDCARP, TEMP.Jumper, TEMP.Periscope"
+        "aliases": [
+            "APT40",
+            "BRONZE MOHAWK",
+            "Gadolinium",
+            "Gingham Typhoon",
+            "Kryptonite Panda",
+            "MUDCARP",
+            "TEMP.Jumper",
+            "TEMP.Periscope"
+        ]
     },
     "G0030": {
         "name": "Lotus Blossom",
-        "associated_groups": "DRAGONFISH, RADIUM, Raspberry Typhoon, Spring Dragon"
+        "aliases": [
+            "DRAGONFISH",
+            "RADIUM",
+            "Raspberry Typhoon",
+            "Spring Dragon"
+        ]
     },
     "G1014": {
         "name": "LuminousMoth",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G0095": {
         "name": "Machete",
-        "associated_groups": "APT-C-43, El Machete"
+        "aliases": [
+            "APT-C-43",
+            "El Machete"
+        ]
     },
     "G0059": {
         "name": "Magic Hound",
-        "associated_groups": "APT35, COBALT ILLUSION, Charming Kitten, ITG18, Mint Sandstorm, Newscaster, Phosphorus, TA453"
+        "aliases": [
+            "APT35",
+            "COBALT ILLUSION",
+            "Charming Kitten",
+            "ITG18",
+            "Mint Sandstorm",
+            "Newscaster",
+            "Phosphorus",
+            "TA453"
+        ]
     },
     "G1026": {
         "name": "Malteiro",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G1013": {
         "name": "Metador",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G0002": {
         "name": "Moafee",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G0103": {
         "name": "Mofang",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G0021": {
         "name": "Molerats",
-        "associated_groups": "Gaza Cybergang, Operation Molerats"
+        "aliases": [
+            "Gaza Cybergang",
+            "Operation Molerats"
+        ]
     },
     "G1009": {
         "name": "Moses Staff",
-        "associated_groups": "DEV-0500, Marigold Sandstorm"
+        "aliases": [
+            "DEV-0500",
+            "Marigold Sandstorm"
+        ]
     },
     "G1019": {
         "name": "MoustachedBouncer",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G0069": {
         "name": "MuddyWater",
-        "associated_groups": "Earth Vetala, MERCURY, Mango Sandstorm, Seedworm, Static Kitten, TA450, TEMP.Zagros"
+        "aliases": [
+            "Earth Vetala",
+            "MERCURY",
+            "Mango Sandstorm",
+            "Seedworm",
+            "Static Kitten",
+            "TA450",
+            "TEMP.Zagros"
+        ]
     },
     "G0129": {
         "name": "Mustang Panda",
-        "associated_groups": "BRONZE PRESIDENT, RedDelta, TA416"
+        "aliases": [
+            "BRONZE PRESIDENT",
+            "RedDelta",
+            "TA416"
+        ]
     },
     "G1020": {
         "name": "Mustard Tempest",
-        "associated_groups": "DEV-0206, GOLD PRELUDE, TA569, UNC1543"
+        "aliases": [
+            "DEV-0206",
+            "GOLD PRELUDE",
+            "TA569",
+            "UNC1543"
+        ]
     },
     "G0055": {
         "name": "NEODYMIUM",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G0019": {
         "name": "Naikon",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G0133": {
         "name": "Nomadic Octopus",
-        "associated_groups": "DustSquad"
+        "aliases": [
+            "DustSquad"
+        ]
     },
     "G0049": {
         "name": "OilRig",
-        "associated_groups": "APT34, COBALT GYPSY, EUROPIUM, Evasive Serpens, Hazel Sandstorm, Helix Kitten, IRN2"
+        "aliases": [
+            "APT34",
+            "COBALT GYPSY",
+            "EUROPIUM",
+            "Evasive Serpens",
+            "Hazel Sandstorm",
+            "Helix Kitten",
+            "IRN2"
+        ]
     },
     "G0071": {
         "name": "Orangeworm",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G0068": {
         "name": "PLATINUM",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G1005": {
         "name": "POLONIUM",
-        "associated_groups": "Plaid Rain"
+        "aliases": [
+            "Plaid Rain"
+        ]
     },
     "G0056": {
         "name": "PROMETHIUM",
-        "associated_groups": "StrongPity"
+        "aliases": [
+            "StrongPity"
+        ]
     },
     "G0040": {
         "name": "Patchwork",
-        "associated_groups": "Chinastrats, Dropping Elephant, Hangover Group, MONSOON, Operation Hangover"
+        "aliases": [
+            "Chinastrats",
+            "Dropping Elephant",
+            "Hangover Group",
+            "MONSOON",
+            "Operation Hangover"
+        ]
     },
     "G0011": {
         "name": "PittyTiger",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G0033": {
         "name": "Poseidon Group",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G0024": {
         "name": "Putter Panda",
-        "associated_groups": "APT2, MSUpdater"
+        "aliases": [
+            "APT2",
+            "MSUpdater"
+        ]
     },
     "G0048": {
         "name": "RTM",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G0075": {
         "name": "Rancor",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G0106": {
         "name": "Rocke",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G0034": {
         "name": "Sandworm Team",
-        "associated_groups": "BlackEnergy (Group), ELECTRUM, FROZENBARENTS, IRIDIUM, IRON VIKING, Quedagh, Seashell Blizzard, Telebots, Voodoo Bear"
+        "aliases": [
+            "BlackEnergy (Group)",
+            "ELECTRUM",
+            "FROZENBARENTS",
+            "IRIDIUM",
+            "IRON VIKING",
+            "Quedagh",
+            "Seashell Blizzard",
+            "Telebots",
+            "Voodoo Bear"
+        ]
     },
     "G0029": {
         "name": "Scarlet Mimic",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G1015": {
         "name": "Scattered Spider",
-        "associated_groups": "Octo Tempest, Roasted 0ktapus, Storm-0875"
+        "aliases": [
+            "Octo Tempest",
+            "Roasted 0ktapus",
+            "Storm-0875"
+        ]
     },
     "G1008": {
         "name": "SideCopy",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G0121": {
         "name": "Sidewinder",
-        "associated_groups": "Rattlesnake, T-APT-04"
+        "aliases": [
+            "Rattlesnake",
+            "T-APT-04"
+        ]
     },
     "G0091": {
         "name": "Silence",
-        "associated_groups": "Whisper Spider"
+        "aliases": [
+            "Whisper Spider"
+        ]
     },
     "G0122": {
         "name": "Silent Librarian",
-        "associated_groups": "COBALT DICKENS, TA407"
+        "aliases": [
+            "COBALT DICKENS",
+            "TA407"
+        ]
     },
     "G0083": {
         "name": "SilverTerrier",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G0054": {
         "name": "Sowbug",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G0038": {
         "name": "Stealth Falcon",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G0041": {
         "name": "Strider",
-        "associated_groups": "ProjectSauron"
+        "aliases": [
+            "ProjectSauron"
+        ]
     },
     "G0039": {
         "name": "Suckfly",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G1018": {
         "name": "TA2541",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G0062": {
         "name": "TA459",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G0092": {
         "name": "TA505",
-        "associated_groups": "CHIMBORAZO, Hive0065, Spandex Tempest"
+        "aliases": [
+            "CHIMBORAZO",
+            "Hive0065",
+            "Spandex Tempest"
+        ]
     },
     "G0127": {
         "name": "TA551",
-        "associated_groups": "GOLD CABIN, Shathak"
+        "aliases": [
+            "GOLD CABIN",
+            "Shathak"
+        ]
     },
     "G0088": {
         "name": "TEMP.Veles",
-        "associated_groups": "XENOTIME"
+        "aliases": [
+            "XENOTIME"
+        ]
     },
     "G0139": {
         "name": "TeamTNT",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G0089": {
         "name": "The White Company",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G0028": {
         "name": "Threat Group-1314",
-        "associated_groups": "TG-1314"
+        "aliases": [
+            "TG-1314"
+        ]
     },
     "G0027": {
         "name": "Threat Group-3390",
-        "associated_groups": "APT27, BRONZE UNION, Earth Smilodon, Emissary Panda, Iron Tiger, LuckyMouse, TG-3390"
+        "aliases": [
+            "APT27",
+            "BRONZE UNION",
+            "Earth Smilodon",
+            "Emissary Panda",
+            "Iron Tiger",
+            "LuckyMouse",
+            "TG-3390"
+        ]
     },
     "G0076": {
         "name": "Thrip",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G1022": {
         "name": "ToddyCat",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G0131": {
         "name": "Tonto Team",
-        "associated_groups": "BRONZE HUNTLEY, CactusPete, Earth Akhlut, Karma Panda"
+        "aliases": [
+            "BRONZE HUNTLEY",
+            "CactusPete",
+            "Earth Akhlut",
+            "Karma Panda"
+        ]
     },
     "G0134": {
         "name": "Transparent Tribe",
-        "associated_groups": "APT36, COPPER FIELDSTONE, Mythic Leopard, ProjectM"
+        "aliases": [
+            "APT36",
+            "COPPER FIELDSTONE",
+            "Mythic Leopard",
+            "ProjectM"
+        ]
     },
     "G0081": {
         "name": "Tropic Trooper",
-        "associated_groups": "KeyBoy, Pirate Panda"
+        "aliases": [
+            "KeyBoy",
+            "Pirate Panda"
+        ]
     },
     "G0010": {
         "name": "Turla",
-        "associated_groups": "BELUGASTURGEON, Group 88, IRON HUNTER, Krypton, Secret Blizzard, Snake, Venomous Bear, Waterbug, WhiteBear"
+        "aliases": [
+            "BELUGASTURGEON",
+            "Group 88",
+            "IRON HUNTER",
+            "Krypton",
+            "Secret Blizzard",
+            "Snake",
+            "Venomous Bear",
+            "Waterbug",
+            "WhiteBear"
+        ]
     },
     "G0123": {
         "name": "Volatile Cedar",
-        "associated_groups": "Lebanese Cedar"
+        "aliases": [
+            "Lebanese Cedar"
+        ]
     },
     "G1017": {
         "name": "Volt Typhoon",
-        "associated_groups": "BRONZE SILHOUETTE"
+        "aliases": [
+            "BRONZE SILHOUETTE"
+        ]
     },
     "G0090": {
         "name": "WIRTE",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G0107": {
         "name": "Whitefly",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G0124": {
         "name": "Windigo",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G0112": {
         "name": "Windshift",
-        "associated_groups": "Bahamut"
+        "aliases": [
+            "Bahamut"
+        ]
     },
     "G0044": {
         "name": "Winnti Group",
-        "associated_groups": "Blackfly"
+        "aliases": [
+            "Blackfly"
+        ]
     },
     "G0102": {
         "name": "Wizard Spider",
-        "associated_groups": "DEV-0193, FIN12, GOLD BLACKBURN, Grim Spider, ITG23, Periwinkle Tempest, TEMP.MixMaster, UNC1878"
+        "aliases": [
+            "DEV-0193",
+            "FIN12",
+            "GOLD BLACKBURN",
+            "Grim Spider",
+            "ITG23",
+            "Periwinkle Tempest",
+            "TEMP.MixMaster",
+            "UNC1878"
+        ]
     },
     "G0128": {
         "name": "ZIRCONIUM",
-        "associated_groups": "APT31, Violet Typhoon"
+        "aliases": [
+            "APT31",
+            "Violet Typhoon"
+        ]
     },
     "G0018": {
         "name": "admin@338",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G0045": {
         "name": "menuPass",
-        "associated_groups": "APT10, BRONZE RIVERSIDE, CVNX, Cicada, HOGFISH, POTASSIUM, Red Apollo, Stone Panda"
+        "aliases": [
+            "APT10",
+            "BRONZE RIVERSIDE",
+            "CVNX",
+            "Cicada",
+            "HOGFISH",
+            "POTASSIUM",
+            "Red Apollo",
+            "Stone Panda"
+        ]
     },
     "G1000": {
         "name": "ALLANITE",
-        "associated_groups": "Palmetto Fusion"
+        "aliases": [
+            "Palmetto Fusion"
+        ]
     },
     "G1027": {
         "name": "CyberAv3ngers",
-        "associated_groups": "Soldiers of Soloman"
+        "aliases": [
+            "Soldiers of Soloman"
+        ]
     },
     "G0097": {
         "name": "Bouncing Golf",
-        "associated_groups": NaN
+        "aliases": []
     },
     "G1029": {
         "name": "UNC788",
-        "associated_groups": NaN
+        "aliases": []
     }
 }

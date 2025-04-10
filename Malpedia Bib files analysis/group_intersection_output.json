@@ -74,9 +74,7 @@
     },
     "G0023": {
         "MITRE Group Name": "apt16",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "apt16",
         "Malpedia Aliases": [
             "svcmondr",
@@ -265,9 +263,7 @@
     },
     "G0013": {
         "MITRE Group Name": "apt30",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "apt30",
         "Malpedia Aliases": [
             "g0013",
@@ -561,9 +557,7 @@
     },
     "G1007": {
         "MITRE Group Name": "aoqin dragon",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "aoqin dragon",
         "Malpedia Aliases": [
             "unc94"
@@ -571,9 +565,7 @@
     },
     "G0143": {
         "MITRE Group Name": "aquatic panda",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "earth lusca",
         "Malpedia Aliases": [
             "chromium",
@@ -642,9 +634,7 @@
     },
     "G0135": {
         "MITRE Group Name": "backdoordiplomacy",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "backdoordiplomacy",
         "Malpedia Aliases": [
             "backdip",
@@ -654,9 +644,7 @@
     },
     "G0063": {
         "MITRE Group Name": "blackoasis",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "blackoasis",
         "Malpedia Aliases": [
             "g0063"
@@ -771,11 +759,17 @@
             "mule libra"
         ]
     },
+    "G0142": {
+        "MITRE Group Name": "confucius",
+        "MITRE Associated Names": [
+            "confucius apt"
+        ],
+        "Malpedia Actor Name": "confucius",
+        "Malpedia Aliases": []
+    },
     "G0052": {
         "MITRE Group Name": "copykittens",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "copykittens",
         "Malpedia Aliases": [
             "slayer kitten",
@@ -784,9 +778,7 @@
     },
     "G0070": {
         "MITRE Group Name": "dark caracal",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "dark caracal",
         "Malpedia Aliases": [
             "g0070"
@@ -794,9 +786,7 @@
     },
     "G0079": {
         "MITRE Group Name": "darkhydrus",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "darkhydrus",
         "Malpedia Aliases": [
             "lazymeerkat",
@@ -806,9 +796,7 @@
     },
     "G0105": {
         "MITRE Group Name": "darkvishnya",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "darkvishnya",
         "Malpedia Aliases": []
     },
@@ -868,9 +856,7 @@
     },
     "G0017": {
         "MITRE Group Name": "dragonok",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "dragonok",
         "Malpedia Aliases": [
             "moafee",
@@ -916,9 +902,7 @@
     },
     "G1011": {
         "MITRE Group Name": "exotic lily",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "exotic lily",
         "Malpedia Aliases": [
             "dev-0413"
@@ -992,9 +976,7 @@
     },
     "G0020": {
         "MITRE Group Name": "equation",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "equation",
         "Malpedia Aliases": [
             "tilded",
@@ -1004,9 +986,7 @@
     },
     "G0120": {
         "MITRE Group Name": "evilnum",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "evilnum",
         "Malpedia Aliases": [
             "deathstalker",
@@ -1018,9 +998,7 @@
     },
     "G0051": {
         "MITRE Group Name": "fin10",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "fin10",
         "Malpedia Aliases": [
             "g0051"
@@ -1039,9 +1017,7 @@
     },
     "G0085": {
         "MITRE Group Name": "fin4",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "wolf spider",
         "Malpedia Aliases": [
             "fin4",
@@ -1050,9 +1026,7 @@
     },
     "G0053": {
         "MITRE Group Name": "fin5",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "fin5",
         "Malpedia Aliases": [
             "g0053"
@@ -1119,9 +1093,7 @@
     },
     "G0137": {
         "MITRE Group Name": "ferocious kitten",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "ferocious kitten",
         "Malpedia Aliases": []
     },
@@ -1159,9 +1131,7 @@
     },
     "G0036": {
         "MITRE Group Name": "gcman",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "gcman",
         "Malpedia Aliases": [
             "g0036"
@@ -1177,9 +1147,7 @@
     },
     "G0084": {
         "MITRE Group Name": "gallmaker",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "gallmaker",
         "Malpedia Aliases": []
     },
@@ -1215,9 +1183,7 @@
     },
     "G0078": {
         "MITRE Group Name": "gorgon",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "the gorgon",
         "Malpedia Aliases": [
             "gorgon",
@@ -1229,9 +1195,7 @@
     },
     "G0043": {
         "MITRE Group Name": "group5",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "group5",
         "Malpedia Aliases": [
             "g0043"
@@ -1273,9 +1237,7 @@
     },
     "G0126": {
         "MITRE Group Name": "higaisa",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "higaisa",
         "Malpedia Aliases": []
     },
@@ -1297,9 +1259,7 @@
     },
     "G0136": {
         "MITRE Group Name": "indigozebra",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "indigozebra",
         "Malpedia Aliases": []
     },
@@ -1496,9 +1456,7 @@
     },
     "G1014": {
         "MITRE Group Name": "luminousmoth",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "mustang panda",
         "Malpedia Aliases": [
             "bronze president",
@@ -1555,25 +1513,19 @@
     },
     "G1026": {
         "MITRE Group Name": "malteiro",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "malteiro",
         "Malpedia Aliases": []
     },
     "G1013": {
         "MITRE Group Name": "metador",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "metador",
         "Malpedia Aliases": []
     },
     "G0002": {
         "MITRE Group Name": "moafee",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "dragonok",
         "Malpedia Aliases": [
             "moafee",
@@ -1585,9 +1537,7 @@
     },
     "G0103": {
         "MITRE Group Name": "mofang",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "mofang",
         "Malpedia Aliases": [
             "superman",
@@ -1628,9 +1578,7 @@
     },
     "G1019": {
         "MITRE Group Name": "moustachedbouncer",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "moustachedbouncer",
         "Malpedia Aliases": []
     },
@@ -1699,9 +1647,7 @@
     },
     "G0055": {
         "MITRE Group Name": "neodymium",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "neodymium",
         "Malpedia Aliases": [
             "g0055"
@@ -1709,9 +1655,7 @@
     },
     "G0019": {
         "MITRE Group Name": "naikon",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "naikon",
         "Malpedia Aliases": [
             "pla unit 78020",
@@ -1757,17 +1701,13 @@
     },
     "G0071": {
         "MITRE Group Name": "orangeworm",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "orangeworm",
         "Malpedia Aliases": []
     },
     "G0068": {
         "MITRE Group Name": "platinum",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "platinum",
         "Malpedia Aliases": [
             "twoforone",
@@ -1824,9 +1764,7 @@
     },
     "G0011": {
         "MITRE Group Name": "pittytiger",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "apt24",
         "Malpedia Aliases": [
             "pitty panda",
@@ -1836,9 +1774,7 @@
     },
     "G0033": {
         "MITRE Group Name": "poseidon",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "poseidon",
         "Malpedia Aliases": [
             "g0033"
@@ -1864,9 +1800,7 @@
     },
     "G0048": {
         "MITRE Group Name": "rtm",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "rtm",
         "Malpedia Aliases": [
             "g0048"
@@ -1874,9 +1808,7 @@
     },
     "G0075": {
         "MITRE Group Name": "rancor",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "rancor",
         "Malpedia Aliases": [
             "rancor",
@@ -1888,9 +1820,7 @@
     },
     "G0106": {
         "MITRE Group Name": "rocke",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "rocke",
         "Malpedia Aliases": [
             "aged libra"
@@ -1917,9 +1847,7 @@
     },
     "G0029": {
         "MITRE Group Name": "scarlet mimic",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "scarlet mimic",
         "Malpedia Aliases": [
             "g0029",
@@ -1949,9 +1877,7 @@
     },
     "G1008": {
         "MITRE Group Name": "sidecopy",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "sidecopy",
         "Malpedia Aliases": []
     },
@@ -1997,17 +1923,13 @@
     },
     "G0083": {
         "MITRE Group Name": "silverterrier",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "silverterrier",
         "Malpedia Aliases": []
     },
     "G0054": {
         "MITRE Group Name": "sowbug",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "sowbug",
         "Malpedia Aliases": [
             "g0054"
@@ -2015,9 +1937,7 @@
     },
     "G0038": {
         "MITRE Group Name": "stealth falcon",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "stealth falcon",
         "Malpedia Aliases": [
             "fruityarmor",
@@ -2039,9 +1959,7 @@
     },
     "G0039": {
         "MITRE Group Name": "suckfly",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "apt22",
         "Malpedia Aliases": [
             "g0039",
@@ -2052,17 +1970,13 @@
     },
     "G1018": {
         "MITRE Group Name": "ta2541",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "ta2541",
         "Malpedia Aliases": []
     },
     "G0062": {
         "MITRE Group Name": "ta459",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "ta459",
         "Malpedia Aliases": [
             "g0062"
@@ -2113,9 +2027,7 @@
     },
     "G0139": {
         "MITRE Group Name": "teamtnt",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "teamtnt",
         "Malpedia Aliases": [
             "adept libra"
@@ -2152,9 +2064,7 @@
     },
     "G0076": {
         "MITRE Group Name": "thrip",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "thrip",
         "Malpedia Aliases": [
             "g0076",
@@ -2163,9 +2073,7 @@
     },
     "G1022": {
         "MITRE Group Name": "toddycat",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "toddycat",
         "Malpedia Aliases": [
             "websiic"
@@ -2303,17 +2211,13 @@
     },
     "G0090": {
         "MITRE Group Name": "wirte",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "wirte",
         "Malpedia Aliases": []
     },
     "G0107": {
         "MITRE Group Name": "whitefly",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "whitefly",
         "Malpedia Aliases": []
     },
@@ -2386,9 +2290,7 @@
     },
     "G0018": {
         "MITRE Group Name": "admin@338",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "temper panda",
         "Malpedia Aliases": [
             "admin338",
@@ -2441,9 +2343,7 @@
     },
     "G0097": {
         "MITRE Group Name": "bouncing golf",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "domestic kitten",
         "Malpedia Aliases": [
             "bouncing golf",
@@ -2452,9 +2352,7 @@
     },
     "G1029": {
         "MITRE Group Name": "unc788",
-        "MITRE Associated Names": [
-            ""
-        ],
+        "MITRE Associated Names": [],
         "Malpedia Actor Name": "apt42",
         "Malpedia Aliases": [
             "unc788",
