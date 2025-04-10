@@ -9970,6 +9970,19 @@
             "https://blog.malwarebytes.com/threat-analysis/2015/06/elusive-hanjuan-ek-caught-in-new-malvertising-campaign/"
         ]
     },
+    "copykittens": {
+        "hashes": [
+            {
+                "hash": "06466205ef73efc72a160b21586d4bd287b70ab68d6a7f10b8c9637d1614d619",
+                "cves": [
+                    "CVE-2017-0199"
+                ]
+            }
+        ],
+        "urls": [
+            "https://www.clearskysec.com/wp-content/uploads/2017/07/Operation_Wilted_Tulip.pdf"
+        ]
+    },
     "dragonok": {
         "hashes": [
             {
@@ -26892,6 +26905,21 @@
         ],
         "urls": [
             "https://www.fireeye.com/blog/threat-research/2018/04/metamorfo-campaign-targeting-brazilian-users.html"
+        ]
+    },
+    "volatile cedar": {
+        "hashes": [
+            {
+                "hash": "cb10915f45e3c27ccd203dd3f69aad162802d8db568c9010ee696ff631caa41e",
+                "cves": [
+                    "CVE-2012-3152",
+                    "CVE-2019-11581",
+                    "CVE-2019-3396"
+                ]
+            }
+        ],
+        "urls": [
+            "https://www.clearskysec.com/wp-content/uploads/2021/01/Lebanese-Cedar-APT.pdf"
         ]
     },
     "win.beapy": {

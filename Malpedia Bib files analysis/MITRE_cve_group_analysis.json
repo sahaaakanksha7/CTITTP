@@ -556,6 +556,19 @@
                 ]
             },
             {
+                "hash": "1cdd6be8789281e9ccc13f43be7c1178e2ac3d26d802989e6a60c91814dae62a",
+                "cves": [
+                    "CVE-2014-0751",
+                    "CVE-2014-4114"
+                ]
+            },
+            {
+                "hash": "1ebc1b2a9a9ca7635fae1fc0312839fefd8f9bf61e0e941686c197c6b8113d81",
+                "cves": [
+                    "CVE-2011-4041"
+                ]
+            },
+            {
                 "hash": "2b6d9687e4c67c6ef586f83edc3cbf57cdc1ead69b7923eeed3c4c88a5dcaffd",
                 "cves": [
                     "CVE-2015-5374"
@@ -1017,6 +1030,17 @@
             }
         ],
         "url": "https://www.microsoft.com/security/blog/2021/10/25/nobelium-targeting-delegated-administrative-privileges-to-facilitate-broader-attacks/"
+    },
+    "G0097": {
+        "hashes": [
+            {
+                "hash": "178ba2fd40cfeb48cec8c5ee6015b8bfb1e0344eec207105202073386331c3d2",
+                "cves": [
+                    "CVE-2025-26633"
+                ]
+            }
+        ],
+        "url": "https://blog.trendmicro.com/trendlabs-security-intelligence/mobile-cyberespionage-campaign-bouncing-golf-affects-middle-east/"
     },
     "G0080": {
         "hashes": [
