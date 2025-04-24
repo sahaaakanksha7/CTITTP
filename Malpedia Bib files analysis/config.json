@@ -15,6 +15,10 @@
             "ics": "ics-attack-v15.1-groups.xlsx",
             "mobile": "mobile-attack-v15.1-groups.xlsx"
         },
+
+        "file_paths_techniques": {
+        "enterprise": "enterprise-attack-v15.1-techniques.xlsx"
+    },
         
     "jsonl_files": {
         "Malpedia_2022": "data/malpedia-db_2022-07-18_downloader.jsonl",
