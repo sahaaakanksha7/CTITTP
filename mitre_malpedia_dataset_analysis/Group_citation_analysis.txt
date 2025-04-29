@@ -1,0 +1,46 @@
+## https://www.infosecurity-magazine.com/news/microsoft-zero-day-traced-russian/ for this does not exist in the main groups sheet
+## Citations in the description for  https://securelist.com/apt-trends-report-q1-2018/85280/ and 
+##https://www.intezer.com/wp-content/uploads/2021/09/TeamTNT-Cryptomining-Explosion.pdf and
+## G0047 -> Bleepingcomputer Gamardeon FSB November 2021 ->  https://www.bleepingcomputer.com/news/security/ukraine-links-members-of-gamaredon-hacker-group-to-russian-fsb/
+
+Look into G1003 -> Palo Alto Unit 42 OutSteel SaintBot February 2022 , spacing issue maybe
+
+Look into this -> US-CERT HIDDEN COBRA June 2017
+(Citation: Microsoft Threat Actor Naming July 2023), (Citation: US-CERT HIDDEN COBRA June 2017), 
+The U.S. Government refers to malicious cyber activity by the North Korean government as HIDDEN COBRA.
+(Citation: US-CERT HIDDEN COBRA June 2017)(Citation: US-CERT HOPLIGHT Apr 2019), (Citation: CrowdStrike Labyrinth Chollima Feb 2022),
+(Citation: Secureworks NICKEL ACADEMY Dec 2017), (Citation: Microsoft ZINC disruption Dec 2017)
+G0032
+
+Baumgartner Golovkin Naikon 2015
+G0013
+[APT30](https://attack.mitre.org/groups/G0013) is a threat group suspected to be associated with the Chinese government. 
+While [Naikon](https://attack.mitre.org/groups/G0019) shares some characteristics with [APT30](https://attack.mitre.org/groups/G0013), 
+the two groups do not appear to be exact matches.
+(Citation: FireEye APT30)(Citation: Baumgartner Golovkin Naikon 2015)
+
+G0019
+[Naikon](https://attack.mitre.org/groups/G0019) is assessed to be a state-sponsored cyber espionage group attributed to the Chinese 
+People’s Liberation Army’s (PLA) Chengdu Military Region Second Technical Reconnaissance Bureau (Military Unit Cover Designator 78020).
+(Citation: CameraShy) Active since at least 2010, [Naikon](https://attack.mitre.org/groups/G0019) has primarily conducted operations 
+against government, military, and civil organizations in Southeast Asia, as well as against international bodies such as 
+the United Nations Development Programme (UNDP) and the Association of Southeast Asian Nations (ASEAN).(Citation: CameraShy)(Citation: Baumgartner Naikon 2015) 
+While [Naikon](https://attack.mitre.org/groups/G0019) shares some characteristics with [APT30](https://attack.mitre.org/groups/G0013), 
+the two groups do not appear to be exact matches.(Citation: Baumgartner Golovkin Naikon 2015)
+
+
+CyberScoop BlackOasis Oct 2017
+G0063
+[BlackOasis](https://attack.mitre.org/groups/G0063) is a Middle Eastern threat group that is believed to be a customer of Gamma Group. 
+The group has shown interest in prominent figures in the United Nations, as well as opposition bloggers, activists, regional news correspondents, 
+and think tanks. (Citation: Securelist BlackOasis Oct 2017) (Citation: Securelist APT Trends Q2 2017) A group known by Microsoft as 
+    [NEODYMIUM](https://attack.mitre.org/groups/G0055) is reportedly associated closely 
+with [BlackOasis](https://attack.mitre.org/groups/G0063) operations, but evidence that the group names are aliases has not been identified.
+(Citation: CyberScoop BlackOasis Oct 2017)
+
+G0055
+[NEODYMIUM](https://attack.mitre.org/groups/G0055) is an activity group that conducted a campaign in May 2016 and has heavily targeted Turkish victims. 
+The group has demonstrated similarity to another activity group called [PROMETHIUM](https://attack.mitre.org/groups/G0056) due to overlapping victim and 
+campaign characteristics. (Citation: Microsoft NEODYMIUM Dec 2016) (Citation: Microsoft SIR Vol 21) [NEODYMIUM](https://attack.mitre.org/groups/G0055) is 
+reportedly associated closely with [BlackOasis](https://attack.mitre.org/groups/G0063) operations, but evidence that the group names are aliases has not 
+been identified. (Citation: CyberScoop BlackOasis Oct 2017)
