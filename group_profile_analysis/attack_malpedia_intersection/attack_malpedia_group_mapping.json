@@ -1,0 +1,2362 @@
+{
+    "G1028": {
+        "MITRE Group Name": "apt-c-23",
+        "MITRE Associated Names": [
+            "arid viper",
+            "big bang apt",
+            "desert falcon",
+            "grey karkadann",
+            "mantis",
+            "tag-63",
+            "two-tailed scorpion"
+        ],
+        "Malpedia Actor Name": "aridviper",
+        "Malpedia Aliases": [
+            "desert falcon",
+            "arid viper",
+            "apt-c-23",
+            "bearded barbie"
+        ]
+    },
+    "G0099": {
+        "MITRE Group Name": "apt-c-36",
+        "MITRE Associated Names": [
+            "blind eagle"
+        ],
+        "Malpedia Actor Name": "apt-c-36",
+        "Malpedia Aliases": [
+            "blind eagle"
+        ]
+    },
+    "G0006": {
+        "MITRE Group Name": "apt1",
+        "MITRE Associated Names": [
+            "comment crew",
+            "comment",
+            "comment panda"
+        ],
+        "Malpedia Actor Name": "apt1",
+        "Malpedia Aliases": [
+            "comment panda",
+            "pla unit 61398",
+            "comment crew",
+            "byzantine candor",
+            "group 3",
+            "tg-8223",
+            "comment",
+            "brown fox",
+            "gif89a",
+            "shadyrat",
+            "g0006"
+        ]
+    },
+    "G0005": {
+        "MITRE Group Name": "apt12",
+        "MITRE Associated Names": [
+            "dnscalc",
+            "dyncalc",
+            "ixeshe",
+            "numbered panda"
+        ],
+        "Malpedia Actor Name": "apt12",
+        "Malpedia Aliases": [
+            "numbered panda",
+            "tg-2754",
+            "beebus",
+            "group 22",
+            "dyncalc",
+            "calc",
+            "dnscalc",
+            "crimson iron",
+            "ixeshe",
+            "bronze globe"
+        ]
+    },
+    "G0023": {
+        "MITRE Group Name": "apt16",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "apt16",
+        "Malpedia Aliases": [
+            "svcmondr",
+            "g0023"
+        ]
+    },
+    "G0025": {
+        "MITRE Group Name": "apt17",
+        "MITRE Associated Names": [
+            "deputy dog"
+        ],
+        "Malpedia Actor Name": "apt17",
+        "Malpedia Aliases": [
+            "group 8",
+            "aurora panda",
+            "hidden lynx",
+            "tailgater",
+            "dogfish",
+            "bronze keystone",
+            "g0025",
+            "group 72",
+            "g0001",
+            "axiom",
+            "helium"
+        ]
+    },
+    "G0026": {
+        "MITRE Group Name": "apt18",
+        "MITRE Associated Names": [
+            "dynamite panda",
+            "tg-0416",
+            "tg-0416"
+        ],
+        "Malpedia Actor Name": "apt18",
+        "Malpedia Aliases": [
+            "dynamite panda",
+            "tg-0416",
+            "scandium",
+            "pla navy",
+            "wekby",
+            "g0026"
+        ]
+    },
+    "G0073": {
+        "MITRE Group Name": "apt19",
+        "MITRE Associated Names": [
+            "c0d0so0",
+            "codoso",
+            "codoso",
+            "sunshop"
+        ],
+        "Malpedia Actor Name": "apt19",
+        "Malpedia Aliases": [
+            "deep panda",
+            "codoso",
+            "webmasters",
+            "kungfu kittens",
+            "black vine",
+            "avengers",
+            "group 13",
+            "pinkpanther",
+            "shell crew",
+            "bronze firestone",
+            "g0009",
+            "g0073",
+            "pupa",
+            "sunshop"
+        ]
+    },
+    "G0007": {
+        "MITRE Group Name": "apt28",
+        "MITRE Associated Names": [
+            "frozenlake",
+            "fancy bear",
+            "forest blizzard",
+            "group 74",
+            "iron twilight",
+            "pawn storm",
+            "snakemackerel",
+            "strontium",
+            "sednit",
+            "sofacy",
+            "swallowtail",
+            "tg-4127",
+            "tg-4127",
+            "tsar"
+        ],
+        "Malpedia Actor Name": "apt28",
+        "Malpedia Aliases": [
+            "pawn storm",
+            "fancy bear",
+            "sednit",
+            "snakemackerel",
+            "tsar",
+            "tg-4127",
+            "strontium",
+            "swallowtail",
+            "iron twilight",
+            "group 74",
+            "sig40",
+            "grizzly steppe",
+            "g0007",
+            "atk5",
+            "fighting ursa",
+            "itg05",
+            "blue athena",
+            "ta422",
+            "t-apt-12",
+            "apt-c-20",
+            "uac-0028",
+            "frozenlake",
+            "sofacy",
+            "forest blizzard",
+            "bluedelta",
+            "fancy bear",
+            "gruesomelarch",
+            "apt 28",
+            "tsarteam",
+            "group-4127",
+            "grey-cloud"
+        ]
+    },
+    "G0016": {
+        "MITRE Group Name": "apt29",
+        "MITRE Associated Names": [
+            "blue kitsune",
+            "cozy bear",
+            "cozyduke",
+            "dark halo",
+            "iron hemlock",
+            "iron ritual",
+            "midnight blizzard",
+            "nobelium",
+            "noblebaron",
+            "solarstorm",
+            "stellarparticle",
+            "the dukes",
+            "unc2452",
+            "unc3524",
+            "yttrium"
+        ],
+        "Malpedia Actor Name": "apt29",
+        "Malpedia Aliases": [
+            "group 100",
+            "cozy bear",
+            "the dukes",
+            "minidionis",
+            "seaduke",
+            "yttrium",
+            "iron hemlock",
+            "grizzly steppe",
+            "g0016",
+            "atk7",
+            "cloaked ursa",
+            "ta421",
+            "blue kitsune",
+            "itg11",
+            "bluebravo",
+            "nobelium",
+            "uac-0029",
+            "midnight blizzard"
+        ]
+    },
+    "G0022": {
+        "MITRE Group Name": "apt3",
+        "MITRE Associated Names": [
+            "buckeye",
+            "gothic panda",
+            "pirpi",
+            "tg-0110",
+            "tg-0110",
+            "ups"
+        ],
+        "Malpedia Actor Name": "apt3",
+        "Malpedia Aliases": [
+            "gothic panda",
+            "tg-0110",
+            "group 6",
+            "ups",
+            "buckeye",
+            "boyusec",
+            "boron",
+            "bronze mayfair",
+            "red sylvan"
+        ]
+    },
+    "G0013": {
+        "MITRE Group Name": "apt30",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "apt30",
+        "Malpedia Aliases": [
+            "g0013",
+            "raspberry typhoon",
+            "radium",
+            "lotusblossom"
+        ]
+    },
+    "G0050": {
+        "MITRE Group Name": "apt32",
+        "MITRE Associated Names": [
+            "apt-c-00",
+            "bismuth",
+            "canvas cyclone",
+            "oceanlotus",
+            "sealotus"
+        ],
+        "Malpedia Actor Name": "apt32",
+        "Malpedia Aliases": [
+            "oceanlotus",
+            "ocean lotus",
+            "oceanlotus",
+            "cobalt kitty",
+            "apt-c-00",
+            "sealotus",
+            "sea lotus",
+            "apt-32",
+            "apt 32",
+            "ocean buffalo",
+            "pond loach",
+            "tin woodlawn",
+            "bismuth",
+            "atk17",
+            "g0050",
+            "canvas cyclone"
+        ]
+    },
+    "G0064": {
+        "MITRE Group Name": "apt33",
+        "MITRE Associated Names": [
+            "elfin",
+            "holmium",
+            "peach sandstorm"
+        ],
+        "Malpedia Actor Name": "apt33",
+        "Malpedia Aliases": [
+            "apt 33",
+            "elfin",
+            "magnallium",
+            "refined kitten",
+            "holmium",
+            "cobalt trinity",
+            "g0064",
+            "atk35",
+            "peach sandstorm",
+            "ta451"
+        ]
+    },
+    "G0067": {
+        "MITRE Group Name": "apt37",
+        "MITRE Associated Names": [
+            "group123",
+            "inkysquid",
+            "reaper",
+            "ricochet chollima",
+            "scarcruft",
+            "reaper"
+        ],
+        "Malpedia Actor Name": "apt37",
+        "Malpedia Aliases": [
+            "apt 37",
+            "group 123",
+            "group123",
+            "inkysquid",
+            "operation daybreak",
+            "operation erebus",
+            "reaper",
+            "reaper",
+            "red eyes",
+            "ricochet chollima",
+            "scarcruft",
+            "venus 121",
+            "atk4",
+            "g0067",
+            "moldy pisces",
+            "ta-redant"
+        ]
+    },
+    "G0082": {
+        "MITRE Group Name": "apt38",
+        "MITRE Associated Names": [
+            "beagleboyz",
+            "bluenoroff",
+            "copernicium",
+            "nickel gladstone",
+            "sapphire sleet",
+            "stardust chollima"
+        ],
+        "Malpedia Actor Name": "lazarus",
+        "Malpedia Aliases": [
+            "operation darkseoul",
+            "dark seoul",
+            "hidden cobra",
+            "hastati",
+            "andariel",
+            "unit 121",
+            "bureau 121",
+            "newromanic cyber army",
+            "bluenoroff",
+            "subgroup: bluenoroff",
+            "group 77",
+            "labyrinth chollima",
+            "operation troy",
+            "operation ghostsecret",
+            "operation applejeus",
+            "apt38",
+            "apt 38",
+            "stardust chollima",
+            "whois hacking",
+            "zinc",
+            "appleworm",
+            "nickel academy",
+            "apt-c-26",
+            "nickel gladstone",
+            "covellite",
+            "atk3",
+            "g0032",
+            "atk117",
+            "g0082",
+            "citrine sleet",
+            "dev-0139",
+            "dev-1222",
+            "diamond sleet",
+            "zinc",
+            "sapphire sleet",
+            "copernicium",
+            "ta404",
+            "lazarus",
+            "beagleboyz",
+            "lazarus",
+            "genie spider"
+        ]
+    },
+    "G0087": {
+        "MITRE Group Name": "apt39",
+        "MITRE Associated Names": [
+            "chafer",
+            "itg07",
+            "remix kitten"
+        ],
+        "Malpedia Actor Name": "apt39",
+        "Malpedia Aliases": [
+            "chafer",
+            "remix kitten",
+            "cobalt hickman",
+            "g0087",
+            "radio serpens",
+            "ta454"
+        ]
+    },
+    "G0096": {
+        "MITRE Group Name": "apt41",
+        "MITRE Associated Names": [
+            "barium",
+            "brass typhoon",
+            "wicked panda"
+        ],
+        "Malpedia Actor Name": "apt41",
+        "Malpedia Aliases": [
+            "g0096",
+            "ta415",
+            "blackfly",
+            "grayfly",
+            "lead",
+            "barium",
+            "wicked spider",
+            "wicked panda",
+            "bronze atlas",
+            "bronze export",
+            "red kelpie",
+            "g0044",
+            "earth baku",
+            "amoeba",
+            "hoodoo",
+            "brass typhoon"
+        ]
+    },
+    "G1023": {
+        "MITRE Group Name": "apt5",
+        "MITRE Associated Names": [
+            "bronze fleetwood",
+            "keyhole panda",
+            "manganese",
+            "mulberry typhoon",
+            "unc2630"
+        ],
+        "Malpedia Actor Name": "apt5",
+        "Malpedia Aliases": [
+            "keyhole panda",
+            "manganese",
+            "bronze fleetwood",
+            "bottle",
+            "mulberry typhoon",
+            "poisoned flight",
+            "tabcteng"
+        ]
+    },
+    "G0130": {
+        "MITRE Group Name": "ajax security",
+        "MITRE Associated Names": [
+            "ajaxtm",
+            "flying kitten",
+            "operation saffron rose",
+            "operation woolen-goldfish",
+            "rocket kitten"
+        ],
+        "Malpedia Actor Name": "flying kitten",
+        "Malpedia Aliases": [
+            "saffronrose",
+            "saffron rose",
+            "ajaxsecurityteam",
+            "ajax security",
+            "group 26",
+            "sayad"
+        ]
+    },
+    "G1024": {
+        "MITRE Group Name": "akira",
+        "MITRE Associated Names": [
+            "gold sahara",
+            "punk spider"
+        ],
+        "Malpedia Actor Name": "storm-1567",
+        "Malpedia Aliases": [
+            "akira",
+            "punk spider",
+            "gold sahara"
+        ]
+    },
+    "G0138": {
+        "MITRE Group Name": "andariel",
+        "MITRE Associated Names": [
+            "onyx sleet",
+            "plutonium",
+            "silent chollima"
+        ],
+        "Malpedia Actor Name": "lazarus",
+        "Malpedia Aliases": [
+            "operation darkseoul",
+            "dark seoul",
+            "hidden cobra",
+            "hastati",
+            "andariel",
+            "unit 121",
+            "bureau 121",
+            "newromanic cyber army",
+            "bluenoroff",
+            "subgroup: bluenoroff",
+            "group 77",
+            "labyrinth chollima",
+            "operation troy",
+            "operation ghostsecret",
+            "operation applejeus",
+            "apt38",
+            "apt 38",
+            "stardust chollima",
+            "whois hacking",
+            "zinc",
+            "appleworm",
+            "nickel academy",
+            "apt-c-26",
+            "nickel gladstone",
+            "covellite",
+            "atk3",
+            "g0032",
+            "atk117",
+            "g0082",
+            "citrine sleet",
+            "dev-0139",
+            "dev-1222",
+            "diamond sleet",
+            "zinc",
+            "sapphire sleet",
+            "copernicium",
+            "ta404",
+            "lazarus",
+            "beagleboyz",
+            "lazarus",
+            "genie spider"
+        ]
+    },
+    "G1007": {
+        "MITRE Group Name": "aoqin dragon",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "aoqin dragon",
+        "Malpedia Aliases": [
+            "unc94"
+        ]
+    },
+    "G0143": {
+        "MITRE Group Name": "aquatic panda",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "earth lusca",
+        "Malpedia Aliases": [
+            "chromium",
+            "controlx",
+            "tag-22",
+            "fishmonger",
+            "bronze university",
+            "aquatic panda",
+            "red dev 10",
+            "redhotel",
+            "charcoal typhoon",
+            "bountyglad",
+            "red scylla"
+        ]
+    },
+    "G0001": {
+        "MITRE Group Name": "axiom",
+        "MITRE Associated Names": [
+            "group 72"
+        ],
+        "Malpedia Actor Name": "apt17",
+        "Malpedia Aliases": [
+            "group 8",
+            "aurora panda",
+            "hidden lynx",
+            "tailgater",
+            "dogfish",
+            "bronze keystone",
+            "g0025",
+            "group 72",
+            "g0001",
+            "axiom",
+            "helium"
+        ]
+    },
+    "G1002": {
+        "MITRE Group Name": "bitter",
+        "MITRE Associated Names": [
+            "t-apt-17"
+        ],
+        "Malpedia Actor Name": "hazy tiger",
+        "Malpedia Aliases": [
+            "bitter",
+            "t-apt-17",
+            "apt-c-08",
+            "orange yali",
+            "ta397"
+        ]
+    },
+    "G0060": {
+        "MITRE Group Name": "bronze butler",
+        "MITRE Associated Names": [
+            "redbaldknight",
+            "tick"
+        ],
+        "Malpedia Actor Name": "tick",
+        "Malpedia Aliases": [
+            "nian",
+            "bronze butler",
+            "redbaldknight",
+            "stalker panda",
+            "g0060",
+            "stalker taurus",
+            "pla unit 61419"
+        ]
+    },
+    "G0135": {
+        "MITRE Group Name": "backdoordiplomacy",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "backdoordiplomacy",
+        "Malpedia Aliases": [
+            "backdip",
+            "cloudcomputating",
+            "quarian"
+        ]
+    },
+    "G0063": {
+        "MITRE Group Name": "blackoasis",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "blackoasis",
+        "Malpedia Aliases": [
+            "g0063"
+        ]
+    },
+    "G0098": {
+        "MITRE Group Name": "blacktech",
+        "MITRE Associated Names": [
+            "palmerworm"
+        ],
+        "Malpedia Actor Name": "blacktech",
+        "Malpedia Aliases": [
+            "circuit panda",
+            "overboard",
+            "huapi",
+            "palmerworm",
+            "g0098",
+            "t-apt-03",
+            "manga taurus",
+            "red djinn",
+            "earth hundun"
+        ]
+    },
+    "G1012": {
+        "MITRE Group Name": "curium",
+        "MITRE Associated Names": [
+            "crimson sandstorm",
+            "ta456",
+            "tortoise shell"
+        ],
+        "Malpedia Actor Name": "tortoiseshell",
+        "Malpedia Aliases": [
+            "imperial kitten",
+            "yellow liderc",
+            "imperial kitten",
+            "ta456",
+            "dustycave",
+            "crimson sandstorm"
+        ]
+    },
+    "G0008": {
+        "MITRE Group Name": "carbanak",
+        "MITRE Associated Names": [
+            "anunak"
+        ],
+        "Malpedia Actor Name": "fin7",
+        "Malpedia Aliases": [
+            "carbon spider",
+            "gold niagara",
+            "calcium",
+            "atk32",
+            "g0046",
+            "g0008",
+            "coreid",
+            "carbanak",
+            "sangria tempest",
+            "elbrus",
+            "carbon spider",
+            "jokerstash"
+        ]
+    },
+    "G1021": {
+        "MITRE Group Name": "cinnamon tempest",
+        "MITRE Associated Names": [
+            "bronze starlight",
+            "dev-0401",
+            "emperor dragonfly"
+        ],
+        "Malpedia Actor Name": "bronze starlight",
+        "Malpedia Aliases": [
+            "slime34",
+            "dev-0401",
+            "cinnamon tempest",
+            "emperor dragonfly"
+        ]
+    },
+    "G0003": {
+        "MITRE Group Name": "cleaver",
+        "MITRE Associated Names": [
+            "tg-2889",
+            "tg-2889"
+        ],
+        "Malpedia Actor Name": "cleaver",
+        "Malpedia Aliases": [
+            "operation cleaver",
+            "op cleaver",
+            "tarh andishan",
+            "alibaba",
+            "tg-2889",
+            "cobalt gypsy",
+            "g0003",
+            "hazel sandstorm",
+            "europium",
+            "apt34",
+            "oilrig"
+        ]
+    },
+    "G0080": {
+        "MITRE Group Name": "cobalt",
+        "MITRE Associated Names": [
+            "cobalt gang",
+            "cobalt spider",
+            "gold kingswood"
+        ],
+        "Malpedia Actor Name": "cobalt",
+        "Malpedia Aliases": [
+            "cobalt",
+            "cobalt gang",
+            "gold kingswood",
+            "cobalt spider",
+            "g0080",
+            "mule libra"
+        ]
+    },
+    "G0142": {
+        "MITRE Group Name": "confucius",
+        "MITRE Associated Names": [
+            "confucius apt"
+        ],
+        "Malpedia Actor Name": "confucius",
+        "Malpedia Aliases": []
+    },
+    "G0052": {
+        "MITRE Group Name": "copykittens",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "copykittens",
+        "Malpedia Aliases": [
+            "slayer kitten",
+            "g0052"
+        ]
+    },
+    "G0070": {
+        "MITRE Group Name": "dark caracal",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "dark caracal",
+        "Malpedia Aliases": [
+            "g0070"
+        ]
+    },
+    "G0079": {
+        "MITRE Group Name": "darkhydrus",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "darkhydrus",
+        "Malpedia Aliases": [
+            "lazymeerkat",
+            "g0079",
+            "obscure serpens"
+        ]
+    },
+    "G0105": {
+        "MITRE Group Name": "darkvishnya",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "darkvishnya",
+        "Malpedia Aliases": []
+    },
+    "G0012": {
+        "MITRE Group Name": "darkhotel",
+        "MITRE Associated Names": [
+            "dubnium",
+            "zigzag hail"
+        ],
+        "Malpedia Actor Name": "darkhotel",
+        "Malpedia Aliases": [
+            "dubnium",
+            "fallout",
+            "karba",
+            "luder",
+            "nemim",
+            "nemin",
+            "tapaoux",
+            "pioneer",
+            "shadow crane",
+            "apt-c-06",
+            "sig25",
+            "tungsten bridge",
+            "t-apt-02",
+            "g0012",
+            "atk52",
+            "zigzag hail",
+            "dark hotel"
+        ]
+    },
+    "G0009": {
+        "MITRE Group Name": "deep panda",
+        "MITRE Associated Names": [
+            "black vine",
+            "kungfu kittens",
+            "pinkpanther",
+            "shell crew",
+            "webmasters"
+        ],
+        "Malpedia Actor Name": "apt19",
+        "Malpedia Aliases": [
+            "deep panda",
+            "codoso",
+            "webmasters",
+            "kungfu kittens",
+            "black vine",
+            "avengers",
+            "group 13",
+            "pinkpanther",
+            "shell crew",
+            "bronze firestone",
+            "g0009",
+            "g0073",
+            "pupa",
+            "sunshop"
+        ]
+    },
+    "G0017": {
+        "MITRE Group Name": "dragonok",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "dragonok",
+        "Malpedia Aliases": [
+            "moafee",
+            "bronze overbrook",
+            "g0017",
+            "g0002",
+            "shallow taurus"
+        ]
+    },
+    "G0035": {
+        "MITRE Group Name": "dragonfly",
+        "MITRE Associated Names": [
+            "bromine",
+            "berserk bear",
+            "crouching yeti",
+            "dymalloy",
+            "energetic bear",
+            "ghost blizzard",
+            "iron liberty",
+            "isotope",
+            "tg-4192"
+        ],
+        "Malpedia Actor Name": "energetic bear",
+        "Malpedia Aliases": [
+            "berserk bear",
+            "allanite",
+            "castle",
+            "dymalloy",
+            "tg-4192",
+            "dragonfly",
+            "crouching yeti",
+            "group 24",
+            "havex",
+            "koala",
+            "iron liberty",
+            "g0035",
+            "atk6",
+            "itg15",
+            "bromine",
+            "blue kraken",
+            "ghost blizzard"
+        ]
+    },
+    "G1011": {
+        "MITRE Group Name": "exotic lily",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "exotic lily",
+        "Malpedia Aliases": [
+            "dev-0413"
+        ]
+    },
+    "G1006": {
+        "MITRE Group Name": "earth lusca",
+        "MITRE Associated Names": [
+            "chromium",
+            "charcoal typhoon",
+            "controlx",
+            "tag-22"
+        ],
+        "Malpedia Actor Name": "earth lusca",
+        "Malpedia Aliases": [
+            "chromium",
+            "controlx",
+            "tag-22",
+            "fishmonger",
+            "bronze university",
+            "aquatic panda",
+            "red dev 10",
+            "redhotel",
+            "charcoal typhoon",
+            "bountyglad",
+            "red scylla"
+        ]
+    },
+    "G0066": {
+        "MITRE Group Name": "elderwood",
+        "MITRE Associated Names": [
+            "beijing",
+            "elderwood gang",
+            "sneaky panda"
+        ],
+        "Malpedia Actor Name": "beijing",
+        "Malpedia Aliases": [
+            "sneaky panda",
+            "elderwood",
+            "elderwood gang",
+            "sig22",
+            "g0066"
+        ]
+    },
+    "G1003": {
+        "MITRE Group Name": "ember bear",
+        "MITRE Associated Names": [
+            "bleeding bear",
+            "lorec bear",
+            "lorec53",
+            "saint bear",
+            "uac-0056",
+            "unc2589"
+        ],
+        "Malpedia Actor Name": "saintbear",
+        "Malpedia Aliases": [
+            "unc2589",
+            "ta471",
+            "uac-0056",
+            "nascent ursa",
+            "nodaria",
+            "frozenvista",
+            "storm-0587",
+            "dev-0587",
+            "saint bear",
+            "lorec53",
+            "ember bear",
+            "lorec bear",
+            "bleeding bear"
+        ]
+    },
+    "G0020": {
+        "MITRE Group Name": "equation",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "equation",
+        "Malpedia Aliases": [
+            "tilded",
+            "eqgrp",
+            "g0020"
+        ]
+    },
+    "G0120": {
+        "MITRE Group Name": "evilnum",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "evilnum",
+        "Malpedia Aliases": [
+            "deathstalker",
+            "ta4563",
+            "evilnum",
+            "jointworm",
+            "knockout spider"
+        ]
+    },
+    "G0051": {
+        "MITRE Group Name": "fin10",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "fin10",
+        "Malpedia Aliases": [
+            "g0051"
+        ]
+    },
+    "G1016": {
+        "MITRE Group Name": "fin13",
+        "MITRE Associated Names": [
+            "elephant beetle"
+        ],
+        "Malpedia Actor Name": "fin13",
+        "Malpedia Aliases": [
+            "tg2003",
+            "elephant beetle"
+        ]
+    },
+    "G0085": {
+        "MITRE Group Name": "fin4",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "wolf spider",
+        "Malpedia Aliases": [
+            "fin4",
+            "g0085"
+        ]
+    },
+    "G0053": {
+        "MITRE Group Name": "fin5",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "fin5",
+        "Malpedia Aliases": [
+            "g0053"
+        ]
+    },
+    "G0037": {
+        "MITRE Group Name": "fin6",
+        "MITRE Associated Names": [
+            "camouflage tempest",
+            "itg08",
+            "magecart group 6",
+            "skeleton spider",
+            "taal"
+        ],
+        "Malpedia Actor Name": "fin6",
+        "Malpedia Aliases": [
+            "skeleton spider",
+            "itg08",
+            "magecart group 6",
+            "white giant",
+            "gold franklin",
+            "atk88",
+            "g0037",
+            "camouflage tempest",
+            "ta4557",
+            "taal"
+        ]
+    },
+    "G0046": {
+        "MITRE Group Name": "fin7",
+        "MITRE Associated Names": [
+            "carbon spider",
+            "elbrus",
+            "gold niagara",
+            "itg14",
+            "sangria tempest"
+        ],
+        "Malpedia Actor Name": "fin7",
+        "Malpedia Aliases": [
+            "carbon spider",
+            "gold niagara",
+            "calcium",
+            "atk32",
+            "g0046",
+            "g0008",
+            "coreid",
+            "carbanak",
+            "sangria tempest",
+            "elbrus",
+            "carbon spider",
+            "jokerstash"
+        ]
+    },
+    "G0061": {
+        "MITRE Group Name": "fin8",
+        "MITRE Associated Names": [
+            "syssphinx"
+        ],
+        "Malpedia Actor Name": "fin8",
+        "Malpedia Aliases": [
+            "atk113",
+            "g0061"
+        ]
+    },
+    "G0137": {
+        "MITRE Group Name": "ferocious kitten",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "ferocious kitten",
+        "Malpedia Aliases": []
+    },
+    "G0117": {
+        "MITRE Group Name": "fox kitten",
+        "MITRE Associated Names": [
+            "lemon sandstorm",
+            "parisite",
+            "pioneer kitten",
+            "rubidium",
+            "unc757"
+        ],
+        "Malpedia Actor Name": "fox kitten",
+        "Malpedia Aliases": [
+            "pioneer kitten",
+            "parisite",
+            "unc757",
+            "lemon sandstorm",
+            "rubidium",
+            "pioneerkitten"
+        ]
+    },
+    "G0093": {
+        "MITRE Group Name": "gallium",
+        "MITRE Associated Names": [
+            "granite typhoon"
+        ],
+        "Malpedia Actor Name": "gallium",
+        "Malpedia Aliases": [
+            "red dev 4",
+            "alloy taurus",
+            "granite typhoon",
+            "operation soft cell"
+        ]
+    },
+    "G0036": {
+        "MITRE Group Name": "gcman",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "gcman",
+        "Malpedia Aliases": [
+            "g0036"
+        ]
+    },
+    "G0115": {
+        "MITRE Group Name": "gold southfield",
+        "MITRE Associated Names": [
+            "pinchy spider"
+        ],
+        "Malpedia Actor Name": "gold southfield",
+        "Malpedia Aliases": []
+    },
+    "G0084": {
+        "MITRE Group Name": "gallmaker",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "gallmaker",
+        "Malpedia Aliases": []
+    },
+    "G0047": {
+        "MITRE Group Name": "gamaredon",
+        "MITRE Associated Names": [
+            "actinium",
+            "aqua blizzard",
+            "armageddon",
+            "dev-0157",
+            "iron tilden",
+            "primitive bear",
+            "shuckworm"
+        ],
+        "Malpedia Actor Name": "gamaredon",
+        "Malpedia Aliases": [
+            "actinium",
+            "dev-0157",
+            "blue otso",
+            "bluealpha",
+            "g0047",
+            "iron tilden",
+            "primitive bear",
+            "shuckworm",
+            "trident ursa",
+            "uac-0010",
+            "winterflounder",
+            "aqua blizzard",
+            "actinium",
+            "unc530",
+            "gamaredon"
+        ]
+    },
+    "G0078": {
+        "MITRE Group Name": "gorgon",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "the gorgon",
+        "Malpedia Aliases": [
+            "gorgon",
+            "subaat",
+            "atk92",
+            "g0078",
+            "pasty gemini"
+        ]
+    },
+    "G0043": {
+        "MITRE Group Name": "group5",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "group5",
+        "Malpedia Aliases": [
+            "g0043"
+        ]
+    },
+    "G0125": {
+        "MITRE Group Name": "hafnium",
+        "MITRE Associated Names": [
+            "operation exchange marauder",
+            "silk typhoon"
+        ],
+        "Malpedia Actor Name": "hafnium",
+        "Malpedia Aliases": [
+            "atk233",
+            "g0125",
+            "operation exchange marauder",
+            "red dev 13",
+            "silk typhoon"
+        ]
+    },
+    "G1001": {
+        "MITRE Group Name": "hexane",
+        "MITRE Associated Names": [
+            "lyceum",
+            "siamesekitten",
+            "spirlin"
+        ],
+        "Malpedia Actor Name": "lyceum",
+        "Malpedia Aliases": [
+            "cobalt lyceum",
+            "hexane",
+            "unc1530",
+            "spirlin",
+            "mysticdome",
+            "siamesekitten",
+            "chrono kitten",
+            "storm-0133"
+        ]
+    },
+    "G0126": {
+        "MITRE Group Name": "higaisa",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "higaisa",
+        "Malpedia Aliases": []
+    },
+    "G0100": {
+        "MITRE Group Name": "inception",
+        "MITRE Associated Names": [
+            "cloud atlas",
+            "inception"
+        ],
+        "Malpedia Actor Name": "inception",
+        "Malpedia Aliases": [
+            "clean ursa",
+            "cloud atlas",
+            "oxygen",
+            "g0100",
+            "atk116",
+            "blue odin"
+        ]
+    },
+    "G0136": {
+        "MITRE Group Name": "indigozebra",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "indigozebra",
+        "Malpedia Aliases": []
+    },
+    "G0119": {
+        "MITRE Group Name": "indrik spider",
+        "MITRE Associated Names": [
+            "dev-0243",
+            "evil corp",
+            "manatee tempest"
+        ],
+        "Malpedia Actor Name": "evil corp",
+        "Malpedia Aliases": [
+            "gold drake"
+        ]
+    },
+    "G0004": {
+        "MITRE Group Name": "ke3chang",
+        "MITRE Associated Names": [
+            "apt15",
+            "gref",
+            "mirage",
+            "nickel",
+            "nylon typhoon",
+            "playful dragon",
+            "royalapt",
+            "vixen panda"
+        ],
+        "Malpedia Actor Name": "apt15",
+        "Malpedia Aliases": [
+            "vixen panda",
+            "ke3chang",
+            "playful dragon",
+            "metushy",
+            "lurid",
+            "social network",
+            "royal apt",
+            "bronze palace",
+            "bronze davenport",
+            "bronze idlewood",
+            "nickel",
+            "g0004",
+            "red vulture",
+            "nylon typhoon",
+            "mirage"
+        ]
+    },
+    "G0094": {
+        "MITRE Group Name": "kimsuky",
+        "MITRE Associated Names": [
+            "black banshee",
+            "emerald sleet",
+            "thallium",
+            "velvet chollima"
+        ],
+        "Malpedia Actor Name": "kimsuky",
+        "Malpedia Aliases": [
+            "velvet chollima",
+            "black banshee",
+            "thallium",
+            "operation stolen pencil",
+            "g0086",
+            "apt43",
+            "emerald sleet",
+            "thallium",
+            "springtail",
+            "sparkling pisces"
+        ]
+    },
+    "G1004": {
+        "MITRE Group Name": "lapsus$",
+        "MITRE Associated Names": [
+            "dev-0537",
+            "strawberry tempest"
+        ],
+        "Malpedia Actor Name": "lapsus",
+        "Malpedia Aliases": [
+            "lapsus$",
+            "dev-0537",
+            "slippy spider",
+            "strawberry tempest"
+        ]
+    },
+    "G0032": {
+        "MITRE Group Name": "lazarus",
+        "MITRE Associated Names": [
+            "diamond sleet",
+            "guardians of peace",
+            "hidden cobra",
+            "labyrinth chollima",
+            "nickel academy",
+            "zinc"
+        ],
+        "Malpedia Actor Name": "lazarus",
+        "Malpedia Aliases": [
+            "operation darkseoul",
+            "dark seoul",
+            "hidden cobra",
+            "hastati",
+            "andariel",
+            "unit 121",
+            "bureau 121",
+            "newromanic cyber army",
+            "bluenoroff",
+            "subgroup: bluenoroff",
+            "group 77",
+            "labyrinth chollima",
+            "operation troy",
+            "operation ghostsecret",
+            "operation applejeus",
+            "apt38",
+            "apt 38",
+            "stardust chollima",
+            "whois hacking",
+            "zinc",
+            "appleworm",
+            "nickel academy",
+            "apt-c-26",
+            "nickel gladstone",
+            "covellite",
+            "atk3",
+            "g0032",
+            "atk117",
+            "g0082",
+            "citrine sleet",
+            "dev-0139",
+            "dev-1222",
+            "diamond sleet",
+            "zinc",
+            "sapphire sleet",
+            "copernicium",
+            "ta404",
+            "lazarus",
+            "beagleboyz",
+            "lazarus",
+            "genie spider"
+        ]
+    },
+    "G0077": {
+        "MITRE Group Name": "leafminer",
+        "MITRE Associated Names": [
+            "raspite"
+        ],
+        "Malpedia Actor Name": "raspite",
+        "Malpedia Aliases": [
+            "leafminer",
+            "raspite"
+        ]
+    },
+    "G0065": {
+        "MITRE Group Name": "leviathan",
+        "MITRE Associated Names": [
+            "apt40",
+            "bronze mohawk",
+            "gadolinium",
+            "gingham typhoon",
+            "kryptonite panda",
+            "mudcarp",
+            "jumper",
+            "periscope"
+        ],
+        "Malpedia Actor Name": "apt40",
+        "Malpedia Aliases": [
+            "periscope",
+            "jumper",
+            "leviathan",
+            "bronze mohawk",
+            "gadolinium",
+            "kryptonite panda",
+            "g0065",
+            "atk29",
+            "ta423",
+            "red ladon",
+            "itg09",
+            "mudcarp",
+            "islanddreams",
+            "gingham typhoon"
+        ]
+    },
+    "G0030": {
+        "MITRE Group Name": "lotus blossom",
+        "MITRE Associated Names": [
+            "dragonfish",
+            "radium",
+            "raspberry typhoon",
+            "spring dragon"
+        ],
+        "Malpedia Actor Name": "apt30",
+        "Malpedia Aliases": [
+            "g0013",
+            "raspberry typhoon",
+            "radium",
+            "lotusblossom"
+        ]
+    },
+    "G1014": {
+        "MITRE Group Name": "luminousmoth",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "mustang panda",
+        "Malpedia Aliases": [
+            "bronze president",
+            "honeymyte",
+            "red lich",
+            "hex",
+            "basin",
+            "earth preta",
+            "ta416",
+            "stately taurus",
+            "luminousmoth",
+            "polaris",
+            "tantalum",
+            "twill typhoon"
+        ]
+    },
+    "G0095": {
+        "MITRE Group Name": "machete",
+        "MITRE Associated Names": [
+            "apt-c-43",
+            "el machete"
+        ],
+        "Malpedia Actor Name": "el machete",
+        "Malpedia Aliases": [
+            "machete",
+            "machete-apt",
+            "apt-c-43",
+            "g0095"
+        ]
+    },
+    "G0059": {
+        "MITRE Group Name": "magic hound",
+        "MITRE Associated Names": [
+            "apt35",
+            "cobalt illusion",
+            "charming kitten",
+            "itg18",
+            "mint sandstorm",
+            "newscaster",
+            "phosphorus",
+            "ta453"
+        ],
+        "Malpedia Actor Name": "apt35",
+        "Malpedia Aliases": [
+            "newscaster",
+            "magic hound",
+            "g0059",
+            "phosphorus",
+            "mint sandstorm",
+            "tunnelvision",
+            "cobalt mirage",
+            "charming kitten"
+        ]
+    },
+    "G1026": {
+        "MITRE Group Name": "malteiro",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "malteiro",
+        "Malpedia Aliases": []
+    },
+    "G1013": {
+        "MITRE Group Name": "metador",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "metador",
+        "Malpedia Aliases": []
+    },
+    "G0002": {
+        "MITRE Group Name": "moafee",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "dragonok",
+        "Malpedia Aliases": [
+            "moafee",
+            "bronze overbrook",
+            "g0017",
+            "g0002",
+            "shallow taurus"
+        ]
+    },
+    "G0103": {
+        "MITRE Group Name": "mofang",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "mofang",
+        "Malpedia Aliases": [
+            "superman",
+            "bronze walker"
+        ]
+    },
+    "G0021": {
+        "MITRE Group Name": "molerats",
+        "MITRE Associated Names": [
+            "gaza cybergang",
+            "operation molerats"
+        ],
+        "Malpedia Actor Name": "molerats",
+        "Malpedia Aliases": [
+            "gaza hackers",
+            "gaza cybergang",
+            "gaza cybergang",
+            "operation molerats",
+            "extreme jackal",
+            "moonlight",
+            "aluminum saratoga",
+            "g0021",
+            "blackstem"
+        ]
+    },
+    "G1009": {
+        "MITRE Group Name": "moses staff",
+        "MITRE Associated Names": [
+            "dev-0500",
+            "marigold sandstorm"
+        ],
+        "Malpedia Actor Name": "mosesstaff",
+        "Malpedia Aliases": [
+            "moses staff",
+            "marigold sandstorm",
+            "dev-0500"
+        ]
+    },
+    "G1019": {
+        "MITRE Group Name": "moustachedbouncer",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "moustachedbouncer",
+        "Malpedia Aliases": []
+    },
+    "G0069": {
+        "MITRE Group Name": "muddywater",
+        "MITRE Associated Names": [
+            "earth vetala",
+            "mercury",
+            "mango sandstorm",
+            "seedworm",
+            "static kitten",
+            "ta450",
+            "zagros"
+        ],
+        "Malpedia Actor Name": "muddywater",
+        "Malpedia Aliases": [
+            "zagros",
+            "static kitten",
+            "seedworm",
+            "mercury",
+            "cobalt ulster",
+            "g0069",
+            "atk51",
+            "boggy serpens",
+            "mango sandstorm",
+            "ta450",
+            "earth vetala"
+        ]
+    },
+    "G0129": {
+        "MITRE Group Name": "mustang panda",
+        "MITRE Associated Names": [
+            "bronze president",
+            "reddelta",
+            "ta416"
+        ],
+        "Malpedia Actor Name": "mustang panda",
+        "Malpedia Aliases": [
+            "bronze president",
+            "honeymyte",
+            "red lich",
+            "hex",
+            "basin",
+            "earth preta",
+            "ta416",
+            "stately taurus",
+            "luminousmoth",
+            "polaris",
+            "tantalum",
+            "twill typhoon"
+        ]
+    },
+    "G1020": {
+        "MITRE Group Name": "mustard tempest",
+        "MITRE Associated Names": [
+            "dev-0206",
+            "gold prelude",
+            "ta569",
+            "unc1543"
+        ],
+        "Malpedia Actor Name": "gold prelude",
+        "Malpedia Aliases": [
+            "ta569",
+            "unc1543"
+        ]
+    },
+    "G0055": {
+        "MITRE Group Name": "neodymium",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "neodymium",
+        "Malpedia Aliases": [
+            "g0055"
+        ]
+    },
+    "G0019": {
+        "MITRE Group Name": "naikon",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "naikon",
+        "Malpedia Aliases": [
+            "pla unit 78020",
+            "override panda",
+            "camerashy",
+            "bronze geneva",
+            "g0019",
+            "naikon",
+            "bronze sterling",
+            "g0013"
+        ]
+    },
+    "G0133": {
+        "MITRE Group Name": "nomadic octopus",
+        "MITRE Associated Names": [
+            "dustsquad"
+        ],
+        "Malpedia Actor Name": "dustsquad",
+        "Malpedia Aliases": [
+            "nomadic octopus"
+        ]
+    },
+    "G0049": {
+        "MITRE Group Name": "oilrig",
+        "MITRE Associated Names": [
+            "apt34",
+            "cobalt gypsy",
+            "europium",
+            "evasive serpens",
+            "hazel sandstorm",
+            "helix kitten",
+            "irn2"
+        ],
+        "Malpedia Actor Name": "chrysene",
+        "Malpedia Aliases": [
+            "oilrig",
+            "greenbug",
+            "hazel sandstorm",
+            "europium",
+            "cobalt gypsy",
+            "apt34"
+        ]
+    },
+    "G0071": {
+        "MITRE Group Name": "orangeworm",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "orangeworm",
+        "Malpedia Aliases": []
+    },
+    "G0068": {
+        "MITRE Group Name": "platinum",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "platinum",
+        "Malpedia Aliases": [
+            "twoforone",
+            "g0068",
+            "atk33"
+        ]
+    },
+    "G1005": {
+        "MITRE Group Name": "polonium",
+        "MITRE Associated Names": [
+            "plaid rain"
+        ],
+        "Malpedia Actor Name": "polonium",
+        "Malpedia Aliases": [
+            "plaid rain",
+            "unc4453",
+            "greatrift"
+        ]
+    },
+    "G0056": {
+        "MITRE Group Name": "promethium",
+        "MITRE Associated Names": [
+            "strongpity"
+        ],
+        "Malpedia Actor Name": "promethium",
+        "Malpedia Aliases": [
+            "strongpity",
+            "g0056"
+        ]
+    },
+    "G0040": {
+        "MITRE Group Name": "patchwork",
+        "MITRE Associated Names": [
+            "chinastrats",
+            "dropping elephant",
+            "hangover",
+            "monsoon",
+            "operation hangover"
+        ],
+        "Malpedia Actor Name": "quilted tiger",
+        "Malpedia Aliases": [
+            "chinastrats",
+            "patchwork",
+            "monsoon",
+            "sarit",
+            "dropping elephant",
+            "apt-c-09",
+            "zinc emerson",
+            "atk11",
+            "g0040",
+            "orange athos",
+            "thirsty gemini"
+        ]
+    },
+    "G0011": {
+        "MITRE Group Name": "pittytiger",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "apt24",
+        "Malpedia Aliases": [
+            "pitty panda",
+            "g0011",
+            "pittytiger"
+        ]
+    },
+    "G0033": {
+        "MITRE Group Name": "poseidon",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "poseidon",
+        "Malpedia Aliases": [
+            "g0033"
+        ]
+    },
+    "G0024": {
+        "MITRE Group Name": "putter panda",
+        "MITRE Associated Names": [
+            "apt2",
+            "msupdater"
+        ],
+        "Malpedia Actor Name": "apt2",
+        "Malpedia Aliases": [
+            "pla unit 61486",
+            "putter panda",
+            "msupdater",
+            "4hcrew",
+            "sulphur",
+            "searchfire",
+            "tg-6952",
+            "g0024"
+        ]
+    },
+    "G0048": {
+        "MITRE Group Name": "rtm",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "rtm",
+        "Malpedia Aliases": [
+            "g0048"
+        ]
+    },
+    "G0075": {
+        "MITRE Group Name": "rancor",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "rancor",
+        "Malpedia Aliases": [
+            "rancor",
+            "rancor",
+            "rancor",
+            "g0075",
+            "rancor taurus"
+        ]
+    },
+    "G0106": {
+        "MITRE Group Name": "rocke",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "rocke",
+        "Malpedia Aliases": [
+            "aged libra"
+        ]
+    },
+    "G0034": {
+        "MITRE Group Name": "sandworm",
+        "MITRE Associated Names": [
+            "blackenergy (group)",
+            "electrum",
+            "frozenbarents",
+            "iridium",
+            "iron viking",
+            "quedagh",
+            "seashell blizzard",
+            "telebots",
+            "voodoo bear"
+        ],
+        "Malpedia Actor Name": "iridium",
+        "Malpedia Aliases": [
+            "seashell blizzard",
+            "sandworm"
+        ]
+    },
+    "G0029": {
+        "MITRE Group Name": "scarlet mimic",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "scarlet mimic",
+        "Malpedia Aliases": [
+            "g0029",
+            "golfing taurus"
+        ]
+    },
+    "G1015": {
+        "MITRE Group Name": "scattered spider",
+        "MITRE Associated Names": [
+            "octo tempest",
+            "roasted 0ktapus",
+            "storm-0875"
+        ],
+        "Malpedia Actor Name": "scattered spider",
+        "Malpedia Aliases": [
+            "unc3944",
+            "muddled libra",
+            "oktapus",
+            "scattered swine",
+            "scatter swine",
+            "octo tempest",
+            "0ktapus",
+            "storm-0971",
+            "dev-0971",
+            "starfraud"
+        ]
+    },
+    "G1008": {
+        "MITRE Group Name": "sidecopy",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "sidecopy",
+        "Malpedia Aliases": []
+    },
+    "G0121": {
+        "MITRE Group Name": "sidewinder",
+        "MITRE Associated Names": [
+            "rattlesnake",
+            "t-apt-04"
+        ],
+        "Malpedia Actor Name": "razor tiger",
+        "Malpedia Aliases": [
+            "sidewinder",
+            "rattlesnake",
+            "apt-c-17",
+            "t-apt-04"
+        ]
+    },
+    "G0091": {
+        "MITRE Group Name": "silence",
+        "MITRE Associated Names": [
+            "whisper spider"
+        ],
+        "Malpedia Actor Name": "silence",
+        "Malpedia Aliases": [
+            "silence",
+            "whisper spider"
+        ]
+    },
+    "G0122": {
+        "MITRE Group Name": "silent librarian",
+        "MITRE Associated Names": [
+            "cobalt dickens",
+            "ta407"
+        ],
+        "Malpedia Actor Name": "silent librarian",
+        "Malpedia Aliases": [
+            "cobalt dickens",
+            "mabna institute",
+            "ta407",
+            "ta4900",
+            "yellow nabu"
+        ]
+    },
+    "G0083": {
+        "MITRE Group Name": "silverterrier",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "silverterrier",
+        "Malpedia Aliases": []
+    },
+    "G0054": {
+        "MITRE Group Name": "sowbug",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "sowbug",
+        "Malpedia Aliases": [
+            "g0054"
+        ]
+    },
+    "G0038": {
+        "MITRE Group Name": "stealth falcon",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "stealth falcon",
+        "Malpedia Aliases": [
+            "fruityarmor",
+            "g0038"
+        ]
+    },
+    "G0041": {
+        "MITRE Group Name": "strider",
+        "MITRE Associated Names": [
+            "projectsauron"
+        ],
+        "Malpedia Actor Name": "projectsauron",
+        "Malpedia Aliases": [
+            "strider",
+            "sauron",
+            "project sauron",
+            "g0041"
+        ]
+    },
+    "G0039": {
+        "MITRE Group Name": "suckfly",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "apt22",
+        "Malpedia Aliases": [
+            "g0039",
+            "suckfly",
+            "bronze olive",
+            "group 46"
+        ]
+    },
+    "G1018": {
+        "MITRE Group Name": "ta2541",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "ta2541",
+        "Malpedia Aliases": []
+    },
+    "G0062": {
+        "MITRE Group Name": "ta459",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "ta459",
+        "Malpedia Aliases": [
+            "g0062"
+        ]
+    },
+    "G0092": {
+        "MITRE Group Name": "ta505",
+        "MITRE Associated Names": [
+            "chimborazo",
+            "hive0065",
+            "spandex tempest"
+        ],
+        "Malpedia Actor Name": "fin11",
+        "Malpedia Aliases": [
+            "warlock",
+            "unc902",
+            "lace tempest",
+            "dev-0950",
+            "ta505"
+        ]
+    },
+    "G0127": {
+        "MITRE Group Name": "ta551",
+        "MITRE Associated Names": [
+            "gold cabin",
+            "shathak"
+        ],
+        "Malpedia Actor Name": "gold cabin",
+        "Malpedia Aliases": [
+            "shakthak",
+            "ta551",
+            "atk236",
+            "g0127",
+            "monster libra"
+        ]
+    },
+    "G0088": {
+        "MITRE Group Name": "veles",
+        "MITRE Associated Names": [
+            "xenotime"
+        ],
+        "Malpedia Actor Name": "veles",
+        "Malpedia Aliases": [
+            "xenotime",
+            "g0088",
+            "atk91"
+        ]
+    },
+    "G0139": {
+        "MITRE Group Name": "teamtnt",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "teamtnt",
+        "Malpedia Aliases": [
+            "adept libra"
+        ]
+    },
+    "G0027": {
+        "MITRE Group Name": "tg-3390",
+        "MITRE Associated Names": [
+            "apt27",
+            "bronze union",
+            "earth smilodon",
+            "emissary panda",
+            "iron tiger",
+            "luckymouse",
+            "tg-3390"
+        ],
+        "Malpedia Actor Name": "apt27",
+        "Malpedia Aliases": [
+            "greedytaotie",
+            "tg-3390",
+            "emissary panda",
+            "hippo",
+            "red phoenix",
+            "budworm",
+            "group 35",
+            "ziptoken",
+            "iron tiger",
+            "bronze union",
+            "lucky mouse",
+            "g0027",
+            "iron taurus",
+            "earth smilodon"
+        ]
+    },
+    "G0076": {
+        "MITRE Group Name": "thrip",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "thrip",
+        "Malpedia Aliases": [
+            "g0076",
+            "atk78"
+        ]
+    },
+    "G1022": {
+        "MITRE Group Name": "toddycat",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "toddycat",
+        "Malpedia Aliases": [
+            "websiic"
+        ]
+    },
+    "G0131": {
+        "MITRE Group Name": "tonto",
+        "MITRE Associated Names": [
+            "bronze huntley",
+            "cactuspete",
+            "earth akhlut",
+            "karma panda"
+        ],
+        "Malpedia Actor Name": "tonto",
+        "Malpedia Aliases": [
+            "cactuspete",
+            "karma panda",
+            "bronze huntley",
+            "copper",
+            "red beifang",
+            "g0131",
+            "pla unit 65017",
+            "earth akhlut",
+            "tag-74"
+        ]
+    },
+    "G0134": {
+        "MITRE Group Name": "transparent tribe",
+        "MITRE Associated Names": [
+            "apt36",
+            "copper fieldstone",
+            "mythic leopard",
+            "projectm"
+        ],
+        "Malpedia Actor Name": "operation c-major",
+        "Malpedia Aliases": [
+            "c-major",
+            "transparent tribe",
+            "mythic leopard",
+            "projectm",
+            "apt36",
+            "apt 36",
+            "tmp lapis",
+            "green havildar",
+            "copper fieldstone",
+            "earth karkaddan",
+            "storm-0156"
+        ]
+    },
+    "G0081": {
+        "MITRE Group Name": "tropic trooper",
+        "MITRE Associated Names": [
+            "keyboy",
+            "pirate panda"
+        ],
+        "Malpedia Actor Name": "apt23",
+        "Malpedia Aliases": [
+            "pirate panda",
+            "keyboy",
+            "tropic trooper",
+            "bronze hobart",
+            "g0081",
+            "red orthrus",
+            "earth centaur"
+        ]
+    },
+    "G0010": {
+        "MITRE Group Name": "turla",
+        "MITRE Associated Names": [
+            "belugasturgeon",
+            "group 88",
+            "iron hunter",
+            "krypton",
+            "secret blizzard",
+            "snake",
+            "venomous bear",
+            "waterbug",
+            "whitebear"
+        ],
+        "Malpedia Actor Name": "turla",
+        "Malpedia Aliases": [
+            "snake",
+            "venomous bear",
+            "group 88",
+            "waterbug",
+            "wraith",
+            "uroburos",
+            "pfinet",
+            "tag_0530",
+            "krypton",
+            "hippo",
+            "pacifier apt",
+            "popeye",
+            "sig23",
+            "iron hunter",
+            "makersmark",
+            "atk13",
+            "g0010",
+            "itg12",
+            "blue python",
+            "summit",
+            "unc4210",
+            "secret blizzard",
+            "uac-0144",
+            "uac-0024",
+            "uac-0003"
+        ]
+    },
+    "G0123": {
+        "MITRE Group Name": "volatile cedar",
+        "MITRE Associated Names": [
+            "lebanese cedar"
+        ],
+        "Malpedia Actor Name": "volatile cedar",
+        "Malpedia Aliases": [
+            "lebanese cedar",
+            "defttorero"
+        ]
+    },
+    "G1017": {
+        "MITRE Group Name": "volt typhoon",
+        "MITRE Associated Names": [
+            "bronze silhouette"
+        ],
+        "Malpedia Actor Name": "volt typhoon",
+        "Malpedia Aliases": [
+            "bronze silhouette",
+            "vanguard panda",
+            "unc3236",
+            "insidious taurus",
+            "voltzite",
+            "dev-0391",
+            "storm-0391"
+        ]
+    },
+    "G0090": {
+        "MITRE Group Name": "wirte",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "wirte",
+        "Malpedia Aliases": []
+    },
+    "G0107": {
+        "MITRE Group Name": "whitefly",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "whitefly",
+        "Malpedia Aliases": []
+    },
+    "G0112": {
+        "MITRE Group Name": "windshift",
+        "MITRE Associated Names": [
+            "bahamut"
+        ],
+        "Malpedia Actor Name": "bahamut",
+        "Malpedia Aliases": []
+    },
+    "G0044": {
+        "MITRE Group Name": "winnti",
+        "MITRE Associated Names": [
+            "blackfly"
+        ],
+        "Malpedia Actor Name": "apt41",
+        "Malpedia Aliases": [
+            "g0096",
+            "ta415",
+            "blackfly",
+            "grayfly",
+            "lead",
+            "barium",
+            "wicked spider",
+            "wicked panda",
+            "bronze atlas",
+            "bronze export",
+            "red kelpie",
+            "g0044",
+            "earth baku",
+            "amoeba",
+            "hoodoo",
+            "brass typhoon"
+        ]
+    },
+    "G0102": {
+        "MITRE Group Name": "wizard spider",
+        "MITRE Associated Names": [
+            "dev-0193",
+            "fin12",
+            "gold blackburn",
+            "grim spider",
+            "itg23",
+            "periwinkle tempest",
+            "mixmaster",
+            "unc1878"
+        ],
+        "Malpedia Actor Name": "grim spider",
+        "Malpedia Aliases": [
+            "gold ulrick"
+        ]
+    },
+    "G0128": {
+        "MITRE Group Name": "zirconium",
+        "MITRE Associated Names": [
+            "apt31",
+            "violet typhoon"
+        ],
+        "Malpedia Actor Name": "apt31",
+        "Malpedia Aliases": [
+            "zirconium",
+            "judgment panda",
+            "bronze vinewood",
+            "red keres",
+            "violet typhoon",
+            "ta412",
+            "zirconium"
+        ]
+    },
+    "G0018": {
+        "MITRE Group Name": "admin@338",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "temper panda",
+        "Malpedia Aliases": [
+            "admin338",
+            "team338",
+            "magnesium",
+            "admin@338",
+            "g0018"
+        ]
+    },
+    "G0045": {
+        "MITRE Group Name": "menupass",
+        "MITRE Associated Names": [
+            "apt10",
+            "bronze riverside",
+            "cvnx",
+            "cicada",
+            "hogfish",
+            "potassium",
+            "red apollo",
+            "stone panda"
+        ],
+        "Malpedia Actor Name": "apt10",
+        "Malpedia Aliases": [
+            "stone panda",
+            "menupass",
+            "happyyongzi",
+            "potassium",
+            "red apollo",
+            "cvnx",
+            "hogfish",
+            "cloud hopper",
+            "bronze riverside",
+            "atk41",
+            "g0045",
+            "granite taurus",
+            "ta429",
+            "cicada"
+        ]
+    },
+    "G1000": {
+        "MITRE Group Name": "allanite",
+        "MITRE Associated Names": [
+            "palmetto fusion"
+        ],
+        "Malpedia Actor Name": "allanite",
+        "Malpedia Aliases": [
+            "palmetto fusion",
+            "allanite"
+        ]
+    },
+    "G0097": {
+        "MITRE Group Name": "bouncing golf",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "domestic kitten",
+        "Malpedia Aliases": [
+            "bouncing golf",
+            "apt-c-50"
+        ]
+    },
+    "G1029": {
+        "MITRE Group Name": "unc788",
+        "MITRE Associated Names": [],
+        "Malpedia Actor Name": "apt42",
+        "Malpedia Aliases": [
+            "unc788",
+            "calanque"
+        ]
+    }
+}

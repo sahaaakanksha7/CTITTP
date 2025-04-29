@@ -1,0 +1,2681 @@
+{
+    "G0029": {
+        "hashes": [
+            {
+                "hash": "01013cf6279b80455fe4ba861e6d17d43c028993ec341c9783a296064e301141",
+                "cves": [
+                    "CVE-2009-3129",
+                    "CVE-2010-2572",
+                    "CVE-2010-2883",
+                    "CVE-2010-3333",
+                    "CVE-2012-0158",
+                    "CVE-2012-4969"
+                ]
+            },
+            {
+                "hash": "3e1e80a1f4203616cae20936977cf8f5b3cd286acf3a93b7b320b43ca3b85250",
+                "cves": [
+                    "CVE-2009-3129",
+                    "CVE-2010-2572",
+                    "CVE-2010-2883",
+                    "CVE-2010-3333",
+                    "CVE-2012-0158",
+                    "CVE-2012-4969"
+                ]
+            }
+        ],
+        "url": "http://researchcenter.paloaltonetworks.com/2016/01/scarlet-mimic-years-long-espionage-targets-minority-activists/"
+    },
+    "G1015": {
+        "hashes": [
+            {
+                "hash": "0117f3274457ff7944601d7cea119ddb9beefa8fd8e89d0c92af7f3a0c7bd8aa",
+                "cves": [
+                    "CVE-2015-2291",
+                    "CVE-2021-3490"
+                ]
+            },
+            {
+                "hash": "6f78134c12971bd5c57e413e9b5f2f799c47f604292256befd295f1b6bda0e91",
+                "cves": [
+                    "CVE-2021-35464"
+                ]
+            }
+        ],
+        "url": "https://www.crowdstrike.com/blog/scattered-spider-attempts-to-avoid-detection-with-bring-your-own-vulnerable-driver-tactic/"
+    },
+    "G0100": {
+        "hashes": [
+            {
+                "hash": "034323fb0c05df32a2dac579154149fde74fb0744bd17c9513a7a7ef02760d43",
+                "cves": [
+                    "CVE-2012-0158"
+                ]
+            },
+            {
+                "hash": "03db094cc9687b62a11e749f1ec7484cb24c7464a3ba2ca47a7bb09b105df445",
+                "cves": [
+                    "CVE-2012-1856",
+                    "CVE-2017-11882"
+                ]
+            },
+            {
+                "hash": "3b4924b4d9bf42a740d5129b5b71435bae749056675c1f17e0f0ff4c87eeb978",
+                "cves": [
+                    "CVE-2012-0158",
+                    "CVE-2014-1761"
+                ]
+            },
+            {
+                "hash": "939bffd9450589329869be77a4039c7d6cca69243ce8e8fac705e0347aa1a8cd",
+                "cves": [
+                    "CVE-2017-11882",
+                    "CVE-2018-0802"
+                ]
+            }
+        ],
+        "url": "https://securelist.com/cloud-atlas-redoctober-apt-is-back-in-style/68083/"
+    },
+    "G1007": {
+        "hashes": [
+            {
+                "hash": "0382a53442f0a3f298a88663c233b9dd8b0673be66032978e6d70d62e5ce7de7",
+                "cves": [
+                    "CVE-2010-3333",
+                    "CVE-2012-0158",
+                    "CVE-2014-6332"
+                ]
+            },
+            {
+                "hash": "a8b57ca7b883775ce7afccce01adf6c315428393a41860ce4fda8be396d36716",
+                "cves": [
+                    "CVE-2010-3333",
+                    "CVE-2012-0158",
+                    "CVE-2014-6332"
+                ]
+            }
+        ],
+        "url": "https://www.sentinelone.com/labs/aoqin-dragon-newly-discovered-chinese-linked-apt-has-been-quietly-spying-on-organizations-for-10-years/"
+    },
+    "G0126": {
+        "hashes": [
+            {
+                "hash": "03a0a23b2758e6f7789aab0091ac74ec223d8f827d31e51d1a7c51cdbadccaf1",
+                "cves": [
+                    "CVE-2018-0798"
+                ]
+            },
+            {
+                "hash": "aa8f1a0936678c6fd66da7350fa5a9c4b3065f41b5ebf54b9ff20adb7fdc9086",
+                "cves": [
+                    "CVE-2023-3519"
+                ]
+            },
+            {
+                "hash": "ef59b4f3ae8057f1f769ad57d09a1dd4815a6445a1577be0f9a11e5be0a4b5c5",
+                "cves": [
+                    "CVE-2023-3519"
+                ]
+            }
+        ],
+        "url": "https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/covid-19-and-new-year-greetings-the-higaisa-group/"
+    },
+    "G0121": {
+        "hashes": [
+            {
+                "hash": "03dd7683357977cb6e4ae1b6d95fc969c26e3b7b981742bb3149fc77f651fc9d",
+                "cves": [
+                    "CVE-2024-9284"
+                ]
+            },
+            {
+                "hash": "64fc1708824717655847a396d4b9eb3a0455a247fb13c940404d7a198d000520",
+                "cves": [
+                    "CVE-2017-0199",
+                    "CVE-2017-11882",
+                    "CVE-2019-2215",
+                    "CVE-2020-0674"
+                ]
+            },
+            {
+                "hash": "e9fc1254f6627bc50cd52c3e154b617b833d12fa9f7ec4ed8594930d5c658136",
+                "cves": [
+                    "CVE-2024-9284"
+                ]
+            }
+        ],
+        "url": "https://www.rewterz.com/threats/sidewinder-apt-group-campaign-analysis"
+    },
+    "G0052": {
+        "hashes": [
+            {
+                "hash": "06466205ef73efc72a160b21586d4bd287b70ab68d6a7f10b8c9637d1614d619",
+                "cves": [
+                    "CVE-2017-0199"
+                ]
+            },
+            {
+                "hash": "215b900d896427ff97601fa75f812df461461617e2620b92faa8907360135d58",
+                "cves": [
+                    "CVE-2018-13379"
+                ]
+            }
+        ],
+        "url": "https://www.clearskysec.com/wp-content/uploads/2017/07/Operation_Wilted_Tulip.pdf"
+    },
+    "G1023": {
+        "hashes": [
+            {
+                "hash": "06db6dc1f267e20791686771bf008d7deb58114da6766a24f76a5747233f3a72",
+                "cves": [
+                    "CVE-2022-27518"
+                ]
+            },
+            {
+                "hash": "1cbc45b812f502ae67774a80339463b09f3997e82121a4dde4135ad421f7d9fd",
+                "cves": [
+                    "CVE-2021-22893"
+                ]
+            },
+            {
+                "hash": "29f6711ea3621624fa9a937f5215dea37d8307cec8936743a41eb1868fc8d2b0",
+                "cves": [
+                    "CVE-2021-22893"
+                ]
+            },
+            {
+                "hash": "57826f3e413c93f28c5a2ab3034ab095d1ffa8b3a5c344ba43faa1c28d0aa5de",
+                "cves": [
+                    "CVE-2021-20021",
+                    "CVE-2021-20023",
+                    "CVE-2021-22893"
+                ]
+            },
+            {
+                "hash": "8ae87e31a626efb12b6f60ddfbd525d3a72890a0610065883022053510d2dec4",
+                "cves": [
+                    "CVE-2021-20021",
+                    "CVE-2021-20023",
+                    "CVE-2021-22893"
+                ]
+            }
+        ],
+        "url": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1aFyW"
+    },
+    "G0065": {
+        "hashes": [
+            {
+                "hash": "07d125be24ddf4f060f923559ba51e7136b0b4e4263779a42ea81991122c5060",
+                "cves": [
+                    "CVE-2018-0802"
+                ]
+            },
+            {
+                "hash": "f64f61744c0f224e788d79adad3e7817b4bb16f663dcdbbaf37a99a8b19c2fa0",
+                "cves": [
+                    "CVE-2017-0199",
+                    "CVE-2017-8759"
+                ]
+            }
+        ],
+        "url": "https://www.crowdstrike.com/blog/two-birds-one-stone-panda/"
+    },
+    "G0115": {
+        "hashes": [
+            {
+                "hash": "0a211967b65a33f034d11d10b957f6e7c9b2ee9f3d1444ae5f4fa9e58f145037",
+                "cves": [
+                    "CVE-2018-8453"
+                ]
+            },
+            {
+                "hash": "33cd3598f668d10d89b6dc30b94ddc92e67b93fffac309ae6e23a60deb8cab2c",
+                "cves": [
+                    "CVE-2018-8453"
+                ]
+            },
+            {
+                "hash": "51c3f9591e97b0fea2817d75313b851ebf91aa4788403b11165c5eec2b1e7a4f",
+                "cves": [
+                    "CVE-2018-8453"
+                ]
+            },
+            {
+                "hash": "cb631080634d48a72cd2ab17cfb356fb99c81ee571f83ab204ca85269acbc617",
+                "cves": [
+                    "CVE-2018-8453"
+                ]
+            }
+        ],
+        "url": "https://www.secureworks.com/blog/revil-the-gandcrab-connection"
+    },
+    "G0139": {
+        "hashes": [
+            {
+                "hash": "0bf616f861446bbe94673779d6ca1f2fa6eda49681c709b06054c670516beb43",
+                "cves": [
+                    "CVE-2023-20198",
+                    "CVE-2023-20273"
+                ]
+            },
+            {
+                "hash": "327044eac551b6ab09bb550ac9b988980bdf632e7d995f991a6dd5e334c3280a",
+                "cves": [
+                    "CVE-2024-3094",
+                    "CVE-2024-6387"
+                ]
+            },
+            {
+                "hash": "7966f3fc8e5c4235197806471870307e04b0fad144023360455c26fff939121f",
+                "cves": [
+                    "CVE-2019-5736",
+                    "CVE-2024-3094",
+                    "CVE-2024-6387"
+                ]
+            },
+            {
+                "hash": "7d72910f7b9033e44630e044ddc79d2bfaa4e9ab0c5cab4a73ea74b99c7ce20b",
+                "cves": [
+                    "CVE-2021-44228"
+                ]
+            },
+            {
+                "hash": "f9191efd15833a2cdf1f6224f550995a55df514731d43b429866df6dc1a15afc",
+                "cves": [
+                    "CVE-2024-3094",
+                    "CVE-2024-6387"
+                ]
+            }
+        ],
+        "url": "https://blog.talosintelligence.com/teamtnt-targeting-aws-alibaba-2/"
+    },
+    "G0032": {
+        "hashes": [
+            {
+                "hash": "0c09541610dfde448e523544681a82901365f9f7bfb398319a42972ed098f5a6",
+                "cves": [
+                    "CVE-2017-0199"
+                ]
+            },
+            {
+                "hash": "15c58b80e85b86de017a35511aeac17af9a30c78a9704da232ca727d5772c114",
+                "cves": [
+                    "CVE-2021-1647"
+                ]
+            },
+            {
+                "hash": "2d20f14654c370bc7b49aa106b6f07f4385a5f3d6afbaa32176f35a6422f65dd",
+                "cves": [
+                    "CVE-2017-0199"
+                ]
+            },
+            {
+                "hash": "6d7e260ab64115eeabfa429ff13ad01b385fe094115d05e16b0b4afbe54aba20",
+                "cves": [
+                    "CVE-2018-20250",
+                    "CVE-2018-202501"
+                ]
+            },
+            {
+                "hash": "d3e34910c548833acb2df3ebeb6ce068260a949cdf666d081e6ae9b802fcb4dd",
+                "cves": [
+                    "CVE-2015-8651",
+                    "CVE-2016-0034",
+                    "CVE-2016-1019",
+                    "CVE-2016-4117"
+                ]
+            }
+        ],
+        "url": "https://us-cert.cisa.gov/ncas/analysis-reports/ar20-232a"
+    },
+    "G0069": {
+        "hashes": [
+            {
+                "hash": "0c4e350517502f10c3986a7e20d7ce2b78fbc417a36aa22a370a56b124026e9b",
+                "cves": [
+                    "CVE-2017-0199",
+                    "CVE-2020-0688",
+                    "CVE-2020-1472"
+                ]
+            },
+            {
+                "hash": "27b07e075aa8f6bd3381155c2d79c9967395d9b37f72d4f7522daf61581c98d0",
+                "cves": [
+                    "CVE-2017-0199",
+                    "CVE-2017-01995"
+                ]
+            },
+            {
+                "hash": "9a198d0b7923f4675cd2abdbf897d94f9087081ee9b1265a1f5f28b0502728a2",
+                "cves": [
+                    "CVE-2023-20198",
+                    "CVE-2023-20273"
+                ]
+            }
+        ],
+        "url": "https://www.cisa.gov/uscert/ncas/alerts/aa22-055a"
+    },
+    "G0027": {
+        "hashes": [
+            {
+                "hash": "0c5e38490d0b3a448506205a7ba7a6b2bcc127114391686cdfb13389d76649b1",
+                "cves": [
+                    "CVE-2017-11882"
+                ]
+            },
+            {
+                "hash": "0ee0188570a9b7be54fc358a55706a3810221bfb0458830e1cd18165af8e0caf",
+                "cves": [
+                    "CVE-2017-0144",
+                    "CVE-2019-0604"
+                ]
+            },
+            {
+                "hash": "4b7e1472a9866ce28446fd90d653a84e8c65f6f5f6118334d89c9a451fa51235",
+                "cves": [
+                    "CVE-2010-0738",
+                    "CVE-2011-3544"
+                ]
+            },
+            {
+                "hash": "508552e8284daddc5af1a15685f6dd2287f3dcfe1b7d4a615339330b0b80f6ad",
+                "cves": [
+                    "CVE-2010-0738",
+                    "CVE-2011-3544"
+                ]
+            },
+            {
+                "hash": "574ecf7f96eca16ae42d3a384f023b8173dae90c4a939a95c28257d18f1419d8",
+                "cves": [
+                    "CVE-2014-6324"
+                ]
+            },
+            {
+                "hash": "589d3702e11420ef2286b1b645538bae4dc1038fe022e5f3f25c408011c82995",
+                "cves": [
+                    "CVE-2017-0213"
+                ]
+            },
+            {
+                "hash": "6d374afe4a0dd3a764bc4c5d738284c31639d19d6373d23f4aa401b8d85fd249",
+                "cves": [
+                    "CVE-2017-11882"
+                ]
+            },
+            {
+                "hash": "74e6072a31b3a396d6fb713d2df5657acf47edad44157896ad1de72c00ee06a0",
+                "cves": [
+                    "CVE-2010-0738",
+                    "CVE-2011-3544"
+                ]
+            },
+            {
+                "hash": "81312ff2153a3f6ca2ebf723f253af2a97bf0682a3ced81d3138ef835cc94e34",
+                "cves": [
+                    "CVE-2017-0213"
+                ]
+            },
+            {
+                "hash": "842de86b924e19b49d83e62ea5ec25edab44ea6697f3061a89886e860d101912",
+                "cves": [
+                    "CVE-2017-11882"
+                ]
+            },
+            {
+                "hash": "9f73743f565f8d5d8e25982fb3b323baf678d9a943922d12ac535748b706fd7a",
+                "cves": [
+                    "CVE-2017-15303",
+                    "CVE-2018-0798",
+                    "CVE-2019-0604",
+                    "CVE-2020-0688",
+                    "CVE-2021-26855",
+                    "CVE-2021-26857",
+                    "CVE-2021-26858",
+                    "CVE-2021-27065"
+                ]
+            },
+            {
+                "hash": "9faf6ec678fcf39efa91445e327920773beb4782e0fccc266a4b70d66376b34d",
+                "cves": [
+                    "CVE-2010-0738",
+                    "CVE-2011-3544"
+                ]
+            },
+            {
+                "hash": "b60ebc32409e27b9cbff7cc73c47dac1115cd4d7659487eba5805e020fa00a34",
+                "cves": [
+                    "CVE-2017-15303",
+                    "CVE-2018-0798",
+                    "CVE-2019-0604",
+                    "CVE-2020-0688",
+                    "CVE-2021-26855",
+                    "CVE-2021-26857",
+                    "CVE-2021-26858",
+                    "CVE-2021-27065"
+                ]
+            },
+            {
+                "hash": "cf254720ea0b710c9cd8595c7af8203104c6e5c19a2e3d27cd9bfdf15cb2c64d",
+                "cves": [
+                    "CVE-2014-6324"
+                ]
+            }
+        ],
+        "url": "https://thehackernews.com/2018/06/chinese-watering-hole-attack.html"
+    },
+    "G1017": {
+        "hashes": [
+            {
+                "hash": "0c72876b5a7098476a63301729742264941233d316825f2e6edd0ab18b2f8b77",
+                "cves": [
+                    "CVE-2021-40539"
+                ]
+            },
+            {
+                "hash": "1ba216c39a5dd90c9f7549235eca363a31ccb6532ff4bef1cae7b1d4b023f7d3",
+                "cves": [
+                    "CVE-2021-27860",
+                    "CVE-2021-40539"
+                ]
+            },
+            {
+                "hash": "e73fb01b49d30a11dc8a1d1e8fc1fb7b8beee2cb1b0c13c66d591109754de6d5",
+                "cves": [
+                    "CVE-2024-7971"
+                ]
+            },
+            {
+                "hash": "f3f442eb3314fdb2605bc6000cba7a92a24749a417139cb62facfe06a369a6f1",
+                "cves": [
+                    "CVE-2021-40539"
+                ]
+            }
+        ],
+        "url": "https://www.secureworks.com/blog/chinese-cyberespionage-group-bronze-silhouette-targets-us-government-and-defense-organizations"
+    },
+    "G0046": {
+        "hashes": [
+            {
+                "hash": "0e7269444780474e1d67f83cd6bde958d19b664e3b5269c993828ce765079c5d",
+                "cves": [
+                    "CVE-2020-1472"
+                ]
+            },
+            {
+                "hash": "2adc279a61a2eaf34c45b52e27ad4da44ca044d653866693dd3f3f502176eb37",
+                "cves": [
+                    "CVE-2017-11882"
+                ]
+            },
+            {
+                "hash": "89865d83fc3dba9e5ff41261133286b514cf21f88e960ce6d86c5db6238abc09",
+                "cves": [
+                    "CVE-2018-13379",
+                    "CVE-2018-8453",
+                    "CVE-2019-11510",
+                    "CVE-2019-11539",
+                    "CVE-2019-18935",
+                    "CVE-2019-19781",
+                    "CVE-2019-2725",
+                    "CVE-2020-2021",
+                    "CVE-2020-5902",
+                    "CVE-2023-20269"
+                ]
+            },
+            {
+                "hash": "c5e10db88c94b3858e69c7a689782275e037faa34df93092c8a8a32c756ddd5f",
+                "cves": [
+                    "CVE-2024-47076",
+                    "CVE-2024-47175",
+                    "CVE-2024-47176",
+                    "CVE-2024-47177"
+                ]
+            },
+            {
+                "hash": "fd32136659095d915c7b9426a8ae5a8dcc6d1e9adcd58470a70fe46e53312e81",
+                "cves": [
+                    "CVE-2024-29847",
+                    "CVE-2024-45519"
+                ]
+            }
+        ],
+        "url": "https://www.crowdstrike.com/blog/carbon-spider-embraces-big-game-hunting-part-1/"
+    },
+    "G0034": {
+        "hashes": [
+            {
+                "hash": "0e9d8e8bc1d0b56ad8cb44295df32f23b485c210a19dfb4e17fb8aa2bc042384",
+                "cves": [
+                    "CVE-2014-4114"
+                ]
+            },
+            {
+                "hash": "17a12a72aa71b3f61a1d039e47c9cb3f15e7c0915dd65c07b237c42e60bf7740",
+                "cves": [
+                    "CVE-2015-5374"
+                ]
+            },
+            {
+                "hash": "1cdd6be8789281e9ccc13f43be7c1178e2ac3d26d802989e6a60c91814dae62a",
+                "cves": [
+                    "CVE-2014-0751",
+                    "CVE-2014-4114"
+                ]
+            },
+            {
+                "hash": "1ebc1b2a9a9ca7635fae1fc0312839fefd8f9bf61e0e941686c197c6b8113d81",
+                "cves": [
+                    "CVE-2011-4041"
+                ]
+            },
+            {
+                "hash": "2b6d9687e4c67c6ef586f83edc3cbf57cdc1ead69b7923eeed3c4c88a5dcaffd",
+                "cves": [
+                    "CVE-2015-5374"
+                ]
+            },
+            {
+                "hash": "3f45b6b863b854ebe0e1962d55d33dac5bc377c49ebba0b8cd8336b6d2c68787",
+                "cves": [
+                    "CVE-2018-4878",
+                    "CVE-2018-8405",
+                    "CVE-2018-8406"
+                ]
+            },
+            {
+                "hash": "6bb4f4325a1789089b2851dcd8f174f1d08b5c0b9ab0a632cf5f732893b78969",
+                "cves": [
+                    "CVE-2013-3906",
+                    "CVE-2014-4114"
+                ]
+            },
+            {
+                "hash": "7cef1a1a0096b75da911845f3025b173ebd7e40e64d5bc072368f6c73b84020d",
+                "cves": [
+                    "CVE-2015-5374"
+                ]
+            },
+            {
+                "hash": "a9214a2e1bc60f742f60fbc50f0993afccfcfd25b8dbe25f925726c17f445eae",
+                "cves": [
+                    "CVE-2010-3333"
+                ]
+            },
+            {
+                "hash": "b1e917825b1390fb06592b8864e4494e87f74a699dfecb586c25fbc9efbcb2c8",
+                "cves": [
+                    "CVE-2019-10149"
+                ]
+            },
+            {
+                "hash": "df97094a034f56433c48c7806648ad8e13107a7337df2411a2e978e799e9460f",
+                "cves": [
+                    "CVE-2024-37085"
+                ]
+            },
+            {
+                "hash": "e3394ddac9c861e5be26eb67123da606de98786a1f1c6cc06cfeaf151bc67ac8",
+                "cves": [
+                    "CVE-2015-5374"
+                ]
+            },
+            {
+                "hash": "f8b1d24a1e1f7fe94d5a0e651a457d83b7a0d875fb11f3eedd20767e5ffef26f",
+                "cves": [
+                    "CVE-2014-3828",
+                    "CVE-2019-10149"
+                ]
+            }
+        ],
+        "url": "https://www.fireeye.com/blog/threat-research/2016/01/ukraine-and-sandworm-team.html"
+    },
+    "G0044": {
+        "hashes": [
+            {
+                "hash": "107c8227431617b0e32cbb79dd548cbfe7b8fded237cf667375bca6e405bf85b",
+                "cves": [
+                    "CVE-2013-3906"
+                ]
+            }
+        ],
+        "url": "https://securelist.com/games-are-over/70991/"
+    },
+    "G0040": {
+        "hashes": [
+            {
+                "hash": "10f096d3015e49affc9d0cfb72555ddbf4723ea0fdde0d895877ac13d7fad589",
+                "cves": [
+                    "CVE-2012-0158",
+                    "CVE-2014-1761",
+                    "CVE-2014-6352"
+                ]
+            },
+            {
+                "hash": "20486de13e364b5f523f7945175ba0aa9903ec4e084dce63af5c7d31f053b07a",
+                "cves": [
+                    "CVE-2012-0158",
+                    "CVE-2014-1761",
+                    "CVE-2014-6352"
+                ]
+            },
+            {
+                "hash": "6c2a5a7456f5c420876ae0ee7cb46cb216f734fd0af35db8ce01ee5dac8468a1",
+                "cves": [
+                    "CVE-2017-11882"
+                ]
+            },
+            {
+                "hash": "75d99d65fb5a468cd61c5e3cdd069b2c5862c06d41c7c3df3e07c479121a7c5e",
+                "cves": [
+                    "CVE-2017-8570",
+                    "CVE-2024-3400"
+                ]
+            },
+            {
+                "hash": "a07660115f052eb45300da4f7c51e23e9327c383f46129112040056fe9f6a48e",
+                "cves": [
+                    "CVE-2014-4114"
+                ]
+            },
+            {
+                "hash": "c13521c7b132ff8240a5012b6cd7c618da0b07a1a36582c89ba79f57c02f05aa",
+                "cves": [
+                    "CVE-2017-8570",
+                    "CVE-2024-3400"
+                ]
+            },
+            {
+                "hash": "e2770532f5e1446d850b8b10e8425e069084d18a8e62f3a80d57d88da0c8526a",
+                "cves": [
+                    "CVE-2012-0158",
+                    "CVE-2014-6352",
+                    "CVE-2015-1641",
+                    "CVE-2016-0034"
+                ]
+            },
+            {
+                "hash": "ea6454bb0feddbdafc28026930c1e7b5ad555cbff96c0e48752ab41387b7df23",
+                "cves": [
+                    "CVE-2015-2545",
+                    "CVE-2017-0261"
+                ]
+            },
+            {
+                "hash": "eac2e8d4df96f27878998e74fe1be1971137886f98d935bc4f6a7d69a449dfca",
+                "cves": [
+                    "CVE-2012-1856",
+                    "CVE-2014-4114",
+                    "CVE-2015-1641",
+                    "CVE-2017-0199",
+                    "CVE-2017-8570"
+                ]
+            }
+        ],
+        "url": "https://securelist.com/the-dropping-elephant-actor/75328/"
+    },
+    "G1012": {
+        "hashes": [
+            {
+                "hash": "118507e05cfcc7a5fb85e2188d6846093198668b79b847b609a8eaf99b75d25c",
+                "cves": [
+                    "CVE-2018-13379",
+                    "CVE-2021-26855",
+                    "CVE-2021-26857",
+                    "CVE-2021-26858",
+                    "CVE-2021-27065",
+                    "CVE-2024-37085"
+                ]
+            }
+        ],
+        "url": "https://www.microsoft.com/en-us/security/blog/2021/11/16/evolving-trends-in-iranian-threat-actor-activity-mstic-presentation-at-cyberwarcon-2021"
+    },
+    "G0125": {
+        "hashes": [
+            {
+                "hash": "118a764ef6ab244473f413a7c615108a4c7bda1a012be5fb14394510e284d4b3",
+                "cves": [
+                    "CVE-2024-7971"
+                ]
+            },
+            {
+                "hash": "33343a4bdeea4e5fbbe965d1a455c687454cc5cd0b00c04dc34199bdaabf0f55",
+                "cves": [
+                    "CVE-2021-26855",
+                    "CVE-2021-27065",
+                    "CVE-2024-3400"
+                ]
+            },
+            {
+                "hash": "3a41f47356147b2470a1239449d119441df95949b3b1c6235332089b1185aecf",
+                "cves": [
+                    "CVE-2018-18913",
+                    "CVE-2021-26855",
+                    "CVE-2021-26857",
+                    "CVE-2021-26858",
+                    "CVE-2021-27065",
+                    "CVE-2024-37085"
+                ]
+            },
+            {
+                "hash": "8b4d53e799254f24f59bef2c79a4f8d1c07f4e04abb517cd4691c89d4b7e70b6",
+                "cves": [
+                    "CVE-2021-26855",
+                    "CVE-2021-27065",
+                    "CVE-2024-3400"
+                ]
+            },
+            {
+                "hash": "955735a4029b0643183955e29b7dc04810a17cb6e480462e3c589d6960997a67",
+                "cves": [
+                    "CVE-2021-26855",
+                    "CVE-2021-26857",
+                    "CVE-2021-26858",
+                    "CVE-2021-27065"
+                ]
+            }
+        ],
+        "url": "https://www.microsoft.com/security/blog/2022/04/12/tarrask-malware-uses-scheduled-tasks-for-defense-evasion/"
+    },
+    "G0003": {
+        "hashes": [
+            {
+                "hash": "11b858491af26df6ff30a13c40a3cedcd813728f01b18540307ddf5028a3c148",
+                "cves": [
+                    "CVE-2010-0232"
+                ]
+            }
+        ],
+        "url": "https://web.archive.org/web/20200302085133/https://www.cylance.com/content/dam/cylance/pages/operation-cleaver/Cylance_Operation_Cleaver_Report.pdf"
+    },
+    "G0102": {
+        "hashes": [
+            {
+                "hash": "1281a87b0a7a8cd9d4b1db7791c466a58c6bd1c79dd5d4c79655b282c42f12d3",
+                "cves": [
+                    "CVE-2020-1472"
+                ]
+            },
+            {
+                "hash": "7f227a44a76ef8685b6733d610729d6b8258122ef33f98d01813532fbe3118b1",
+                "cves": [
+                    "CVE-2021-34527",
+                    "CVE-2023-20269"
+                ]
+            },
+            {
+                "hash": "f0135145ea8e9b87173347452e28914990629445469a100599d7ecb77bd9aa92",
+                "cves": [
+                    "CVE-2020-1472"
+                ]
+            }
+        ],
+        "url": "https://www.fireeye.com/blog/threat-research/2020/10/kegtap-and-singlemalt-with-a-ransomware-chaser.html"
+    },
+    "G1021": {
+        "hashes": [
+            {
+                "hash": "13f9fce4604870e7543871ada92eb5b2031cefe1a3da9689ec51bc474d49d383",
+                "cves": [
+                    "CVE-2021-26084",
+                    "CVE-2021-34473",
+                    "CVE-2021-35247",
+                    "CVE-2021-44228",
+                    "CVE-2021-44428",
+                    "CVE-2021-44832",
+                    "CVE-2021-45046",
+                    "CVE-2021-45105",
+                    "CVE-2024-37085"
+                ]
+            },
+            {
+                "hash": "140dcbbaa068ce513b0e2f39ea3d5414e010a809d3cfe213f9785cdee628e5b5",
+                "cves": [
+                    "CVE-2021-40539"
+                ]
+            },
+            {
+                "hash": "52c715b1be6d18ad92862a8490e46c71afb86269a3a016cf67eeb4ba78213583",
+                "cves": [
+                    "CVE-2021-4428",
+                    "CVE-2024-20399"
+                ]
+            },
+            {
+                "hash": "64a349897d5ac4108e5ce04075a130fd87c2d27532d179331d1d48b133c6e8c5",
+                "cves": [
+                    "CVE-2018-13379",
+                    "CVE-2019-0604",
+                    "CVE-2019-11510",
+                    "CVE-2019-19781",
+                    "CVE-2020-10189",
+                    "CVE-2020-8243",
+                    "CVE-2020-8260",
+                    "CVE-2021-20016",
+                    "CVE-2021-22893",
+                    "CVE-2021-22894",
+                    "CVE-2021-22899",
+                    "CVE-2021-22900",
+                    "CVE-2021-31207",
+                    "CVE-2021-40444",
+                    "CVE-2021-44228",
+                    "CVE-2022-30190"
+                ]
+            },
+            {
+                "hash": "b272f24ab3d8a99b0902e3661de6898f916bf339aa0f5dcc329dd5126c1fa686",
+                "cves": [
+                    "CVE-2021-40539"
+                ]
+            },
+            {
+                "hash": "e7e48869fd9f9cb54cc1fff6d2655f30d1bc6ccd870cfd84ec8f77ea8e26d35d",
+                "cves": [
+                    "CVE-2021-4428",
+                    "CVE-2024-20399"
+                ]
+            }
+        ],
+        "url": "https://www.microsoft.com/en-us/security/blog/2021/12/11/guidance-for-preventing-detecting-and-hunting-for-cve-2021-44228-log4j-2-exploitation/"
+    },
+    "G0005": {
+        "hashes": [
+            {
+                "hash": "155b8d06eb7a5d0d29ff6acc2546734730e57ef9a1fce2e3fb82219f8156a6a2",
+                "cves": [
+                    "CVE-2012-0158"
+                ]
+            }
+        ],
+        "url": "https://www.fireeye.com/blog/threat-research/2014/09/darwins-favorite-apt-group-2.html"
+    },
+    "G0009": {
+        "hashes": [
+            {
+                "hash": "16557bd20d2054ba2a9eb207fa4f4ad12bc587aa4bf0ee39447e0a9f7fa4b1d0",
+                "cves": [
+                    "CVE-2012-4792",
+                    "CVE-2014-0322"
+                ]
+            }
+        ],
+        "url": "https://web.archive.org/web/20170823094836/http:/www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/the-black-vine-cyberespionage-group.pdf"
+    },
+    "G0016": {
+        "hashes": [
+            {
+                "hash": "16ab107ea239a5359fed3c1894aee785b8dab2f0e81b23e8e87caaafe2a4e990",
+                "cves": [
+                    "CVE-2022-38028"
+                ]
+            },
+            {
+                "hash": "2944aca86fccc4156d900b08fa94957f28c195faa6035b120e06fd8d5f7da6c0",
+                "cves": [
+                    "CVE-2024-3400"
+                ]
+            },
+            {
+                "hash": "69c09251f9eaf076fbe249c2caf7f9390b92d9af5dd00522972bec0a14cfee91",
+                "cves": [
+                    "CVE-2012-5687",
+                    "CVE-2014-4404",
+                    "CVE-2014-8361",
+                    "CVE-2014-9583",
+                    "CVE-2015-1130",
+                    "CVE-2015-1635",
+                    "CVE-2015-2051",
+                    "CVE-2017-0262",
+                    "CVE-2017-0263",
+                    "CVE-2017-11882",
+                    "CVE-2017-5638",
+                    "CVE-2018-10562",
+                    "CVE-2019-0708",
+                    "CVE-2019-11510",
+                    "CVE-2020-0796",
+                    "CVE-2021-26855",
+                    "CVE-2021-26857",
+                    "CVE-2021-26858",
+                    "CVE-2021-27065",
+                    "CVE-2021-31207",
+                    "CVE-2021-34473",
+                    "CVE-2021-34523",
+                    "CVE-2021-36934",
+                    "CVE-2021-38647",
+                    "CVE-2021-44228"
+                ]
+            },
+            {
+                "hash": "8077a6c2e5ff819c5ca16bb7f3d551097b2f04acd6f27e92fe130b5831613d2c",
+                "cves": [
+                    "CVE-2021-4034"
+                ]
+            },
+            {
+                "hash": "82a8d7ee8ab3aa77231a9214f0ce4247377c47078dd1e927c84b3e363430fe5f",
+                "cves": [
+                    "CVE-2018-13379",
+                    "CVE-2019-11510",
+                    "CVE-2019-19781",
+                    "CVE-2019-9670"
+                ]
+            },
+            {
+                "hash": "a9b6174a2878fced93fbcf461f6726876f51b6d23146e7a4acea612d9eb05618",
+                "cves": [
+                    "CVE-2022-38028"
+                ]
+            },
+            {
+                "hash": "bddba4699e4b76e5cd074e039004a267eb1218e4a64c81b919dc85531f10dc63",
+                "cves": [
+                    "CVE-2020-4006",
+                    "CVE-2020-8554"
+                ]
+            },
+            {
+                "hash": "c0b3bf939bb0f2f9dd9afe4ac401efd8665d64f721c9c80c24a5d39d64e7e877",
+                "cves": [
+                    "CVE-2024-3400"
+                ]
+            },
+            {
+                "hash": "d4b45d1885d49ff8e0b1368747339d473406ca895254cd137d0dcd1ac15ad9aa",
+                "cves": [
+                    "CVE-2018-13379",
+                    "CVE-2019-11510",
+                    "CVE-2019-19781",
+                    "CVE-2019-9670",
+                    "CVE-2020-4006"
+                ]
+            },
+            {
+                "hash": "d820c1c717630139f90e0e892b6285185c5b170839aba64ec6bf31dec219225d",
+                "cves": [
+                    "CVE-2021-1879"
+                ]
+            },
+            {
+                "hash": "dfd8829cf00406bec58d0f12f96f738f28cf93f323accb622b0ff64ee791ce7f",
+                "cves": [
+                    "CVE-2010-0232",
+                    "CVE-2013-0640",
+                    "CVE-2013-0641"
+                ]
+            },
+            {
+                "hash": "f46123b316423d23a6e2b9430bec8a76be5c2f7870f13bca790d06ad5a88ba91",
+                "cves": [
+                    "CVE-2022-38028"
+                ]
+            },
+            {
+                "hash": "f6f5a47c56e6fefb5f3d12e30343b0874436eb9ecfba672d06efa14db9eb5e79",
+                "cves": [
+                    "CVE-2018-13379",
+                    "CVE-2019-11510",
+                    "CVE-2019-1653",
+                    "CVE-2019-19781",
+                    "CVE-2019-2725",
+                    "CVE-2019-7609",
+                    "CVE-2019-9670",
+                    "CVE-2020-14882",
+                    "CVE-2020-4006",
+                    "CVE-2020-5902",
+                    "CVE-2021-21972",
+                    "CVE-2021-26855",
+                    "CVE-2021-26857",
+                    "CVE-2021-26858",
+                    "CVE-2021-27065"
+                ]
+            }
+        ],
+        "url": "https://www.microsoft.com/security/blog/2021/10/25/nobelium-targeting-delegated-administrative-privileges-to-facilitate-broader-attacks/"
+    },
+    "G0097": {
+        "hashes": [
+            {
+                "hash": "178ba2fd40cfeb48cec8c5ee6015b8bfb1e0344eec207105202073386331c3d2",
+                "cves": [
+                    "CVE-2025-26633"
+                ]
+            }
+        ],
+        "url": "https://blog.trendmicro.com/trendlabs-security-intelligence/mobile-cyberespionage-campaign-bouncing-golf-affects-middle-east/"
+    },
+    "G0080": {
+        "hashes": [
+            {
+                "hash": "18f944dc6314954d167434092357cf2b65dd100706d51be42ac5b188c6d3797c",
+                "cves": [
+                    "CVE-2017-8759"
+                ]
+            },
+            {
+                "hash": "606fb77e7e66204945012295e3b08b256c502a6f94f96a87a0765f80fae52740",
+                "cves": [
+                    "CVE-2017-11882"
+                ]
+            },
+            {
+                "hash": "647a321346f0541193c83943c21c6e58d987063b136a0abab2087be32fb3ec35",
+                "cves": [
+                    "CVE-2017-0199"
+                ]
+            },
+            {
+                "hash": "72cdeca853bdc1986db919c5e4eb4078cbae8f0d2163eb9b1dd54e90f7309750",
+                "cves": [
+                    "CVE-2012-0158",
+                    "CVE-2015-1641",
+                    "CVE-2015-2545",
+                    "CVE-2016-4117",
+                    "CVE-2017-0199"
+                ]
+            },
+            {
+                "hash": "d8bb78505d3f925ef584757c0b26aebfbfad9955ee16b8d1ddc465c1cdbf2741",
+                "cves": [
+                    "CVE-2017-11882"
+                ]
+            }
+        ],
+        "url": "https://blog.trendmicro.com/trendlabs-security-intelligence/cobalt-spam-runs-use-macros-cve-2017-8759-exploit/"
+    },
+    "G0062": {
+        "hashes": [
+            {
+                "hash": "1d63d2761d7e619dbc25018a0977e50e44cddc49acc934483a7919d5e6181288",
+                "cves": [
+                    "CVE-2017-0199"
+                ]
+            }
+        ],
+        "url": "https://www.proofpoint.com/us/threat-insight/post/apt-targets-financial-analysts"
+    },
+    "G1001": {
+        "hashes": [
+            {
+                "hash": "20552840d336c5913f6812839677f09056ac8bebbd1f37d81a1dfff7d7001cd3",
+                "cves": [
+                    "CVE-2021-1732"
+                ]
+            },
+            {
+                "hash": "5319f4ee45d1d7d9e51d2d3a3b404c97d939040644d1ed9ffee3b59db5d3d271",
+                "cves": [
+                    "CVE-2023-3519"
+                ]
+            }
+        ],
+        "url": "https://securelist.com/apt-trends-report-q1-2021/101967"
+    },
+    "G0131": {
+        "hashes": [
+            {
+                "hash": "214ce7ee08530868c8803b1b0a027ecc6942d52ece5dcd030d22889b0e951b40",
+                "cves": [
+                    "CVE-2018-8174"
+                ]
+            },
+            {
+                "hash": "873cbacc54f4538633bd8e2e590bc9cd05c1e48650e19c4e52c0f18ad6ab1a64",
+                "cves": [
+                    "CVE-2021-26855",
+                    "CVE-2021-26857",
+                    "CVE-2021-26858",
+                    "CVE-2021-27065"
+                ]
+            },
+            {
+                "hash": "efe266b24925e2e15494c5a3ebdae338bbe163026ecd62b219f865eee163a7c6",
+                "cves": [
+                    "CVE-2021-26855",
+                    "CVE-2021-26857",
+                    "CVE-2021-26858",
+                    "CVE-2021-27065"
+                ]
+            },
+            {
+                "hash": "f28c5dfea13062907d343282364898e632c247f86dab6ae64316a9cc1882ef8d",
+                "cves": [
+                    "CVE-2017-11882",
+                    "CVE-2018-0802",
+                    "CVE-2019-0803",
+                    "CVE-2019-9489",
+                    "CVE-2020-8468"
+                ]
+            },
+            {
+                "hash": "f8dc84831fcf2f7add62ca55dc611f5137af54273e37c7896fc5eb7ded652a14",
+                "cves": [
+                    "CVE-2018-0798"
+                ]
+            }
+        ],
+        "url": "https://securelist.com/cactuspete-apt-groups-updated-bisonal-backdoor/97962/"
+    },
+    "G0022": {
+        "hashes": [
+            {
+                "hash": "220448e09322d1f43e987d618e8f7fd28e0368b531c22eeeab59b7490848cae8",
+                "cves": [
+                    "CVE-2015-3113"
+                ]
+            },
+            {
+                "hash": "897ff6f92bb76253282d0959d9f6e94c88831263dd8df47c1f0cae850ab868d5",
+                "cves": [
+                    "CVE-2018-100060",
+                    "CVE-2019-100300"
+                ]
+            },
+            {
+                "hash": "a8a0956d9207fa727eb35459c45e1fa1cda8a27d6b3f672c16704600a6dd088c",
+                "cves": [
+                    "CVE-2010-3962",
+                    "CVE-2014-1776",
+                    "CVE-2014-4113",
+                    "CVE-2014-6332",
+                    "CVE-2015-3113",
+                    "CVE-2015-5119"
+                ]
+            },
+            {
+                "hash": "bf53c3ef22017374f5721e72595a1c83ddb67471dd0b3b9d630dc84ffaef1ae8",
+                "cves": [
+                    "CVE-2014-1776",
+                    "CVE-2014-4113",
+                    "CVE-2014-6332",
+                    "CVE-2015-3113"
+                ]
+            },
+            {
+                "hash": "d63289744d5875b9323f1baa5091ea95928ed89fb4aed9a86a6d79cc9cddd33a",
+                "cves": [
+                    "CVE-2014-4113",
+                    "CVE-2014-6332"
+                ]
+            }
+        ],
+        "url": "https://www.fireeye.com/blog/threat-research/2015/06/operation-clandestine-wolf-adobe-flash-zero-day.html"
+    },
+    "G0012": {
+        "hashes": [
+            {
+                "hash": "24519c30a98b22ee3b042d74bc5d1ade6f32e4450bc7768d7b12b1003f48e582",
+                "cves": [
+                    "CVE-2014-0497"
+                ]
+            },
+            {
+                "hash": "366bb9df1923ef2716ba347fe9bbccd6292a7e98061d37690f93d141b2e35917",
+                "cves": [
+                    "CVE-2022-38028",
+                    "CVE-2024-7971"
+                ]
+            },
+            {
+                "hash": "3d875032fde80143ad8fe8eef7873ec8b26031c9206b6d1fa8be84c1e812ee19",
+                "cves": [
+                    "CVE-2014-0497"
+                ]
+            }
+        ],
+        "url": "https://securelist.com/darkhotels-attacks-in-2015/71713/"
+    },
+    "G0077": {
+        "hashes": [
+            {
+                "hash": "27098309353d91b0d931328369bc410e8422f30bf548990ce9fc222068a20e29",
+                "cves": [
+                    "CVE-2014-0160"
+                ]
+            }
+        ],
+        "url": "https://www.symantec.com/blogs/threat-intelligence/leafminer-espionage-middle-east"
+    },
+    "G0049": {
+        "hashes": [
+            {
+                "hash": "28ff23c4bb0127361bd8f2dcf5e9d7ffc358c6c434dca6f2a10ae1320cd23f9f",
+                "cves": [
+                    "CVE-2017-0199",
+                    "CVE-2017-1099"
+                ]
+            },
+            {
+                "hash": "9a20822d8c218ad2e77925505fffbecccfdf613c82f44594f23ac76feeaeac99",
+                "cves": [
+                    "CVE-2017-0199",
+                    "CVE-2017-11882"
+                ]
+            },
+            {
+                "hash": "dfe9a66b3c2449cc003326f81257136afd72abb599b46cfeeb7ee5c57f102240",
+                "cves": [
+                    "CVE-2020-1350"
+                ]
+            }
+        ],
+        "url": "https://researchcenter.paloaltonetworks.com/2017/10/unit42-oilrig-group-steps-attacks-new-delivery-documents-new-injector-trojan/"
+    },
+    "G0007": {
+        "hashes": [
+            {
+                "hash": "2c7a60963b94b6fc924abdcb19da4d32f35c86cdfe2277b0081cd02c72435b48",
+                "cves": [
+                    "CVE-2015-1701",
+                    "CVE-2015-2424",
+                    "CVE-2015-2590",
+                    "CVE-2015-3043",
+                    "CVE-2015-4902",
+                    "CVE-2015-7645"
+                ]
+            },
+            {
+                "hash": "46ffa14699654a5aba36652be462d8d54e09e80f957195556925bae3d5bae71f",
+                "cves": [
+                    "CVE-2015-2590"
+                ]
+            },
+            {
+                "hash": "4a9e4327ad956f117632a9884b73109b05e9308549934b2208e17aa6dc268447",
+                "cves": [
+                    "CVE-2006-6456",
+                    "CVE-2009-0075",
+                    "CVE-2010-0188",
+                    "CVE-2010-0840",
+                    "CVE-2010-2568",
+                    "CVE-2010-3336",
+                    "CVE-2011-1823",
+                    "CVE-2011-3874",
+                    "CVE-2012-0158",
+                    "CVE-2012-0507",
+                    "CVE-2012-1723",
+                    "CVE-2012-1889",
+                    "CVE-2013-0074",
+                    "CVE-2013-0422",
+                    "CVE-2013-2460",
+                    "CVE-2013-2551",
+                    "CVE-2013-7331",
+                    "CVE-2014-0322",
+                    "CVE-2014-0497",
+                    "CVE-2014-0515",
+                    "CVE-2014-1776",
+                    "CVE-2014-3897",
+                    "CVE-2014-6332",
+                    "CVE-2014-8439",
+                    "CVE-2015-0097",
+                    "CVE-2015-0310",
+                    "CVE-2015-0311",
+                    "CVE-2015-0313",
+                    "CVE-2015-0336",
+                    "CVE-2015-0359",
+                    "CVE-2015-1641",
+                    "CVE-2015-1701",
+                    "CVE-2015-1769",
+                    "CVE-2015-1770",
+                    "CVE-2015-2360",
+                    "CVE-2015-2387",
+                    "CVE-2015-2424",
+                    "CVE-2015-2590",
+                    "CVE-2015-3043",
+                    "CVE-2015-3090",
+                    "CVE-2015-3104",
+                    "CVE-2015-3105",
+                    "CVE-2015-3113",
+                    "CVE-2015-4902",
+                    "CVE-2015-5119",
+                    "CVE-2015-7645"
+                ]
+            },
+            {
+                "hash": "6baf57f0c1fb38f23fbb7053a03879aeb1432028f6e3c40d26954c725b7639aa",
+                "cves": [
+                    "CVE-2015-1701",
+                    "CVE-2015-2590",
+                    "CVE-2015-3043",
+                    "CVE-2015-4902",
+                    "CVE-2015-7645",
+                    "CVE-2016-7255",
+                    "CVE-2016-725521",
+                    "CVE-2016-7855"
+                ]
+            },
+            {
+                "hash": "7e148db8cfae8ca2b587bb0b692d73a1ead7347d5d7f789705d4b5c371f7f407",
+                "cves": [
+                    "CVE-2022-38028",
+                    "CVE-2023-23397"
+                ]
+            },
+            {
+                "hash": "8d0d307f2d2906da3b6b4e5cc9fcd24cc61de3121379c3f376952ed4a4e44a08",
+                "cves": [
+                    "CVE-2020-3259",
+                    "CVE-2022-3236",
+                    "CVE-2022-38028",
+                    "CVE-2023-20109",
+                    "CVE-2023-20198",
+                    "CVE-2023-22515",
+                    "CVE-2023-34039",
+                    "CVE-2023-35082",
+                    "CVE-2023-3519",
+                    "CVE-2023-38035",
+                    "CVE-2023-38831",
+                    "CVE-2023-40044",
+                    "CVE-2023-46604",
+                    "CVE-2023-46747",
+                    "CVE-2023-46748",
+                    "CVE-2023-49103",
+                    "CVE-2023-49606",
+                    "CVE-2023-4966",
+                    "CVE-2023-5009",
+                    "CVE-2023-50164",
+                    "CVE-2023-5129",
+                    "CVE-2023-51467",
+                    "CVE-2024-0204",
+                    "CVE-2024-0769",
+                    "CVE-2024-20272",
+                    "CVE-2024-21410",
+                    "CVE-2024-21412",
+                    "CVE-2024-21762",
+                    "CVE-2024-21894",
+                    "CVE-2024-23222",
+                    "CVE-2024-23897",
+                    "CVE-2024-24691",
+                    "CVE-2024-28991",
+                    "CVE-2024-28995",
+                    "CVE-2024-29849",
+                    "CVE-2024-3094",
+                    "CVE-2024-36401",
+                    "CVE-2024-37085",
+                    "CVE-2024-38112",
+                    "CVE-2024-38193",
+                    "CVE-2024-38812",
+                    "CVE-2024-4040",
+                    "CVE-2024-4058",
+                    "CVE-2024-43461",
+                    "CVE-2024-45519",
+                    "CVE-2024-4577",
+                    "CVE-2024-6327"
+                ]
+            },
+            {
+                "hash": "a76b1ec9d196b5c071992486d096ad475226e92b6db06c351e3a4ad4e4949248",
+                "cves": [
+                    "CVE-2014-4076"
+                ]
+            },
+            {
+                "hash": "b31b27aa0808aea5b0e8823ecb07402c0c2bbf6818a22457e146c97f685162b4",
+                "cves": [
+                    "CVE-2009-3129",
+                    "CVE-2010-3333",
+                    "CVE-2012-0158",
+                    "CVE-2013-1347",
+                    "CVE-2013-2729",
+                    "CVE-2013-3897",
+                    "CVE-2014-1510",
+                    "CVE-2014-1511",
+                    "CVE-2014-1761",
+                    "CVE-2014-1776",
+                    "CVE-2014-6332",
+                    "CVE-2015-1641",
+                    "CVE-2015-1701",
+                    "CVE-2015-2387",
+                    "CVE-2015-2424",
+                    "CVE-2015-2590",
+                    "CVE-2015-3043",
+                    "CVE-2015-4902",
+                    "CVE-2015-5119",
+                    "CVE-2015-7645",
+                    "CVE-2016-4117"
+                ]
+            },
+            {
+                "hash": "e2f29a70c536f56f821177dbf44517c55446dc78a24940ead11fea34efa0f0f7",
+                "cves": [
+                    "CVE-2017-0262",
+                    "CVE-2017-0263"
+                ]
+            },
+            {
+                "hash": "e79632e9f941378d6668225c01f1ac57d2db5b1d33eaf7e3c7f2ceee9d90b0d2",
+                "cves": [
+                    "CVE-2017-0143",
+                    "CVE-2017-0144",
+                    "CVE-2017-0145",
+                    "CVE-2017-0146",
+                    "CVE-2017-0147",
+                    "CVE-2017-0148"
+                ]
+            },
+            {
+                "hash": "f60c2859d4831b054b7120cde81cbfe9c4990700c08ffe0978351027ccfaa95f",
+                "cves": [
+                    "CVE-2016-0728"
+                ]
+            },
+            {
+                "hash": "f9ed13d5aa43c74287a936bf52772080fc26b5c62a805e19abceb20ef08ea5ff",
+                "cves": [
+                    "CVE-2015-1701",
+                    "CVE-2015-2424",
+                    "CVE-2015-2590",
+                    "CVE-2015-3043",
+                    "CVE-2015-4902",
+                    "CVE-2015-7645"
+                ]
+            }
+        ],
+        "url": "http://www.welivesecurity.com/wp-content/uploads/2016/10/eset-sednit-part3.pdf"
+    },
+    "G0134": {
+        "hashes": [
+            {
+                "hash": "2f13b72706e7dac7e3c4daf029b4b22459a4c44de2974280ad16e97906f94e5b",
+                "cves": [
+                    "CVE-2010-3333",
+                    "CVE-2012-0158"
+                ]
+            },
+            {
+                "hash": "59b94140d5f14cbb4ee5bb0383bfae60ef6136b272f291b08916061ae7841831",
+                "cves": [
+                    "CVE-2012-0158"
+                ]
+            }
+        ],
+        "url": "https://unit42.paloaltonetworks.com/unit42-projectm-link-found-between-pakistani-actor-and-operation-transparent-tribe/"
+    },
+    "G0035": {
+        "hashes": [
+            {
+                "hash": "30ce77b935f886f97e50f5ed4083de06f0610d589550bf1403c15bf39a9b6464",
+                "cves": [
+                    "CVE-2012-1723",
+                    "CVE-2012-4792",
+                    "CVE-2013-1347",
+                    "CVE-2013-2465"
+                ]
+            },
+            {
+                "hash": "9797c690fdbdbd52ff0a69f455114ec57da9153ab814ee2a6b5623cc2fd4c7f1",
+                "cves": [
+                    "CVE-2011-0611"
+                ]
+            },
+            {
+                "hash": "f3f61afc58a0fe21bb5c6d864c2e9af23fd990648adefa01cba6a076186fcf23",
+                "cves": [
+                    "CVE-2018-13379",
+                    "CVE-2019-10149",
+                    "CVE-2019-19781",
+                    "CVE-2020-0688",
+                    "CVE-2020-1472"
+                ]
+            }
+        ],
+        "url": "https://docs.broadcom.com/doc/dragonfly_threat_against_western_energy_suppliers"
+    },
+    "G0050": {
+        "hashes": [
+            {
+                "hash": "338d3c9eccd1de1bf7a674e2ec2d1fd54cd12495c7bdd7aa15e75fc13e09dd82",
+                "cves": [
+                    "CVE-2024-3400"
+                ]
+            },
+            {
+                "hash": "4dd39d14f0f002e20fd7d0dbd27d21e40c87942e0b977950b08fbfed09aa2292",
+                "cves": [
+                    "CVE-2024-3400"
+                ]
+            },
+            {
+                "hash": "6645913209afadb2532467920b4dcbe925fc9cd0ac278f935d8a9990e85bcae8",
+                "cves": [
+                    "CVE-2017-11882"
+                ]
+            },
+            {
+                "hash": "ad4cbaf30d17e072ac9093993dc15ea4a128c62bfc5902c1552b00a65e5bd5c1",
+                "cves": [
+                    "CVE-2017-11882"
+                ]
+            },
+            {
+                "hash": "bf234b0272a0d9280f35e305bc277eceba03140ab1dd0580776b5e7d92d28e23",
+                "cves": [
+                    "CVE-2024-3400"
+                ]
+            }
+        ],
+        "url": "https://www.volexity.com/blog/2017/11/06/oceanlotus-blossoms-mass-digital-surveillance-and-exploitation-of-asean-nations-the-media-human-rights-and-civil-society/"
+    },
+    "G0064": {
+        "hashes": [
+            {
+                "hash": "343502b970df6769f72dc91498aac5ce045f40c8b83d04fa288221a822bd7d3c",
+                "cves": [
+                    "CVE-2017-11774",
+                    "CVE-2018-20250"
+                ]
+            },
+            {
+                "hash": "5a57021aee1eefb5f4f1a84d1440d91c1d30b7449fda70bb3fe7d0b461053190",
+                "cves": [
+                    "CVE-2018-20250"
+                ]
+            }
+        ],
+        "url": "https://www.microsoft.com/security/blog/2020/06/18/inside-microsoft-threat-protection-mapping-attack-chains-from-cloud-to-endpoint/"
+    },
+    "G0108": {
+        "hashes": [
+            {
+                "hash": "34b2115c57c5b646be9be8fa1a1fff1033d751b67d5d830394b6488332889118",
+                "cves": [
+                    "CVE-2019-18935"
+                ]
+            }
+        ],
+        "url": "https://redcanary.com/blog/blue-mockingbird-cryptominer/"
+    },
+    "G0043": {
+        "hashes": [
+            {
+                "hash": "38677928312cc96f1f13fd9a2ee1254ae15c0b3979d56e470fb245cf29049ad1",
+                "cves": [
+                    "CVE-2014-4114"
+                ]
+            }
+        ],
+        "url": "https://citizenlab.ca/2016/08/group5-syria/"
+    },
+    "G0106": {
+        "hashes": [
+            {
+                "hash": "3882a4075bfd5fb3c37ad363d9535c0e61a5c319912b8c44f4d2a53106553bd9",
+                "cves": [
+                    "CVE-2017-10271",
+                    "CVE-2017-3066"
+                ]
+            },
+            {
+                "hash": "f37a2f5da4e234ffa7269d797ca306f5f36c4d04ce966f1ddbd52c2211727af0",
+                "cves": [
+                    "CVE-2017-10271"
+                ]
+            }
+        ],
+        "url": "https://blog.talosintelligence.com/2018/08/rocke-champion-of-monero-miners.html"
+    },
+    "G0030": {
+        "hashes": [
+            {
+                "hash": "3933ec25ecdae89b99457a3839f2fc5e17a9a5242e279d241d970baf1d5b7ffa",
+                "cves": [
+                    "CVE-2010-2883",
+                    "CVE-2012-0158",
+                    "CVE-2014-6332"
+                ]
+            },
+            {
+                "hash": "ace8844f47575a19cb93a33d182e44f9bf11899b78e1bd0fc62197aa6a3730fb",
+                "cves": [
+                    "CVE-2014-6332"
+                ]
+            }
+        ],
+        "url": "https://securelist.com/the-spring-dragon-apt/70726/"
+    },
+    "G0092": {
+        "hashes": [
+            {
+                "hash": "3e71b94597ccb94936af43086e6713a76a58139c7039a730cbbd264aa64263b9",
+                "cves": [
+                    "CVE-2023-20269"
+                ]
+            },
+            {
+                "hash": "4344252e5155a3544c0b32a5e8df6026788ad64327500cddcb9f192d359adea6",
+                "cves": [
+                    "CVE-2021-27101",
+                    "CVE-2021-27102",
+                    "CVE-2021-27103",
+                    "CVE-2021-27104"
+                ]
+            }
+        ],
+        "url": "https://securityintelligence.com/posts/ta505-continues-to-infect-networks-with-sdbbot-rat/"
+    },
+    "G0018": {
+        "hashes": [
+            {
+                "hash": "3e81ed396c6503f1bc48089798171a3fda8608f092f795baa9f221edaef178dc",
+                "cves": [
+                    "CVE-2012-0158"
+                ]
+            }
+        ],
+        "url": "https://www.fireeye.com/blog/threat-research/2015/11/china-based-threat.html"
+    },
+    "G0098": {
+        "hashes": [
+            {
+                "hash": "4005b06154aaa8d8f47bb466d8b6bf3a9e09bc6d61a799b8df62b67ad0dc5e7e",
+                "cves": [
+                    "CVE-2012-0158",
+                    "CVE-2014-6352",
+                    "CVE-2015-5119",
+                    "CVE-2017-0199",
+                    "CVE-2017-7269"
+                ]
+            },
+            {
+                "hash": "819d3e6e61b123f74faab78020a78988267c7018a4ea1610e8f0571b2445fdb2",
+                "cves": [
+                    "CVE-2012-0158",
+                    "CVE-2014-6352",
+                    "CVE-2015-5119",
+                    "CVE-2017-0199",
+                    "CVE-2017-7269"
+                ]
+            }
+        ],
+        "url": "https://blog.trendmicro.com/trendlabs-security-intelligence/following-trail-blacktech-cyber-espionage-campaigns/"
+    },
+    "G0055": {
+        "hashes": [
+            {
+                "hash": "41fdeb576d64af675525e3a50ddbcbc329b45f1c6decc32afadfdff81b24d76e",
+                "cves": [
+                    "CVE-2008-2551",
+                    "CVE-2010-0188",
+                    "CVE-2010-0840",
+                    "CVE-2010-1297",
+                    "CVE-2010-2568",
+                    "CVE-2010-3336",
+                    "CVE-2010-3653",
+                    "CVE-2011-0097",
+                    "CVE-2011-0611",
+                    "CVE-2011-1823",
+                    "CVE-2012-0056",
+                    "CVE-2012-0158",
+                    "CVE-2012-0507",
+                    "CVE-2012-1723",
+                    "CVE-2012-1889",
+                    "CVE-2013-0074",
+                    "CVE-2013-0422",
+                    "CVE-2013-1493",
+                    "CVE-2013-2423",
+                    "CVE-2013-2460",
+                    "CVE-2013-2551",
+                    "CVE-2013-3896",
+                    "CVE-2014-1761",
+                    "CVE-2014-6332",
+                    "CVE-2015-0072",
+                    "CVE-2015-0310",
+                    "CVE-2015-0311",
+                    "CVE-2015-0313",
+                    "CVE-2015-1671",
+                    "CVE-2015-5119",
+                    "CVE-2015-8651",
+                    "CVE-2016-0034",
+                    "CVE-2016-0165",
+                    "CVE-2016-0167",
+                    "CVE-2016-0189",
+                    "CVE-2016-1010",
+                    "CVE-2016-1019",
+                    "CVE-2016-4117",
+                    "CVE-2016-4171"
+                ]
+            },
+            {
+                "hash": "a6a21e6868667d8ea2f1817fd51c4658d1e738c8b222eca539893ae25cbf2e64",
+                "cves": [
+                    "CVE-2016-4117",
+                    "CVE-2022-38028"
+                ]
+            }
+        ],
+        "url": "http://download.microsoft.com/download/E/B/0/EB0F50CC-989C-4B66-B7F6-68CD3DC90DE3/Microsoft_Security_Intelligence_Report_Volume_21_English.pdf"
+    },
+    "G0142": {
+        "hashes": [
+            {
+                "hash": "44548aee8e92cd578ea24a3f35b24b9ddb7cbe9e534a16fc18ce6138bd96006b",
+                "cves": [
+                    "CVE-2015-1641",
+                    "CVE-2017-11882"
+                ]
+            },
+            {
+                "hash": "52bab1b25fa47e109d35fdecc085ad714cee84a9ace90d92012397562407dec4",
+                "cves": [
+                    "CVE-2015-1641",
+                    "CVE-2017-11882"
+                ]
+            },
+            {
+                "hash": "8aec427731f3c46810570bafba7f4d4a8b29bd70c88b1fdeee906525bacc4916",
+                "cves": [
+                    "CVE-2018-0802"
+                ]
+            }
+        ],
+        "url": "https://www.trendmicro.com/en_us/research/18/b/deciphering-confucius-cyberespionage-operations.html"
+    },
+    "G0023": {
+        "hashes": [
+            {
+                "hash": "47a4a82f19a5f6b0bbb58e1abed16a43cea27a133e56c1475d1c47915746c3c1",
+                "cves": [
+                    "CVE-2015-1701"
+                ]
+            }
+        ],
+        "url": "https://web.archive.org/web/20151226205946/https://www.fireeye.com/blog/threat-research/2015/12/the-eps-awakens-part-two.html"
+    },
+    "G0010": {
+        "hashes": [
+            {
+                "hash": "4d53e8bed93440b5a2ca8802fdbd8a945a9bd07a834f700e0231224f00fbadd4",
+                "cves": [
+                    "CVE-2009-3129",
+                    "CVE-2012-1723",
+                    "CVE-2012-4681",
+                    "CVE-2013-2729",
+                    "CVE-2013-3346",
+                    "CVE-2013-5065"
+                ]
+            },
+            {
+                "hash": "9a1f9c83f662dd8cc953e81e98a4b541f6d63af7adbbd9db7d197f8c77271f11",
+                "cves": [
+                    "CVE-2008-3431"
+                ]
+            }
+        ],
+        "url": "https://securelist.com/the-epic-turla-operation/65545/"
+    },
+    "G0117": {
+        "hashes": [
+            {
+                "hash": "4f8cb79942c675ef3112dcd1e6d2fbf5943b68c3ba57f737d6c119d8259134c0",
+                "cves": [
+                    "CVE-2019-11510",
+                    "CVE-2019-11539",
+                    "CVE-2019-19781",
+                    "CVE-2020-5902"
+                ]
+            },
+            {
+                "hash": "8d452e4e945f3ea8f03d21d9dd654faefcb1ac15400834db15fd7a7f1eabadde",
+                "cves": [
+                    "CVE-2018-13379",
+                    "CVE-2018-1579",
+                    "CVE-2019-11510",
+                    "CVE-2019-19781",
+                    "CVE-2020-5902"
+                ]
+            },
+            {
+                "hash": "dba9cadcbd2dea005a85da01db3c7ade377f8930c16923223982d44e3c835706",
+                "cves": [
+                    "CVE-2019-11510",
+                    "CVE-2019-19781",
+                    "CVE-2020-5902"
+                ]
+            }
+        ],
+        "url": "https://us-cert.cisa.gov/ncas/alerts/aa20-259a"
+    },
+    "G0037": {
+        "hashes": [
+            {
+                "hash": "54da636dd26926f574b5915772ec8c63b55299d4bc0d7c88eaa39589b2c20c1f",
+                "cves": [
+                    "CVE-2023-20269"
+                ]
+            },
+            {
+                "hash": "f91b01e8ea1aa04c56195fde61939b756fba7066023dcba2f80fb3d05156a69a",
+                "cves": [
+                    "CVE-2023-20269"
+                ]
+            }
+        ],
+        "url": "https://securityintelligence.com/posts/more_eggs-anyone-threat-actor-itg08-strikes-again/"
+    },
+    "G0060": {
+        "hashes": [
+            {
+                "hash": "566cfafc4cbde977f29242e4aedd3557fc67784d12e1b703719ec40d56369d43",
+                "cves": [
+                    "CVE-2018-0798",
+                    "CVE-2018-0802"
+                ]
+            },
+            {
+                "hash": "a9f3a0d7452ec81fa82fe786093ab00cf7f31f3512b35c289a6ee12a2f18b08a",
+                "cves": [
+                    "CVE-2016-7836"
+                ]
+            },
+            {
+                "hash": "db00274a90cfb1bef228b247757ced325fc84345990bc93541983c1cb8b44596",
+                "cves": [
+                    "CVE-2016-7836"
+                ]
+            }
+        ],
+        "url": "https://documents.trendmicro.com/assets/pdf/Operation-ENDTRADE-TICK-s-Multi-Stage-Backdoors-for-Attacking-Industries-and-Stealing-Classified-Data.pdf"
+    },
+    "G0066": {
+        "hashes": [
+            {
+                "hash": "5914b9bb928971ef741adb7ebde821fe648cd16a216cce5ca20ce703428279a8",
+                "cves": [
+                    "CVE-2020-3259",
+                    "CVE-2022-3236",
+                    "CVE-2022-38028",
+                    "CVE-2023-20109",
+                    "CVE-2023-20198",
+                    "CVE-2023-22515",
+                    "CVE-2023-34039",
+                    "CVE-2023-35082",
+                    "CVE-2023-3519",
+                    "CVE-2023-38035",
+                    "CVE-2023-38831",
+                    "CVE-2023-40044",
+                    "CVE-2023-46604",
+                    "CVE-2023-46747",
+                    "CVE-2023-46748",
+                    "CVE-2023-49103",
+                    "CVE-2023-49606",
+                    "CVE-2023-4966",
+                    "CVE-2023-5009",
+                    "CVE-2023-50164",
+                    "CVE-2023-5129",
+                    "CVE-2023-51467",
+                    "CVE-2024-0204",
+                    "CVE-2024-0769",
+                    "CVE-2024-20272",
+                    "CVE-2024-21410",
+                    "CVE-2024-21412",
+                    "CVE-2024-21762",
+                    "CVE-2024-21894",
+                    "CVE-2024-23222",
+                    "CVE-2024-23897",
+                    "CVE-2024-24691",
+                    "CVE-2024-28991",
+                    "CVE-2024-28995",
+                    "CVE-2024-29849",
+                    "CVE-2024-3094",
+                    "CVE-2024-36401",
+                    "CVE-2024-37085",
+                    "CVE-2024-38112",
+                    "CVE-2024-38193",
+                    "CVE-2024-38812",
+                    "CVE-2024-4040",
+                    "CVE-2024-4058",
+                    "CVE-2024-43461",
+                    "CVE-2024-45519",
+                    "CVE-2024-4577",
+                    "CVE-2024-6327"
+                ]
+            },
+            {
+                "hash": "6df175c7e4422abb4c6cc76a7d39ef0d92f6b44e8b87d8b9be87132c3f1f6f56",
+                "cves": [
+                    "CVE-2010-0249",
+                    "CVE-2011-0609",
+                    "CVE-2011-0611",
+                    "CVE-2011-2110",
+                    "CVE-2012-0779",
+                    "CVE-2012-1535",
+                    "CVE-2012-1875",
+                    "CVE-2012-1889"
+                ]
+            },
+            {
+                "hash": "d7126255f9bf69106a90f54f9c6bef3631fc9798ae2f5a330ab37ecf5be69610",
+                "cves": [
+                    "CVE-2020-3259",
+                    "CVE-2022-3236",
+                    "CVE-2022-38028",
+                    "CVE-2023-20109",
+                    "CVE-2023-20198",
+                    "CVE-2023-22515",
+                    "CVE-2023-34039",
+                    "CVE-2023-35082",
+                    "CVE-2023-3519",
+                    "CVE-2023-38035",
+                    "CVE-2023-38831",
+                    "CVE-2023-40044",
+                    "CVE-2023-46604",
+                    "CVE-2023-46747",
+                    "CVE-2023-46748",
+                    "CVE-2023-49103",
+                    "CVE-2023-49606",
+                    "CVE-2023-4966",
+                    "CVE-2023-5009",
+                    "CVE-2023-50164",
+                    "CVE-2023-5129",
+                    "CVE-2023-51467",
+                    "CVE-2024-0204",
+                    "CVE-2024-0769",
+                    "CVE-2024-20272",
+                    "CVE-2024-21410",
+                    "CVE-2024-21412",
+                    "CVE-2024-21762",
+                    "CVE-2024-21894",
+                    "CVE-2024-23222",
+                    "CVE-2024-23897",
+                    "CVE-2024-24691",
+                    "CVE-2024-28991",
+                    "CVE-2024-28995",
+                    "CVE-2024-29849",
+                    "CVE-2024-3094",
+                    "CVE-2024-36401",
+                    "CVE-2024-37085",
+                    "CVE-2024-38112",
+                    "CVE-2024-38193",
+                    "CVE-2024-38812",
+                    "CVE-2024-4040",
+                    "CVE-2024-4058",
+                    "CVE-2024-43461",
+                    "CVE-2024-45519",
+                    "CVE-2024-4577",
+                    "CVE-2024-6327"
+                ]
+            }
+        ],
+        "url": "http://securityaffairs.co/wordpress/8528/hacking/elderwood-project-who-is-behind-op-aurora-and-ongoing-attacks.html"
+    },
+    "G0001": {
+        "hashes": [
+            {
+                "hash": "59f1944b2439ad474782e18eea63ff88dbbb0ed714b12eceaf0ce3b72b08bd39",
+                "cves": [
+                    "CVE-2012-1889",
+                    "CVE-2012-4792",
+                    "CVE-2013-3893",
+                    "CVE-2014-0322"
+                ]
+            },
+            {
+                "hash": "903a2f50bf2e00c6a90eb13847a0a3091173e1408883abf25220211636b602bc",
+                "cves": [
+                    "CVE-2011-2462",
+                    "CVE-2013-3163",
+                    "CVE-2014-0322"
+                ]
+            },
+            {
+                "hash": "c6644e67138f039522a5ed2b51800a76d43a29397d001bd9bebe95bb3913e03e",
+                "cves": [
+                    "CVE-2012-1889",
+                    "CVE-2012-4792",
+                    "CVE-2013-3893",
+                    "CVE-2014-0322"
+                ]
+            }
+        ],
+        "url": "http://blogs.cisco.com/security/talos/threat-spotlight-group-72"
+    },
+    "G0133": {
+        "hashes": [
+            {
+                "hash": "5f023a55cdf56ee4fcf929f7047ed3ea3c952af48698c0ce11856c65bce50cc2",
+                "cves": [
+                    "CVE-2020-3259",
+                    "CVE-2022-3236",
+                    "CVE-2022-38028",
+                    "CVE-2023-20109",
+                    "CVE-2023-20198",
+                    "CVE-2023-22515",
+                    "CVE-2023-34039",
+                    "CVE-2023-35082",
+                    "CVE-2023-3519",
+                    "CVE-2023-38035",
+                    "CVE-2023-38831",
+                    "CVE-2023-40044",
+                    "CVE-2023-46604",
+                    "CVE-2023-46747",
+                    "CVE-2023-46748",
+                    "CVE-2023-49103",
+                    "CVE-2023-49606",
+                    "CVE-2023-4966",
+                    "CVE-2023-5009",
+                    "CVE-2023-50164",
+                    "CVE-2023-5129",
+                    "CVE-2023-51467",
+                    "CVE-2024-0204",
+                    "CVE-2024-0769",
+                    "CVE-2024-20272",
+                    "CVE-2024-21410",
+                    "CVE-2024-21412",
+                    "CVE-2024-21762",
+                    "CVE-2024-21894",
+                    "CVE-2024-23222",
+                    "CVE-2024-23897",
+                    "CVE-2024-24691",
+                    "CVE-2024-28991",
+                    "CVE-2024-28995",
+                    "CVE-2024-29849",
+                    "CVE-2024-3094",
+                    "CVE-2024-36401",
+                    "CVE-2024-37085",
+                    "CVE-2024-38112",
+                    "CVE-2024-38193",
+                    "CVE-2024-38812",
+                    "CVE-2024-4040",
+                    "CVE-2024-4058",
+                    "CVE-2024-43461",
+                    "CVE-2024-45519",
+                    "CVE-2024-4577",
+                    "CVE-2024-6327"
+                ]
+            },
+            {
+                "hash": "f3e37b0fa55c0516f8260f883b0cb33b734f495169e25645f4bcbb6d46420bc6",
+                "cves": [
+                    "CVE-2020-3259",
+                    "CVE-2022-3236",
+                    "CVE-2022-38028",
+                    "CVE-2023-20109",
+                    "CVE-2023-20198",
+                    "CVE-2023-22515",
+                    "CVE-2023-34039",
+                    "CVE-2023-35082",
+                    "CVE-2023-3519",
+                    "CVE-2023-38035",
+                    "CVE-2023-38831",
+                    "CVE-2023-40044",
+                    "CVE-2023-46604",
+                    "CVE-2023-46747",
+                    "CVE-2023-46748",
+                    "CVE-2023-49103",
+                    "CVE-2023-49606",
+                    "CVE-2023-4966",
+                    "CVE-2023-5009",
+                    "CVE-2023-50164",
+                    "CVE-2023-5129",
+                    "CVE-2023-51467",
+                    "CVE-2024-0204",
+                    "CVE-2024-0769",
+                    "CVE-2024-20272",
+                    "CVE-2024-21410",
+                    "CVE-2024-21412",
+                    "CVE-2024-21762",
+                    "CVE-2024-21894",
+                    "CVE-2024-23222",
+                    "CVE-2024-23897",
+                    "CVE-2024-24691",
+                    "CVE-2024-28991",
+                    "CVE-2024-28995",
+                    "CVE-2024-29849",
+                    "CVE-2024-3094",
+                    "CVE-2024-36401",
+                    "CVE-2024-37085",
+                    "CVE-2024-38112",
+                    "CVE-2024-38193",
+                    "CVE-2024-38812",
+                    "CVE-2024-4040",
+                    "CVE-2024-4058",
+                    "CVE-2024-43461",
+                    "CVE-2024-45519",
+                    "CVE-2024-4577",
+                    "CVE-2024-6327"
+                ]
+            }
+        ],
+        "url": "https://securityaffairs.co/wordpress/77165/apt/russia-linked-apt-dustsquad.html"
+    },
+    "G0107": {
+        "hashes": [
+            {
+                "hash": "6f6a2be85c28cbdeb0735259d4623f99256f71140aaea2c1b319b2e1819a7ab5",
+                "cves": [
+                    "CVE-2016-0051"
+                ]
+            }
+        ],
+        "url": "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/whitefly-espionage-singapore"
+    },
+    "G0081": {
+        "hashes": [
+            {
+                "hash": "7490d7e0e0c6979a703ca49f8de964cca02d909756f32d63e4b1bc9b5d5c543b",
+                "cves": [
+                    "CVE-2010-3333",
+                    "CVE-2012-0158",
+                    "CVE-2017-0199",
+                    "CVE-2017-11882",
+                    "CVE-2018-0802"
+                ]
+            },
+            {
+                "hash": "83370b40f53b67b810d23f32e8f6336bbf543b6266dcc26fd17a48570a39770a",
+                "cves": [
+                    "CVE-2017-11882",
+                    "CVE-2018-0802"
+                ]
+            },
+            {
+                "hash": "ae4f9960cb16e41a461933e94900f84adea3cb23eea4cf063537aa6eece7273f",
+                "cves": [
+                    "CVE-2010-3333",
+                    "CVE-2012-0158"
+                ]
+            },
+            {
+                "hash": "eef598f657926ec6f953973f3b19b4f3f17e3809ca9ec77c2a4b4ed3fa49c06e",
+                "cves": [
+                    "CVE-2012-0158"
+                ]
+            },
+            {
+                "hash": "f10bb80399c5f6574c52c241c40c91884b506cbfd915a9a3d12c4e5f1d1f393e",
+                "cves": [
+                    "CVE-2012-0158",
+                    "CVE-2012-1856",
+                    "CVE-2014-4114",
+                    "CVE-2015-1641",
+                    "CVE-2015-1770"
+                ]
+            },
+            {
+                "hash": "f5c1ff65a343a8859b43dd5bdc0030f2aace21748d07d4da1f584d63055692bf",
+                "cves": [
+                    "CVE-2017-11882",
+                    "CVE-2018-0802"
+                ]
+            }
+        ],
+        "url": "https://citizenlab.ca/2018/08/familiar-feeling-a-malware-campaign-targeting-the-tibetan-diaspora-resurfaces/"
+    },
+    "G1002": {
+        "hashes": [
+            {
+                "hash": "7a1cd8d6b640dff1c459a930e5761b99b821d4d943ef8a8a261170a7bed8634a",
+                "cves": [
+                    "CVE-2021-1732",
+                    "CVE-2023-38831"
+                ]
+            },
+            {
+                "hash": "8d4374edcedb4fe75fdd4114fb16f819714730d33e72091dfc3cac1308d62a62",
+                "cves": [
+                    "CVE-2012-0158"
+                ]
+            },
+            {
+                "hash": "a9f29abfc00a3af9e1c814584d13b0f0ab676faef69600bc44af6a739e3edd13",
+                "cves": [
+                    "CVE-2017-11882",
+                    "CVE-2018-0798",
+                    "CVE-2018-0802",
+                    "CVE-2021-28310"
+                ]
+            },
+            {
+                "hash": "be440e73ca92b6fb3b0a7d33505e469548b245cdb41d96fc4cc546c42e5c4c80",
+                "cves": [
+                    "CVE-2012-0158"
+                ]
+            }
+        ],
+        "url": "https://ti.dbappsecurity.com.cn/blog/articles/2021/02/10/windows-kernel-zero-day-exploit-is-used-by-bitter-apt-in-targeted-attack/"
+    },
+    "G1019": {
+        "hashes": [
+            {
+                "hash": "7c59845c4a586e2a5211e3d80e7627aca6da4b57c44121509c2686c563faf349",
+                "cves": [
+                    "CVE-2021-1732",
+                    "CVE-2022-27926"
+                ]
+            },
+            {
+                "hash": "9100aaa8cf816c63e465c937be623824e710948d98b9bb64ec8b49eeb29db7bb",
+                "cves": [
+                    "CVE-2021-1732",
+                    "CVE-2022-27926"
+                ]
+            }
+        ],
+        "url": "https://www.welivesecurity.com/en/eset-research/moustachedbouncer-espionage-against-foreign-diplomats-in-belarus/"
+    },
+    "G0008": {
+        "hashes": [
+            {
+                "hash": "7d2d812d40a62f3288883afcb14ee275716af1871f68587e12ed2485cddf9b9d",
+                "cves": [
+                    "CVE-2012-0158",
+                    "CVE-2013-3660",
+                    "CVE-2013-3906"
+                ]
+            }
+        ],
+        "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/08064518/Carbanak_APT_eng.pdf"
+    },
+    "G1024": {
+        "hashes": [
+            {
+                "hash": "7e1e3ffe89b0bb78083b1cfc9f1ec9daf71fa081bbd15eccf230e4ca55986a75",
+                "cves": [
+                    "CVE-2019-6693",
+                    "CVE-2022-40684"
+                ]
+            },
+            {
+                "hash": "af86a71d6077d4f03d919398ecf0cf829394be5b3a1a4b1a706c738b528b52dc",
+                "cves": [
+                    "CVE-2023-35078"
+                ]
+            }
+        ],
+        "url": "https://blog.bushidotoken.net/2023/09/tracking-adversaries-akira-another.html"
+    },
+    "G0067": {
+        "hashes": [
+            {
+                "hash": "811d329ae462bb7fe137f04695c59982557d3e507005076043f5d8d6d3a996ee",
+                "cves": [
+                    "CVE-2018-8120"
+                ]
+            },
+            {
+                "hash": "8dbc5cd729e48142843a095219def492d3e149a19d38d36d337c9fea413c9f44",
+                "cves": [
+                    "CVE-2020-1380",
+                    "CVE-2021-26411",
+                    "CVE-2024-3400"
+                ]
+            },
+            {
+                "hash": "af77edb5dab12db17dd321564628a8af0641bde46ae87f7d5a65206d3893bc58",
+                "cves": [
+                    "CVE-2024-3400"
+                ]
+            },
+            {
+                "hash": "b1f645e8ca6068f4903f41bd00d3e1457a4af6a315f9e16c0cc76827b6897897",
+                "cves": [
+                    "CVE-2018-8120"
+                ]
+            },
+            {
+                "hash": "f0dd0cab1b84bcc280704884b450054f5a8e1256da721b1423ee9f05ce2d56c8",
+                "cves": [
+                    "CVE-2013-0808",
+                    "CVE-2017-0199"
+                ]
+            },
+            {
+                "hash": "f443644d91bb7ccc7bf0cf3b0e9c94994243000a2d072b0f7e200c6b20ab4419",
+                "cves": [
+                    "CVE-2020-1380",
+                    "CVE-2021-26411",
+                    "CVE-2024-3400"
+                ]
+            },
+            {
+                "hash": "fd7a9bbb23f1e6c2f1b58f903444f260e8efc5ec2b216c8e0df245f755bf356a",
+                "cves": [
+                    "CVE-2016-0147",
+                    "CVE-2016-1010",
+                    "CVE-2016-4117",
+                    "CVE-2016-4171"
+                ]
+            }
+        ],
+        "url": "https://securelist.com/scarcruft-continues-to-evolve-introduces-bluetooth-harvester/90729/"
+    },
+    "G0128": {
+        "hashes": [
+            {
+                "hash": "81b35040a7207abc6fafa6df16b6205e890d724b4764a0c33d7b1a06353fa11e",
+                "cves": [
+                    "CVE-2023-3519"
+                ]
+            },
+            {
+                "hash": "f6d8d11d96d71ea52ad3f668d7c5ff34ecf2c92a2f5e6888456e58d672bf0f57",
+                "cves": [
+                    "CVE-2011-3402",
+                    "CVE-2013-3128",
+                    "CVE-2013-3894",
+                    "CVE-2017-0005",
+                    "CVE-2019-0803"
+                ]
+            }
+        ],
+        "url": "https://www.zscaler.com/blogs/security-research/apt-31-leverages-covid-19-vaccine-theme-and-abuses-legitimate-online"
+    },
+    "G0078": {
+        "hashes": [
+            {
+                "hash": "83af4abeaf3fe7cea4362eaaf67755e37f9711930ca585b852db47e3f745a5b1",
+                "cves": [
+                    "CVE-2017-0199"
+                ]
+            }
+        ],
+        "url": "https://researchcenter.paloaltonetworks.com/2018/08/unit42-gorgon-group-slithering-nation-state-cybercrime/"
+    },
+    "G0082": {
+        "hashes": [
+            {
+                "hash": "869c6505aabe0670a9fff624781efcb11f68c2fe2b4d3224c3c87c73b5aa481f",
+                "cves": [
+                    "CVE-2018-13379",
+                    "CVE-2019-0604",
+                    "CVE-2019-11510",
+                    "CVE-2019-19781",
+                    "CVE-2020-0688",
+                    "CVE-2020-1472",
+                    "CVE-2020-2021"
+                ]
+            },
+            {
+                "hash": "947dfc49e7a8542d34b32a89627b509801878c86ce679c18d95c996b85847f8e",
+                "cves": [
+                    "CVE-2015-6585",
+                    "CVE-2015-8651",
+                    "CVE-2016-0034",
+                    "CVE-2016-1019",
+                    "CVE-2016-4117"
+                ]
+            }
+        ],
+        "url": "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2021GTR.pdf"
+    },
+    "G0019": {
+        "hashes": [
+            {
+                "hash": "878a948fea0f7c6fd8ae27aabfc7311e67bb57136b4c117636484bbef7430af0",
+                "cves": [
+                    "CVE-2010-3333",
+                    "CVE-2012-0158",
+                    "CVE-2012-1856"
+                ]
+            }
+        ],
+        "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07205555/TheNaikonAPT-MsnMM1.pdf"
+    },
+    "G0047": {
+        "hashes": [
+            {
+                "hash": "87ca3d0a147a9594166cbcdcb25734264983d9c667358fe8235764950dcb8372",
+                "cves": [
+                    "CVE-2022-38028"
+                ]
+            }
+        ],
+        "url": "https://www.microsoft.com/security/blog/2022/02/04/actinium-targets-ukrainian-organizations/"
+    },
+    "G0129": {
+        "hashes": [
+            {
+                "hash": "8b049ac919ab1e33e0f289470fc409680da15d417ca35cc4883194645b250088",
+                "cves": [
+                    "CVE-2017-0199"
+                ]
+            }
+        ],
+        "url": "https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-june-mustang-panda/"
+    },
+    "G0068": {
+        "hashes": [
+            {
+                "hash": "9d5317e25e63b7bde0f000e65e94f90ceb27181e14b423ae866ba4a9c6760a54",
+                "cves": [
+                    "CVE-2024-7971"
+                ]
+            },
+            {
+                "hash": "b7f981cf5356ad67309902bbc27317650c3211e38f52e75e03105da4b6e582cb",
+                "cves": [
+                    "CVE-2013-1331",
+                    "CVE-2013-7331",
+                    "CVE-2015-2545",
+                    "CVE-2015-2546"
+                ]
+            }
+        ],
+        "url": "https://cloudblogs.microsoft.com/microsoftsecure/2017/06/07/platinum-continues-to-evolve-find-ways-to-maintain-invisibility/?source=mmpc"
+    },
+    "G0096": {
+        "hashes": [
+            {
+                "hash": "a147427b39c68b537bb1552e0f1274c3053268581e5b34aa9c831d2d593757e3",
+                "cves": [
+                    "CVE-2012-0158",
+                    "CVE-2015-1641",
+                    "CVE-2017-0199",
+                    "CVE-2017-11882",
+                    "CVE-2019-3369",
+                    "CVE-2019-3396"
+                ]
+            },
+            {
+                "hash": "d5b7d7f4e49536f4840f65f75045120bfb03b15d2ad412110b02cf5aad00cd33",
+                "cves": [
+                    "CVE-2020-0688",
+                    "CVE-2021-44207",
+                    "CVE-2021-44228"
+                ]
+            }
+        ],
+        "url": "https://www.mandiant.com/sites/default/files/2022-02/rt-apt41-dual-operation.pdf"
+    },
+    "G0136": {
+        "hashes": [
+            {
+                "hash": "b39bd8dea736c041d02b0b29684e561e7ff789af31b4ca7da59fb89caaeb3de2",
+                "cves": [
+                    "CVE-2015-5119",
+                    "CVE-2016-0984",
+                    "CVE-2016-4117",
+                    "CVE-2017-0199",
+                    "CVE-2017-0261",
+                    "CVE-2017-0262",
+                    "CVE-2017-0263"
+                ]
+            }
+        ],
+        "url": "https://securelist.com/apt-trends-report-q2-2017/79332/"
+    },
+    "G0059": {
+        "hashes": [
+            {
+                "hash": "b659bfa20a7741bace2fcfa7461ba948d3cd8a98ba62075c491e8c5e72b3cea9",
+                "cves": [
+                    "CVE-2021-44228"
+                ]
+            },
+            {
+                "hash": "c1505d3e835700d000a7f5aa74acf737677b91ca636834f9b434191edd288706",
+                "cves": [
+                    "CVE-2021-31207",
+                    "CVE-2021-34473",
+                    "CVE-2021-34523"
+                ]
+            },
+            {
+                "hash": "d01b4d574ca7ea3e0c685c4072722426d889d7d1a84bf3fa2c670ee8b3c90ac2",
+                "cves": [
+                    "CVE-2021-31207",
+                    "CVE-2021-34473",
+                    "CVE-2021-34523"
+                ]
+            },
+            {
+                "hash": "f2013fd1381b7a2981159a4acdd8447cfe7b759ba0e13d64fe49e0e85196e78a",
+                "cves": [
+                    "CVE-2023-20269"
+                ]
+            }
+        ],
+        "url": "https://research.checkpoint.com/2022/apt35-exploits-log4j-vulnerability-to-distribute-new-modular-powershell-toolkit/"
+    },
+    "G0020": {
+        "hashes": [
+            {
+                "hash": "bbebb7033c451148fedf37a8faefc42a43a3920590b7d1ede08a0dcfc685b290",
+                "cves": [
+                    "CVE-2010-2568"
+                ]
+            },
+            {
+                "hash": "f84b0e6f72978cad08ed3b026416837a4df0eab14ab3e733ddf13a6a03df714b",
+                "cves": [
+                    "CVE-2010-2568",
+                    "CVE-2012-0159",
+                    "CVE-2012-1723",
+                    "CVE-2012-4681",
+                    "CVE-2013-3894",
+                    "CVE-2013-3918"
+                ]
+            }
+        ],
+        "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/20134940/kaspersky-lab-gauss.pdf"
+    },
+    "G0004": {
+        "hashes": [
+            {
+                "hash": "cace860906c1e8ae0a49e6f9398ae25c46c7d21fb252d3c9bcedfe149091dd6c",
+                "cves": [
+                    "CVE-2022-38028"
+                ]
+            }
+        ],
+        "url": "https://www.microsoft.com/security/blog/2021/12/06/nickel-targeting-government-organizations-across-latin-america-and-europe"
+    },
+    "G0123": {
+        "hashes": [
+            {
+                "hash": "cb10915f45e3c27ccd203dd3f69aad162802d8db568c9010ee696ff631caa41e",
+                "cves": [
+                    "CVE-2012-3152",
+                    "CVE-2019-11581",
+                    "CVE-2019-3396"
+                ]
+            }
+        ],
+        "url": "https://www.clearskysec.com/wp-content/uploads/2021/01/Lebanese-Cedar-APT.pdf"
+    },
+    "G1004": {
+        "hashes": [
+            {
+                "hash": "ce9b26633086579c7b67cb71f0a20ee04415863991def385a4865608817a833b",
+                "cves": [
+                    "CVE-2022-38028"
+                ]
+            },
+            {
+                "hash": "fe32141afb2fd85660f6d99d02133bdc45d4cb96d9ddb249dc8da36605d0e838",
+                "cves": [
+                    "CVE-2022-38028"
+                ]
+            }
+        ],
+        "url": "https://www.microsoft.com/security/blog/2022/03/22/dev-0537-criminal-actor-targeting-organizations-for-data-exfiltration-and-destruction/"
+    },
+    "G0061": {
+        "hashes": [
+            {
+                "hash": "d3ba5e029621fa6aa97fe3193a55685bd2884bd354fb32a85760649b4f171df0",
+                "cves": [
+                    "CVE-2016-0167"
+                ]
+            }
+        ],
+        "url": "https://www.fireeye.com/blog/threat-research/2016/05/windows-zero-day-payment-cards.html"
+    },
+    "G0135": {
+        "hashes": [
+            {
+                "hash": "df5a172a97e5f243e6e2e4011c66723b3be1e858eb2f8acca5bf3456dc357bbe",
+                "cves": [
+                    "CVE-2020-5902"
+                ]
+            },
+            {
+                "hash": "f335dc7b6c9b30eb4f5c65b8317e409dbafc6bd137bc8319afcd17be902c419a",
+                "cves": [
+                    "CVE-2020-5902"
+                ]
+            }
+        ],
+        "url": "https://www.welivesecurity.com/2021/06/10/backdoordiplomacy-upgrading-quarian-turian/"
+    },
+    "G1016": {
+        "hashes": [
+            {
+                "hash": "e410c77422135319a62b395b50a83609901e0af741e93642aabf5d33211dd38c",
+                "cves": [
+                    "CVE-2001-0507",
+                    "CVE-2010-5326",
+                    "CVE-2015-7450",
+                    "CVE-2017-100048"
+                ]
+            }
+        ],
+        "url": "https://f.hubspotusercontent30.net/hubfs/8776530/Sygnia-%20Elephant%20Beetle_Jan2022.pdf?__hstc=147695848.3e8f1a482c8f8d4531507747318e660b.1680005306711.1680005306711.1680005306711.1&__hssc=147695848.1.1680005306711&__hsfp=3000179024&hsCtaTracking=189ec409-ae2d-4909-8bf1-62dcdd694372%7Cca91d317-8f10-4a38-9f80-367f551ad64d"
+    },
+    "G0045": {
+        "hashes": [
+            {
+                "hash": "e515be4282fbdb6ac278775116635b75b9b04f7bbe6f47577c1e7d23527628e4",
+                "cves": [
+                    "CVE-2020-1472"
+                ]
+            }
+        ],
+        "url": "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/cicada-apt10-japan-espionage"
+    },
+    "G0087": {
+        "hashes": [
+            {
+                "hash": "eed407cfb4d5f44c3a89cfca94997d2f7a90bdf4782a631f05ecfcaa61d10e66",
+                "cves": [
+                    "CVE-2019-13720"
+                ]
+            }
+        ],
+        "url": "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThreatReport.pdf"
+    },
+    "G0063": {
+        "hashes": [
+            {
+                "hash": "f61392d5b8813a1da18dd6d0463932ef2943cf3972929fc563b6ea37ea31a736",
+                "cves": [
+                    "CVE-2015-5119",
+                    "CVE-2016-0984",
+                    "CVE-2016-4117",
+                    "CVE-2017-11292",
+                    "CVE-2017-8759"
+                ]
+            }
+        ],
+        "url": "https://securelist.com/blackoasis-apt-and-new-targeted-attacks-leveraging-zero-day-exploit/82732/"
+    },
+    "G1011": {
+        "hashes": [
+            {
+                "hash": "fb24344c344fdc1ac78b3eb929c58dbe7c70f3e03145310ae283884e60ba6eda",
+                "cves": [
+                    "CVE-2021-40444"
+                ]
+            }
+        ],
+        "url": "https://blog.google/threat-analysis-group/exposing-initial-access-broker-ties-conti/"
+    }
+}

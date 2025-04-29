@@ -1,0 +1,4194 @@
+Software Name,Aliases,Normalized Name
+mitre_3PARA RAT,,3para rat
+mitre_4H RAT,,4h rat
+mitre_AADInternals,,aadinternals
+mitre_ABK,,abk
+mitre_ADVSTORESHELL,"AZZY, EVILTOSS, NETUI, Sedreco",advstoreshell
+mitre_ANDROMEDA,,andromeda
+mitre_ASPXSpy,ASPXTool,aspxspy
+mitre_AcidRain,,acidrain
+mitre_Action RAT,,action rat
+mitre_AdFind,,adfind
+mitre_Agent Tesla,,agent tesla
+mitre_Agent.btz,,agent.btz
+mitre_Akira,,akira
+mitre_Amadey,,amadey
+mitre_Anchor,Anchor_DNS,anchor
+mitre_Apostle,,apostle
+mitre_AppleJeus,,applejeus
+mitre_AppleSeed,,appleseed
+mitre_Aria-body,,aria-body
+mitre_Arp,arp.exe,arp
+mitre_Astaroth,Guildma,astaroth
+mitre_AsyncRAT,,asyncrat
+mitre_Attor,,attor
+mitre_AuTo Stealer,,auto stealer
+mitre_AuditCred,Roptimizer,auditcred
+mitre_AutoIt backdoor,,autoit backdoor
+mitre_Avaddon,,avaddon
+mitre_Avenger,,avenger
+mitre_AvosLocker,,avoslocker
+mitre_Azorult,,azorult
+mitre_BACKSPACE,Lecna,backspace
+mitre_BADCALL,,badcall
+mitre_BADFLICK,,badflick
+mitre_BADHATCH,,badhatch
+mitre_BADNEWS,,badnews
+mitre_BBK,,bbk
+mitre_BBSRAT,,bbsrat
+mitre_BFG Agonizer,,bfg agonizer
+mitre_BISCUIT,,biscuit
+mitre_BITSAdmin,,bitsadmin
+mitre_BLACKCOFFEE,,blackcoffee
+mitre_BLINDINGCAN,,blindingcan
+mitre_BLUELIGHT,,bluelight
+mitre_BONDUPDATER,,bondupdater
+mitre_BOOSTWRITE,,boostwrite
+mitre_BOOTRASH,,bootrash
+mitre_BPFDoor,"Backdoor.Linux.BPFDOOR, Backdoor.Solaris.BPFDOOR.ZAJE, JustForFun",bpfdoor
+mitre_BS2005,,bs2005
+mitre_BUBBLEWRAP,Backdoor.APT.FakeWinHTTPHelper,bubblewrap
+mitre_BUSHWALK,,bushwalk
+mitre_Babuk,"Babyk, Vasa Locker",babuk
+mitre_BabyShark,LATEOP,babyshark
+mitre_BackConfig,,backconfig
+mitre_Backdoor.Oldrea,Havex,backdoor.oldrea
+mitre_Bad Rabbit,Win32/Diskcoder.D,bad rabbit
+mitre_BadPatch,,badpatch
+mitre_Bandook,,bandook
+mitre_Bankshot,Trojan Manuscript,bankshot
+mitre_Bazar,"Bazaloader, KEGTAP, Team9",bazar
+mitre_BendyBear,,bendybear
+mitre_Bisonal,,bisonal
+mitre_BitPaymer,"FriedEx, wp_encrypt",bitpaymer
+mitre_Black Basta,,black basta
+mitre_BlackCat,"ALPHV, Noberus",blackcat
+mitre_BlackEnergy,Black Energy,blackenergy
+mitre_BlackMould,,blackmould
+mitre_BloodHound,,bloodhound
+mitre_Bonadan,,bonadan
+mitre_BoomBox,,boombox
+mitre_BoxCaon,,boxcaon
+mitre_Brave Prince,,brave prince
+mitre_Briba,,briba
+mitre_Brute Ratel C4,BRc4,brute ratel c4
+mitre_Bumblebee,,bumblebee
+mitre_Bundlore,OSX.Bundlore,bundlore
+mitre_CALENDAR,,calendar
+mitre_CARROTBALL,,carrotball
+mitre_CARROTBAT,,carrotbat
+mitre_CCBkdr,,ccbkdr
+mitre_CHIMNEYSWEEP,,chimneysweep
+mitre_CHOPSTICK,"Backdoor.SofacyX, SPLM, X-Agent, Xagent, webhp",chopstick
+mitre_COATHANGER,,coathanger
+mitre_CORALDECK,,coraldeck
+mitre_CORESHELL,"SOURFACE, Sofacy",coreshell
+mitre_CSPY Downloader,,cspy downloader
+mitre_Cachedump,,cachedump
+mitre_CaddyWiper,,caddywiper
+mitre_Cadelspy,,cadelspy
+mitre_Calisto,,calisto
+mitre_CallMe,,callme
+mitre_Cannon,,cannon
+mitre_Carbanak,Anunak,carbanak
+mitre_Carberp,,carberp
+mitre_Carbon,,carbon
+mitre_Cardinal RAT,,cardinal rat
+mitre_Catchamas,,catchamas
+mitre_Caterpillar WebShell,,caterpillar webshell
+mitre_ChChes,"HAYMAKER, Scorpion",chches
+mitre_Chaes,,chaes
+mitre_Chaos,,chaos
+mitre_CharmPower,,charmpower
+mitre_Cheerscrypt,,cheerscrypt
+mitre_Cherry Picker,,cherry picker
+mitre_China Chopper,,china chopper
+mitre_Chinoxy,,chinoxy
+mitre_Chrommme,,chrommme
+mitre_Clambling,,clambling
+mitre_Clop,,clop
+mitre_CloudDuke,"CloudLook, MiniDionis",cloudduke
+mitre_Cobalt Strike,,cobalt strike
+mitre_Cobian RAT,,cobian rat
+mitre_CoinTicker,,cointicker
+mitre_ComRAT,,comrat
+mitre_Comnie,,comnie
+mitre_Conficker,"Downadup, Kido",conficker
+mitre_ConnectWise,ScreenConnect,connectwise
+mitre_Conti,,conti
+mitre_CookieMiner,,cookieminer
+mitre_CosmicDuke,"BotgenStudios, NemesisGemina, TinyBaron",cosmicduke
+mitre_CostaBricks,,costabricks
+mitre_Covenant,,covenant
+mitre_CozyCar,"Cozer, CozyBear, CozyDuke, EuroAPT",cozycar
+mitre_CrackMapExec,,crackmapexec
+mitre_CreepyDrive,,creepydrive
+mitre_CreepySnail,,creepysnail
+mitre_Crimson,MSIL/Crimson,crimson
+mitre_CrossRAT,,crossrat
+mitre_Crutch,,crutch
+mitre_Cryptoistic,,cryptoistic
+mitre_Cuba,,cuba
+mitre_Cuckoo Stealer,,cuckoo stealer
+mitre_Cyclops Blink,,cyclops blink
+mitre_DCSrv,,dcsrv
+mitre_DDKONG,,ddkong
+mitre_DEADEYE,"DEADEYE.APPEND, DEADEYE.EMBED",deadeye
+mitre_DEADWOOD,,deadwood
+mitre_DEATHRANSOM,,deathransom
+mitre_DOGCALL,,dogcall
+mitre_DRATzarus,,dratzarus
+mitre_DUSTPAN,,dustpan
+mitre_DUSTTRAP,,dusttrap
+mitre_Dacls,,dacls
+mitre_DanBot,,danbot
+mitre_DarkComet,"DarkKomet, FYNLOS, Fynloski, Krademok",darkcomet
+mitre_DarkGate,,darkgate
+mitre_DarkTortilla,,darktortilla
+mitre_DarkWatchman,,darkwatchman
+mitre_Daserf,"Muirim, Nioupale",daserf
+mitre_DealersChoice,,dealerschoice
+mitre_Denis,,denis
+mitre_Derusbi,PHOTO,derusbi
+mitre_Diavol,,diavol
+mitre_Dipsind,,dipsind
+mitre_Disco,,disco
+mitre_DnsSystem,,dnssystem
+mitre_Dok,Retefe,dok
+mitre_Doki,,doki
+mitre_Donut,,donut
+mitre_DownPaper,,downpaper
+mitre_Downdelph,Delphacy,downdelph
+mitre_Dridex,Bugat v5,dridex
+mitre_DropBook,,dropbook
+mitre_Drovorub,,drovorub
+mitre_Dtrack,,dtrack
+mitre_Duqu,,duqu
+mitre_DustySky,NeD Worm,dustysky
+mitre_Dyre,"Dyreza, Dyzap",dyre
+mitre_ECCENTRICBANDWAGON,,eccentricbandwagon
+mitre_EKANS,SNAKEHOSE,ekans
+mitre_ELMER,,elmer
+mitre_EVILNUM,,evilnum
+mitre_Ebury,,ebury
+mitre_Ecipekac,"DESLoader, HEAVYHAND, SigLoader",ecipekac
+mitre_Egregor,,egregor
+mitre_Elise,"BKDR_ESILE, Page",elise
+mitre_Emissary,,emissary
+mitre_Emotet,Geodo,emotet
+mitre_Empire,"EmPyre, PowerShell Empire",empire
+mitre_EnvyScout,,envyscout
+mitre_Epic,"TadjMakhal, Tavdig, Wipbot, WorldCupSec",epic
+mitre_EvilBunny,,evilbunny
+mitre_EvilGrab,,evilgrab
+mitre_Exaramel for Linux,,exaramel for linux
+mitre_Exaramel for Windows,,exaramel for windows
+mitre_Expand,,expand
+mitre_Explosive,,explosive
+mitre_FALLCHILL,,fallchill
+mitre_FELIXROOT,GreyEnergy mini,felixroot
+mitre_FIVEHANDS,,fivehands
+mitre_FLASHFLOOD,,flashflood
+mitre_FLIPSIDE,,flipside
+mitre_FRAMESTING,,framesting
+mitre_FRP,,frp
+mitre_FYAnti,DILLJUICE stage2,fyanti
+mitre_FakeM,,fakem
+mitre_FatDuke,,fatduke
+mitre_Felismus,,felismus
+mitre_Ferocious,,ferocious
+mitre_Fgdump,,fgdump
+mitre_FinFisher,FinSpy,finfisher
+mitre_Final1stspy,,final1stspy
+mitre_Flagpro,,flagpro
+mitre_Flame,"Flamer, sKyWIper",flame
+mitre_FlawedAmmyy,,flawedammyy
+mitre_FlawedGrace,,flawedgrace
+mitre_FoggyWeb,,foggyweb
+mitre_Forfiles,,forfiles
+mitre_FrameworkPOS,Trinity,frameworkpos
+mitre_FruitFly,,fruitfly
+mitre_FunnyDream,,funnydream
+mitre_Fysbis,,fysbis
+mitre_GLASSTOKEN,,glasstoken
+mitre_GLOOXMAIL,Trojan.GTALK,glooxmail
+mitre_GRIFFON,,griffon
+mitre_Gazer,WhiteBear,gazer
+mitre_Gelsemium,"Gelsemine, Gelsenicine, Gelsevirine",gelsemium
+mitre_GeminiDuke,,geminiduke
+mitre_Get2,,get2
+mitre_Gold Dragon,,gold dragon
+mitre_GoldFinder,,goldfinder
+mitre_GoldMax,SUNSHUTTLE,goldmax
+mitre_GoldenSpy,,goldenspy
+mitre_Goopy,,goopy
+mitre_Gootloader,,gootloader
+mitre_Grandoreiro,,grandoreiro
+mitre_GravityRAT,,gravityrat
+mitre_Green Lambert,,green lambert
+mitre_GreyEnergy,,greyenergy
+mitre_GrimAgent,,grimagent
+mitre_GuLoader,,guloader
+mitre_H1N1,,h1n1
+mitre_HALFBAKED,,halfbaked
+mitre_HAMMERTOSS,"HammerDuke, NetDuke",hammertoss
+mitre_HAPPYWORK,,happywork
+mitre_HARDRAIN,,hardrain
+mitre_HAWKBALL,,hawkball
+mitre_HDoor,Custom HDoor,hdoor
+mitre_HELLOKITTY,,hellokitty
+mitre_HIDEDRV,,hidedrv
+mitre_HOMEFRY,,homefry
+mitre_HOPLIGHT,,hoplight
+mitre_HTRAN,HUC Packet Transmit Tool,htran
+mitre_HTTPBrowser,"HttpDump, Token Control",httpbrowser
+mitre_HUI Loader,,hui loader
+mitre_Hacking Team UEFI Rootkit,,hacking team uefi rootkit
+mitre_Hancitor,Chanitor,hancitor
+mitre_Havij,,havij
+mitre_Helminth,,helminth
+mitre_HermeticWiper,"DriveSlayer, Trojan.Killdisk",hermeticwiper
+mitre_HermeticWizard,,hermeticwizard
+mitre_Heyoka Backdoor,,heyoka backdoor
+mitre_Hi-Zor,,hi-zor
+mitre_HiddenWasp,,hiddenwasp
+mitre_Hikit,,hikit
+mitre_Hildegard,,hildegard
+mitre_HotCroissant,,hotcroissant
+mitre_Hydraq,"9002 RAT, Aurora, HidraQ, HomeUnix, Homux, HydraQ, McRat, MdmBot, Roarur",hydraq
+mitre_HyperBro,,hyperbro
+mitre_HyperStack,,hyperstack
+mitre_IMAPLoader,,imaploader
+mitre_INC Ransomware,,inc ransomware
+mitre_IPsec Helper,,ipsec helper
+mitre_ISMInjector,,isminjector
+mitre_IceApple,,iceapple
+mitre_IcedID,,icedid
+mitre_Imminent Monitor,,imminent monitor
+mitre_Impacket,,impacket
+mitre_Industroyer,"CRASHOVERRIDE, Win32/Industroyer",industroyer
+mitre_Industroyer2,,industroyer2
+mitre_InnaputRAT,,innaputrat
+mitre_InvisiMole,,invisimole
+mitre_Invoke-PSImage,,invoke-psimage
+mitre_IronNetInjector,,ironnetinjector
+mitre_Ixeshe,,ixeshe
+mitre_JCry,,jcry
+mitre_JHUHUGIT,"GAMEFISH, JKEYSKW, Sednit, Seduploader, SofacyCarberp, Trojan.Sofacy",jhuhugit
+mitre_JPIN,,jpin
+mitre_JSS Loader,,jss loader
+mitre_Janicab,,janicab
+mitre_Javali,,javali
+mitre_KARAE,,karae
+mitre_KEYMARBLE,,keymarble
+mitre_KEYPLUG,KEYPLUG.LINUX,keyplug
+mitre_KGH_SPY,,kgh spy
+mitre_KOCTOPUS,,koctopus
+mitre_KOMPROGO,,komprogo
+mitre_KONNI,,konni
+mitre_KOPILUWAK,,kopiluwak
+mitre_Kasidet,,kasidet
+mitre_Kazuar,,kazuar
+mitre_Kerrdown,,kerrdown
+mitre_Kessel,,kessel
+mitre_Kevin,,kevin
+mitre_KeyBoy,,keyboy
+mitre_Keydnap,OSX/Keydnap,keydnap
+mitre_KillDisk,"Win32/KillDisk.NBB, Win32/KillDisk.NBC, Win32/KillDisk.NBD, Win32/KillDisk.NBH, Win32/KillDisk.NBI",killdisk
+mitre_Kinsing,,kinsing
+mitre_Kivars,,kivars
+mitre_Koadic,,koadic
+mitre_Kobalos,,kobalos
+mitre_Komplex,,komplex
+mitre_Kwampirs,,kwampirs
+mitre_LIGHTWIRE,,lightwire
+mitre_LITTLELAMB.WOOLTEA,,littlelamb.wooltea
+mitre_LOWBALL,,lowball
+mitre_LaZagne,,lazagne
+mitre_Latrodectus,"IceNova, Unidentified 111",latrodectus
+mitre_LightNeuron,,lightneuron
+mitre_Linfo,,linfo
+mitre_Linux Rabbit,,linux rabbit
+mitre_LiteDuke,,liteduke
+mitre_LitePower,,litepower
+mitre_Lizar,Tirion,lizar
+mitre_LoFiSe,,lofise
+mitre_LoJax,,lojax
+mitre_LockerGoga,,lockergoga
+mitre_Lokibot,,lokibot
+mitre_LookBack,,lookback
+mitre_LoudMiner,,loudminer
+mitre_Lslsass,,lslsass
+mitre_Lucifer,,lucifer
+mitre_LunarLoader,,lunarloader
+mitre_LunarMail,,lunarmail
+mitre_LunarWeb,,lunarweb
+mitre_Lurid,Enfal,lurid
+mitre_MCMD,,mcmd
+mitre_MESSAGETAP,,messagetap
+mitre_MURKYTOP,,murkytop
+mitre_MacMa,"DazzleSpy, OSX.CDDS",macma
+mitre_MacSpy,,macspy
+mitre_Machete,Pyark,machete
+mitre_Mafalda,,mafalda
+mitre_MailSniper,,mailsniper
+mitre_Manjusaka,,manjusaka
+mitre_MarkiRAT,,markirat
+mitre_Matryoshka,,matryoshka
+mitre_Maze,,maze
+mitre_MechaFlounder,,mechaflounder
+mitre_MegaCortex,,megacortex
+mitre_Melcoz,,melcoz
+mitre_Metamorfo,Casbaneiro,metamorfo
+mitre_Meteor,,meteor
+mitre_MgBot,,mgbot
+mitre_Micropsia,,micropsia
+mitre_Milan,James,milan
+mitre_MimiPenguin,,mimipenguin
+mitre_Mimikatz,,mimikatz
+mitre_Miner-C,,miner-c
+mitre_MiniDuke,,miniduke
+mitre_MirageFox,,miragefox
+mitre_Mis-Type,,mis-type
+mitre_Misdat,,misdat
+mitre_Mispadu,,mispadu
+mitre_Mivast,,mivast
+mitre_MobileOrder,,mobileorder
+mitre_MoleNet,,molenet
+mitre_Moneybird,,moneybird
+mitre_Mongall,,mongall
+mitre_MoonWind,,moonwind
+mitre_More_eggs,"SKID, SpicyOmelette, Terra Loader",more eggs
+mitre_Mori,,mori
+mitre_Mosquito,,mosquito
+mitre_MultiLayer Wiper,,multilayer wiper
+mitre_Mythic,,mythic
+mitre_NBTscan,,nbtscan
+mitre_NDiskMonitor,,ndiskmonitor
+mitre_NETEAGLE,,neteagle
+mitre_NETWIRE,,netwire
+mitre_NGLite,,nglite
+mitre_NKAbuse,,nkabuse
+mitre_NOKKI,,nokki
+mitre_NPPSPY,,nppspy
+mitre_Naid,,naid
+mitre_NanHaiShu,,nanhaishu
+mitre_NanoCore,,nanocore
+mitre_NativeZone,,nativezone
+mitre_NavRAT,,navrat
+mitre_Nebulae,,nebulae
+mitre_Neoichor,,neoichor
+mitre_Nerex,,nerex
+mitre_Net,net.exe,net
+mitre_Net Crawler,NetC,net crawler
+mitre_NetTraveler,,nettraveler
+mitre_Netwalker,,netwalker
+mitre_Nidiran,Backdoor.Nidiran,nidiran
+mitre_NightClub,,nightclub
+mitre_Nightdoor,,nightdoor
+mitre_Ninja,,ninja
+mitre_Nltest,,nltest
+mitre_NotPetya,"Diskcoder.C, ExPetr, GoldenEye, Nyetya, Petrwrap",notpetya
+mitre_OLDBAIT,Sasfis,oldbait
+mitre_OSInfo,,osinfo
+mitre_OSX/Shlayer,"Crossrider, Zshlayer",osx/shlayer
+mitre_OSX_OCEANLOTUS.D,Backdoor.MacOS.OCEANLOTUS.F,osx oceanlotus.d
+mitre_ObliqueRAT,,obliquerat
+mitre_OceanSalt,,oceansalt
+mitre_Octopus,,octopus
+mitre_Okrum,,okrum
+mitre_Olympic Destroyer,,olympic destroyer
+mitre_OnionDuke,,onionduke
+mitre_OopsIE,,oopsie
+mitre_Orz,AIRBREAK,orz
+mitre_Out1,,out1
+mitre_OutSteel,,outsteel
+mitre_OwaAuth,,owaauth
+mitre_P.A.S. Webshell,Fobushell,p.a.s. webshell
+mitre_P2P ZeuS,"Gameover ZeuS, Peer-to-Peer ZeuS",p2p zeus
+mitre_P8RAT,"GreetCake, HEAVYPOT",p8rat
+mitre_PACEMAKER,,pacemaker
+mitre_PHOREAL,,phoreal
+mitre_PITSTOP,,pitstop
+mitre_PLAINTEE,,plaintee
+mitre_PLEAD,,plead
+mitre_POORAIM,,pooraim
+mitre_POSHSPY,,poshspy
+mitre_POWERSOURCE,DNSMessenger,powersource
+mitre_POWERSTATS,Powermud,powerstats
+mitre_POWERTON,,powerton
+mitre_POWRUNER,,powruner
+mitre_PS1,,ps1
+mitre_PULSECHECK,,pulsecheck
+mitre_PUNCHBUGGY,ShellTea,punchbuggy
+mitre_PUNCHTRACK,PSVC,punchtrack
+mitre_Pacu,,pacu
+mitre_Pandora,,pandora
+mitre_Pasam,,pasam
+mitre_Pass-The-Hash Toolkit,,pass-the-hash toolkit
+mitre_Pay2Key,,pay2key
+mitre_PcShare,,pcshare
+mitre_Pcexter,,pcexter
+mitre_Peirates,,peirates
+mitre_Penquin,"Penquin 2.0, Penquin_x64",penquin
+mitre_Peppy,,peppy
+mitre_Pikabot,,pikabot
+mitre_Pillowmint,,pillowmint
+mitre_PinchDuke,,pinchduke
+mitre_Ping,,ping
+mitre_PingPull,,pingpull
+mitre_PipeMon,,pipemon
+mitre_Pisloader,,pisloader
+mitre_Playcrypt,Play,playcrypt
+mitre_PlugX,"DestroyRAT, Kaba, Korplug, Sogu, TVT, Thoper",plugx
+mitre_PoetRAT,,poetrat
+mitre_PoisonIvy,"Breut, Darkmoon, Poison Ivy",poisonivy
+mitre_PolyglotDuke,,polyglotduke
+mitre_Pony,,pony
+mitre_PoshC2,,poshc2
+mitre_PowGoop,,powgoop
+mitre_Power Loader,,power loader
+mitre_PowerDuke,,powerduke
+mitre_PowerLess,,powerless
+mitre_PowerPunch,,powerpunch
+mitre_PowerShower,,powershower
+mitre_PowerSploit,,powersploit
+mitre_PowerStallion,,powerstallion
+mitre_Prestige,,prestige
+mitre_Prikormka,,prikormka
+mitre_ProLock,,prolock
+mitre_Proton,,proton
+mitre_Proxysvc,,proxysvc
+mitre_PsExec,,psexec
+mitre_Psylo,,psylo
+mitre_Pteranodon,Pterodo,pteranodon
+mitre_Pupy,,pupy
+mitre_PyDCrypt,,pydcrypt
+mitre_Pysa,Mespinoza,pysa
+mitre_QUADAGENT,,quadagent
+mitre_QUIETCANARY,Tunnus,quietcanary
+mitre_QUIETEXIT,,quietexit
+mitre_QakBot,"Pinkslipbot, QBot, QuackBot",qakbot
+mitre_QuasarRAT,xRAT,quasarrat
+mitre_QuietSieve,,quietsieve
+mitre_RAPIDPULSE,,rapidpulse
+mitre_RARSTONE,,rarstone
+mitre_RATANKBA,,ratankba
+mitre_RCSession,,rcsession
+mitre_RDAT,,rdat
+mitre_RDFSNIFFER,,rdfsniffer
+mitre_REvil,"Sodin, Sodinokibi",revil
+mitre_RGDoor,,rgdoor
+mitre_RIPTIDE,,riptide
+mitre_ROADSWEEP,,roadsweep
+mitre_ROADTools,,roadtools
+mitre_ROCKBOOT,,rockboot
+mitre_ROKRAT,,rokrat
+mitre_RTM,Redaman,rtm
+mitre_Raccoon Stealer,,raccoon stealer
+mitre_Ragnar Locker,,ragnar locker
+mitre_Raindrop,,raindrop
+mitre_RainyDay,,rainyday
+mitre_Ramsay,,ramsay
+mitre_Raspberry Robin,,raspberry robin
+mitre_RawDisk,,rawdisk
+mitre_RawPOS,"DRIFTWOOD, DUEBREW, FIENDCRY",rawpos
+mitre_Rclone,,rclone
+mitre_Reaver,,reaver
+mitre_RedLeaves,BUGJUICE,redleaves
+mitre_Reg,reg.exe,reg
+mitre_RegDuke,,regduke
+mitre_Regin,,regin
+mitre_Remcos,,remcos
+mitre_Remexi,,remexi
+mitre_RemoteCMD,,remotecmd
+mitre_RemoteUtilities,,remoteutilities
+mitre_Remsec,"Backdoor.Remsec, ProjectSauron",remsec
+mitre_Responder,,responder
+mitre_Revenge RAT,,revenge rat
+mitre_Rifdoor,,rifdoor
+mitre_Rising Sun,,rising sun
+mitre_RobbinHood,,robbinhood
+mitre_RogueRobin,,roguerobin
+mitre_RotaJakiro,,rotajakiro
+mitre_Rover,,rover
+mitre_Royal,,royal
+mitre_Rubeus,,rubeus
+mitre_Ruler,,ruler
+mitre_RunningRAT,,runningrat
+mitre_Ryuk,,ryuk
+mitre_S-Type,,s-type
+mitre_SDBbot,,sdbbot
+mitre_SDelete,,sdelete
+mitre_SEASHARPEE,,seasharpee
+mitre_SHARPSTATS,,sharpstats
+mitre_SHIPSHAPE,,shipshape
+mitre_SHOTPUT,"Backdoor.APT.CookieCutter, Pirpi",shotput
+mitre_SHUTTERSPEED,,shutterspeed
+mitre_SILENTTRINITY,,silenttrinity
+mitre_SLIGHTPULSE,,slightpulse
+mitre_SLOTHFULMEDIA,"JackOfHearts, QueenOfClubs",slothfulmedia
+mitre_SLOWDRIFT,,slowdrift
+mitre_SLOWPULSE,,slowpulse
+mitre_SMOKEDHAM,,smokedham
+mitre_SNUGRIDE,,snugride
+mitre_SOUNDBITE,,soundbite
+mitre_SPACESHIP,,spaceship
+mitre_SQLRat,,sqlrat
+mitre_STARWHALE,CANOPY,starwhale
+mitre_STEADYPULSE,,steadypulse
+mitre_SUGARDUMP,,sugardump
+mitre_SUGARUSH,,sugarush
+mitre_SUNBURST,Solorigate,sunburst
+mitre_SUNSPOT,,sunspot
+mitre_SUPERNOVA,,supernova
+mitre_SVCReady,,svcready
+mitre_SYNful Knock,,synful knock
+mitre_SYSCON,,syscon
+mitre_Saint Bot,,saint bot
+mitre_Sakula,"Sakurel, VIPER",sakula
+mitre_SamSam,Samas,samsam
+mitre_Samurai,,samurai
+mitre_Sardonic,,sardonic
+mitre_SeaDuke,"SeaDaddy, SeaDesk",seaduke
+mitre_Seasalt,,seasalt
+mitre_ServHelper,,servhelper
+mitre_Seth-Locker,,seth-locker
+mitre_ShadowPad,POISONPLUG.SHADOW,shadowpad
+mitre_Shamoon,Disttrack,shamoon
+mitre_Shark,,shark
+mitre_SharpDisco,,sharpdisco
+mitre_SharpStage,,sharpstage
+mitre_ShimRat,,shimrat
+mitre_ShimRatReporter,,shimratreporter
+mitre_Sibot,,sibot
+mitre_SideTwist,,sidetwist
+mitre_Siloscape,,siloscape
+mitre_Skeleton Key,,skeleton key
+mitre_Skidmap,,skidmap
+mitre_Sliver,,sliver
+mitre_Small Sieve,GRAMDOOR,small sieve
+mitre_Smoke Loader,Dofoil,smoke loader
+mitre_Snip3,,snip3
+mitre_SocGholish,FakeUpdates,socgholish
+mitre_Socksbot,,socksbot
+mitre_SodaMaster,"DARKTOWN, DelfsCake, dfls",sodamaster
+mitre_SombRAT,,sombrat
+mitre_SoreFang,,sorefang
+mitre_Spark,,spark
+mitre_SpeakUp,,speakup
+mitre_Spica,,spica
+mitre_SpicyOmelette,,spicyomelette
+mitre_Squirrelwaffle,,squirrelwaffle
+mitre_SslMM,,sslmm
+mitre_Starloader,,starloader
+mitre_StoneDrill,DROPSHOT,stonedrill
+mitre_StreamEx,,streamex
+mitre_StrifeWater,,strifewater
+mitre_StrongPity,,strongpity
+mitre_Stuxnet,W32.Stuxnet,stuxnet
+mitre_Sykipot,,sykipot
+mitre_SynAck,,synack
+mitre_Sys10,,sys10
+mitre_SysUpdate,"FOCUSFJORD, HyperSSL, Soldier",sysupdate
+mitre_Systeminfo,,systeminfo
+mitre_T9000,,t9000
+mitre_TAINTEDSCRIBE,,taintedscribe
+mitre_TDTESS,,tdtess
+mitre_TEARDROP,,teardrop
+mitre_TEXTMATE,DNSMessenger,textmate
+mitre_TINYTYPHON,,tinytyphon
+mitre_TSCookie,,tscookie
+mitre_TURNEDUP,,turnedup
+mitre_TYPEFRAME,,typeframe
+mitre_Taidoor,,taidoor
+mitre_TajMahal,,tajmahal
+mitre_Tarrask,,tarrask
+mitre_Tasklist,,tasklist
+mitre_ThiefQuest,"EvilQuest, MacRansom.K",thiefquest
+mitre_ThreatNeedle,,threatneedle
+mitre_TinyTurla,,tinyturla
+mitre_TinyZBot,,tinyzbot
+mitre_Tomiris,,tomiris
+mitre_Tor,,tor
+mitre_Torisma,,torisma
+mitre_TrailBlazer,,trailblazer
+mitre_TrickBot,"TSPY_TRICKLOAD, Totbrick",trickbot
+mitre_Trojan.Karagany,"Karagany, xFrost",karagany
+mitre_Trojan.Mebromi,,mebromi
+mitre_Truvasys,,truvasys
+mitre_Turian,,turian
+mitre_UACMe,,uacme
+mitre_UBoatRAT,,uboatrat
+mitre_UPPERCUT,ANEL,uppercut
+mitre_USBStealer,"USB Stealer, Win32/USBStealer",usbstealer
+mitre_USBferry,,usbferry
+mitre_Umbreon,,umbreon
+mitre_Unknown Logger,,unknown logger
+mitre_Uroburos,Snake,uroburos
+mitre_Ursnif,"Dreambot, Gozi-ISFB, PE_URSNIF",ursnif
+mitre_VBShower,,vbshower
+mitre_VERMIN,,vermin
+mitre_VPNFilter,,vpnfilter
+mitre_Valak,,valak
+mitre_VaporRage,,vaporrage
+mitre_Vasport,,vasport
+mitre_VersaMem,,versamem
+mitre_Volgmer,,volgmer
+mitre_WARPWIRE,,warpwire
+mitre_WEBC2,,webc2
+mitre_WINDSHIELD,,windshield
+mitre_WINERACK,,winerack
+mitre_WIREFIRE,GIFTEDVISITOR,wirefire
+mitre_WannaCry,"WCry, WanaCry, WanaCrypt, WanaCrypt0r",wannacry
+mitre_WarzoneRAT,"Ave Maria, Warzone",warzonerat
+mitre_WastedLocker,,wastedlocker
+mitre_Waterbear,,waterbear
+mitre_WellMail,,wellmail
+mitre_WellMess,,wellmess
+mitre_Wevtutil,,wevtutil
+mitre_WhisperGate,,whispergate
+mitre_Wiarp,,wiarp
+mitre_WinMM,,winmm
+mitre_WindTail,,windtail
+mitre_Windows Credential Editor,WCE,windows credential editor
+mitre_Winexe,,winexe
+mitre_Wingbird,,wingbird
+mitre_Winnti for Linux,,winnti for linux
+mitre_Winnti for Windows,,winnti for windows
+mitre_Wiper,,wiper
+mitre_Woody RAT,,woody rat
+mitre_XAgentOSX,OSX.Sofacy,xagentosx
+mitre_XCSSET,OSX.DubRobber,xcsset
+mitre_XTunnel,"Trojan.Shunnael, X-Tunnel, XAPS",xtunnel
+mitre_Xbash,,xbash
+mitre_YAHOYAH,,yahoyah
+mitre_ZIPLINE,,zipline
+mitre_ZLib,,zlib
+mitre_Zebrocy,Zekapab,zebrocy
+mitre_ZeroCleare,ZEROCLEAR,zerocleare
+mitre_ZeroT,,zerot
+mitre_Zeroaccess,,zeroaccess
+mitre_Zeus Panda,,zeus panda
+mitre_Zox,"Gresim, ZoxPNG, ZoxRPC",zox
+mitre_ZxShell,Sensocode,zxshell
+mitre_ZxxZ,,zxxz
+mitre_adbupd,,adbupd
+mitre_at,at.exe,at
+mitre_build_downer,,build downer
+mitre_ccf32,,ccf32
+mitre_certutil,certutil.exe,certutil
+mitre_cmd,cmd.exe,cmd
+mitre_down_new,,down new
+mitre_dsquery,dsquery.exe,dsquery
+mitre_esentutl,esentutl.exe,esentutl
+mitre_ftp,ftp.exe,ftp
+mitre_gh0st RAT,"Moudoor, Mydoor",gh0st rat
+mitre_gsecdump,,gsecdump
+mitre_hcdLoader,,hcdloader
+mitre_httpclient,,httpclient
+mitre_iKitten,OSX/MacDownloader,ikitten
+mitre_ifconfig,,ifconfig
+mitre_ipconfig,,ipconfig
+mitre_jRAT,"Adwind, AlienSpy, Frutas, JSocket, Sockrat, Trojan.Maljava, Unrecom, jBiFrost, jFrutas",jrat
+mitre_macOS.OSAMiner,,macos.osaminer
+mitre_meek,,meek
+mitre_metaMain,,metamain
+mitre_nbtstat,,nbtstat
+mitre_netsh,netsh.exe,netsh
+mitre_netstat,,netstat
+mitre_ngrok,,ngrok
+mitre_njRAT,"Bladabindi, LV, Njw0rm",njrat
+mitre_pngdowner,,pngdowner
+mitre_pwdump,,pwdump
+mitre_route,,route
+mitre_schtasks,schtasks.exe,schtasks
+mitre_spwebmember,,spwebmember
+mitre_sqlmap,,sqlmap
+mitre_xCaon,,xcaon
+mitre_xCmd,,xcmd
+mitre_yty,,yty
+mitre_zwShell,,zwshell
+mitre_ACAD/Medre.A,,acad/medre.a
+mitre_Fuxnet,,fuxnet
+mitre_INCONTROLLER,PIPEDREAM,incontroller
+mitre_PLC-Blaster,,plc-blaster
+mitre_Triton,"HatMan, TRISIS",triton
+mitre_ANDROIDOS_ANSERVER.A,,androidos anserver.a
+mitre_AbstractEmu,,abstractemu
+mitre_Adups,,adups
+mitre_Agent Smith,,agent smith
+mitre_AhRat,,ahrat
+mitre_Allwinner,,allwinner
+mitre_AndroRAT,,androrat
+mitre_Android/AdDisplay.Ashas,,android/addisplay.ashas
+mitre_Android/Chuli.A,,android/chuli.a
+mitre_AndroidOS/MalLocker.B,,androidos/mallocker.b
+mitre_Anubis,,anubis
+mitre_Asacub,Trojan-SMS.AndroidOS.Smaps,asacub
+mitre_BOULDSPY,,bouldspy
+mitre_BRATA,,brata
+mitre_BrainTest,,braintest
+mitre_Bread,Joker,bread
+mitre_BusyGasper,,busygasper
+mitre_CHEMISTGAMES,,chemistgames
+mitre_CarbonSteal,,carbonsteal
+mitre_Cerberus,,cerberus
+mitre_Chameleon,,chameleon
+mitre_Charger,,charger
+mitre_Circles,,circles
+mitre_Concipit1248,Corona Updates,concipit1248
+mitre_Corona Updates,"Concipit1248, Wabi Music",corona updates
+mitre_DEFENSOR ID,,defensor id
+mitre_Dendroid,,dendroid
+mitre_Desert Scorpion,,desert scorpion
+mitre_DoubleAgent,,doubleagent
+mitre_DressCode,,dresscode
+mitre_Drinik,,drinik
+mitre_DroidJack,,droidjack
+mitre_DualToy,,dualtoy
+mitre_Dvmap,,dvmap
+mitre_Escobar,,escobar
+mitre_EventBot,,eventbot
+mitre_Exobot,,exobot
+mitre_Exodus,"Exodus One, Exodus Two",exodus
+mitre_FakeSpy,,fakespy
+mitre_Fakecalls,,fakecalls
+mitre_FlexiSpy,,flexispy
+mitre_FlixOnline,,flixonline
+mitre_FluBot,,flubot
+mitre_FlyTrap,,flytrap
+mitre_FrozenCell,,frozencell
+mitre_GPlayed,,gplayed
+mitre_Ginp,,ginp
+mitre_Golden Cup,,golden cup
+mitre_GoldenEagle,,goldeneagle
+mitre_GolfSpy,,golfspy
+mitre_Gooligan,Ghost Push,gooligan
+mitre_Gustuff,,gustuff
+mitre_HenBox,,henbox
+mitre_HilalRAT,,hilalrat
+mitre_Hornbill,,hornbill
+mitre_HummingBad,,hummingbad
+mitre_HummingWhale,,hummingwhale
+mitre_INSOMNIA,,insomnia
+mitre_Judy,,judy
+mitre_KeyRaider,,keyraider
+mitre_Mandrake,"briar, darkmatter, oxide, ricinus",mandrake
+mitre_MazarBOT,,mazarbot
+mitre_Monokle,,monokle
+mitre_NotCompatible,,notcompatible
+mitre_OBAD,,obad
+mitre_OldBoot,,oldboot
+mitre_PJApps,,pjapps
+mitre_Pallas,,pallas
+mitre_Pegasus for Android,Chrysaor,pegasus for android
+mitre_Pegasus for iOS,,pegasus for ios
+mitre_Phenakite,,phenakite
+mitre_RCSAndroid,,rcsandroid
+mitre_Red Alert 2.0,,red alert 2.0
+mitre_RedDrop,,reddrop
+mitre_Riltok,,riltok
+mitre_Rotexy,,rotexy
+mitre_RuMMS,,rumms
+mitre_S.O.V.A.,,s.o.v.a.
+mitre_SharkBot,,sharkbot
+mitre_ShiftyBug,,shiftybug
+mitre_SilkBean,,silkbean
+mitre_SimBad,,simbad
+mitre_Skygofree,,skygofree
+mitre_SpyDealer,,spydealer
+mitre_SpyNote RAT,,spynote rat
+mitre_Stealth Mango,,stealth mango
+mitre_Sunbird,,sunbird
+mitre_TERRACOTTA,,terracotta
+mitre_Tangelo,,tangelo
+mitre_TangleBot,,tanglebot
+mitre_TianySpy,,tianyspy
+mitre_Tiktok Pro,,tiktok pro
+mitre_Triada,,triada
+mitre_TrickMo,,trickmo
+mitre_Trojan-SMS.AndroidOS.Agent.ao,,trojan-sms.androidos.agent.ao
+mitre_Trojan-SMS.AndroidOS.FakeInst.a,,trojan-sms.androidos.fakeinst.a
+mitre_Trojan-SMS.AndroidOS.OpFake.a,,trojan-sms.androidos.opfake.a
+mitre_Twitoor,,twitoor
+mitre_ViceLeaker,Triout,viceleaker
+mitre_ViperRAT,,viperrat
+mitre_WireLurker,,wirelurker
+mitre_WolfRAT,,wolfrat
+mitre_X-Agent for Android,,x-agent for android
+mitre_XLoader for Android,,xloader for android
+mitre_XLoader for iOS,,xloader for ios
+mitre_Xbot,,xbot
+mitre_XcodeGhost,,xcodeghost
+mitre_YiSpecter,,yispecter
+mitre_Zen,,zen
+mitre_ZergHelper,,zerghelper
+mitre_eSurv,,esurv
+malpedia_FastCash,,aix.fastcash
+malpedia_888 RAT,,apk.888 rat
+malpedia_Aberebot,Escobar,apk.aberebot
+malpedia_AbstractEmu,,apk.abstract emu
+malpedia_ActionSpy,AxeSpy,apk.actionspy
+malpedia_AdoBot,,apk.adobot
+malpedia_AdultSwine,,apk.adultswine
+malpedia_Agent Smith,,apk.agentsmith
+malpedia_AhMyth,,apk.ahmyth
+malpedia_Alien,AlienBot,apk.alien
+malpedia_AmexTroll,,apk.amextroll
+malpedia_AmpleBot,BlackRock,apk.amplebot
+malpedia_Anatsa,"ReBot, TeaBot, Toddler",apk.anatsa
+malpedia_AndroRAT,,apk.androrat
+malpedia_ANDROSNATCH,,apk.androsnatch
+malpedia_Antidot,,apk.antidot
+malpedia_Anubis,"BankBot, android.bankbot, android.bankspy",apk.anubis
+malpedia_AnubisSpy,,apk.anubisspy
+malpedia_Asacub,,apk.asacub
+malpedia_Ashas,,apk.ashas
+malpedia_ATANK,,apk.atank
+malpedia_AxBanker,,apk.axbanker
+malpedia_badbazaar,,apk.badbazaar
+malpedia_BADBOX,,apk.badbox
+malpedia_BADCALL,,apk.badcall
+malpedia_BadPatch,WelcomeChat,apk.badpatch
+malpedia_Bahamut,,apk.bahamut
+malpedia_Basbanke,,apk.basbanke
+malpedia_BianLian,Hydra,apk.bianlian
+malpedia_BingoMod,,apk.bingomod
+malpedia_BlankBot,,apk.blankbot
+malpedia_BoneSpy,,apk.bone spy
+malpedia_BrasDex,,apk.brasdex
+malpedia_BRATA,"AmexTroll, Copybara",apk.brata
+malpedia_Brunhilda,,apk.brunhilda
+malpedia_BusyGasper,,apk.busygasper
+malpedia_CapraRAT,,apk.capra rat
+malpedia_CarbonSteal,,apk.carbonsteal
+malpedia_Catelites,,apk.catelites
+malpedia_Cerberus,,apk.cerberus
+malpedia_Chameleon,,apk.chameleon
+malpedia_Chamois,,apk.chamois
+malpedia_Charger,,apk.charger
+malpedia_Chinotto,,apk.chinotto
+malpedia_Chrysaor,"Pegasus, JigglyPuff",apk.chrysaor
+malpedia_Clientor,,apk.clientor
+malpedia_Clipper,,apk.clipper
+malpedia_CloudAtlas,,apk.cloudatlas
+malpedia_CometBot,,apk.comet bot
+malpedia_Connic,SpyBanker,apk.connic
+malpedia_Coper,"ExobotCompact, Octo",apk.coper
+malpedia_Copybara,,apk.copybara
+malpedia_Coronavirus Android Worm,,apk.corona worm
+malpedia_Cpuminer,,apk.cpuminer
+malpedia_CraxsRAT,,apk.craxs rat
+malpedia_CryCryptor,"CryCrypter, CryDroid",apk.crycryptor
+malpedia_CyberAzov,,apk.cyber azov
+malpedia_DAAM,BouldSpy,apk.daam
+malpedia_Dark Shades,Rogue,apk.darkshades
+malpedia_DawDropper,,apk.dawdropper
+malpedia_DEFENSOR ID,Defensor Digital,apk.defensor id
+malpedia_Dendroid,,apk.dendroid
+malpedia_dmsSpy,,apk.dmsspy
+malpedia_DoubleAgent,,apk.doubleagent
+malpedia_DoubleLocker,,apk.doublelocker
+malpedia_Dracarys,,apk.dracarys
+malpedia_DragonEgg,LightSpy,apk.dragonegg
+malpedia_DroidBot,,apk.droidbot
+malpedia_DroidJack,,apk.droidjack
+malpedia_DroidWatcher,,apk.droidwatcher
+malpedia_DualToy,,apk.dualtoy
+malpedia_Dvmap,,apk.dvmap
+malpedia_EagleMsgSpy,,apk.eagle msg spy
+malpedia_Elibomi,Drinik,apk.elibomi
+malpedia_ERMAC,,apk.ermac
+malpedia_ErrorFather,,apk.errorfather
+malpedia_Eventbot,,apk.eventbot
+malpedia_ExoBot,,apk.exobot
+malpedia_Exodus,,apk.exodus
+malpedia_FaceStealer,,apk.facestealer
+malpedia_FakeAdBlocker,,apk.fakeadblocker
+malpedia_Fakecalls,,apk.fakecalls
+malpedia_FakeDefend,,apk.fakedefend
+malpedia_FakeSpy,,apk.fakespy
+malpedia_FakeGram,FakeTGram,apk.faketgram
+malpedia_FastFire,,apk.fastfire
+malpedia_FastSpy,,apk.fastspy
+malpedia_FileCoder,,apk.filecoder
+malpedia_FinFisher,,apk.finfisher
+malpedia_FlexiSpy,,apk.flexispy
+malpedia_FlexNet,gugi,apk.flexnet
+malpedia_FluBot,"Cabassous, FakeChat",apk.flubot
+malpedia_FluHorse,,apk.fluhorse
+malpedia_FlyTrap,,apk.flytrap
+malpedia_FunkyBot,,apk.funkybot
+malpedia_FurBall,,apk.furball
+malpedia_Geost,,apk.geost
+malpedia_Ghimob,,apk.ghimob
+malpedia_GhostCtrl,,apk.ghostctrl
+malpedia_Gigabud,,apk.gigabud
+malpedia_Ginp,,apk.ginp
+malpedia_GlanceLove,,apk.glancelove
+malpedia_GnatSpy,,apk.gnatspy
+malpedia_GoatRAT,,apk.goat rat
+malpedia_Godfather,,apk.godfather
+malpedia_GoldenEagle,,apk.goldeneagle
+malpedia_GoldenRAT,,apk.goldenrat
+malpedia_GoldDigger,,apk.gold digger
+malpedia_goontact,,apk.goontact
+malpedia_GPlayed,,apk.gplayed
+malpedia_Gravity RAT,,apk.gravity rat
+malpedia_GriftHorse,,apk.grifthorse
+malpedia_Guerrilla,,apk.guerrilla
+malpedia_Gustuff,,apk.gustuff
+malpedia_HARDRAIN,,apk.hardrain
+malpedia_HawkShaw,,apk.hawkshaw
+malpedia_HenBox,,apk.henbox
+malpedia_Hermit,,apk.hermit
+malpedia_HeroRAT,,apk.hero rat
+malpedia_HiddenAd,,apk.hiddenad
+malpedia_HilalRAT,,apk.hilalrat
+malpedia_Hook,,apk.hook
+malpedia_Hydra,,apk.hydra
+malpedia_IPStorm,InterPlanetary Storm,apk.ipstorm
+malpedia_IRATA,,apk.irata
+malpedia_IRRat,,apk.irrat
+malpedia_JadeRAT,,apk.jaderat
+malpedia_Joker,Bread,apk.joker
+malpedia_KevDroid,,apk.kevdroid
+malpedia_KnSpy,,apk.knspy
+malpedia_Koler,,apk.koler
+malpedia_Konni,,apk.konni
+malpedia_KSREMOTE,,apk.ksremote
+malpedia_LittleLooter,,apk.little looter
+malpedia_Loki,,apk.loki
+malpedia_LokiBot,,apk.lokibot
+malpedia_LuckyCat,,apk.luckycat
+malpedia_Mandrake,,apk.mandrake
+malpedia_Marcher,ExoBot,apk.marcher
+malpedia_MasterFred,Brox,apk.masterfred
+malpedia_MazarBot,,apk.mazarbot
+malpedia_Medusa,Gorgona,apk.medusa
+malpedia_Meterpreter,,apk.meterpreter
+malpedia_MobileOrder,,apk.mobile order
+malpedia_Monokle,,apk.monokle
+malpedia_MoqHao,"Shaoye, XLoader",apk.moqhao
+malpedia_MOrder RAT,,apk.morder rat
+malpedia_Mudwater,,apk.mudwater
+malpedia_MysteryBot,,apk.mysterybot
+malpedia_Nexus,,apk.nexus
+malpedia_OmniRAT,,apk.omnirat
+malpedia_Oscorp,UBEL,apk.oscorp
+malpedia_PackChat,,apk.packchat
+malpedia_PhantomLance,PWNDROID1,apk.phantomlance
+malpedia_Phoenix,,apk.phoenix
+malpedia_PhoneSpy,,apk.phonespy
+malpedia_PINEFLOWER,,apk.pineflower
+malpedia_PixPirate,,apk.pixpirate
+malpedia_PixStealer,BrazKing,apk.pixstealer
+malpedia_PjobRAT,,apk.pjobrat
+malpedia_PlainGnome,,apk.plain gnome
+malpedia_Podec,,apk.podec
+malpedia_X-Agent,Popr-d30,apk.popr-d30
+malpedia_Fake Pornhub,,apk.pornhub
+malpedia_Premier RAT,,apk.premier rat
+malpedia_Rafel RAT,,apk.rafelrat
+malpedia_RambleOn,,apk.rambleon
+malpedia_Rana,,apk.rana
+malpedia_RatMilad,,apk.ratmilad
+malpedia_Raxir,,apk.raxir
+malpedia_RedAlert2,,apk.redalert2
+malpedia_RemRAT,,apk.remrat
+malpedia_Retefe,,apk.retefe
+malpedia_Revive,,apk.revive
+malpedia_Riltok,,apk.riltok
+malpedia_Roaming Mantis,,apk.roaming mantis
+malpedia_Rogue,,apk.rogue
+malpedia_Rootnik,,apk.rootnik
+malpedia_Sauron Locker,,apk.sauron locker
+malpedia_SharkBot,,apk.sharkbot
+malpedia_SideWinder,,apk.sidewinder
+malpedia_SilkBean,,apk.silkbean
+malpedia_Skygofree,,apk.skygofree
+malpedia_Slempo,SlemBunk,apk.slempo
+malpedia_Slocker,,apk.slocker
+malpedia_SmsAgent,,apk.smsagent
+malpedia_SMSspy,,apk.smsspy
+malpedia_SoumniBot,,apk.soumnibot
+malpedia_S.O.V.A.,,apk.sova
+malpedia_SpyBanker,,apk.spybanker
+malpedia_SpyC23,,apk.spyc23
+malpedia_SpyMax,,apk.spymax
+malpedia_SpyNote,CypherRat,apk.spynote
+malpedia_StealthAgent,,apk.stealthagent
+malpedia_Stealth Mango,,apk.stealthmango
+malpedia_Svpeng,,apk.svpeng
+malpedia_Switcher,,apk.switcher
+malpedia_TalentRAT,Assassin RAT,apk.talent rat
+malpedia_TangleBot,,apk.tangle bot
+malpedia_TeleRAT,,apk.telerat
+malpedia_TemptingCedar Spyware,,apk.tempting cedar
+malpedia_ThiefBot,,apk.thiefbot
+malpedia_TianySpy,,apk.tianyspy
+malpedia_TinyZ,"Catelites Android Bot, MarsElite Android Bot",apk.tinyz
+malpedia_Titan,,apk.titan
+malpedia_ToxicPanda,,apk.toxic panda
+malpedia_Triada,,apk.triada
+malpedia_TrickMo,,apk.trickmo
+malpedia_Triout,,apk.triout
+malpedia_UltimaSMS,,apk.ultima sms
+malpedia_Unidentified APK 001,,apk.unidentified 001
+malpedia_Unidentified APK 002,,apk.unidentified 002
+malpedia_Unidentified APK 004,,apk.unidentified 004
+malpedia_Unidentified APK 005,,apk.unidentified 005
+malpedia_Unidentified APK 006,,apk.unidentified 006
+malpedia_Unidentified 007 (ARMAAN RAT),,apk.unidentified 007
+malpedia_Unidentified APK 008,,apk.unidentified 008
+malpedia_Unidentified APK 009 (Chrome Recon),,apk.unidentified 009
+malpedia_VajraSpy,,apk.vajraspy
+malpedia_vamp,android.micropsia,apk.vamp
+malpedia_VINETHORN,,apk.vinethorn
+malpedia_Viper RAT,,apk.viper rat
+malpedia_Vultur,Vulture,apk.vultur
+malpedia_WireX,,apk.wirex
+malpedia_WolfRAT,,apk.wolf rat
+malpedia_Wroba,,apk.wroba
+malpedia_WyrmSpy,AndroidControl,apk.wyrmspy
+malpedia_Xbot,,apk.xbot
+malpedia_Xenomorph,,apk.xenomorph
+malpedia_xHelper,,apk.xhelper
+malpedia_XploitSPY,,apk.xploitspy
+malpedia_XRat,,apk.xrat
+malpedia_YellYouth,,apk.yellyouth
+malpedia_Zanubis,,apk.zanubis
+malpedia_Zen,,apk.zen
+malpedia_ZooPark,,apk.zoopark
+malpedia_Ztorg,Qysly,apk.ztorg
+malpedia_LocalOlive,,asp.localolive
+malpedia_Nightrunner,,asp.nightrunner
+malpedia_Tunna,,asp.tunna
+malpedia_TwoFace,"Minion, HighShell, HyperShell, SEASHARPEE",asp.twoface
+malpedia_Unidentified ASP 001 (Webshell),,asp.unidentified 001
+malpedia_Abcbot,,elf.abcbot
+malpedia_Abyss Locker,elf.hellokitty,elf.abyss
+malpedia_ACBackdoor,,elf.acbackdoor
+malpedia_AcidPour,,elf.acidpour
+malpedia_AcidRain,,elf.acidrain
+malpedia_AgeLocker,,elf.age locker
+malpedia_AIRASHI,,elf.airashi
+malpedia_AirDropBot,CloudBot,elf.airdrop
+malpedia_Aisuru,,elf.aisuru
+malpedia_Akira,,elf.akira
+malpedia_AnchorDNS,,elf.anchor dns
+malpedia_ANGRYREBEL,Ghost RAT,elf.angryrebel
+malpedia_Avoslocker,,elf.avoslocker
+malpedia_AVrecon,,elf.avrecon
+malpedia_azazel,,elf.azazel
+malpedia_B1txor20,,elf.b1txor20
+malpedia_Babuk,,elf.babuk
+malpedia_Backdoorit,backd00rit,elf.backdoorit
+malpedia_Irc16,,elf.backdoor irc16
+malpedia_BADCALL,,elf.badcall
+malpedia_Bashlite,"gayfgt, Gafgyt, qbot, torlus, lizkebab",elf.bashlite
+malpedia_BCMPUPnP_Hunter,,elf.bcmpupnp hunter
+malpedia_BianLian,,elf.bianlian
+malpedia_BiBi-Linux,,elf.bibi linux
+malpedia_Bifrost,elf.bifrose,elf.bifrost
+malpedia_BigViktor,,elf.bigviktor
+malpedia_BioSet,,elf.bioset
+malpedia_Black Basta,,elf.blackbasta
+malpedia_BlackCat,"ALPHV, Noberus",elf.blackcat
+malpedia_BlackMatter,,elf.blackmatter
+malpedia_Blackrota,,elf.blackrota
+malpedia_BlackSuit,,elf.blacksuit
+malpedia_BOLDMOVE,,elf.boldmove
+malpedia_Bootkitty,,elf.bootkitty
+malpedia_Break out the Box,BOtB,elf.botb
+malpedia_BotenaGo,,elf.botenago
+malpedia_BPFDoor,JustForFun,elf.bpfdoor
+malpedia_brute_ratel,,elf.brute ratel
+malpedia_Bvp47,,elf.bvp47
+malpedia_Caja,,elf.caja
+malpedia_Caligula,,elf.caligula
+malpedia_Capoae,,elf.capoae
+malpedia_cd00r,,elf.cd00r
+malpedia_CDorked,CDorked.A,elf.cdorked
+malpedia_CDRThief,,elf.cdrthief
+malpedia_Cephei,,elf.cephei
+malpedia_Cetus,,elf.cetus
+malpedia_Chalubo,ChaChaDDoS,elf.chalubo
+malpedia_Chaos,,elf.chaos
+malpedia_Chapro,,elf.chapro
+malpedia_Chisel,,elf.chisel
+malpedia_Clop,Cl0p,elf.clop
+malpedia_Cloud Snooper,Snoopy,elf.cloud snooper
+malpedia_CMS8000 Backdoor,,elf.cms8000 backdoor
+malpedia_ConnectBack,Getshell,elf.connectback
+malpedia_Conti,Conti Locker,elf.conti
+malpedia_,,elf.corona
+malpedia_Cpuminer,,elf.cpuminer
+malpedia_Cr1ptT0r,CriptTor,elf.cr1ptt0r
+malpedia_CronRAT,,elf.cronrat
+malpedia_CyclopsBlink,,elf.cyclops blink
+malpedia_Dacls,,elf.dacls
+malpedia_Dark,Dark.IoT,elf.dark
+malpedia_DarkCracks,,elf.darkcracks
+malpedia_Dark Nexus,,elf.darknexus
+malpedia_DarkSide,,elf.darkside
+malpedia_DarkRadiation,,elf.dark radiation
+malpedia_DDG,,elf.ddg
+malpedia_ddoor,,elf.ddoor
+malpedia_DEADBOLT,,elf.deadbolt
+malpedia_Decoy Dog RAT,,elf.decoy dog
+malpedia_Denonia,,elf.denonia
+malpedia_Derusbi,,elf.derusbi
+malpedia_DISGOMOJI,,elf.disgomoji
+malpedia_Dofloo,AESDDoS,elf.dofloo
+malpedia_Doki,,elf.doki
+malpedia_DoubleFantasy,,elf.doublefantasy
+malpedia_DreamBus,,elf.dreambus
+malpedia_Ebury,,elf.ebury
+malpedia_Echobot,,elf.echobot
+malpedia_Elevator,,elf.elevator
+malpedia_EnemyBot,,elf.enemybot
+malpedia_Erebus,,elf.erebus
+malpedia_ESXiArgs,,elf.esxi args
+malpedia_Evilginx,,elf.evilginx
+malpedia_EvilGnome,,elf.evilgnome
+malpedia_EwDoor,,elf.ewdoor
+malpedia_Exaramel,,elf.exaramel
+malpedia_ext4,,elf.ext4
+malpedia_Facefish,,elf.facefish
+malpedia_FBot,,elf.fbot
+malpedia_FINALDRAFT,,elf.finaldraft
+malpedia_FinFisher,,elf.finfisher
+malpedia_FireWood,,elf.firewood
+malpedia_floodor,,elf.floodor
+malpedia_Fodcha,,elf.fodcha
+malpedia_FontOnLake,,elf.fontonlake
+malpedia_FritzFrog,,elf.fritzfrog
+malpedia_Gitpaste-12,,elf.gitpaste12
+malpedia_Glupteba Proxy,,elf.glupteba proxy
+malpedia_GobRAT,,elf.gobrat
+malpedia_Godlua,,elf.godlua
+malpedia_gokcpdoor,,elf.gokcpdoor
+malpedia_Gomir,,elf.gomir
+malpedia_Gorilla,,elf.gorilla
+malpedia_GOSH,,elf.gosh
+malpedia_GoTitan,,elf.gotitan
+malpedia_GreedyAntd,,elf.greedyantd
+malpedia_Gwisin,,elf.gwisin
+malpedia_HabitsRAT,,elf.habitsrat
+malpedia_Hadooken,,elf.hadooken
+malpedia_Haiduc,,elf.haiduc
+malpedia_Hajime,,elf.hajime
+malpedia_Hakai,,elf.hakai
+malpedia_HandyMannyPot,,elf.handymannypot
+malpedia_Hand of Thief,Hanthie,elf.hand of thief
+malpedia_HeadCrab,,elf.headcrab
+malpedia_HellDown,,elf.helldown
+malpedia_HelloBot,,elf.hellobot
+malpedia_HelloKitty,,elf.hellokitty
+malpedia_HiatusRAT,,elf.hiatus rat
+malpedia_HiddenWasp,,elf.hiddenwasp
+malpedia_Hide and Seek,HNS,elf.hideandseek
+malpedia_HinataBot,,elf.hinata bot
+malpedia_Hipid,,elf.hipid
+malpedia_Hive,,elf.hive
+malpedia_Horse Shell,,elf.horseshell
+malpedia_Hubnr,,elf.hubnr
+malpedia_HyperSSL,SysUpdate,elf.hyperssl
+malpedia_iceFire,,elf.icefire
+malpedia_Icnanker,,elf.icnanker
+malpedia_INC,,elf.inc
+malpedia_IoT Reaper,"IoTroop, Reaper, iotreaper",elf.iot reaper
+malpedia_IPStorm,InterPlanetary Storm,elf.ipstorm
+malpedia_IZ1H9,,elf.iz1h9
+malpedia_JenX,,elf.jenx
+malpedia_J-Magic,,elf.j magic
+malpedia_Kaden,,elf.kaden
+malpedia_Kaiji,,elf.kaiji
+malpedia_Kaiten,STD,elf.kaiten
+malpedia_kerberods,,elf.kerberods
+malpedia_KEYPLUG,ELFSHELF,elf.keyplug
+malpedia_kfos,,elf.kfos
+malpedia_Kinsing,h2miner,elf.kinsing
+malpedia_kitty-soks5,,elf.kitty soks5
+malpedia_KIVARS,,elf.kivars
+malpedia_Kobalos,,elf.kobalos
+malpedia_Krasue RAT,,elf.krasue rat
+malpedia_KrustyLoader,,elf.krustyloader
+malpedia_KTLVdoor,,elf.ktlv door
+malpedia_Kuiper,,elf.kuiper
+malpedia_Lady,,elf.lady
+malpedia_LeetHozer,,elf.leethozer
+malpedia_Lightning Framework,,elf.lightning
+malpedia_LiLock,"Lilu, Lilocked",elf.lilock
+malpedia_lilyofthevalley,,elf.lilyofthevalley
+malpedia_Linodas,"XDealer, DinodasRAT",elf.linodas
+malpedia_LiquorBot,,elf.liquorbot
+malpedia_LockBit,,elf.lockbit
+malpedia_Loerbas,,elf.loerbas
+malpedia_Log Collector,,elf.log collector
+malpedia_Lootwodniw,,elf.lootwodniw
+malpedia_Luna,,elf.luna
+malpedia_Manjusaka,,elf.manjusaka
+malpedia_Masuta,PureMasuta,elf.masuta
+malpedia_Matryosh,,elf.matryosh
+malpedia_Melofee,Mélofée,elf.melofee
+malpedia_MESSAGETAP,,elf.messagetap
+malpedia_Midrashim,,elf.midrashim
+malpedia_MiKey,,elf.mikey
+malpedia_Mirai,Katana,elf.mirai
+malpedia_Mokes,,elf.mokes
+malpedia_Momentum,,elf.momentum
+malpedia_Monti,,elf.monti
+malpedia_MooBot,,elf.moobot
+malpedia_Moose,,elf.moose
+malpedia_Mozi,,elf.mozi
+malpedia_MrBlack,"AESDDoS, Dofloo",elf.mrblack
+malpedia_Mumblehard,,elf.mumblehard
+malpedia_Nextcry,,elf.nextcry
+malpedia_Ngioweb,,elf.ngioweb
+malpedia_Nimbo-C2,,elf.nimbo c2
+malpedia_NiuB,,elf.niub
+malpedia_NoaBot,,elf.noabot
+malpedia_Nood RAT,,elf.noodrat
+malpedia_Nosedive,,elf.nosedive
+malpedia_NOTROBIN,remove_bds,elf.notrobin
+malpedia_OrBit,,elf.orbit
+malpedia_Owari,,elf.owari
+malpedia_p0sT5n1F3r,,elf.p0st5n1f3r
+malpedia_P2Pinfect,,elf.p2pinfect
+malpedia_pbot,,elf.pbot
+malpedia_Penquin Turla,,elf.penquin turla
+malpedia_perfctl,perfcc,elf.perfctl
+malpedia_PerlBot,"ShellBot, DDoS Perl IrcBot",elf.perlbot
+malpedia_Persirai,,elf.persirai
+malpedia_PG_MEM,,elf.pg mem
+malpedia_PigmyGoat,,elf.pigmy goat
+malpedia_PingPull,,elf.pingpull
+malpedia_Pink,,elf.pink
+malpedia_PLEAD,,elf.plead
+malpedia_Poseidon,,elf.poseidon
+malpedia_PRISM,waterdrop,elf.prism
+malpedia_PrivetSanya,,elf.privet sanya
+malpedia_Prometei,,elf.prometei
+malpedia_Pro-Ocean,,elf.pro ocean
+malpedia_PUMAKIT,"PUMA, Kitsune",elf.pumakit
+malpedia_pupy,,elf.pupy
+malpedia_PWNLNX,,elf.pwnlnx
+malpedia_Qilin,,elf.qilin
+malpedia_QNAPCrypt,eCh0raix,elf.qnapcrypt
+malpedia_QSnatch,,elf.qsnatch
+malpedia_QUIETEXIT,,elf.quietexit
+malpedia_r2r2,,elf.r2r2
+malpedia_RagnarLocker,,elf.ragnarlocker
+malpedia_Rakos,,elf.rakos
+malpedia_RansomEXX,Defray777,elf.ransomexx
+malpedia_RansomExx2,,elf.ransomexx2
+malpedia_RapperBot,,elf.rapper bot
+malpedia_RaspberryPiBotnet,,elf.raspberrypibotnet
+malpedia_rat_hodin,,elf.rat hodin
+malpedia_rbs_srv,,elf.rbs srv
+malpedia_RedTail,,elf.redtail
+malpedia_RedXOR,,elf.redxor
+malpedia_RedAlert Ransomware,N13V,elf.red alert
+malpedia_Rekoobe,,elf.rekoobe
+malpedia_reptile,,elf.reptile
+malpedia_REvil,REvix,elf.revil
+malpedia_Rex,,elf.rex
+malpedia_RHOMBUS,,elf.rhombus
+malpedia_Rhysida,,elf.rhysida
+malpedia_Roboto,,elf.roboto
+malpedia_RotaJakiro,,elf.rotajakiro
+malpedia_Royal Ransom,"Royal_unix, Royal",elf.royal ransom
+malpedia_Rshell,,elf.rshell
+malpedia_RudeDevil,,elf.rude devil
+malpedia_SALTWATER,,elf.saltwater
+malpedia_Satori,,elf.satori
+malpedia_SBIDIOT,,elf.sbidiot
+malpedia_SEASPY,,elf.seaspy
+malpedia_sedexp,,elf.sedexp
+malpedia_SEXi,"Limpopo, Formosa, Socotra",elf.sexi
+malpedia_ShellBind,,elf.shellbind
+malpedia_Shishiga,,elf.shishiga
+malpedia_SideWalk,,elf.sidewalk
+malpedia_Silex,silexbot,elf.silex
+malpedia_SimpleTea,"PondRAT, SimplexTea",elf.simpletea
+malpedia_SLAPSTICK,,elf.slapstick
+malpedia_SnappyTCP,,elf.snappy tcp
+malpedia_SoWaT,,elf.sowat
+malpedia_Spamtorte,,elf.spamtorte
+malpedia_SpeakUp,,elf.speakup
+malpedia_Specter,,elf.specter
+malpedia_SpectralBlur,,elf.spectral blur
+malpedia_Speculoos,,elf.speculoos
+malpedia_SprySOCKS,,elf.spry socks
+malpedia_Sshdinjector,,elf.sshdinjector
+malpedia_SSHDoor,,elf.sshdoor
+malpedia_Stantinko,,elf.stantinko
+malpedia_STEELCORGI,,elf.steelcorgi
+malpedia_Sunless,,elf.sunless
+malpedia_sustes miner,,elf.sustes
+malpedia_Suterusu,HCRootkit,elf.suterusu
+malpedia_Sword2033,,elf.sword2033
+malpedia_Symbiote,,elf.symbiote
+malpedia_SysJoker,,elf.sysjoker
+malpedia_Sysrv-hello,Sysrv,elf.sysrvhello
+malpedia_SystemBC,,elf.systembc
+malpedia_TeamTNT,,elf.teamtnt
+malpedia_TheMoon,,elf.themoon
+malpedia_TNTbotinger,,elf.tntbotinger
+malpedia_Torii,,elf.torii
+malpedia_TripleCross,,elf.triplecross
+malpedia_Trump Bot,,elf.trump bot
+malpedia_TSCookie,,elf.tscookie
+malpedia_tsh,,elf.tsh
+malpedia_Tsunami,"Muhstik, Radiation, Amnesia",elf.tsunami
+malpedia_Turla RAT,,elf.turla rat
+malpedia_Umbreon,Espeon,elf.umbreon
+malpedia_Unidentified Linux 001,,elf.unidentified 001
+malpedia_Unidentified ELF 004,,elf.unidentified 004
+malpedia_Unidentified 005 (Sidecopy),,elf.unidentified 005
+malpedia_Unidentified ELF 006 (Tox Backdoor),,elf.unidentified 006
+malpedia_Hive (Vault 8),,elf.vault8 hive
+malpedia_Vermilion Strike,,elf.vermilion strike
+malpedia_VPNFilter,,elf.vpnfilter
+malpedia_WatchBog,,elf.watchbog
+malpedia_WellMail,,elf.wellmail
+malpedia_elf.wellmess,,elf.wellmess
+malpedia_WHIRLPOOL,,elf.whirlpool
+malpedia_WhiteRabbit,,elf.whiterabbit
+malpedia_Winnti,,elf.winnti
+malpedia_Wirenet,,elf.wirenet
+malpedia_WolfsBane,,elf.wolfsbane
+malpedia_X-Agent,"splm, chopstick, fysbis",elf.xagent
+malpedia_Xanthe,,elf.xanthe
+malpedia_Xaynnalc,,elf.xaynnalc
+malpedia_Xbash,,elf.xbash
+malpedia_xdr33,,elf.xdr33
+malpedia_XMRIG,,elf.xmrig
+malpedia_XOR DDoS,XORDDOS,elf.xorddos
+malpedia_Zergeca,,elf.zergeca
+malpedia_ZeroBot,ZeroStresser,elf.zerobot
+malpedia_ZHtrap,,elf.zhtrap
+malpedia_Zollard,darlloz,elf.zollard
+malpedia_ZuoRAT,,elf.zuo rat
+malpedia_AutoCAD Downloader,"Acad.Bursted, Duxfas",fas.acad
+malpedia_COOKIESNATCH,,ios.cookiesnatch
+malpedia_DualToy,,ios.dualtoy
+malpedia_GuiInject,,ios.guiinject
+malpedia_lightSpy,,ios.lightspy
+malpedia_Phenakite,Dakkatoni,ios.phenakite
+malpedia_PoisonCarp,INSOMNIA,ios.poisoncarp
+malpedia_Postlo,,ios.postlo
+malpedia_TriangleDB,,ios.triangledb
+malpedia_VALIDVICTOR,,ios.validvictor
+malpedia_WireLurker,,ios.wirelurker
+malpedia_X-Agent,,ios.xagent
+malpedia_AdWind,"AlienSpy, JSocket, Frutas, UNRECOM, JBifrost, Sockrat",jar.adwind
+malpedia_Adzok,,jar.adzok
+malpedia_Banload,,jar.banload
+malpedia_Blue Banana RAT,,jar.bluebanana
+malpedia_CrossRAT,Trupto,jar.crossrat
+malpedia_DynamicRAT,DYNARAT,jar.dynamicrat
+malpedia_EpicSplit RAT,,jar.epicsplit
+malpedia_FEimea RAT,,jar.feimea rat
+malpedia_IceRat,,jar.icerat
+malpedia_JavaDispCash,,jar.javadispcash
+malpedia_JavaLocker,JavaEncrypt Ransomware,jar.javalocker
+malpedia_jRAT,Jacksbot,jar.jrat
+malpedia_jSpy,,jar.jspy
+malpedia_Mineping,,jar.mineping
+malpedia_Octopus Scanner,,jar.octopus scanner
+malpedia_Pronsis Loader,,jar.pronsis loader
+malpedia_Qarallax RAT,,jar.qarallax rat
+malpedia_Qealler,Pyrogenic Infostealer,jar.qealler
+malpedia_QRat,Quaverse RAT,jar.qrat
+malpedia_Ratty,,jar.ratty
+malpedia_Sorillus RAT,,jar.sorillus
+malpedia_STRRAT,,jar.strrat
+malpedia_SupremeBot,BlazeBot,jar.supremebot
+malpedia_Verblecon,,jar.verblecon
+malpedia_VersaMem,,jar.versamem
+malpedia_AIRBREAK,Orz,js.airbreak
+malpedia_Bateleur,,js.bateleur
+malpedia_BeaverTail,,js.beavertail
+malpedia_BELLHOP,,js.bellhop
+malpedia_CACTUSTORCH,,js.cactustorch
+malpedia_ChromeBack,,js.chromeback
+malpedia_ClearFake,,js.clearfake
+malpedia_CryptoNight,,js.cryptonight
+malpedia_CukieGrab,Roblox Trade Assist,js.cukiegrab crx
+malpedia_DarkWatchman,,js.darkwatchman
+malpedia_DNSRat,DNSbot,js.dnsrat
+malpedia_doenerium,,js.doenerium
+malpedia_Enrume,Ransom32,js.enrume
+malpedia_EVILNUM,,js.evilnum
+malpedia_FakeUpdateRU,,js.fakeupdateru
+malpedia_FAKEUPDATES,"FakeUpdate, SocGholish",js.fakeupdates
+malpedia_GootLoader,SLOWPOUR,js.gootloader
+malpedia_grelos,,js.grelos
+malpedia_Griffon,Harpy,js.griffon
+malpedia_inter,,js.inter
+malpedia_Jeniva,,js.jeniva
+malpedia_Jetriz,,js.jetriz
+malpedia_jspRAT,,js.jsprat
+malpedia_KopiLuwak,,js.kopiluwak
+malpedia_LNKR,,js.lnkr
+malpedia_magecart,,js.magecart
+malpedia_megaMedusa,,js.mega medusa
+malpedia_MiniJS,,js.minijs
+malpedia_MintsLoader,,js.mints loader
+malpedia_More_eggs,"SpicyOmelette, SKID",js.more eggs
+malpedia_NanHaiShu,,js.nanhaishu
+malpedia_NodeRAT,,js.node rat
+malpedia_OFFODE,,js.offode
+malpedia_ostap,,js.ostap
+malpedia_OtterCookie,,js.otter cookie
+malpedia_ParaSiteSnatcher,,js.parasitesnatcher
+malpedia_Parrot TDS,,js.parrot tds
+malpedia_PeaceNotWar,,js.peacenotwar
+malpedia_PindOS,,js.pindos
+malpedia_Powmet,,js.powmet
+malpedia_QNodeService,,js.qnodeservice
+malpedia_QUICKCAFE,,js.quickcafe
+malpedia_scanbox,,js.scanbox
+malpedia_SQLRat,,js.sqlrat
+malpedia_Starfighter,,js.starfighter
+malpedia_Swid,,js.swid
+malpedia_HTML5 Encoding,,js.turla ff ext
+malpedia_Maintools.js,,js.turla maintools
+malpedia_Unidentified JS 001 (APT32 Profiler),,js.unidentified 001
+malpedia_Unidentified JS 003 (Emotet Downloader),,js.unidentified 003
+malpedia_Unidentified JS 004,,js.unidentified 004
+malpedia_Unidentified JS 005 (Stealer),,js.unidentified 005
+malpedia_Unidentified JS 006 (Winter Wyvern),,js.unidentified 006
+malpedia_Unidentified JS 002,,js.unidentified js 002
+malpedia_Valak,Valek,js.valak
+malpedia_js.wd,,js.wd
+malpedia_witchcoven,,js.witchcoven
+malpedia_Godzilla Webshell,,jsp.godzilla webshell
+malpedia_Icesword,,jsp.icesword
+malpedia_3CX Backdoor,,osx.3cx backdoor
+malpedia_AMOS,Atomic macOS Stealer,osx.amos
+malpedia_AppleJeus,,osx.applejeus
+malpedia_BANSHEE,,osx.banshee
+malpedia_BeaverTail,,osx.beavertail
+malpedia_Bella,,osx.bella
+malpedia_Bundlore,SurfBuyer,osx.bundlore
+malpedia_Careto,"Mask, Appetite",osx.careto
+malpedia_Casso,,osx.casso
+malpedia_CDDS,Macma,osx.cdds
+malpedia_Choziosi,"ChromeLoader, Chropex",osx.choziosi
+malpedia_CloudMensis,,osx.cloud mensis
+malpedia_CoinThief,,osx.cointhief
+malpedia_Coldroot RAT,,osx.coldroot rat
+malpedia_Convuster,,osx.convuster
+malpedia_CpuMeaner,,osx.cpumeaner
+malpedia_CreativeUpdater,,osx.creative updater
+malpedia_Crisis,,osx.crisis
+malpedia_Crossrider,,osx.crossrider
+malpedia_Cthulhu Stealer,,osx.cthulhu stealer
+malpedia_Dacls,,osx.dacls
+malpedia_DarthMiner,,osx.darthminer
+malpedia_DazzleSpy,,osx.dazzle spy
+malpedia_Dockster,,osx.dockster
+malpedia_Dummy,,osx.dummy
+malpedia_Eleanor,,osx.eleanor
+malpedia_ElectroRAT,,osx.electro rat
+malpedia_EvilOSX,,osx.evilosx
+malpedia_EvilQuest,ThiefQuest,osx.evilquest
+malpedia_FailyTale,,osx.failytale
+malpedia_FinFisher,,osx.finfisher
+malpedia_FlashBack,FakeFlash,osx.flashback
+malpedia_FlexibleFerret,,osx.flexibleferret
+malpedia_FriendlyFerret,,osx.friendlyferret
+malpedia_FrigidStealer,,osx.frigid stealer
+malpedia_FrostyFerret,,osx.frostyferret
+malpedia_FruitFly,Quimitchin,osx.fruitfly
+malpedia_FULLHOUSE,,osx.fullhouse
+malpedia_GIMMICK,,osx.gimmick
+malpedia_Gmera,"StockSteal, Kassi",osx.gmera
+malpedia_HiddenLotus,,osx.hiddenlotus
+malpedia_HLOADER,,osx.hloader
+malpedia_HZ RAT,,osx.hz rat
+malpedia_iMuler,Revir,osx.imuler
+malpedia_Interception,,osx.interception
+malpedia_Janicab,,osx.janicab
+malpedia_JokerSpy,,osx.jokerspy
+malpedia_KANDYKORN,,osx.kandykorn
+malpedia_KeRanger,,osx.keranger
+malpedia_Keydnap,,osx.keydnap
+malpedia_Kitmos,KitM,osx.kitmos
+malpedia_Komplex,"SedUploader, JHUHUGIT, JKEYSKW",osx.komplex
+malpedia_Kuiper,,osx.kuiper
+malpedia_Lador,,osx.lador
+malpedia_Lambert,GreenLambert,osx.lambert
+malpedia_Laoshu,,osx.laoshu
+malpedia_Leverage,,osx.leverage
+malpedia_LIGHTSPY,,osx.lightspy
+malpedia_LockBit,,osx.lockbit
+malpedia_MacDownloader,,osx.macdownloader
+malpedia_MacInstaller,,osx.macinstaller
+malpedia_MacRansom,,osx.macransom
+malpedia_MacSpy,,osx.macspy
+malpedia_MacVX,,osx.macvx
+malpedia_MaMi,,osx.mami
+malpedia_Manuscrypt,,osx.manuscrypt
+malpedia_Mokes,,osx.mokes
+malpedia_Mughthesec,,osx.mughthesec
+malpedia_NetWire,,osx.netwire
+malpedia_OceanLotus,,osx.oceanlotus
+malpedia_Olyx,,osx.olyx
+malpedia_oRAT,,osx.orat
+malpedia_OSAMiner,,osx.osaminer
+malpedia_Patcher,"FileCoder, Findzip",osx.patcher
+malpedia_PintSized,,osx.pintsized
+malpedia_Pirrit,,osx.pirrit
+malpedia_POOLRAT,"SIMPLESEA, SIMPLETEA",osx.poolrat
+malpedia_Poseidon,,osx.poseidon
+malpedia_Poseidon Stealer,Rodrigo Stealer,osx.poseidonstealer
+malpedia_Proton RAT,Calisto,osx.proton rat
+malpedia_Pwnet,,osx.pwnet
+malpedia_Dok,Retefe,osx.retefe
+malpedia_RustBucket,,osx.rustbucket
+malpedia_Shlayer,,osx.shlayer
+malpedia_Silver Sparrow,,osx.silver sparrow
+malpedia_SimpleTea,,osx.simpletea
+malpedia_SpectralBlur,,osx.spectral blur
+malpedia_SUGARLOADER,,osx.sugarloader
+malpedia_SysJoker,,osx.sysjoker
+malpedia_systemd,"Demsty, ReverseWindow",osx.systemd
+malpedia_Tsunami,,osx.tsunami
+malpedia_Unidentified macOS 001 (UnionCryptoTrader),,osx.unidentified 001
+malpedia_UpdateAgent,,osx.update agent
+malpedia_Uroburos,,osx.uroburos
+malpedia_Vigram,WizardUpdate,osx.vigram
+malpedia_WatchCat,,osx.watchcat
+malpedia_WindTail,,osx.windtail
+malpedia_Winnti,,osx.winnti
+malpedia_WireLurker,,osx.wirelurker
+malpedia_Wirenet,,osx.wirenet
+malpedia_X-Agent,,osx.xagent
+malpedia_XCSSET,,osx.xcsset
+malpedia_Xloader,Formbook,osx.xloader
+malpedia_XSLCmd,,osx.xslcmd
+malpedia_Yort,,osx.yort
+malpedia_ZuRu,,osx.zuru
+malpedia_Ani-Shell,anishell,php.anishell
+malpedia_ANTAK,,php.antak
+malpedia_ASPXSpy,,php.aspxspy
+malpedia_Behinder,,php.behinder
+malpedia_c99shell,c99,php.c99
+malpedia_DEWMODE,,php.dewmode
+malpedia_Ensikology,Ensiko,php.ensikology
+malpedia_Glutton,,php.glutton
+malpedia_p0wnyshell,"Pownyshell, Ponyshell",php.p0wnyshell
+malpedia_Parrot TDS WebShell,,php.parrot tds shell
+malpedia_PAS,,php.pas
+malpedia_Prometheus Backdoor,,php.prometheus backdoor
+malpedia_RedHat Hacker WebShell,,php.redhat hacker
+malpedia_php.shin_webshell,,php.shin webshell
+malpedia_WSO,Webshell by Orb,php.wso
+malpedia_Silence DDoS,,pl.silence ddos
+malpedia_BlackSun,,ps1.blacksun
+malpedia_BONDUPDATER,"Poison Frog, Glimpse",ps1.bondupdater
+malpedia_CASHY200,,ps1.cashy200
+malpedia_COOKBOX,,ps1.cookbox
+malpedia_EugenLoader,"FakeBat, NUMOZYLOD, PaykLoader",ps1.eugenloader
+malpedia_FlowerPower,BoBoStealer,ps1.flowerpower
+malpedia_FRat Loader,,ps1.frat loader
+malpedia_FTCODE,,ps1.ftcode
+malpedia_GhostMiner,,ps1.ghostminer
+malpedia_HTTP-Shell,,ps1.http shell
+malpedia_JasperLoader,,ps1.jasperloader
+malpedia_Kalambur,,ps1.kalambur
+malpedia_Lazyscripter,,ps1.lazyscripter
+malpedia_LightBot,,ps1.lightbot
+malpedia_Octopus,,ps1.octopus
+malpedia_OilRig,,ps1.oilrig
+malpedia_PhonyC2,,ps1.phonyc2
+malpedia_POSHSPY,,ps1.poshspy
+malpedia_PowerBrace,,ps1.powerbrace
+malpedia_PowerHarbor,,ps1.powerharbor
+malpedia_PowerPepper,,ps1.powerpepper
+malpedia_POWERPIPE,,ps1.powerpipe
+malpedia_POWERPLANT,,ps1.powerplant
+malpedia_powershell_web_backdoor,,ps1.powershell web backdoor
+malpedia_PowerShortShell,,ps1.powershortshell
+malpedia_PowerShower,,ps1.powershower
+malpedia_POWERSOURCE,,ps1.powersource
+malpedia_PowerSpritz,,ps1.powerspritz
+malpedia_POWERSTAR,,ps1.powerstar
+malpedia_POWERSTATS,Valyria,ps1.powerstats
+malpedia_POWERTON,,ps1.powerton
+malpedia_POWERTRASH,,ps1.powertrash
+malpedia_PowerWare,,ps1.powerware
+malpedia_PowerZure,,ps1.powerzure
+malpedia_PowerMagic,,ps1.power magic
+malpedia_PowerRAT,,ps1.power rat
+malpedia_PowGoop,,ps1.powgoop
+malpedia_POWRUNER,,ps1.powruner
+malpedia_PresFox,,ps1.presfox
+malpedia_QUADAGENT,,ps1.quadagent
+malpedia_RandomQuery,,ps1.randomquery
+malpedia_RMOT,,ps1.rmot
+malpedia_RogueRobin,,ps1.roguerobin
+malpedia_Royal Ransom,,ps1.royal ransom
+malpedia_Schtasks,,ps1.schtasks
+malpedia_skyrat,,ps1.skyrat
+malpedia_sLoad,Starslord,ps1.sload
+malpedia_Snugy,,ps1.snugy
+malpedia_STEELHOOK,,ps1.steelhook
+malpedia_SUBTLE-PAWS,,ps1.subtle paws
+malpedia_Swrort Stager,,ps1.swrort
+malpedia_Tater PrivEsc,,ps1.tater
+malpedia_ThunderShell,,ps1.thundershell
+malpedia_Unidentified PS 001,,ps1.unidentified 001
+malpedia_Unidentified PS 002 (RAT),,ps1.unidentified 002
+malpedia_Unidentified PS 003 (RAT),,ps1.unidentified 003
+malpedia_Unidentified PS 004 (RAT),,ps1.unidentified 004
+malpedia_Unidentified PS 005 (Telegram Bot),,ps1.unidentified 005
+malpedia_ViperSoftX,,ps1.vipersoftx
+malpedia_WannaMine,,ps1.wannamine
+malpedia_WannaRen Downloader,,ps1.wannaren loader
+malpedia_WMImplant,,ps1.wmimplant
+malpedia_AndroxGh0st,"AndroxGhost, Androx",py.androxgh0st
+malpedia_Archivist,,py.archivist
+malpedia_Ares,,py.ares
+malpedia_BlankGrabber,,py.blankgrabber
+malpedia_Braodo,,py.braodo
+malpedia_BrickerBot,,py.brickerbot
+malpedia_Creal Stealer,,py.creal stealer
+malpedia_DropboxC2C,,py.dropboxc2c
+malpedia_Empyrean,,py.empyrean
+malpedia_Evil Ant,,py.evil ant
+malpedia_Guard,,py.guard
+malpedia_InvisibleFerret,,py.invisibleferret
+malpedia_KeyPlexer,,py.keyplexer
+malpedia_LaZagne,,py.lazagne
+malpedia_Lofy,LofyLife,py.lofy
+malpedia_Loki RAT,,py.lokirat
+malpedia_MASEPIE,,py.masepie
+malpedia_N3Cr0m0rPh,"FreakOut, Necro",py.n3cr0m0rph
+malpedia_NetWorm,,py.networm
+malpedia_PIRAT,,py.pirat
+malpedia_Poet RAT,,py.poet rat
+malpedia_poweRAT,,py.powerat
+malpedia_pupy,,py.pupy
+malpedia_PyAesLoader,,py.pyaesloader
+malpedia_PyArk,,py.pyark
+malpedia_pyback,,py.pyback
+malpedia_PY#RATION,,py.pyration
+malpedia_PyVil,,py.pyvil
+malpedia_QUIETBOARD,,py.quietboard
+malpedia_Responder,SpiderLabs Responder,py.responder
+malpedia_Saphyra,,py.saphyra
+malpedia_Serpent,,py.serpent
+malpedia_SpaceCow,,py.spacecow
+malpedia_stealler,,py.stealler
+malpedia_Stitch,,py.stitch
+malpedia_Stormous,,py.stormous
+malpedia_unidentified_002,,py.unidentified 002
+malpedia_unidentified_003,,py.unidentified 003
+malpedia_UPSTYLE,,py.upstyle
+malpedia_Venomous,,py.venomous
+malpedia_Venus Stealer,,py.venus stealer
+malpedia_VileRAT,,py.vilerat
+malpedia_W4SP Stealer,,py.w4sp stealer
+malpedia_WIREFIRE,GIFTEDVISITOR,py.wirefire
+malpedia_KV,,sh.kv
+malpedia_xzbot,xzorcist,sh.xzbot
+malpedia_FlexiSpy,,symbian.flexispy
+malpedia_BASICSTAR,,vbs.basicstar
+malpedia_CageyChameleon,Cabbage RAT,vbs.cageychameleon
+malpedia_forbiks,Forbix,vbs.forbiks
+malpedia_GGLdr,,vbs.ggldr
+malpedia_GlowSpark,,vbs.glowspark
+malpedia_Grinju Downloader,,vbs.grinju
+malpedia_HALFBAKED,,vbs.halfbaked
+malpedia_HATVIBE,,vbs.hatvibe
+malpedia_HOMESTEEL,,vbs.homesteel
+malpedia_Iloveyou,"LoveLetter, Love Bug",vbs.iloveyou
+malpedia_Janicab,,vbs.janicab
+malpedia_lampion,,vbs.lampion
+malpedia_LitterDrifter,,vbs.litterdrifter
+malpedia_lockscreen,,vbs.lockscreen
+malpedia_MOUSEISLAND,,vbs.mouseisland
+malpedia_NodeJS Ransomware,,vbs.nodejs ransom
+malpedia_RandomQuery,,vbs.randomquery
+malpedia_Starfighter,,vbs.starfighter
+malpedia_STARWHALE,"Canopy, SloughRAT",vbs.starwhale
+malpedia_Unidentified VBS 001,,vbs.unidentified 001
+malpedia_Unidentified 002 (Operation Kremlin),,vbs.unidentified 002
+malpedia_Unidentified 003 (Gamaredon Downloader),,vbs.unidentified 003
+malpedia_Unidentified VBS 004 (RAT),,vbs.unidentified 004
+malpedia_Unidentified VBS 005 (Telegram Loader),,vbs.unidentified 005
+malpedia_Unidentified VBS 006 (Telegram Loader),,vbs.unidentified 006
+malpedia_VBREVSHELL,,vbs.vbrevshell
+malpedia_WasabiSeed,,vbs.wasabiseed
+malpedia_WhiteShadow,,vbs.whiteshadow
+malpedia_000Stealer,,000stealer
+malpedia_0bj3ctivityStealer,PXRECVOWEIWOEI,0bj3ctivity stealer
+malpedia_3CX Backdoor,SUDDENICON,3cx backdoor
+malpedia_404 Keylogger,"404KeyLogger, Snake Keylogger",404keylogger
+malpedia_4h_rat,,4h rat
+malpedia_5.t Downloader,,5t downloader
+malpedia_7ev3n,,7ev3n
+malpedia_8Base,,8base
+malpedia_8.t Dropper,"8t_dropper, RoyalRoad",8t dropper
+malpedia_9002 RAT,"McRAT, Hydraq, HOMEUNIX",9002
+malpedia_Abaddon,,abaddon
+malpedia_AbaddonPOS,"PinkKite, TinyPOS",abaddon pos
+malpedia_abantes,,abantes
+malpedia_Abbath Banker,,abbath banker
+malpedia_ABCsync,,abcsync
+malpedia_AbSent Loader,,absentloader
+malpedia_ACBackdoor,,acbackdoor
+malpedia_ACEHASH,,acehash
+malpedia_AcidBox,MagicScroll,acidbox
+malpedia_AcridRain,,acridrain
+malpedia_Acronym,,acronym
+malpedia_ACR Stealer,,acr stealer
+malpedia_Action RAT,,action rat
+malpedia_Adamantium Thief,,adamantium thief
+malpedia_AdamLocker,,adam locker
+malpedia_Adhubllka,,adhubllka
+malpedia_AdKoob,,adkoob
+malpedia_AdvisorsBot,,advisorsbot
+malpedia_Adylkuzz,,adylkuzz
+malpedia_AESRT,,aesrt
+malpedia_Afrodita,,afrodita
+malpedia_AgendaCrypt,"Agenda, Qilin",agendacrypt
+malpedia_Agent.BTZ,"ComRAT, Minit, Sun rootkit",agent btz
+malpedia_Agent Racoon,,agent racoon
+malpedia_Agent Tesla,"AgenTesla, AgentTesla, Negasteal",agent tesla
+malpedia_AgfSpy,,agfspy
+malpedia_Ahtapot,,ahtapot
+malpedia_Akira,,akira
+malpedia_Albaniiutas,BlueTraveller,albaniiutas
+malpedia_Aldibot,,aldibot
+malpedia_Alfonso Stealer,,alfonso stealer
+malpedia_Project Alice,"PrAlice, AliceATM",alice atm
+malpedia_Alina POS,"alina_spark, katrina, alina_eagle",alina pos
+malpedia_AllaKore,,allakore
+malpedia_Allaple,Starman,allaple
+malpedia_AllcomeClipper,,allcomeclipper
+malpedia_Almanahe,,almanahe
+malpedia_Alma Communicator,,alma communicator
+malpedia_AlmaLocker,,alma locker
+malpedia_AlmondRAT,,almondrat
+malpedia_ALPC Local PrivEsc,,alpc lpe
+malpedia_Alphabet Ransomware,,alphabet ransomware
+malpedia_AlphaLocker,,alphalocker
+malpedia_AlphaNC,,alphanc
+malpedia_AlphaSeed,,alphaseed
+malpedia_Alreay,,alreay
+malpedia_Alureon,"Olmarik, Pihar, TDL, TDSS, wowlik",alureon
+malpedia_Amadey,,amadey
+malpedia_AMTsol,Adupihan,amtsol
+malpedia_Anatova Ransomware,,anatova ransom
+malpedia_Anchor,,anchor
+malpedia_AnchorMail,"ANCHOR.MAIL, Delegatz",anchormail
+malpedia_AnchorMTea,,anchormtea
+malpedia_Andardoor,ROCKHATCH,andardoor
+malpedia_Andromeda,"Gamarue, B106-Gamarue, B67-SS-Gamarue, b66",andromeda
+malpedia_AndroMut,Gelup,andromut
+malpedia_Anel,"UPPERCUT, lena",anel
+malpedia_AnteFrigus,,antefrigus
+malpedia_Antilam,Latinus,antilam
+malpedia_Anubis,Anubis Stealer,anubis
+malpedia_Anubis Loader,"Kraken, Pepega",anubis loader
+malpedia_APERETIF,,aperetif
+malpedia_Apocalipto,,apocalipto
+malpedia_Apocalypse,,apocalypse ransom
+malpedia_Apollo,,apollo
+malpedia_Apostle,,apostle
+malpedia_AppleJeus,,applejeus
+malpedia_Appleseed,JamBog,appleseed
+malpedia_ArdaMax,,ardamax
+malpedia_Arefty,,arefty
+malpedia_Ares,,ares
+malpedia_AresLoader,,aresloader
+malpedia_ArguePatch,,arguepatch
+malpedia_Aria-body,,ariabody
+malpedia_Arid Gopher,,aridgopher
+malpedia_AridHelper,,aridhelper
+malpedia_Arik Keylogger,Aaron Keylogger,arik keylogger
+malpedia_Arkei Stealer,ArkeiStealer,arkei stealer
+malpedia_ArrowRAT,,arrowrat
+malpedia_ARS VBS Loader,,ars loader
+malpedia_ARTFULPIE,,artfulpie
+malpedia_Artra Downloader,,artra
+malpedia_Asbit,,asbit
+malpedia_AscentLoader,,ascentloader
+malpedia_ASPC,,aspc
+malpedia_Asprox,"Aseljo, BadSrc",asprox
+malpedia_Asruex,,asruex
+malpedia_Astaroth,Guildma,astaroth
+malpedia_Astasia,,astasia
+malpedia_AstraLocker,,astralocker
+malpedia_AsyncRAT,,asyncrat
+malpedia_Atharvan,,atharvan
+malpedia_Athena,,athena
+malpedia_AthenaGo RAT,,athenago
+malpedia_ATI-Agent,,ati agent
+malpedia_Atlantida,,atlantida
+malpedia_AtlasAgent,,atlas agent
+malpedia_ATMii,,atmii
+malpedia_ATMitch,,atmitch
+malpedia_Atmosphere,,atmosphere
+malpedia_ATMSpitter,,atmspitter
+malpedia_ATOMSILO,,atomsilo
+malpedia_Attor,,attor
+malpedia_August Stealer,,august stealer
+malpedia_AuKill,SophosKill,aukill
+malpedia_Auriga,Riodrv,auriga
+malpedia_Aurora,OneKeyLocker,aurora
+malpedia_Aurora Stealer,,aurora stealer
+malpedia_Avaddon,,avaddon
+malpedia_AvastDisabler,,avast disabler
+malpedia_AVCrypt,,avcrypt
+malpedia_AvD Crypto Stealer,,avd
+malpedia_Aveo,,aveo
+malpedia_Ave Maria,"AVE_MARIA, AveMariaRAT, Warzone RAT, WarzoneRAT, avemaria",ave maria
+malpedia_AvosLocker,,avos locker
+malpedia_Unidentified 061,,avrecon
+malpedia_Avzhan,,avzhan
+malpedia_AXLocker,,axlocker
+malpedia_Ayegent,,ayegent
+malpedia_Aytoke,,aytoke
+malpedia_Azorult,"PuffStealer, Rultazo",azorult
+malpedia_Azov Wiper,,azov wiper
+malpedia_Babadeda,,babadeda
+malpedia_Babar,SNOWBALL,babar
+malpedia_Babuk,"Babyk, Vasa Locker",babuk
+malpedia_BabyLon RAT,,babylon rat
+malpedia_BABYMETAL,,babymetal
+malpedia_BabyShark,LATEOP,babyshark
+malpedia_Bachosens,,bachosens
+malpedia_BACKBEND,,backbend
+malpedia_BackConfig,,backconfig
+malpedia_BackNet,,backnet
+malpedia_Backoff POS,,backoff
+malpedia_BACKORDER,,backorder
+malpedia_backspace,"Lecna, ZRLnk",backspace
+malpedia_BackSwap,,backswap
+malpedia_BADCALL,,badcall
+malpedia_BadEncript,,badencript
+malpedia_badflick,,badflick
+malpedia_BADHATCH,,badhatch
+malpedia_BadNews,,badnews
+malpedia_Bagle,,bagle
+malpedia_Bahamut,,bahamut
+malpedia_Baldr,Baldir,baldr
+malpedia_BalkanDoor,,balkan door
+malpedia_BalkanRAT,,balkan rat
+malpedia_Bamital,,bamital
+malpedia_Banatrix,,banatrix
+malpedia_bancos,,bancos
+malpedia_Bandit Stealer,,bandit
+malpedia_Bandook,Bandok,bandook
+malpedia_bangat,,bangat
+malpedia_Banjori,"MultiBanker 2, BankPatch, BackPatcher",banjori
+malpedia_Bankshot,"COPPERHEDGE, FoggyBrass",bankshot
+malpedia_BanPolMex RAT,,banpolmex
+malpedia_Barb(ie) Downloader,,barbie
+malpedia_BarbWire,,barbwire
+malpedia_barkiofork,,barkiofork
+malpedia_Bart,,bart
+malpedia_BatchWiper,,batchwiper
+malpedia_Batel,,batel
+malpedia_BATLOADER,,bat loader
+malpedia_BazarBackdoor,"BEERBOT, KEGTAP, Team9Backdoor, bazaloader, bazarloader",bazarbackdoor
+malpedia_BazarNimrod,NimzaLoader,bazarnimrod
+malpedia_BBSRAT,,bbsrat
+malpedia_BBtok,,bbtok
+malpedia_Beapy,,beapy
+malpedia_BEATDROP,,beatdrop
+malpedia_Beavertail,,beavertail
+malpedia_Bedep,,bedep
+malpedia_Bee,,bee
+malpedia_beendoor,,beendoor
+malpedia_,,beep
+malpedia_BeepService,,beepservice
+malpedia_BellaCiao,,bellaciao
+malpedia_Belonard,,belonard
+malpedia_Berbew,,berbew
+malpedia_Berbomthum,,berbomthum
+malpedia_BernhardPOS,,bernhardpos
+malpedia_BestKorea,,bestkorea
+malpedia_BetaBot,Neurevt,betabot
+malpedia_Bezigate,,bezigate
+malpedia_BfBot,,bfbot
+malpedia_BHunt,,bhunt
+malpedia_BH_A006,,bh a006
+malpedia_BianLian,,bianlian
+malpedia_BiBi,BiBi-Windows,bibi
+malpedia_BI_D Ransomware,,bid ransomware
+malpedia_bifrose,,bifrose
+malpedia_BillGates,,billgates
+malpedia_Binanen,,binanen
+malpedia_BioData,,biodata
+malpedia_bioload,,bioload
+malpedia_BIOPASS,,biopass
+malpedia_Biscuit,zxdosml,biscuit
+malpedia_BISTROMATH,,bistromath
+malpedia_BitPyLock,,bitpylock
+malpedia_BITSloth,,bitsloth
+malpedia_Bitsran,SHADYCAT,bitsran
+malpedia_Bitter RAT,,bitter rat
+malpedia_BitRAT,,bit rat
+malpedia_Bizzaro,,bizarro
+malpedia_BKA Trojaner,bwin3_bka,bka trojaner
+malpedia_Black Basta,no_name_software,blackbasta
+malpedia_BlackByte,,blackbyte
+malpedia_BlackCat,"ALPHV, Noberus",blackcat
+malpedia_BLACKCOFFEE,"PNGRAT, gresim, ZoxPNG",blackcoffee
+malpedia_BlackEnergy,,blackenergy
+malpedia_BlackGuard,,blackguard
+malpedia_BlackKingdom Ransomware,,blackkingdom ransomware
+malpedia_BlackLotus,,blacklotus
+malpedia_BlackMagic,,blackmagic
+malpedia_BlackMatter,,blackmatter
+malpedia_BlackNET RAT,,blacknet rat
+malpedia_BlackNix RAT,,blacknix rat
+malpedia_BlackPOS,"Kaptoxa, MMon, POSWDS, Reedum",blackpos
+malpedia_BlackRemote,BlackRAT,blackremote
+malpedia_BlackRevolution,,blackrevolution
+malpedia_BlackRouter,BLACKHEART,blackrouter
+malpedia_Blackruby,,blackruby
+malpedia_BlackShades,,blackshades
+malpedia_BlackSnake,,blacksnake
+malpedia_BlackSoul,,blacksoul
+malpedia_BlackSuit,,blacksuit
+malpedia_Blackworm  RAT,,blackworm rat
+malpedia_BleachGap,,bleachgap
+malpedia_BLINDINGCAN,"AIRDRY, ZetaNile",blindingcan
+malpedia_BLINDTOAD,,blindtoad
+malpedia_Blister,COLORFAKE,blister
+malpedia_BloodAlchemy,,bloodalchemy
+malpedia_BloodyStealer,,bloodystealer
+malpedia_BlueFox,,bluefox
+malpedia_BLUEHAZE,,bluehaze
+malpedia_BLUELIGHT,,bluelight
+malpedia_BlueNoroff,,bluenoroff
+malpedia_BlueShell,,blueshell
+malpedia_BlueSky,,bluesky
+malpedia_BLUETHER,CAPGELD,bluether
+malpedia_BluStealer,a310logger,blustealer
+malpedia_BMANAGER,,bmanager
+malpedia_BOATLAUNCH,,boatlaunch
+malpedia_Boaxxe,,boaxxe
+malpedia_Bobik,,bobik
+malpedia_BockLit,,bocklit
+malpedia_Bohmini,,bohmini
+malpedia_BOLDMOVE,,boldmove
+malpedia_Bolek,KBOT,bolek
+malpedia_BookCodes RAT,BookCodesTea,bookcodesrat
+malpedia_Book of Eli,,bookofeli
+malpedia_Bookworm,,bookworm
+malpedia_BOOMBOX,,boombox
+malpedia_BOOSTWRITE,,boostwrite
+malpedia_BOOTWRECK,MBRkiller,bootwreck
+malpedia_Borat RAT,,boratrat
+malpedia_Borr,,borr
+malpedia_BottomLoader,,bottomloader
+malpedia_Bouncer,,bouncer
+malpedia_BoxCaon,,boxcaon
+malpedia_Bozok,,bozok
+malpedia_BRAIN,,brain
+malpedia_Brambul,SORRYBRUTE,brambul
+malpedia_BravoNC,,bravonc
+malpedia_BrbBot,,brbbot
+malpedia_BreachRAT,,breach rat
+malpedia_Breakthrough,,breakthrough loader
+malpedia_Bredolab,,bredolab
+malpedia_BrittleBush,,brittle bush
+malpedia_BROKEYOLK,,brokeyolk
+malpedia_BROLER,down_new,broler
+malpedia_Broomstick,"CLEANBOOST, CleanUp, CleanUpLoader, Oyster",broomstick
+malpedia_Bruh Wiper,,bruh wiper
+malpedia_BrushaLoader,,brushaloader
+malpedia_Brute Ratel C4,"BOLDBADGER, BruteRatel",brute ratel c4
+malpedia_BrutPOS,,brutpos
+malpedia_BS2005,,bs2005
+malpedia_BTCWare,,btcware
+malpedia_BUBBLEWRAP,,bubblewrap
+malpedia_Buer,"Buerloader, RustyBuer",buer
+malpedia_BUFFETLINE,,buffetline
+malpedia_BUGHATCH,,bughatch
+malpedia_bugsleep,MuddyRot,bugsleep
+malpedia_Buhtrap,Ratopak,buhtrap
+malpedia_BumbleBee,"COLDTRAIN, SHELLSTING, Shindig",bumblebee
+malpedia_Bundestrojaner,"R2D2, 0zapftis",bundestrojaner
+malpedia_BundleBot,,bundlebot
+malpedia_Bunitu,,bunitu
+malpedia_BunnyLoader,,bunnyloader
+malpedia_Buterat,spyvoltar,buterat
+malpedia_Buzus,Yimfoca,buzus
+malpedia_BYEBY,,byeby
+malpedia_c0d0so0,,c0d0so0
+malpedia_CabArt,,cabart
+malpedia_Cactus,,cactus
+malpedia_CaddyWiper,KillDisk.NCX,caddywiper
+malpedia_CadelSpy,Cadelle,cadelspy
+malpedia_CALMTHORN,,calmthorn
+malpedia_Cameleon,StormKitty,cameleon
+malpedia_campoloader,,campoloader
+malpedia_CamuBot,,camubot
+malpedia_Cannibal Rat,,cannibal rat
+malpedia_Cannon,,cannon
+malpedia_Carbanak,"Anunak, Sekur RAT",carbanak
+malpedia_Carberp,,carberp
+malpedia_Cardinal RAT,,cardinal rat
+malpedia_Careto,TheMask,careto
+malpedia_CargoBay,,cargobay
+malpedia_CARROTBALL,,carrotball
+malpedia_CarrotBat,,carrotbat
+malpedia_Casper,,casper
+malpedia_CatB,,catb
+malpedia_Catchamas,,catchamas
+malpedia_CCleaner Backdoor,DIRTCLEANER,ccleaner backdoor
+malpedia_CEELOADER,,ceeloader
+malpedia_CenterPOS,cerebrus,centerpos
+malpedia_Cerber,,cerber
+malpedia_CetaRAT,,ceta rat
+malpedia_ChaChi,,chachi
+malpedia_Chaes,,chaes
+malpedia_Chainshot,,chainshot
+malpedia_CHAIRSMACK,,chairsmack
+malpedia_Chaos,"FakeRyuk, RyukJoke, Yashma",chaos
+malpedia_Chaperone,Taj Mahal,chaperone
+malpedia_ChargeWeapon,,chargeweapon
+malpedia_CHCH,,chch
+malpedia_ChChes,"HAYMAKER, Ham Backdoor",chches
+malpedia_CHEESETRAY,CROWDEDFLOUNDER,cheesetray
+malpedia_Chernolocker,,chernolocker
+malpedia_CherryLoader,,cherryloader
+malpedia_CherryPicker POS,"cherrypickerpos, cherrypicker, cherry_picker",cherry picker
+malpedia_ChewBacca,,chewbacca
+malpedia_Chimera,,chimera
+malpedia_CHINACHOPPER,,chinachopper
+malpedia_Chinad,,chinad
+malpedia_ChinaJm,,chinajm
+malpedia_Chinotto,,chinotto
+malpedia_Chinoxy,,chinoxy
+malpedia_Chir,,chir
+malpedia_Chisel,,chisel
+malpedia_ChiserClient,,chiser client
+malpedia_Choziosi,ChromeLoader,choziosi
+malpedia_ChrGetPdsi Stealer,,chrgetpdsi stealer
+malpedia_Chthonic,AndroKINS,chthonic
+malpedia_Cicada3301,,cicada3301
+malpedia_cifty,,cifty
+malpedia_Cinobi,,cinobi
+malpedia_Cinoshi,Agniane,cinoshi
+malpedia_Citadel,,citadel
+malpedia_Clambling,,clambling
+malpedia_CLASSFON,,classfon
+malpedia_CLEANTOAD,,cleantoad
+malpedia_Client Maximus,,client maximus
+malpedia_ClipBanker,,clipbanker
+malpedia_Clipog,,clipog
+malpedia_Clop,,clop
+malpedia_CLOUDBURST,NickelLoader,cloudburst
+malpedia_CloudEyE,"GuLoader, vbdropper",cloudeye
+malpedia_CloudWizard,,cloudwizard
+malpedia_CloudDuke,"MiniDionis, CloudLook",cloud duke
+malpedia_CloudScout,,cloud scout
+malpedia_cmoon,,cmoon
+malpedia_CMSBrute,,cmsbrute
+malpedia_CMSTAR,meciv,cmstar
+malpedia_CoalaBot,,coalabot
+malpedia_CobaltMirage FRP,,cobaltmirage tunnel
+malpedia_Cobalt Strike,"Agentemis, BEACON, CobaltStrike, cobeacon",cobalt strike
+malpedia_Cobian RAT,,cobian rat
+malpedia_CobInt,COOLPANTS,cobint
+malpedia_Cobra Carbon System,Carbon,cobra
+malpedia_CockBlocker,,cockblocker
+malpedia_CodeKey,,codekey
+malpedia_CodeCore,,code core
+malpedia_Cohhoc,,cohhoc
+malpedia_Coinminer,,coinminer
+malpedia_coldbrew,,coldbrew
+malpedia_ColdLock,,coldlock
+malpedia_Cold$eal,ColdSeal,coldseal
+malpedia_ColdStealer,,coldstealer
+malpedia_Colibri Loader,,colibri
+malpedia_Collection RAT,,collection rat
+malpedia_CollectorGoomba,Collector Stealer,collectorgoomba
+malpedia_Colony,"Bandios, GrayBird",colony
+malpedia_Combojack,,combojack
+malpedia_Combos,,combos
+malpedia_ComeBacker,,comebacker
+malpedia_Comfoo,,comfoo
+malpedia_ComLook,,comlook
+malpedia_CommonMagic,,common magic
+malpedia_ComodoSec,,comodosec
+malpedia_COMpfun,Reductor RAT,compfun
+malpedia_Computrace,lojack,computrace
+malpedia_ComradeCircle,,comrade circle
+malpedia_concealment_troy,,concealment troy
+malpedia_Conficker,"traffic converter, downadup, Kido",conficker
+malpedia_Confucius,,confucius
+malpedia_Conti,,conti
+malpedia_Contopee,WHITEOUT,contopee
+malpedia_CookieBag,,cookiebag
+malpedia_CopperStealth,,copperstealth
+malpedia_CopperStealer,Mingloa,copper stealer
+malpedia_Corebot,,corebot
+malpedia_CoreDN,,coredn
+malpedia_Coreshell,SOURFACE,coreshell
+malpedia_CoronaVirus Ransomware,CoronaVirus Cover-Ransomware,coronavirus ransomware
+malpedia_CosmicDuke,,cosmicduke
+malpedia_Cotx RAT,,cotx
+malpedia_Cova,,cova
+malpedia_Covicli,Covically,covicli
+malpedia_Covid22,,covid22
+malpedia_CoViper,,coviper
+malpedia_COZYDUKE,"CozyCar, Cozer, CozyBear, EuroAPT",cozyduke
+malpedia_CrackedCantil,,crackedcantil
+malpedia_crackshot,,crackshot
+malpedia_CradleCore,,cradlecore
+malpedia_CRAT,,crat
+malpedia_CREAMSICLE,,creamsicle
+malpedia_CreateHiddenAccount,,create hidden account
+malpedia_CredoMap,,credomap
+malpedia_Credraptor,,credraptor
+malpedia_CreepySnail,,creepysnail
+malpedia_CreepExfil,,creep exfil
+malpedia_Crenufs,,crenufs
+malpedia_Crimson RAT,"SEEDOOR, Scarimson",crimson
+malpedia_CrimsonIAS,,crimsonias
+malpedia_Cring,,cring
+malpedia_CrossLock,,crosslock
+malpedia_CROSSWALK,"ProxIP, Motnug, TOMMYGUN",crosswalk
+malpedia_Croxloader,,croxloader
+malpedia_CruLoader,,cruloader
+malpedia_Crutch,,crutch
+malpedia_Cryakl,CryLock,cryakl
+malpedia_CryLocker,,crylocker
+malpedia_CrypMic,,crypmic
+malpedia_Crypt0l0cker,,crypt0l0cker
+malpedia_CryptBot,,cryptbot
+malpedia_CrypticConvo,,cryptic convo
+malpedia_CryptNET,,cryptnet
+malpedia_CryptoClippy,,cryptoclippy
+malpedia_CryptoDarkRubix,Ranet,cryptodarkrubix
+malpedia_CryptoJoker,PlutoCrypt,cryptojoker
+malpedia_CryptoLocker,,cryptolocker
+malpedia_CryptoLuck,,cryptoluck
+malpedia_CryptoMix,"Azer, CryptFile2",cryptomix
+malpedia_CryptoPatronum,,cryptopatronum
+malpedia_Cryptorium,,cryptorium
+malpedia_CryptoShield,,cryptoshield
+malpedia_CryptoShuffler,,cryptoshuffler
+malpedia_CRYPTOSLAY,,cryptoslay
+malpedia_Cryptowall,,cryptowall
+malpedia_CryptoWire,,cryptowire
+malpedia_CryptoFortress,,crypto fortress
+malpedia_CryptoRansomeware,,crypto ransomeware
+malpedia_CryptXXXX,,cryptxxxx
+malpedia_Crystal Rans0m,CrystalRansom,crystal ransom
+malpedia_Crytox,,crytox
+malpedia_CsExt,,csext
+malpedia_csharp-streamer RAT,,csharpstreamer
+malpedia_CTB Locker,,ctb locker
+malpedia_Cuba,COLDDRAW,cuba
+malpedia_Cuegoe,,cuegoe
+malpedia_Cueisfry,,cueisfry
+malpedia_Cur1Downloader,,cur1 downloader
+malpedia_Curator,"Ever101, SunnyDay",curator
+malpedia_Cursed Murderer,,cursed murderer
+malpedia_CustomerLoader,,customerloader
+malpedia_Cutlet,,cutlet
+malpedia_Cutwail,,cutwail
+malpedia_CyberGate,Rebhip,cybergate
+malpedia_CyberSplitter,,cyber splitter
+malpedia_CycBot,,cycbot
+malpedia_Cyrat,,cyrat
+malpedia_cysxl,,cysxl
+malpedia_Dacls,MATA,dacls
+malpedia_DADJOKE,,dadjoke
+malpedia_DADSTACHE,,dadstache
+malpedia_Dairy,,dairy
+malpedia_DanaBot,,danabot
+malpedia_danbot,,danbot
+malpedia_Daolpu,,daolpu
+malpedia_DarkBit,,darkbit
+malpedia_DarkCloud Stealer,,darkcloud
+malpedia_DarkComet,"Breut, Fynloski, klovbot",darkcomet
+malpedia_DARKDEW,,darkdew
+malpedia_DarkEye,,darkeye
+malpedia_DarkGate,"Meh, MehCrypter",darkgate
+malpedia_DarkIRC,,darkirc
+malpedia_DarkLoader,,darkloader
+malpedia_DarkMe,,darkme
+malpedia_DarkMegi,,darkmegi
+malpedia_Darkmoon,Chymine,darkmoon
+malpedia_DarkPulsar,,darkpulsar
+malpedia_DarkRat,,darkrat
+malpedia_DarkShell,,darkshell
+malpedia_DarkSide,BlackMatter,darkside
+malpedia_Darksky,,darksky
+malpedia_DarkStRat,,darkstrat
+malpedia_DarkTequila,,darktequila
+malpedia_DarkTortilla,,darktortilla
+malpedia_Darktrack RAT,,darktrack rat
+malpedia_DarkVision RAT,,darkvision rat
+malpedia_DarkVNC,,darkvnc
+malpedia_Daserf,"Muirim, Nioupale",daserf
+malpedia_DataExfiltrator,FileSender,data exfiltrator
+malpedia_Datper,,datper
+malpedia_Daxin,DELIMEAT,daxin
+malpedia_DBatLoader,"ModiLoader, NatsoLoader",dbatloader
+malpedia_DBoxAgent,,dboxagent
+malpedia_DcDcrypt,,dcdcrypt
+malpedia_DCRat,DarkCrystal RAT,dcrat
+malpedia_DCSrv,DCrSrv,dcsrv
+malpedia_DDKeylogger,,ddkeylogger
+malpedia_DDKONG,,ddkong
+malpedia_DEADWOOD,"Agrius, SQLShred, DETBOSIT",deadwood
+malpedia_DealPly,,dealply
+malpedia_dearcry,DoejoCrypt,dearcry
+malpedia_DeathRansom,"deathransom, wacatac",deathransom
+malpedia_DECAF,,decaf
+malpedia_Decebal,,decebal
+malpedia_DeepCreep,,deepcreep
+malpedia_DEEPDATA,,deepdata
+malpedia_DEEPPOST,,deeppost
+malpedia_DeepRAT,,deep rat
+malpedia_Defray,Glushkov,defray
+malpedia_Deimos,,deimos
+malpedia_DeimosC2,,deimos c2
+malpedia_DeliveryCheck,"GAMEDAY, CAPIBAR",delivery check
+"malpedia_Delta(Alfa,Bravo, ...)",,deltas
+malpedia_DeltaStealer,,deltastealer
+malpedia_Dented,,dented
+malpedia_Deprimon,,deprimon
+malpedia_DeputyDog,,deputydog
+malpedia_DeriaLock,,deria lock
+malpedia_DeroHE,,derohe
+malpedia_Derusbi,PHOTO,derusbi
+malpedia_DesertBlade,,desertblade
+malpedia_Devil's Rat,,devils rat
+malpedia_DevOpt,,devopt
+malpedia_Dexbia,CONIME,dexbia
+malpedia_Dexphot,,dexphot
+malpedia_Dexter,LusyPOS,dexter
+malpedia_Dharma,"Arena, Crysis, Wadhrama, ncov",dharma
+malpedia_DiamondFox,"Crystal, Gorynych, Gorynch",diamondfox
+malpedia_Diavol,,diavol
+malpedia_DICELOADER,Lizar,diceloader
+malpedia_DILLJUICE,,dilljuice
+malpedia_DilongTrash,,dilongtrash
+malpedia_Dimnie,,dimnie
+malpedia_DinodasRAT,XDealer,dinodas rat
+malpedia_DinoTrain,,dinotrain
+malpedia_DirCrypt,,dircrypt
+malpedia_DirtyMoe,,dirtymoe
+malpedia_Disk Knight,,disk knight
+malpedia_DispCashBR,,dispcashbr
+malpedia_DispenserXFS,,dispenserxfs
+malpedia_DistTrack,Shamoon,disttrack
+malpedia_Divergent,Novter,divergent
+malpedia_Diztakun,,diztakun
+malpedia_Dizzyvoid,Errorroot,dizzyvoid
+malpedia_DLRAT,,dlrat
+malpedia_DMA Locker,,dma locker
+malpedia_DMSniff,,dmsniff
+malpedia_DneSpy ,,dnespy
+malpedia_DNSChanger,,dnschanger
+malpedia_DNSMessenger,TEXTMATE,dnsmessenger
+malpedia_DNSpionage,"Agent Drable, AgentDrable, Webmask",dnspionage
+malpedia_dnWipe,,dnwipe
+malpedia_DogHousePower,Shelma,doghousepower
+malpedia_Minodo,,domino
+malpedia_Donex,,donex
+malpedia_DONOT,,donot
+malpedia_donut_injector,Donut,donut injector
+malpedia_DoorMe,,doorme
+malpedia_DOPLUGS,,doplugs
+malpedia_DoppelDridex,,doppeldridex
+malpedia_DoppelPaymer,Pay OR Grief,doppelpaymer
+malpedia_NgrBot,,dorkbot ngrbot
+malpedia_Dorshel,,dorshel
+malpedia_Dosia,DDOSIA,dosia
+malpedia_DOSTEALER,,dostealer
+malpedia_Dot Ransomware,MZP Ransomware,dot ransomware
+malpedia_DOUBLEBACK,,doubleback
+malpedia_DoubleFantasy,VALIDATOR,doublefantasy
+malpedia_DoubleFinger,,doublefinger
+malpedia_DoublePulsar,,doublepulsar
+malpedia_DoubleZero,FiberLake,doublezero
+malpedia_Downdelph,DELPHACY,downdelph
+malpedia_Downeks,,downeks
+malpedia_DownEx,,downex
+malpedia_DownPaper,,downpaper
+malpedia_DracuLoader,,dracu loader
+malpedia_DramNudge,,dramnudge
+malpedia_DRATzarus,ThreatNeedle,dratzarus
+malpedia_DreamBot,,dreambot
+malpedia_Dridex,,dridex
+malpedia_DRIFTPIN,"Toshliph, Spy.Agent.ORM",driftpin
+malpedia_Dripion,Masson,dripion
+malpedia_DriveOcean,Google Drive RAT,driveocean
+malpedia_Drokbk,,drokbk
+malpedia_DropBook,,dropbook
+malpedia_DROPSHOT,,dropshot
+malpedia_Dtrack,"Preft, TroyRAT",dtrack
+malpedia_DualToy,,dualtoy
+malpedia_DarkHotel,,dubnium darkhotel
+malpedia_DUBrute,,dubrute
+malpedia_DUCKTAIL,,ducktail
+malpedia_Dumador,,dumador
+malpedia_DuQu,,duqu
+malpedia_DUSTMAN,,dustman
+malpedia_DUSTPAN,StealthVector,dustpan
+malpedia_DUSTTRAP,"CurveLoad, DodgeBox, StealthReacher",dusttrap
+malpedia_Duuzer,Escad,duuzer
+malpedia_DYEPACK,"BanSwift, swift",dyepack
+malpedia_DynamicStealer,,dynamicstealer
+malpedia_Dyre,Dyreza,dyre
+malpedia_EagerBee,,eagerbee
+malpedia_EagleMonitorRAT,,eagle monitor rat
+malpedia_EASYNIGHT,,easynight
+malpedia_Easy Stealer,,easystealer
+malpedia_Echelon,Echelon-Stealer,echelon
+malpedia_EDA2,,eda2 ransom
+malpedia_Edam,SECONDBEST,edam
+malpedia_EDRSilencer,,edr silencer
+malpedia_Egregor,,egregor
+malpedia_EHDevel,,ehdevel
+malpedia_Ekipa RAT,,ekipa
+malpedia_ELECTRICFISH,,electricfish
+malpedia_ElectricPowder,,electric powder
+malpedia_Elirks,,elirks
+malpedia_Elise,EVILNEST,elise
+malpedia_ElizaRAT,,eliza rat
+malpedia_El Machete APT Backdoor Dropper,,elmachete dropper 2022
+malpedia_ELMER,Elmost,elmer
+malpedia_emansrepo,,emansrepo
+malpedia_Emdivi,,emdivi
+malpedia_Emissary,,emissary
+malpedia_Emmenhtal,"IDATDropper, PEAKLIGHT",emmenhtal
+malpedia_Emotet,"Geodo, Heodo",emotet
+malpedia_Empire Downloader,,empire downloader
+malpedia_Emudbot,,emudbot
+malpedia_Enfal,Lurid,enfal
+malpedia_Enigma Loader,,enigma loader
+malpedia_Entropy,,entropy
+malpedia_EntryShell,,entryshell
+malpedia_Enviserv,,enviserv
+malpedia_EnvyScout,ROOTSAW,envyscout
+malpedia_Epsilon Red,BlackCocaine,epsilon red
+malpedia_Epsilon Stealer,,epsilon stealer
+malpedia_EquationDrug,,equationdrug
+malpedia_Equationgroup (Sorting),,equationgroup
+malpedia_Erbium Stealer,,erbium stealer
+malpedia_Erebus,,erebus
+malpedia_Eredel,,eredel
+malpedia_Erica Ransomware,,erica ransomware
+malpedia_Eris,,eris
+malpedia_ESPecter,,especter
+malpedia_EternalRocks,MicroBotMassiveNet,eternalrocks
+malpedia_EternalPetya,"ExPetr, Pnyetya, Petna, NotPetya, Nyetya, NonPetya, nPetya, Diskcoder.C, BadRabbit",eternal petya
+malpedia_Eternity Clipper,,eternity clipper
+malpedia_Eternity Ransomware,,eternity ransomware
+malpedia_Eternity Stealer,,eternity stealer
+malpedia_Eternity Worm,,eternity worm
+malpedia_EtumBot,HighTide,etumbot
+malpedia_Evilbunny,,evilbunny
+malpedia_EvilExtractor,,evilextractor
+malpedia_EvilGrab,Vidgrab,evilgrab
+malpedia_EVILNUM,,evilnum
+malpedia_EvilPlayout,,evilplayout
+malpedia_EvilPony,CREstealer,evilpony
+malpedia_Evrial,,evrial
+malpedia_Exaramel,,exaramel
+malpedia_ExByte,,exbyte
+malpedia_Excalibur,"Sabresac, Saber",excalibur
+malpedia_MS Exchange Tool,,exchange tool
+malpedia_Exile RAT,,exilerat
+malpedia_ExMatter,,exmatter
+malpedia_Exorcist,,exorcist
+malpedia_Expiro,Xpiro,expiro
+malpedia_ExplosiveRAT,,explosive rat
+malpedia_Xtreme RAT,ExtRat,extreme rat
+malpedia_Eye Pyramid,,eye pyramid
+malpedia_EYService,,eyservice
+malpedia_Fabookie,,fabookie
+malpedia_FakeCry,,fakecry
+malpedia_FakeRean,Braviax,fakerean
+malpedia_FakeTC,,faketc
+malpedia_FakeWord,,fakeword
+malpedia_fancyfilter,0xFancyFilter,fancyfilter
+malpedia_Fanny,DEMENTIAWHEEL,fanny
+malpedia_FantomCrypt,,fantomcrypt
+malpedia_Farseer,,farseer
+malpedia_FastLoader,,fastloader
+malpedia_FastPOS,,fast pos
+malpedia_FatalRat,Sainbox RAT,fatal rat
+malpedia_FatDuke,,fatduke
+malpedia_Fauppod,,fauppod
+malpedia_FCT,,fct
+malpedia_FDMTP,,fdmtp
+malpedia_FeedLoad,,feed load
+malpedia_Felismus,,felismus
+malpedia_Felixroot,,felixroot
+malpedia_fengine,,fengine
+malpedia_Fenix,,fenix
+malpedia_Feodo,"Cridex, Bugat",feodo
+malpedia_FFDroider,,ffdroider
+malpedia_Ficker Stealer,,fickerstealer
+malpedia_FileIce,,fileice ransom
+malpedia_Filerase,,filerase
+malpedia_Final1stSpy,,final1stspy
+malpedia_FINALDRAFT,,finaldraft
+malpedia_FindPOS,Poseidon,findpos
+malpedia_FinFisher RAT,FinSpy,finfisher
+malpedia_FINTEAM,TeamBot,finteam
+malpedia_Fireball,,fireball
+malpedia_FireBird RAT,,firebird rat
+malpedia_Fire Chili,,firechili
+malpedia_FireCrypt,,firecrypt
+malpedia_FireMalv,,firemalv
+malpedia_FirstRansom,,first ransom
+malpedia_FishMaster,JollyJellyfish,fishmaster
+malpedia_FiveHands,Thieflock,fivehands
+malpedia_FK_Undead,Undead,fk undead
+malpedia_Flagpro,BUSYICE,flagpro
+malpedia_Flame,sKyWIper,flame
+malpedia_FLASHFLOOD,,flashflood
+malpedia_FlashDevelop,,flash develop
+malpedia_FlawedAmmyy,,flawedammyy
+malpedia_FlawedGrace,GraceWire,flawedgrace
+malpedia_FlexiSpy,,flexispy
+malpedia_FlokiBot,,floki bot
+malpedia_FlowCloud,,flowcloud
+malpedia_FlowerShop,,flowershop
+malpedia_Floxif,,floxif
+malpedia_Flusihoc,,flusihoc
+malpedia_FlyingDutchman,,flying dutchman
+malpedia_FlyStudio,,flystudio
+malpedia_Fobber,,fobber
+malpedia_FONIX,,fonix
+malpedia_ForestTiger,ScoringMathTea,forest tiger
+malpedia_Formbook,win.xloader,formbook
+malpedia_FormerFirstRAT,ffrat,former first rat
+malpedia_FortuneCrypt,,fortunecrypt
+malpedia_FoxSocket,,foxsocket
+malpedia_FPSpy,,fpspy
+malpedia_FRat,,frat
+malpedia_Freenki Loader,SHUTTERSPEED,freenki
+malpedia_FriedEx,"BitPaymer, DoppelPaymer, IEncrypt",friedex
+malpedia_FrostyGoop,BUSTLEBERM,frostygoop
+malpedia_Fs0ciety,,fs0ciety
+malpedia_FudModule,LIGHTSHOW,fudmodule
+malpedia_win.fujinama,,fujinama
+malpedia_FunkSec,,funksec
+malpedia_FunnySwitch,RouterGod,funnyswitch
+malpedia_FunnyDream,,funny dream
+malpedia_Furtim,,furtim
+malpedia_FusionDrive,,fusiondrive
+malpedia_FuwuqiDrama,,fuwuqidrama
+malpedia_FuxSocy,,fuxsocy
+malpedia_GaboonGrabber,,gaboongrabber
+malpedia_Gacrux,,gacrux
+malpedia_GalaxyLoader,,galaxyloader
+malpedia_gamapos,pios,gamapos
+malpedia_Gameover DGA,,gameover dga
+malpedia_Gameover P2P,"GOZ, Gameover ZeuS, Mapp, ZeuS P2P",gameover p2p
+malpedia_GamePlayerFramework,,game player framework
+malpedia_Gamotrol,,gamotrol
+malpedia_Gandcrab,GrandCrab,gandcrab
+malpedia_Gasket,,gasket
+malpedia_Gaudox,,gaudox
+malpedia_Gauss,,gauss
+malpedia_Gazavat,,gazavat
+malpedia_Gazer,WhiteBear,gazer
+malpedia_GCleaner,,gcleaner
+malpedia_gcman,,gcman
+malpedia_Gdrive,"DoomDrive, GoogleDriveSucks",gdrive
+malpedia_GearInformer,,gearinformer
+malpedia_GEARSHIFT,,gearshift
+malpedia_GEMCUTTER,,gemcutter
+malpedia_GeminiDuke,,geminiduke
+malpedia_Get2,"FRIENDSPEAK, GetandGo",get2
+malpedia_GetMail,,getmail
+malpedia_GetMyPass,getmypos,getmypass
+malpedia_get_pwd,,get pwd
+malpedia_Gh0stBins,Gh0stBins  RAT,gh0stbins
+malpedia_Gh0stTimes,,gh0sttimes
+malpedia_GHAMBAR,,ghambar
+malpedia_Ghole,"Gholee, CoreImpact (Modified)",ghole
+malpedia_GhostEmperor,,ghostemperor
+malpedia_win.ghostengine,,ghostengine
+malpedia_Gh0stnet,Remosh,ghostnet
+malpedia_GhostSocks,,ghostsocks
+malpedia_GhostAdmin,Ghost iBot,ghost admin
+malpedia_GhostLocker,,ghost locker
+malpedia_Ghost RAT,"Farfli, Gh0st RAT, PCRat",ghost rat
+malpedia_GhostSecret,,ghost secret
+malpedia_Gibberish,,gibberish
+malpedia_Giffy,,giffy
+malpedia_GIMMICK,,gimmick
+malpedia_Ginwui,,ginwui
+malpedia_Ginzo Stealer,,ginzo
+malpedia_Glasses,Wordpress Bruteforcer,glasses
+malpedia_GlassRAT,,glassrat
+malpedia_GlitchPOS,,glitch pos
+malpedia_GlobeImposter,Fake Globe,globeimposter
+malpedia_Globe,,globe ransom
+malpedia_GlooxMail,,glooxmail
+malpedia_Glupteba,,glupteba
+malpedia_GoBotKR,,gobotkr
+malpedia_goCryptoLocker,,gocryptolocker
+malpedia_Godlike12,GOSLU,godlike12
+malpedia_goDoH,,godoh
+malpedia_Godzilla Loader,,godzilla loader
+malpedia_Gofing,Velocity Polymorphic Compression Malware,gofing
+malpedia_Goggles,,goggles
+malpedia_GoGoogle,BossiTossi,gogoogle
+malpedia_GoGra,Onedrivetools,gogra
+malpedia_GOLDBACKDOOR,,goldbackdoor
+malpedia_GoldenEye,Petya/Mischa,goldeneye
+malpedia_GoldenHelper,,goldenhelper
+malpedia_GoldenSpy,,goldenspy
+malpedia_GoldMax,SUNSHUTTLE,goldmax
+malpedia_GoldDragon,Lovexxx,gold dragon
+malpedia_Golroted,,golroted
+malpedia_GoMet,,gomet
+malpedia_Gomorrah stealer,,gomorrah stealer
+malpedia_Goodor,Fuerboos,goodor
+malpedia_GoogleDrive RAT,,google drive rat
+malpedia_GooPic Drooper,,goopic
+malpedia_GooseEgg,,gooseegg
+malpedia_GootKit,"Waldek, Xswkit, talalpek",gootkit
+malpedia_Gophe,,gophe
+malpedia_Gopuram,,gopuram
+malpedia_Gosar,,gosar
+malpedia_GOTROJ,,gotroj
+malpedia_GovRAT,,govrat
+malpedia_Gozi,"CRM, Gozi CRM, Papras, Snifula, Ursnif",gozi
+malpedia_GoRed,,go red
+malpedia_GPCode,,gpcode
+malpedia_GrabBot,,grabbot
+malpedia_Graftor,MewsSpy,graftor
+malpedia_Grager,,grager
+malpedia_GRAMDOOR,Small Sieve,gramdoor
+malpedia_Grandoreiro,,grandoreiro
+malpedia_GrandSteal,,grandsteal
+malpedia_GraphDrop,"GraphicalProton, SPICYBEAT",graphdrop
+malpedia_GraphicalNeutrino,SNOWYAMBER,graphical neutrino
+malpedia_Graphican,,graphican
+malpedia_Graphiron,,graphiron
+malpedia_Graphite,,graphite
+malpedia_Graphon,,graphon
+malpedia_GraphSteel,,graphsteel
+malpedia_Grateful POS,"FrameworkPOS, SCRAPMINT, trinity",grateful pos
+malpedia_Gratem,,gratem
+malpedia_Gravity RAT,,gravity rat
+malpedia_GREASE,,grease
+malpedia_GreenShaitan,eoehttp,greenshaitan
+malpedia_GreenDispenser,,green dispenser
+malpedia_GreetingGhoul,,greetingghoul
+malpedia_GreyEnergy,,grey energy
+malpedia_GRILLMARK,Hellsing Backdoor,grillmark
+malpedia_GRIMAGENT,,grimagent
+malpedia_GrimPlant,,grimplant
+malpedia_GROK,,grok
+malpedia_GroundPeony,,ground peony
+malpedia_Growtopia,,growtopia
+malpedia_GRUNT,,grunt
+malpedia_gsecdump,,gsecdump
+malpedia_GSpy,,gspy
+malpedia_GTPDOOR,,gtpdoor
+malpedia_GUP Proxy Tool,,gup proxy
+malpedia_Gwisin,,gwisin
+malpedia_H1N1 Loader,,h1n1
+malpedia_HabitsRAT,,habitsrat
+malpedia_HackBrowserData,,hackbrowserdata
+malpedia_Hacksfase,,hacksfase
+malpedia_HackSpy,,hackspy
+malpedia_Hades,,hades
+malpedia_Hakbit,Thanos Ransomware,hakbit
+malpedia_HALFRIG,,halfrig
+malpedia_Hamweq,,hamweq
+malpedia_Hancitor,Chanitor,hancitor
+malpedia_Handala,,handala
+malpedia_HappyLocker (HiddenTear?),,happy locker
+malpedia_HARDRAIN,,hardrain
+malpedia_Harnig,Piptea,harnig
+malpedia_Haron Ransomware,,haron
+malpedia_Hatef,,hatef
+malpedia_HavanaCrypt,,havana crypt
+malpedia_Havex RAT,,havex rat
+malpedia_Havoc,Havokiz,havoc
+malpedia_HAWKBALL,,hawkball
+malpedia_HawkEye Keylogger,"HawkEye, HawkEye Reborn, Predator Pain",hawkeye keylogger
+malpedia_HazyLoad,,hazy load
+malpedia_HDMR,GO-SPORT,hdmr
+malpedia_HDRoot,,hdroot
+malpedia_HeaderTip,,headertip
+malpedia_Headlace,,headlace
+malpedia_Helauto,,helauto
+malpedia_HelloBot,,hellobot
+malpedia_HelloKitty,KittyCrypt,hellokitty
+malpedia_Helminth,,helminth
+malpedia_Heloag,,heloag
+malpedia_HemiGate,,hemigate
+malpedia_Herbst,,herbst
+malpedia_Heriplor,,heriplor
+malpedia_Hermes,,hermes
+malpedia_HermeticWiper,"DriveSlayer, FoxBlade, KillDisk.NCV, NEARMISS",hermeticwiper
+malpedia_HermeticWizard,,hermeticwizard
+malpedia_HerpesBot,,herpes
+malpedia_HesperBot,,hesperbot
+malpedia_heyoka,,heyoka
+malpedia_HiAsm,,hiasm
+malpedia_Hidden Bee,,hiddenbee
+malpedia_HiddenTear,"Cryptear, FuckUnicorn",hiddentear
+malpedia_HideDRV,,hidedrv
+malpedia_HIGHNOON,,highnoon
+malpedia_HIGHNOON.BIN,,highnoon bin
+malpedia_HIGHNOTE,ChyNode,highnote
+malpedia_HijackLoader,"DOILoader, GHOSTPULSE, IDAT Loader, SHADOWLADDER",hijackloader
+malpedia_HiKit,,hikit
+malpedia_HILDACRYPT,,hildacrypt
+malpedia_himan,,himan
+malpedia_Himera Loader,,himera loader
+malpedia_Hisoka,,hisoka
+malpedia_Hive,,hive
+malpedia_Hi-Zor RAT,,hi zor rat
+malpedia_HLUX,,hlux
+malpedia_Hodur,,hodur
+malpedia_Holcus Installer (Adware),,holcus
+malpedia_HOLERUN,,holerun
+malpedia_homefry,,homefry
+malpedia_HookInjEx,,hookinjex
+malpedia_HOPLIGHT,HANGMAN,hoplight
+malpedia_Hopscotch,,hopscotch
+malpedia_HorusEyes RAT,,horuseyes
+malpedia_Horus Eyes RAT,,horus eyes rat
+malpedia_HOTCROISSANT,,hotcroissant
+malpedia_HOTWAX,,hotwax
+malpedia_Houdini,"Hworm, Jenxcus, Kognito, Njw0rm, WSHRAT, dinihou, dunihi",houdini
+malpedia_HtBot,,htbot
+malpedia_htpRAT,,htprat
+malpedia_HTran,HUC Packet Transmit Tool,htran
+malpedia_HttpBrowser,HttpDump,httpbrowser
+malpedia_httpdropper,httpdr0pper,httpdropper
+malpedia_HTTPSnoop,TOFULOAD,httpsnoop
+malpedia_HTTP(S) uploader,,httpsuploader
+malpedia_http_troy,,http troy
+malpedia_HUI Loader,SIDESTEP,hui loader
+malpedia_Hunter Stealer,,hunter
+malpedia_Hupigon,,hupigon
+malpedia_HuskLoader,,huskloader
+malpedia_Hussar,,hussar
+malpedia_HxDef,"HacDef, HackerDefender, HackDef",hxdef
+malpedia_HyperBro,,hyperbro
+malpedia_HYPERSCRAPE,,hyperscrape
+malpedia_HyperSSL,"FOCUSFJORD, Soldier, Sysupdate",hyperssl
+malpedia_HZ RAT,,hzrat
+malpedia_Icarus,,icarus
+malpedia_IcedID,"BokBot, IceID",icedid
+malpedia_IcedID Downloader,,icedid downloader
+malpedia_Icefog,Fucobha,icefog
+malpedia_win.icexloader,,icexloader
+malpedia_IceCache,,ice cache
+malpedia_IceEvent,,ice event
+malpedia_Ice IX,,ice ix
+malpedia_IconDown,,icondown
+malpedia_IconicStealer,,iconic stealer
+malpedia_IcyHeart,Troxen,icyheart
+malpedia_,,idat loader
+malpedia_IDKEY,,idkey
+malpedia_IISniff,,iisniff
+malpedia_IISpy,BadIIS,iispy
+malpedia_IMAPLoader,,imap loader
+malpedia_Imecab,,imecab
+malpedia_Imminent Monitor RAT,,imminent monitor rat
+malpedia_ Immortal Stealer,,immortal stealer
+malpedia_ImprudentCook,,imprudentcook
+malpedia_INCONTROLLER,,incontroller
+malpedia_Incubator,,incubator
+malpedia_IndigoDrop,,indigodrop
+malpedia_Industrial Spy,,industrial spy
+malpedia_Industroyer,"Crash, CrashOverride",industroyer
+malpedia_INDUSTROYER2,,industroyer2
+malpedia_Inferno,,inferno
+malpedia_InfinityLock,,infinitylock
+malpedia_InfoDot,,infodot
+malpedia_Infy,Foudre,infy
+malpedia_Inlock,,inlock
+malpedia_InnaputRAT,,innaput rat
+malpedia_win.innfirat,,innfirat
+malpedia_Interception,,interception
+malpedia_Invicta Stealer,,invicta stealer
+malpedia_InvisiMole,,invisimole
+malpedia_IPStorm,,ipstorm
+malpedia_Ironcat,,ironcat
+malpedia_IRONHALO,,ironhalo
+malpedia_IronNetInjector,,ironnetinjector
+malpedia_IronWind,,ironwind
+malpedia_IsaacWiper,LASAINRAW,isaacwiper
+malpedia_ISFB,"Gozi ISFB, IAP, Pandemyia",isfb
+malpedia_ISMAgent,,ismagent
+malpedia_ISMDoor,,ismdoor
+malpedia_iSpy Keylogger,,ispy keylogger
+malpedia_IsraBye,,israbye
+malpedia_ISR Stealer,,isr stealer
+malpedia_IsSpace,NfLog RAT,isspace
+malpedia_IXWare,,ixware
+malpedia_Jackal,,jackal
+malpedia_JackPOS,,jackpos
+malpedia_Jaff,,jaff
+malpedia_Jager Decryptor,,jager decryptor
+malpedia_Jaku,"C3PRO-RACOON, EQUINOX, KCNA Infostealer, Reconcyc",jaku
+malpedia_JanelaRAT,,janela rat
+malpedia_Janeleiro,,janeleiro
+malpedia_jason,,jason
+malpedia_Jasus,,jasus
+malpedia_JCry,,jcry
+malpedia_Jeno,"Valeria, Jest",jeno
+malpedia_JessieConTea,,jessiecontea
+malpedia_JhoneRAT,,jhone rat
+malpedia_Jigsaw,,jigsaw
+malpedia_Jimmy,,jimmy
+malpedia_JinxLoader,,jinxloader
+malpedia_JLORAT,,jlorat
+malpedia_Joanap,,joanap
+malpedia_Joao,,joao
+malpedia_win.JobCrypter,,jobcrypter
+malpedia_Jolob,,jolob
+malpedia_JQJSNICKER,,jqjsnicker
+malpedia_JripBot,,jripbot
+malpedia_JSOutProx,,jsoutprox
+malpedia_JSSLoader,,jssloader
+malpedia_JuicyPotato,,juicy potato
+malpedia_JUMPALL,,jumpall
+malpedia_Jupiter,EarlyRAT,jupiter
+malpedia_KAgent,,kagent
+malpedia_KamiKakaBot,Kami,kami
+malpedia_Kapeka,"ICYWELL, KNUCKLETOUCH, QUEUESEED, WRONGSENS",kapeka
+malpedia_Karagany,Karagny,karagany
+malpedia_Kardon Loader,,kardonloader
+malpedia_Karius,,karius
+malpedia_Karkoff,"CACTUSPIPE, MailDropper, OILYFACE",karkoff
+malpedia_Karma,,karma
+malpedia_KasperAgent,,kasperagent
+malpedia_Kasseika,,kasseika
+malpedia_Kazuar,,kazuar
+malpedia_KazyLoader,,kazyloader
+malpedia_KDC Sponge,,kdcsponge
+malpedia_Kegotip,,kegotip
+malpedia_KEKW,KEKW-Locker,kekw
+malpedia_Kelihos,,kelihos
+malpedia_Kematian Stealer,,kematian
+malpedia_Keona,,keona
+malpedia_KerrDown,,kerrdown
+malpedia_Ketrican,,ketrican
+malpedia_Ketrum,,ketrum
+malpedia_KeyBase,Kibex,keybase
+malpedia_KeyBoy,TSSL,keyboy
+malpedia_Keyhole,,keyhole
+malpedia_APT3 Keylogger,,keylogger apt3
+malpedia_KEYMARBLE,,keymarble
+malpedia_KGH_SPY,,kgh spy
+malpedia_Khonsari,,khonsari
+malpedia_KHRAT,,khrat
+malpedia_Kikothac,,kikothac
+malpedia_KillAV,BURNTCIGAR,killav
+malpedia_KillDisk,,killdisk
+malpedia_KilllSomeOne,,killsomeone
+malpedia_KimJongRat,,kimjongrat
+malpedia_Kimsuky,,kimsuky
+malpedia_Kingminer,,kingminer
+malpedia_KINS,"Kasper Internet Non-Security, Maple",kins
+malpedia_KIVARS,,kivars
+malpedia_Klackring,,klackring
+malpedia_KleptoParasite Stealer,"Joglog, Parasite",kleptoparasite stealer
+malpedia_KlingonRAT,,klingon rat
+malpedia_KLogEXE,,klogexe
+malpedia_KLRD,,klrd
+malpedia_Knight,Cyclops,knight
+malpedia_Knot,,knot
+malpedia_Koadic,,koadic
+malpedia_Koi Loader,,koiloader
+malpedia_Koi Stealer,,koistealer
+malpedia_KoiVM,,koivm
+malpedia_KokoKrypt,,kokokrypt
+malpedia_KOMPROGO,Splinter RAT,komprogo
+malpedia_Konni,,konni
+malpedia_KoobFace,,koobface
+malpedia_Korlia,Bisonal,korlia
+malpedia_Kovter,,kovter
+malpedia_KPOT Stealer,"Khalesi, Kpot",kpot stealer
+malpedia_Krachulka,,krachulka
+malpedia_Kraken,,kraken
+malpedia_KrakenKeylogger,,krakenkeylogger
+malpedia_KrBanker,BlackMoon,krbanker
+malpedia_KrDownloader,,krdownloader
+malpedia_Kronos,Osiris,kronos
+malpedia_KryptoCibule,,kryptocibule
+malpedia_KSL0T,,ksl0t
+malpedia_KTLVdoor,,ktlv door
+malpedia_Kuaibu,"Barys, Gofot, Kuaibpy",kuaibu8
+malpedia_Kuiper,,kuiper
+malpedia_Kuluoz,,kuluoz
+malpedia_Kurton,,kurton
+malpedia_Kutaki,,kutaki
+malpedia_Kwampirs,,kwampirs
+malpedia_Ladon,,ladon
+malpedia_LALALA Stealer,,lalala stealer
+malpedia_Lambert,Plexor,lambert
+malpedia_LambLoad,OfficeCertTea,lambload
+malpedia_Lamdelin,,lamdelin
+malpedia_LaplasClipper,,laplas
+malpedia_LatentBot,,latentbot
+malpedia_Latrodectus,"BLACKWIDOW, IceNova, Latrodectus, Lotus",latrodectus
+malpedia_Laturo Stealer,,laturo
+malpedia_LazarDoor,,lazardoor
+malpedia_LazarLoader,,lazarloader
+malpedia_KillDisk (Lazarus),KillDisk.NBO,lazarus killdisk
+malpedia_Laziok,,laziok
+malpedia_LazyCat,,lazycat
+malpedia_LCPDot,,lcpdot
+malpedia_LDR4,,ldr4
+malpedia_Leakthemall,,leakthemall
+malpedia_Leash,,leash
+malpedia_Lechiket,,lechiket
+malpedia_Lemon Duck,,lemonduck
+malpedia_Leouncia,shoco,leouncia
+malpedia_Leslieloader,,leslieloader
+malpedia_Lethic,,lethic
+malpedia_LetMeOut,,letmeout
+malpedia_LgoogLoader,,lgoogloader
+malpedia_Liderc,LEMPO,liderc
+malpedia_LIGHTBUNNY,,lightbunny
+malpedia_LightlessCan,,lightlesscan
+malpedia_LightNeuron,"NETTRANS, XTRANS",lightneuron
+malpedia_Lightning Stealer,,lightning stealer
+malpedia_LIGHTRAIL,,lightrail
+malpedia_LIGHTWORK,,lightwork
+malpedia_Ligsterac,,ligsterac
+malpedia_Lilith,,lilith
+malpedia_limedownloader,,limedownloader
+malpedia_limeminer,,limeminer
+malpedia_LimePad,,limepad
+malpedia_LimeRAT,,limerat
+malpedia_Limitail,,limitail
+malpedia_LinseningSvr,,linseningsvr
+malpedia_LIONTAIL,,liontail
+malpedia_Listrix,,listrix
+malpedia_LiteDuke,,liteduke
+malpedia_LiteHTTP,,litehttp
+malpedia_LOBSHOT,,lobshot
+malpedia_LockBit,ABCD Ransomware,lockbit
+malpedia_LockerGoga,,lockergoga
+malpedia_LockFile,,lockfile
+malpedia_Locky,,locky
+malpedia_Locky (Decryptor),,locky decryptor
+malpedia_Locky Loader,,locky loader
+malpedia_LockPOS,,lock pos
+malpedia_Loda,"LodaRAT, Nymeria",loda
+malpedia_LODEINFO,,lodeinfo
+malpedia_Logedrut,,logedrut
+malpedia_LogPOS,,logpos
+malpedia_Logtu,,logtu
+malpedia_LoJax,,lojax
+malpedia_LokiLocker,,lokilocker
+malpedia_Loki Password Stealer (PWS),"Burkina, Loki, LokiBot, LokiPWS",lokipws
+malpedia_Lokorrito,,lokorrito
+malpedia_LOLSnif,,lolsnif
+malpedia_LONGWATCH,,longwatch
+malpedia_looChiper,,loochiper
+malpedia_LooCipher,,loocipher
+malpedia_Lookback,,lookback
+malpedia_L0rdix,lordix,lordix
+malpedia_Lorenz,,lorenz
+malpedia_Loup,,loup
+malpedia_LoupeLoader,,loupeloader
+malpedia_LOWBALL,,lowball
+malpedia_LOWKEY,PortReuse,lowkey
+malpedia_LOWZERO,,lowzero
+malpedia_LPEClient,LPEClientTea,lpeclient
+malpedia_lsassDumper,,lsassdumper
+malpedia_Lu0Bot,,lu0bot
+malpedia_LuaDream,DreamLand,luadream
+malpedia_Luca Stealer,,luca stealer
+malpedia_Lucifer,,lucifer
+malpedia_Lumar,PovertyStealer,lumar
+malpedia_Luminosity RAT,LuminosityLink,luminosity rat
+malpedia_Lumma Stealer,LummaC2 Stealer,lumma
+malpedia_LunarMail,,lunarmail
+malpedia_LunchMoney,,lunchmoney
+malpedia_Lurk,,lurk
+malpedia_Luxy,,luxy
+malpedia_Luzo,,luzo
+malpedia_Lyceum .NET DNS Backdoor,,lyceum dns backdoor dotnet
+malpedia_Lyceum .NET TCP Backdoor,,lyceum http backdoor dotnet
+malpedia_Lyceum Golang HTTP Backdoor,,lyceum http backdoor golang
+malpedia_Lynx,,lynx
+malpedia_Lyposit,"Lucky Locker, Adneukine, Bomba Locker",lyposit
+malpedia_M00nD3V Logger,,m00nd3v
+malpedia_m0yv,,m0yv
+malpedia_MACAMAX,,macamax
+malpedia_Macaw,,macaw
+malpedia_Machete,El Machete,machete
+malpedia_MadMax,,madmax
+malpedia_Magala,,magala
+malpedia_Maggie,,maggie
+malpedia_MagicRAT,,magic rat
+malpedia_Magniber,,magniber
+malpedia_Mailto,"Koko Ransomware, NetWalker",mailto
+malpedia_Mail-O,,mail o
+malpedia_MajikPos,,majik pos
+malpedia_Makadocs,,makadocs
+malpedia_MakLoader,,makloader
+malpedia_Makop,,makop
+malpedia_Makop Ransomware,,makop ransomware
+malpedia_Maktub,,maktub
+malpedia_MalumPOS,,malumpos
+malpedia_Mamba,"HDDCryptor, DiskCryptor",mamba
+malpedia_ManameCrypt,CryptoHost,manamecrypt
+malpedia_Mango,,mango
+malpedia_Mangzamel,"junidor, mengkite, vedratve",mangzamel
+malpedia_Manifestus,,manifestus ransomware
+malpedia_ManItsMe,,manitsme
+malpedia_Manjusaka,,manjusaka
+malpedia_Maoloa,,maoloa
+malpedia_MAPIget,,mapiget
+malpedia_Marap,,marap
+malpedia_Mariposa,"Rimecud, Palevo, Autorun",mariposa
+malpedia_MarkiRAT,,markirat
+malpedia_MarraCrypt,,marracrypt
+malpedia_Mars,MarsDecrypt,mars
+malpedia_Mars Stealer,,mars stealer
+malpedia_Masad Stealer,,masad stealer
+malpedia_MASS Logger,,masslogger
+malpedia_Matanbuchus,,matanbuchus
+malpedia_Matiex,,matiex
+malpedia_Matrix Banker,,matrix banker
+malpedia_Matrix Ransom,,matrix ransom
+malpedia_Matryoshka RAT,,matryoshka rat
+malpedia_Matsnu,,matsnu
+malpedia_Maudi,,maudi
+malpedia_Maui Ransomware,,maui
+malpedia_Maxtrilha,,maxtrilha
+malpedia_Maze,ChaCha,maze
+malpedia_MBRlock,DexLocker,mbrlock
+malpedia_MBR Locker,,mbrlocker
+malpedia_Mebromi,MyBios,mebromi
+malpedia_MECHANICAL,GoldStamp,mechanical
+malpedia_MediaPI,Eyeglass,mediapi
+malpedia_Medre,,medre
+malpedia_Medusa,,medusa
+malpedia_MedusaLocker,"AKO Ransomware, AKO Doxware, MedusaReborn",medusalocker
+malpedia_Meduza Stealer,,meduza
+malpedia_MegaCortex,,megacortex
+malpedia_MegaCreep,,megacreep
+malpedia_MeguminTrojan,,megumin
+malpedia_Mekotio,,mekotio
+malpedia_Melcoz,,melcoz
+malpedia_MeltingClaw,,meltingclaw
+malpedia_Meow,,meow
+malpedia_MercurialGrabber,,mercurialgrabber
+malpedia_Merdoor,,merdoor
+malpedia_Merlin,,merlin
+malpedia_Mespinoza,pysa,mespinoza
+malpedia_MetadataBin,Ransomware32,metadatabin
+malpedia_METALJACK,denesRAT,metaljack
+malpedia_Metamorfo,Casbaneiro,metamorfo
+malpedia_MetaStealer,,metastealer
+malpedia_Meteor,,meteor
+malpedia_Meterpreter,,meterpreter
+malpedia_Mevade,"Sefnit, SBC",mevade
+malpedia_Mewsei,,mewsei
+malpedia_MgBot,"BLame, MgmBot, POCOSTICK",mgbot
+malpedia_Miancha,,miancha
+malpedia_Micrass,,micrass
+malpedia_MicroBackdoor,,microbackdoor
+malpedia_Microcin,,microcin
+malpedia_Micropsia,,micropsia
+malpedia_Midas,,midas
+malpedia_Mikoponi,,mikoponi
+malpedia_Milan,,milan
+malpedia_MILKMAID,,milkmaid
+malpedia_Milum,,milum
+malpedia_mim221,,mim221
+malpedia_Mimic Ransomware,,mimic
+malpedia_MimiKatz,,mimikatz
+malpedia_Mindware,,mindware
+malpedia_MINEBRIDGE,GazGolder,minebridge
+malpedia_MiniASP,,miniasp
+malpedia_MINIBIKE,,minibike
+malpedia_miniBlindingCan,"AIRDRY.V2, EventHorizon",miniblindingcan
+malpedia_MINIBUS,,minibus
+malpedia_MiniDuke,,miniduke
+malpedia_MiniPocket,,minipocket
+malpedia_MiniStealer,,ministealer
+malpedia_miniTypeFrame,,minitypeframe
+malpedia_MintStealer,,mintstealer
+malpedia_Mirage,,mirage
+malpedia_MirageFox,,miragefox
+malpedia_Mirai,,mirai
+malpedia_MirrorBlast,,mirrorblast
+malpedia_MirrorKey,,mirrorkey
+malpedia_Misdat,,misdat
+malpedia_Misfox,"Dromedan, MixFox, ModPack",misfox
+malpedia_Misha,,misha
+malpedia_Mispadu,URSA,mispadu
+malpedia_MISTCLOAK,HIUPAN,mistcloak
+malpedia_MISTPEN,,mistpen
+malpedia_MISTYVEAL,,mistyveal
+malpedia_Miuref,,miuref
+malpedia_MiyaRAT,,miya rat
+malpedia_MMON,Kaptoxa,mmon
+malpedia_MM Core,,mm core
+malpedia_MobiRAT,,mobi rat
+malpedia_Mocky LNK,,mocky lnk
+malpedia_Mocton,,mocton
+malpedia_ModernLoader,AvatarBot,modern loader
+malpedia_MoDi RAT,,modirat
+malpedia_ModPipe,,modpipe
+malpedia_ModPOS,straxbot,modpos
+malpedia_Mofksys,,mofksys
+malpedia_Moisha Ransomware,,moisha
+malpedia_Moker,,moker
+malpedia_Mokes,,mokes
+malpedia_Mole,,mole
+malpedia_MoleNet,,molenet
+malpedia_Molerat Loader,,molerat loader
+malpedia_Monero Miner,CoinMiner,monero miner
+malpedia_Money Message,,moneymessage
+malpedia_mongall,,mongall
+malpedia_MontysThree,MT3,montysthree
+malpedia_MoonBounce,,moonbounce
+malpedia_MoonPeak,,moonpeak
+malpedia_MOONTAG,,moontag
+malpedia_MoonWalk,"CurveLast, SneakCross",moonwalk
+malpedia_MoonWind,,moonwind
+malpedia_MoriAgent,,moriagent
+malpedia_Moriya,,moriya
+malpedia_Morphine,,morphine
+malpedia_MortalKombat,,mortalkombat
+malpedia_Mortis,,mortis
+malpedia_Morto,,morto
+malpedia_MosaicRegressor,,mosaic regressor
+malpedia_Moserpass,,moserpass
+malpedia_Mosquito,,mosquito
+malpedia_Mount Locker,"DagonLocker, MountLocker, QuantumLocker",mount locker
+malpedia_Moure,,moure
+malpedia_mozart,,mozart
+malpedia_MPKBot,MPK,mpkbot
+malpedia_MQsTTang,QMAGENT,mqsttang
+malpedia_MRAC,,mrac
+malpedia_MrDec,,mrdec
+malpedia_MrPeter,,mr peter
+malpedia_Msupedge,,msupedge
+malpedia_MuddyC2Go,,muddyc2go
+malpedia_MulCom,,mulcom
+malpedia_Multigrain POS,,multigrain pos
+malpedia_murkytop,,murkytop
+malpedia_Murofet,Licat,murofet
+malpedia_Mutabaha,,mutabaha
+malpedia_MyDogs,,mydogs
+malpedia_MyDoom,"Novarg, Mimail",mydoom
+malpedia_MyKings Spreader,,mykings spreader
+malpedia_MyloBot,"FakeDGA, WillExec",mylobot
+malpedia_MysterySnail,,mystery snail
+malpedia_Mystic Stealer,,mystic stealer
+malpedia_MZRevenge,MaMo434376,mzrevenge
+malpedia_N40,,n40
+malpedia_Nabucur,,nabucur
+malpedia_NACHOCHEESE,"Cyruslish, TWOPENCE, VIVACIOUSGIFT",nachocheese
+malpedia_Nagini,,nagini
+malpedia_Naikon,Sacto,naikon
+malpedia_Nanocore RAT,"Nancrat, NanoCore",nanocore
+malpedia_NanoLocker,,nano locker
+malpedia_NAPLISTENER,,naplistener
+malpedia_Narilam,,narilam
+malpedia_Nautilus,,nautilus
+malpedia_NavRAT,JinhoSpy,navrat
+malpedia_nccTrojan,,ncctrojan
+malpedia_Nebulae,,nebulae
+malpedia_Neconyd,,neconyd
+malpedia_Necurs,nucurs,necurs
+malpedia_NedDnLoader,,neddnloader
+malpedia_Nefilim,Nephilim,nefilim
+malpedia_Nemesis,Project Nemesis,nemesis
+malpedia_Nemim,Nemain,nemim
+malpedia_Nemty,,nemty
+malpedia_Nerbian RAT,,nerbian rat
+malpedia_neshta,,neshta
+malpedia_NESTEGG,,nestegg
+malpedia_NetC,,netc
+malpedia_NetDooka,,netdooka
+malpedia_NETEAGLE,"Neteagle_Scout, ScoutEagle",neteagle
+malpedia_NetfilterRootkit,,netfilter
+malpedia_NetFlash,,netflash
+malpedia_NetKey,,netkey
+malpedia_Netrepser,,netrepser keylogger
+malpedia_NetSpy,,netspy
+malpedia_NetSupportManager RAT,NetSupport,netsupportmanager rat
+malpedia_NetTraveler,TravNet,nettraveler
+malpedia_NetWire RC,"NetWeird, NetWire, Recam",netwire
+malpedia_Neuron,,neuron
+malpedia_Neutrino,Kasidet,neutrino
+malpedia_Neutrino POS,,neutrino pos
+malpedia_Nevada,,nevada
+malpedia_NewBot Loader,,newbot loader
+malpedia_NewBounce,,newbounce
+malpedia_NewCore RAT,,newcore rat
+malpedia_NewPass,,newpass
+malpedia_NewPosThings,,newposthings
+malpedia_NewsReels,,newsreels
+malpedia_NewCT,CT,new ct
+malpedia_Nexster Bot,,nexster bot
+malpedia_NexusLogger,,nexus logger
+malpedia_Ngioweb,Grobios,ngioweb
+malpedia_NGLite,,nglite
+malpedia_Nibiru,,nibiru
+malpedia_NightClub,,nightclub
+malpedia_Nightdoor,"NetMM, Suzafk",nightdoor
+malpedia_Nighthawk,,nighthawk
+malpedia_NightSky,Night Sky,nightsky
+malpedia_NikiHTTP,,nikihttp
+malpedia_NimbleMamba ,,nimblemamba
+malpedia_Nimbo-C2,,nimbo c2
+malpedia_NimGrabber,,nimgrabber
+malpedia_Nimplant,,nimplant
+malpedia_Nimrev,,nimrev
+malpedia_NimBlackout,,nim blackout
+malpedia_NineRAT,,ninerat
+malpedia_NirCmd,,nircmd
+malpedia_nitlove,,nitlove
+malpedia_Nitol,,nitol
+malpedia_Nitro,Hydra,nitro
+malpedia_Nitrogen Loader,,nitrogen
+malpedia_Nitrokod,,nitrokod
+malpedia_NixScare Stealer,,nixscare
+malpedia_NjRAT,"Bladabindi, Lime-Worm",njrat
+malpedia_nmass malware,,nmass
+malpedia_Nocturnal Stealer,,nocturnalstealer
+malpedia_NodeStealer,,node stealer
+malpedia_Nokki,,nokki
+malpedia_Nokoyawa Ransomware,,nokoyawa
+malpedia_NominatusToxicBattery,,nominatus toxic battery
+malpedia_NonEuclid RAT,,noneuclid rat
+malpedia_NOOPDOOR,HiddenFace,noopdoor
+malpedia_Nopyfy,,nopyfy
+malpedia_NorthStar,,northstar
+malpedia_Nosu,,nosu
+malpedia_Nova Stealer,Malicord,nova
+malpedia_NoxPlayer,,noxplayer
+malpedia_Nozelesn (Decryptor),,nozelesn decryptor
+malpedia_No-Justice,,no justice
+malpedia_nRansom,,nransom
+malpedia_NSPX30,,nspx30
+malpedia_Ntospy,,ntospy
+malpedia_NuggetPhantom,,nugget phantom
+malpedia_Nullmixer,,nullmixer
+malpedia_Numando,,numando
+malpedia_NVISOSPIT,,nvisospit
+malpedia_N-W0rm,"nw0rm, NWorm",nworm
+malpedia_Nymaim,nymain,nymaim
+malpedia_Nymaim2,,nymaim2
+malpedia_Nyxem,,nyxem
+malpedia_OATBOAT,,oatboat
+malpedia_Oblique RAT,,oblique rat
+malpedia_Obscene,,obscene
+malpedia_ObserverStealer,,observer stealer
+malpedia_OCEANMAP,,oceanmap
+malpedia_Oceansalt,,oceansalt
+malpedia_OctoberSeventh,ESET Wiper,october seventh
+malpedia_Octopus,,octopus
+malpedia_OddJob,,oddjob
+malpedia_Oderoor,"Bobax, Kraken",oderoor
+malpedia_Odinaff,,odinaff
+malpedia_Okrum,,okrum
+malpedia_OLDBAIT,Sasfis,oldbait
+malpedia_Olympic Destroyer,SOURGRAPE,olympic destroyer
+malpedia_Ondritols,Onedrivetools,ondritols
+malpedia_ONHAT,,onhat
+malpedia_Oni,,oni
+malpedia_OnionDuke,,onionduke
+malpedia_OnlinerSpambot,"SBot, Onliner",onliner
+malpedia_OopsIE,,oopsie
+malpedia_Opachki,,opachki
+malpedia_OpcJacker,,opcjacker
+malpedia_OpenSUpdater,,opensupdater
+malpedia_OpenCarrot,,open carrot
+malpedia_OpGhoul,,opghoul
+malpedia_OpBlockBuster,,op blockbuster
+malpedia_ORANGEADE,,orangeade
+malpedia_OrcaRAT,,orcarat
+malpedia_Orchard,Antavmu,orchard
+malpedia_Orcus RAT,Schnorchel,orcus rat
+malpedia_Ordinypt,"GermanWiper, HSDFSDCrypt",ordinypt
+malpedia_OriginBot,"OriginBotnet, OriginLoader",originbot
+malpedia_OriginLogger,,originlogger
+malpedia_ORPCBackdoor,,orpcbackdoor
+malpedia_Oski Stealer,,oski
+malpedia_Osno,Babax,osno
+malpedia_Ousaban,,ousaban
+malpedia_OutCrypt,,outcrypt
+malpedia_Outlook Backdoor,FACADE,outlook backdoor
+malpedia_OutSteel,,outsteel
+malpedia_Overlay RAT,,overlay rat
+malpedia_OvidiyStealer,,ovidiystealer
+malpedia_owaauth,luckyowa,owaauth
+malpedia_Owlproxy,,owlproxy
+malpedia_Owowa,,owowa
+malpedia_OxtaRAT,,oxtarat
+malpedia_OZH RAT,,ozh rat
+malpedia_Ozone RAT,,ozone
+malpedia_PadCrypt,,padcrypt
+malpedia_paladin,,paladin
+malpedia_PandaBanker,ZeusPanda,pandabanker
+malpedia_Panda Stealer,,panda stealer
+malpedia_Pandora,,pandora
+malpedia_Pandora RAT,Pandora hVNC RAT,pandora rat
+malpedia_Paradies Clipper,,paradies clipper
+malpedia_Paradise,,paradise
+malpedia_Parallax RAT,ParallaxRAT,parallax
+malpedia_parasite_http,,parasite http
+malpedia_Parite,,parite
+malpedia_PartyTicket,"Elections GoRansom, HermeticRansom, SonicVote",partyticket
+malpedia_Passlock,,passlock
+malpedia_PATHLOADER,,pathloader
+malpedia_Pay2Key,Cobalt,pay2key
+malpedia_PayloadBIN,,payloadbin
+malpedia_PcShare,,pcshare
+malpedia_PEBBLEDASH,,pebbledash
+malpedia_PeddleCheap,,peddlecheap
+malpedia_Pekraut,,pekraut
+malpedia_Pelmeni,,pelmeni
+malpedia_Penco,,penco
+malpedia_PennyWise Stealer,,pennywise
+malpedia_Peppy RAT,,peppy rat
+malpedia_PetrWrap,,petrwrap
+malpedia_Petya,,petya
+malpedia_pgift,ReRol,pgift
+malpedia_PhanDoor,,phandoor
+malpedia_Phemedrone Stealer,Ov3r_Stealer,phemedrone stealer
+malpedia_Philadephia Ransom,,philadelphia ransom
+malpedia_Phobos,,phobos
+malpedia_Phoenix Keylogger,,phoenix keylogger
+malpedia_Phoenix Locker,,phoenix locker
+malpedia_Phonk,,phonk
+malpedia_PHOREAL,Rizzo,phoreal
+malpedia_Phorpiex,"Trik, phorphiex",phorpiex
+malpedia_PHOTOFORK,,photofork
+malpedia_PHOTOLITE,,photolite
+malpedia_PhotoLoader,GZIPLOADER,photoloader
+malpedia_PicassoLoader,,picasso loader
+malpedia_PICKPOCKET,,pickpocket
+malpedia_PIEHOP,,piehop
+malpedia_Pierogi,,pierogi
+malpedia_Pikabot,,pikabot
+malpedia_PILLOWMINT,,pillowmint
+malpedia_PinchDuke,,pinchduke
+malpedia_PINEGROVE,,pinegrove
+malpedia_PingBack,,pingback
+malpedia_pipcreat,,pipcreat
+malpedia_PipeMon,,pipemon
+malpedia_PipeSnoop,TOFUPIPE,pipesnoop
+malpedia_PirateStealer,,pirate stealer
+malpedia_pirpi,"SHOTPUT, CookieCutter",pirpi
+malpedia_Pitou,,pitou
+malpedia_PittyTiger RAT,,pittytiger rat
+malpedia_Pkybot,"Pykbot, TBag, Bublik",pkybot
+malpedia_PLAINTEE,,plaintee
+malpedia_PLAY,PlayCrypt,play
+malpedia_playwork,,playwork
+malpedia_PLEAD,"DRAWDOWN, GOODTIMES, Linopid",plead
+malpedia_Ploutus ATM,,ploutus atm
+malpedia_ployx,,ployx
+malpedia_PlugX,"Destroy RAT, Kaba, Korplug, Sogu, TIGERPLUG, RedDelta",plugx
+malpedia_Plurox,,plurox
+malpedia_pngdowner,,pngdowner
+malpedia_PNGLoad,,png load
+malpedia_PocoDown,"Blitz, PocoDownloader",pocodown
+malpedia_POISONPLUG,Barlaiy,poisonplug
+malpedia_Poison Ivy,"SPIVY, pivy, poisonivy",poison ivy
+malpedia_Poison RAT,,poison rat
+malpedia_Poldat,"Zlib, KABOB",poldat
+malpedia_PolPo,,polpo
+malpedia_PolyglotDuke,,polyglotduke
+malpedia_Polyglot,,polyglot ransom
+malpedia_PolyVice,Chily,polyvice
+malpedia_Pony,"Siplog, Fareit",pony
+malpedia_PoohMilk Loader,,poohmilk
+malpedia_POORTRY,,poortry
+malpedia_PoorWeb,,poorweb
+malpedia_Popcorn Time,,popcorn time
+malpedia_PortDoor,,portdoor
+malpedia_portless,,portless
+malpedia_PortStarter,,portstarter
+malpedia_poscardstealer,,poscardstealer
+malpedia_PoshC2,,poshc2
+malpedia_PoSlurp,PUNCHTRACK,poslurp
+malpedia_PostNapTea,SIGNBT,postnaptea
+malpedia_Poulight Stealer,Poullight,poulight stealer
+malpedia_Povlsomware,,povlsomware
+malpedia_Poweliks,,poweliks
+malpedia_POWERBAND,,powerband
+malpedia_PowerCat,,powercat
+malpedia_PowerDuke,,powerduke
+malpedia_powerkatz,,powerkatz
+malpedia_PowerLoader,,powerloader
+malpedia_PowerPool,,powerpool
+malpedia_PowerShellRunner,,powershellrunner
+malpedia_Powersniff,PUNCHBUGGY,powersniff
+malpedia_PowerRatankba,QUICKRIDE.POWER,power ratankba
+malpedia_prb_backdoor,,prb backdoor
+malpedia_Predator The Thief,,predator
+malpedia_Prestige,,prestige
+malpedia_Prikormka,,prikormka
+malpedia_Prilex,,prilex
+malpedia_PrincessLocker,,princess locker
+malpedia_PrivateLoader,,privateloader
+malpedia_PRIVATELOG,,privatelog
+malpedia_Project Hook POS,,project hook
+malpedia_ProjectWood,,project wood
+malpedia_Prometei,,prometei
+malpedia_Prometheus,,prometheus
+malpedia_proteus,,proteus
+malpedia_Proto8RAT,,proto8 rat
+malpedia_ProtonBot,,protonbot
+malpedia_Prynt Stealer,,prynt stealer
+malpedia_PseudoManuscrypt,,pseudo manuscrypt
+malpedia_PsiX,PsiXBot,psix
+malpedia_PSLogger,ECCENTRICBANDWAGON,pslogger
+malpedia_PC Surveillance System,PSS,pss
+malpedia_Pteranodon,Pterodo,pteranodon
+malpedia_PUBLOAD,"ClaimLoader, PUBLOAD",pubload
+malpedia_PubNubRAT,,pubnubrat
+malpedia_Punkey POS,"poscardstealer, pospunk, punkeypos",punkey pos
+malpedia_pupy,Patpoopy,pupy
+malpedia_PureCrypter,,purecrypter
+malpedia_PureLocker,,purelocker
+malpedia_PureLogs Stealer,,purelogs
+malpedia_PurpleFox,,purplefox
+malpedia_purpleink,,purpleink
+malpedia_PurpleWave,,purplewave
+malpedia_Pushdo,,pushdo
+malpedia_Putabmow,,putabmow
+malpedia_puzzlemaker,,puzzlemaker
+malpedia_PvzOut,,pvzout
+malpedia_PwndLocker,ProLock,pwndlocker
+malpedia_pwnpos,,pwnpos
+malpedia_win.pyfiledel,,pyfiledel
+malpedia_Pykspa,,pykspa
+malpedia_PyLocky,Locky Locker,pylocky
+malpedia_PyXie,PyXie RAT,pyxie
+malpedia_Qaccel,,qaccel
+malpedia_Qadars,,qadars
+malpedia_QakBot,"Oakboat, Pinkslipbot, Qbot, Quakbot",qakbot
+malpedia_QHost,Tolouge,qhost
+malpedia_QtBot,qtproject,qtbot
+malpedia_QuantLoader,,quantloader
+malpedia_QUARTERRIG,"MUSKYBEAT, STATICNOISE",quarterrig
+malpedia_Quasar RAT,"CinaRAT, QuasarRAT, Yggdrasil",quasar rat
+malpedia_QuickHeal,,quickheal
+malpedia_QUICKMUTE,,quickmute
+malpedia_QUIETCANARY,"Kapushka, Tunnus",quietcanary
+malpedia_QuietSieve,,quietsieve
+malpedia_QuiteRAT,Acres,quiterat
+malpedia_Qulab,,qulab
+malpedia_QvoidStealer,Qvoid-Token-Grabber,qvoidstealer
+malpedia_r77,r77 Rootkit,r77
+malpedia_r980,,r980
+malpedia_Raccoon,"Mohazo, RaccoonStealer, Racealer, Racoon",raccoon
+malpedia_Racket Downloader,,racket
+malpedia_Rad,,rad
+malpedia_Radamant,,radamant
+malpedia_RadRAT,,radrat
+malpedia_RagnarLocker,,ragnarlocker
+malpedia_Ragnarok,,ragnarok
+malpedia_Raindrop,,raindrop
+malpedia_Rakhni,,rakhni
+malpedia_Rambo,brebsd,rambo
+malpedia_Ramdo,,ramdo
+malpedia_Ramnit,Nimnul,ramnit
+malpedia_Ramsay,,ramsay
+malpedia_Ranbyus,,ranbyus
+malpedia_Ranion,,ranion
+malpedia_Ranscam,,ranscam
+malpedia_Ransoc,,ransoc
+malpedia_RansomEXX,"Ransom X, Defray777",ransomexx
+malpedia_RansomHub,,ransomhub
+malpedia_Ransomlock,WinLock,ransomlock
+malpedia_SNC,,ransomware snc
+malpedia_Rapid Ransom,,rapid ransom
+malpedia_RapidStealer,,rapid stealer
+malpedia_Rarog,,rarog
+malpedia_rarstar,,rarstar
+malpedia_Raspberry Robin,"RaspberryRobin, QNAP-Worm, LINK_MSIEXEC",raspberry robin
+malpedia_Ratankba,QUICKRIDE,ratankba
+malpedia_RatankbaPOS,RATANKBAPOS,ratankbapos
+malpedia_RATel,,ratel
+malpedia_RatSnif,,ratsnif
+malpedia_RAWDOOR,,rawdoor
+malpedia_RawPOS,,rawpos
+malpedia_Razy,,razy
+malpedia_RC2FM,,rc2fm
+malpedia_RCS,"Remote Control System, Crisis",rcs
+malpedia_RCtrl,,rctrl
+malpedia_rdasrv,,rdasrv
+malpedia_RDAT,GREYSTUFF,rdat
+malpedia_ReactorBot,,reactorbot
+malpedia_Reaver,,reaver
+malpedia_RecordBreaker,,recordbreaker
+malpedia_RedAlpha,,redalpha
+malpedia_RedCap,,redcap
+malpedia_RedCurl,,redcurl
+malpedia_RedEnergy Stealer,,redenergy stealer
+malpedia_RedLeaves,BUGJUICE,redleaves
+malpedia_RedLine Stealer,RECORDSTEALER,redline stealer
+malpedia_Redosdru,,redosdru
+malpedia_REDPEPPER,Adupib,redpepper
+malpedia_RedRum,"Grinch, Tycoon, Thanos",redrum
+malpedia_REDSALT,Dipsind,redsalt
+malpedia_REDSHAWL,,redshawl
+malpedia_Redyms,,redyms
+malpedia_Red Alert,,red alert
+malpedia_Red Gambler,,red gambler
+malpedia_ReedBed,,reedbed
+malpedia_reGeorg,,regeorg
+malpedia_Regin,,regin
+malpedia_RegretLocker,,regretlocker
+malpedia_RekenSom,GHack Ransomware,rekensom
+malpedia_win.rekoobe,"tinyshell.win, tshd.win",rekoobew
+malpedia_Rekt Loader,,rektloader
+malpedia_Rektware,PRZT Ransomware,rektware
+malpedia_RelicRace,,relic race
+malpedia_RemCom,RemoteCommandExecution,remcom
+malpedia_Remcos,"RemcosRAT, Remvio, Socmer",remcos
+malpedia_Remexi,CACHEMONEY,remexi
+malpedia_RemoteAdmin,,remoteadmin
+malpedia_RemoteControl,remotecontrolclient,remotecontrolclient
+malpedia_Remsec,,remsec strider
+malpedia_Remy,WINDSHIELD,remy
+malpedia_Rerdom,,rerdom
+malpedia_Reshell,,reshell
+malpedia_Resident,,resident
+malpedia_Retadup,,retadup
+malpedia_Retefe,"Tsukuba, Werdlod",retefe
+malpedia_Retro,,retro
+malpedia_RevC2,,revc2
+malpedia_Revenant,,revenant
+malpedia_Revenge RAT,Revetrat,revenge rat
+malpedia_ReverseRAT,,reverse rat
+malpedia_Reveton,,reveton
+malpedia_REvil,"Sodinokibi, Sodin",revil
+malpedia_RGDoor,,rgdoor
+malpedia_Rhadamanthys,,rhadamanthys
+malpedia_Rhino,,rhino
+malpedia_RHttpCtrl,,rhttpctrl
+malpedia_Rhysida,,rhysida
+malpedia_Rietspoof,,rietspoof
+malpedia_Rifdoor,,rifdoor
+malpedia_Rikamanu,,rikamanu
+malpedia_Rincux,,rincux
+malpedia_Ripper ATM,,ripper atm
+malpedia_RiseLoader,,riseloader
+malpedia_RisePro,,risepro
+malpedia_Rising Sun,,rising sun
+malpedia_RM3,,rm3
+malpedia_RMS,"Gussdoor, Remote Manipulator System, RuRAT",rms
+malpedia_ROADSWEEP,,roadsweep
+malpedia_RoarBAT,,roar bat
+malpedia_RobinHood,RobbinHood,robinhood
+malpedia_rock,yellowalbatross,rock
+malpedia_Rockloader,,rockloader
+malpedia_Rofin,,rofin
+malpedia_RogueRobinNET,,roguerobin
+malpedia_Rokku,,rokku
+malpedia_RokRAT,DOGCALL,rokrat
+malpedia_ROLLCOAST,"Sabbath, S4bb47h, Arcane",rollcoast
+malpedia_RollSling,,roll sling
+malpedia_Rombertik,CarbonGrabber,rombertik
+malpedia_ROMCOM RAT,"PEAPOD, SingleCamper, SnipBot",romcom rat
+"malpedia_Romeo(Alfa,Bravo, ...)",,romeos
+malpedia_Rook,,rook
+malpedia_Roopirs,,roopirs
+malpedia_Roopy,,roopy
+malpedia_Rorschach Ransomware,BabLock,rorschach
+malpedia_Roseam,PisLoader,roseam
+malpedia_Roshtyak,,roshtyak
+malpedia_RotorCrypt,"Rotor, RotoCrypt",rotorcrypt
+malpedia_Rover,,rover
+malpedia_Rovnix,"Mayachok, Cidox, BkLoader",rovnix
+malpedia_RoyalCli,,royalcli
+malpedia_Royal DNS,,royal dns
+malpedia_Royal Ransom,,royal ransom
+malpedia_Rozena,,rozena
+malpedia_RTM,Redaman,rtm
+malpedia_RTM Locker,Read The Manual Locker,rtm locker
+malpedia_rtpos,,rtpos
+malpedia_Rubeus,,rubeus
+malpedia_Ruckguv,,ruckguv
+malpedia_Rumish,,rumish
+malpedia_Running RAT,running_rat,runningrat
+malpedia_RURansom,,ruransom
+malpedia_Rurktar,RCSU,rurktar
+malpedia_RustBucket,,rustbucket
+malpedia_Rustock,,rustock
+malpedia_Ryuk,,ryuk
+malpedia_Ryuk Stealer,Sidoh,ryuk stealer
+malpedia_SADBRIDGE,,sadbridge
+malpedia_Sadogo,,sadogo
+malpedia_Saefko,,saefko
+malpedia_SafeNet,,safenet
+malpedia_Sagerunex,,sagerunex
+malpedia_SAGE,Saga,sage ransom
+malpedia_SaiGon,,saigon
+malpedia_Saint Bot,,saint bot
+malpedia_Saitama Backdoor,"AMATIAS, Saitama",saitama
+malpedia_Sakula RAT,Sakurel,sakula rat
+malpedia_Salgorea,BadCake,salgorea
+malpedia_Sality,,sality
+malpedia_SamoRAT,,samo rat
+malpedia_SamSam,Samas,samsam
+malpedia_Sanny,,sanny
+malpedia_SapphireMiner,,sapphire miner
+malpedia_SapphireStealer,,sapphire stealer
+malpedia_SappyCache,,sappycache
+malpedia_Sarhust,"ENDCMD, Hussarini",sarhust
+malpedia_Sasfis,Oficla,sasfis
+malpedia_Satacom,"CurlyGate, LegionLoader, RobotDropper",satacom
+malpedia_Satan,"5ss5c, DBGer, Lucky Ransomware",satan
+malpedia_Satana,,satana
+malpedia_Satellite Turla,,satellite turla
+malpedia_Sathurbot,,sathurbot
+malpedia_ScanLine,,scanline
+malpedia_Scano,,scano
+malpedia_ScanPOS,,scanpos
+malpedia_Scarabey,"MVP, Scarab-Russian, Scarab",scarabey
+malpedia_Scarab Ransomware,,scarab ransom
+malpedia_ScareCrow,,scarecrow
+malpedia_Schneiken,,schneiken
+malpedia_Scieron,,scieron
+malpedia_Scote,,scote
+malpedia_Scout,,scout
+malpedia_Scranos,,scranos
+malpedia_ScreenCap,,screencap
+malpedia_ScreenLocker,,screenlocker
+malpedia_ScrubCrypt,,scrubcrypter
+malpedia_SDBbot,,sdbbot
+malpedia_SEADADDY,"SeaDuke, Seadask",seadaddy
+malpedia_SeaSalt,,seasalt
+malpedia_SectopRAT,"1xxbot, ArechClient",sectop rat
+malpedia_SeDll,,sedll
+malpedia_Sedreco,"azzy, eviltoss",sedreco
+malpedia_Seduploader,"jhuhugit, jkeyskw, downrage, carberplike, GAMEFISH",seduploader
+malpedia_seinup,,seinup
+malpedia_Sekhmet,,sekhmet
+malpedia_SelfMake Loader,,selfmake
+malpedia_SendSafe,,sendsafe
+malpedia_SepSys,Silvertor Ransomware,sepsys
+malpedia_Sepulcher,,sepulcher
+malpedia_SerialVlogger,,serialvlogger
+malpedia_Serpent Stealer,,serpent
+malpedia_Serpico,,serpico
+malpedia_ServHelper,,servhelper
+malpedia_SessionManager,,session manager
+malpedia_Sfile,"Morseop, Escal",sfile
+malpedia_shadowhammer,DAYJOB,shadowhammer
+malpedia_ShadowPad,"POISONPLUG.SHADOW, XShellGhost",shadowpad
+malpedia_ShadyHammock,,shady hammock
+malpedia_Shakti,,shakti
+malpedia_SHAPESHIFT,,shapeshift
+malpedia_shareip,remotecmd,shareip
+malpedia_Shark,,shark
+malpedia_SharpBeacon,,sharpbeacon
+malpedia_SHARPKNOT,Bitrep,sharpknot
+malpedia_SharpMapExec,,sharpmapexec
+malpedia_SharpStage,LastConn,sharpstage
+malpedia_SHARPSTATS,,sharpstats
+malpedia_SharpRhino,,sharp rhino
+malpedia_SHATTEREDGLASS,Unidentified 081,shatteredglass
+malpedia_ShellClient RAT,GhostShell,shellclient
+malpedia_ShellLocker,,shelllocker
+malpedia_Shifu,,shifu
+malpedia_Shim RAT,,shimrat
+malpedia_SHIPSHAPE,,shipshape
+malpedia_Shujin,,shujin
+malpedia_Shurk Steal,,shurk
+malpedia_Shurl0ckr,,shurl0ckr
+malpedia_Shylock,Caphaw,shylock
+malpedia_SideTwist,,sidetwist
+malpedia_SideWalk,ScrambleCross,sidewalk
+malpedia_SideWinder,,sidewinder
+malpedia_SiennaBlue,"HolyLocker, H0lyGh0st",sienna blue
+malpedia_SiennaPurple,"HolyLocker, H0lyGh0st",sienna purple
+"malpedia_Sierra(Alfa,Bravo, ...)",Destover,sierras
+malpedia_SiestaGraph,,siesta graph
+malpedia_Siggen6,,siggen6
+malpedia_SigLoader,,sigloader
+malpedia_sihost,,sihost
+malpedia_Silence,TrueBot,silence
+malpedia_SilentGh0st,,silentgh0st
+malpedia_SILENTUPLOADER,,silentuploader
+malpedia_Silon,,silon
+malpedia_Siluhdur,,siluhdur
+malpedia_Simda,iBank,simda
+malpedia_SimpleFileMover,,simplefilemover
+malpedia_Sinowal,"Theola, Quarian, Mebroot, Anserin, Torpig",sinowal
+malpedia_Sisfader,,sisfader
+malpedia_Skimer,,skimer
+malpedia_SkinnyBoy,,skinnyboy
+malpedia_skip-2.0,,skip20
+malpedia_Skipper,Kotel,skipper
+malpedia_Skyplex,,skyplex
+malpedia_Slam,,slam
+malpedia_Slave,,slave
+malpedia_SLICKSHOES,,slickshoes
+malpedia_Slingshot,,slingshot
+malpedia_Sliver,,sliver
+malpedia_slnrat,,slnrat
+malpedia_SlothfulMedia,QueenOfClubs,slothfulmedia
+malpedia_SlowStepper,,slowstepper
+malpedia_SLUB,,slub
+malpedia_smac,speccom,smac
+malpedia_Smackdown,,smackdown
+malpedia_SManager,PhantomNet,smanager
+malpedia_SmartEyes,,smarteyes
+malpedia_SmartLoader,,smartloader
+malpedia_SMAUG,,smaug
+malpedia_SMOKEDHAM,,smokedham
+malpedia_SmokeLoader,"Dofoil, Sharik, Smoke, Smoke Loader",smokeloader
+malpedia_Smominru,Ismo,smominru
+malpedia_Smrss32,,smrss32
+malpedia_Sn0wsLogger,,sn0wslogger
+malpedia_Snake,"EKANS, SNAKEHOSE",snake
+malpedia_SNAPPYBEE,"Deed RAT, POISONPLUG.DEED",snappybee
+malpedia_Snatch,,snatch
+malpedia_SnatchCrypto,BackbitingTea,snatchcrypto
+malpedia_SnatchLoader,,snatch loader
+malpedia_SNEEPY,ByeByeShell,sneepy
+malpedia_Snifula,Ursnif,snifula
+malpedia_Snojan,,snojan
+malpedia_SnowFlake Stealer,,snowflake stealer
+malpedia_SNS Locker,,snslocker
+malpedia_Sobaken,,sobaken
+malpedia_Sobig,Palyh,sobig
+malpedia_Socelars,,socelars
+malpedia_Sockbot,,sockbot
+malpedia_Socks5 Systemz,,socks5 systemz
+malpedia_SocksBot,"BIRDDOG, Nadrac",socksbot
+malpedia_SocksProxyGo,,socksproxygo
+malpedia_SodaMaster,"dfls, HEAVYPOT, DelfsCake",sodamaster
+malpedia_Solar,,solar
+malpedia_Solarbot,Napolar,solarbot
+malpedia_solarmarker,"Jupyter, Polazert, Yellow Cockatoo",solarmarker
+malpedia_SolidBit,,solidbit
+malpedia_SombRAT,,sombrat
+malpedia_Somnia,,somnia
+malpedia_Sorano,,sorano
+malpedia_soraya,,soraya
+malpedia_SoreFang,,sorefang
+malpedia_Sorgu,,sorgu
+malpedia_Soul,SoulSearcher,soul
+malpedia_SOUNDBITE,denis,soundbite
+malpedia_SpaceColon,,spacecolon
+malpedia_SPACESHIP,,spaceship
+malpedia_Spark,,spark
+malpedia_Sparkle,,sparkle
+malpedia_Sparksrv,,sparksrv
+malpedia_SparkRAT,,spark rat
+malpedia_SparrowDoor,,sparrow door
+malpedia_Spartacus,,spartacus
+malpedia_Spereal,,spearal
+malpedia_SPECTRALVIPER,,spectralviper
+malpedia_Spectre Rat,,spectre
+malpedia_Spedear,,spedear
+malpedia_SPHijacker,,sphijacker
+malpedia_SPICA,,spica
+malpedia_Spicy Hot Pot,,spicyhotpot
+malpedia_SPIDERPIG RAT,,spider rat
+malpedia_Splinter,,splinter
+malpedia_splitloader,,splitloader
+malpedia_Spora,,spora ransom
+malpedia_SpyBot,,spybot
+malpedia_Spyder,,spyder
+malpedia_Spyder Patchwork,,spyder patchwork
+malpedia_SpyEye,,spyeye
+malpedia_SpyGrace,SpyGlace,spygrace
+malpedia_SquidLoader,,squidloader
+malpedia_Squirrelwaffle,DatopLoader,squirrelwaffle
+malpedia_SquirtDanger,,squirtdanger
+malpedia_sRDI,DAVESHELL,srdi
+malpedia_SSHNET,,sshnet
+malpedia_SslMM,,sslmm
+malpedia_SSLoad,,ssload
+malpedia_Stabuniq,,stabuniq
+malpedia_StalinLocker,StalinScreamer,stalin locker
+malpedia_Stampedo,,stampedo
+malpedia_StarCruft,,starcruft
+malpedia_StarLoader,,starloader
+malpedia_StarsyPound,,starsypound
+malpedia_StartPage,Easy Television Access Now,startpage
+malpedia_STASHLOG,,stashlog
+malpedia_StealBit,Corrempa,stealbit
+malpedia_Stealc,,stealc
+malpedia_Stealerium,,stealerium
+malpedia_Stealer0x3401,,stealer 0x3401
+malpedia_STEALHOOK,,stealhook
+malpedia_StealthWorker Go,,stealthworker
+malpedia_Stealth Soldier,,stealth soldier
+malpedia_SteamHide,,steamhide
+malpedia_StegoLoader,,stegoloader
+malpedia_Stinger,,stinger
+malpedia_STONEBOAT,,stoneboat
+malpedia_StoneDrill,,stonedrill
+malpedia_STOP,"KeyPass, Djvu",stop
+malpedia_Stormwind,,stormwind
+malpedia_STOWAWAY,,stowaway
+malpedia_Stration,,stration
+malpedia_STRATOFEAR,,stratofear
+malpedia_StrelaStealer,,strelastealer
+malpedia_Stresspaint,,stresspaint
+malpedia_StrifeWater RAT,,strifewater rat
+malpedia_StrikeSuit Gift,,strikesuit gift
+malpedia_StrongPity,,strongpity
+malpedia_Stuxnet,,stuxnet
+malpedia_Subzero,"Corelump, Jumplump",subzero
+malpedia_SUCEFUL,,suceful
+malpedia_Sugar,,sugar
+malpedia_SUGARDUMP,,sugardump
+malpedia_SUGARRUSH,,sugarrush
+malpedia_SUGARUSH,,sugarush
+malpedia_SUNBURST,Solorigate,sunburst
+malpedia_SunCrypt,,suncrypt
+malpedia_,,sunnyday
+malpedia_SunOrcal,,sunorcal
+malpedia_SunSeed,,sunseed
+malpedia_SuperBear RAT,,superbear
+malpedia_SUPERNOVA,,supernova
+malpedia_SuppoBox,"Bayrob, Nivdort, pizd",suppobox
+malpedia_surtr,,surtr
+malpedia_SVCReady,,svcready
+malpedia_SwaetRAT,,swaet rat
+malpedia_SweetSpecter,,sweetspecter
+malpedia_swen,,swen
+malpedia_SwiftSlicer,JaguarBlade,swiftslicer
+malpedia_Sword,,sword
+malpedia_sykipot,"getkys, Wkysol",sykipot
+malpedia_SynAck,,synack
+malpedia_SyncCrypt,,synccrypt
+malpedia_Sync-Scheduler,,sync scheduler
+malpedia_SynFlooder,,synflooder
+malpedia_Synth Loader,,synth loader
+malpedia_Sys10,,sys10
+malpedia_Syscon,,syscon
+malpedia_SysGet,,sysget
+malpedia_SysJoker,,sysjoker
+malpedia_SysKit,"IvizTech, MANGOPUNCH",syskit
+malpedia_Sysraw Stealer,Clipsa,sysraw stealer
+malpedia_Sysrv-hello,,sysrv hello
+malpedia_SysScan,,sysscan
+malpedia_SystemBC,"Coroxy, DroxiDat",systembc
+malpedia_Szribi,Srizbi,szribi
+malpedia_T34loader,,t34loader
+malpedia_TabMsgSQL,,tabmsgsql
+malpedia_taidoor,simbot,taidoor
+malpedia_TAINTEDSCRIBE,,taintedscribe
+malpedia_Taleret,,taleret
+malpedia_Tandfuy,,tandfuy
+malpedia_Tapaoux,,tapaoux
+malpedia_TargetCompany,"Fargo, Mallox, Tohnichi",targetcompany
+malpedia_Tarsip,,tarsip
+malpedia_Taurus Stealer,,taurus stealer
+malpedia_TClient,FIRESHADOW,tclient
+malpedia_tDiscoverer,"HAMMERTOSS, HammerDuke",tdiscoverer
+malpedia_TDTESS,,tdtess
+malpedia_TeamBot,FINTEAM,teambot
+malpedia_TeamSpy,"TVSPY, TeamViewerENT, TVRAT",teamspy
+malpedia_TEARDROP,,teardrop
+malpedia_TefoSteal,,tefosteal
+malpedia_TelAndExt,,telandext
+malpedia_TelB,,telb
+malpedia_TeleBot,,telebot
+malpedia_TeleDoor,,teledoor
+malpedia_TelegramGrabber,,telegram grabber
+malpedia_Telemiris,,telemiris
+malpedia_Teleport,,teleport
+malpedia_TelePowerBot,,telepowerbot
+malpedia_TellYouThePass,,tellyouthepass
+malpedia_Tempedreve,,tempedreve
+malpedia_TEMPLEDOOR,,templedoor
+malpedia_TempStealer,,temp stealer
+malpedia_Terminator RAT,Fakem RAT,terminator rat
+malpedia_Termite,,termite
+malpedia_TerraPreter,,terrapreter
+malpedia_TerraLoader,,terra loader
+malpedia_TerraRecon,Taurus Loader Reconnaissance Module,terra recon
+malpedia_TerraStealer,"StealerOne, SONE, Taurus Loader Stealer Module",terra stealer
+malpedia_TerraTV,Taurus Loader TeamViewer Module,terra tv
+malpedia_TeslaCrypt,cryptesla,teslacrypt
+malpedia_TFlower,,tflower
+malpedia_Thanatos,Alphabot,thanatos
+malpedia_Thanatos Ransomware,,thanatos ransom
+malpedia_ThinMon,,thinmon
+malpedia_ThreeByte,,threebyte
+malpedia_ThumbThief,,thumbthief
+malpedia_ThunderX,Ranzy Locker,thunderx
+malpedia_Thunker,,thunker
+malpedia_Tidepool,,tidepool
+malpedia_TigerLite,,tigerlite
+malpedia_Tiger RAT,,tiger rat
+malpedia_tildeb,,tildeb
+malpedia_Tinba,"Zusy, TinyBanker, Illi",tinba
+malpedia_TinyFluff,,tinyfluff
+malpedia_TinyLoader,,tinyloader
+malpedia_TinyMet,TiniMet,tinymet
+malpedia_TinyNuke,"NukeBot, Nuclear Bot, MicroBankingTrojan, Xbot",tinynuke
+malpedia_TinyTurlaNG,TTNG,tinyturla ng
+malpedia_TinyTyphon,,tinytyphon
+malpedia_TinyZbot,,tinyzbot
+malpedia_TinyTurla,,tiny turla
+malpedia_Tiop,,tiop
+malpedia_TitanStealer,,titan stealer
+malpedia_Tmanger,LuckyBack,tmanger
+malpedia_Tofsee,Gheg,tofsee
+malpedia_TokyoX,,tokyox
+malpedia_tomiris,,tomiris
+malpedia_TONEDEAF,,tonedeaf
+malpedia_TONERJAM,,tonerjam
+malpedia_TONESHELL,,toneshell
+malpedia_Tonnerre,,tonnerre
+malpedia_Topinambour,,topinambour
+malpedia_Torisma,,torisma
+malpedia_TorrentLocker,Teerac,torrentlocker
+malpedia_TorLoader,,tor loader
+malpedia_TOUCHMOVE,,touchmove
+malpedia_TOUCHSHIFT,,touchshift
+malpedia_ToxicEye,,toxiceye
+malpedia_TransBox,,transbox
+malpedia_tRat,,trat
+malpedia_TreasureHunter,huntpos,treasurehunter
+malpedia_TrickBot,"Trickster, TheTrick, TrickLoader",trickbot
+malpedia_Trigona,,trigona
+malpedia_Triton,"Trisis, HatMan",triton
+malpedia_Trochilus RAT,,trochilus rat
+malpedia_Troldesh,Shade,troldesh
+malpedia_Troll Stealer,,troll stealer
+malpedia_TroubleGrabber,,troublegrabber
+malpedia_troystealer,,troystealer
+malpedia_Trump Ransom,,trump ransom
+malpedia_Tsifiri,,tsifiri
+malpedia_tsunami,,tsunami
+malpedia_TUNNELFISH,,tunnelfish
+malpedia_TunnelSpecter,,tunnelspecter
+malpedia_Tuoni,,tuoni
+malpedia_turian,,turian
+malpedia_Turkojan,,turkojan
+malpedia_TurlaRPC,,turla rpc
+malpedia_Turla SilentMoon,"BigBoss, Cacao, GoldenSky, HyperStack",turla silentmoon
+malpedia_TURNEDUP,Notestuk,turnedup
+malpedia_TwoDash,,twodash
+malpedia_TYPEFRAME,,typeframe
+malpedia_TypeHash,SkinnyD,typehash
+malpedia_Typhon Stealer,Typhon Reborn V2,typhon stealer
+malpedia_Tyupkin,,tyupkin
+malpedia_T-Cmd,t_cmd,t cmd
+malpedia_T-RAT 2.0,,t rat
+malpedia_UACMe,Akagi,uacme
+malpedia_UDPoS,,udpos
+malpedia_UFR Stealer,Usteal,ufrstealer
+malpedia_Uiwix,,uiwix
+malpedia_Umbral,,umbral
+malpedia_UnderminerEK,,underminer ek
+malpedia_Unidentified 001,,unidentified 001
+malpedia_Unidentified 003,,unidentified 003
+malpedia_Unidentified 006,,unidentified 006
+malpedia_Unidentified 013 (Korean),,unidentified 013 korean malware
+malpedia_Unidentified 020 (Vault7),,unidentified 020 cia vault7
+malpedia_Unidentified 022 (Ransom),,unidentified 022 ransom
+malpedia_Unidentified 023,,unidentified 023
+malpedia_Unidentified 024 (Ransomware),,unidentified 024 ransom
+malpedia_Unidentified 025 (Clickfraud),,unidentified 025 clickfraud
+malpedia_Unidentified 028,,unidentified 028
+malpedia_Unidentified 029,,unidentified 029
+malpedia_Unidentified 030 (Ransomware),,unidentified 030
+malpedia_Unidentified 031,,unidentified 031
+malpedia_Unidentified 037,,unidentified 037
+malpedia_Unidentified 038,,unidentified 038
+malpedia_Unidentified 039,,unidentified 039
+malpedia_Unidentified 041,,unidentified 041
+malpedia_Unidentified 042,,unidentified 042
+malpedia_Unidentified 044,,unidentified 044
+malpedia_Unidentified 045,,unidentified 045
+malpedia_Unidentified 047,,unidentified 047
+malpedia_Unidentified 052,,unidentified 052
+malpedia_Unidentified 053 (Wonknu?),,unidentified 053
+malpedia_Unidentified 057,,unidentified 057
+malpedia_Unidentified 058,,unidentified 058
+malpedia_,,unidentified 059
+malpedia_Unidentified 061,,unidentified 061
+malpedia_,,unidentified 063
+malpedia_Unidentified 066,,unidentified 066
+malpedia_Unidentified 067,,unidentified 067
+malpedia_Unidentified 068,,unidentified 068
+malpedia_Unidentified 069 (Zeus Unnamed2),,unidentified 069
+malpedia_Unidentified 070 (Downloader),,unidentified 070
+malpedia_Unidentified 071 (Zeus Unnamed1),,unidentified 071
+malpedia_Unidentified 072 (Metamorfo Loader),,unidentified 072
+malpedia_Unidentified 073 (Charming Kitten),,unidentified 073
+malpedia_Unidentified 074 (Downloader),,unidentified 074
+malpedia_Unidentified 075,,unidentified 075
+malpedia_Unidentified 076 (Higaisa LNK to Shellcode),,unidentified 076
+malpedia_Unidentified 077 (Lazarus Downloader),,unidentified 077
+malpedia_Unidentified 078 (Zebrocy Nim Loader?),,unidentified 078
+malpedia_Unidentified 080,,unidentified 080
+malpedia_Unidentified 083 (AutoIT Stealer),,unidentified 083
+malpedia_Unidentified 085,,unidentified 085
+malpedia_Unidentified 087 ,,unidentified 087
+malpedia_Unidentified 088 (Nim Ransomware),,unidentified 088
+malpedia_Unidentified 089 (Downloader),5.t Downloader,unidentified 089
+malpedia_Unidentified 090 (Lazarus),,unidentified 090
+malpedia_Unidentified 091,,unidentified 091
+malpedia_Unidentified 092 (Confucius Backdoor),,unidentified 092
+malpedia_Unidentified 093 (Sidewinder),,unidentified 093
+malpedia_Unidentified 095 (Iranian Wiper),,unidentified 095
+malpedia_Unidentified 096 (Keylogger),,unidentified 096
+malpedia_Unidentified 097 (Polonium Keylogger),,unidentified 097
+malpedia_Unidentified 098 (APT29 Slack Downloader),,unidentified 098
+malpedia_Unidentified 099 (APT29 Dropbox Loader),,unidentified 099
+malpedia_Unidentified 100 (APT-Q-12),,unidentified 100
+malpedia_Unidentified 101 (Lazarus?),,unidentified 101
+malpedia_Unidentified 102 (Donot),,unidentified 102
+malpedia_Unidentified 103 (FIN8),Sardonic,unidentified 103
+malpedia_Unidentified 104,,unidentified 104
+malpedia_Unidentified 105,,unidentified 105
+malpedia_Unidentified 106,,unidentified 106
+malpedia_Unidentified 107 (APT29),ICEBEAT,unidentified 107
+malpedia_Unidentified 108,,unidentified 108
+malpedia_Unidentified 109 (Lazarus?),IMEEX,unidentified 109
+malpedia_Unidentified 110 (RustyFlag),,unidentified 110
+malpedia_Unidentified 112 (Rust-based Stealer),,unidentified 112
+malpedia_Unidentified 113 (RAT),,unidentified 113
+malpedia_Unidentified 114 (APT28 InfoStealer),,unidentified 114
+malpedia_Unidentified 115 (Nim Loader),,unidentified 115
+malpedia_Unidentified 116 (Miner),,unidentified 116
+malpedia_Unidentified 117 (Donot Loader),,unidentified 117
+malpedia_Unidentified 118,,unidentified 118
+malpedia_Unidentified 120,,unidentified 120
+malpedia_Unlock92,,unlock92
+malpedia_UPAS,Rombrast,upas
+malpedia_Upatre,,upatre
+malpedia_Urausy,,urausy
+malpedia_UrlZone,"Bebloh, Shiotob",urlzone
+malpedia_Uroburos,Snake,uroburos
+malpedia_USBCulprit,,usbculprit
+malpedia_USBferry,,usbferry
+malpedia_Vadokrist,,vadokrist
+malpedia_Vaggen,,vaggen
+malpedia_ValleyRAT,Winos,valley rat
+malpedia_VALUEVAULT,,valuevault
+malpedia_vanillarat,,vanillarat
+malpedia_VaporRage,BOOMMIC,vapor rage
+malpedia_Varenyky,,varenyky
+malpedia_Vawtrak,"Catch, grabnew, NeverQuest",vawtrak
+malpedia_Veaty,,veaty
+malpedia_Veeam Dumper,Eamfo,veeam
+malpedia_VegaLocker,"Buran, Vega",vegalocker
+malpedia_VEILEDSIGNAL,,veiledsignal
+malpedia_Velso,,velso
+malpedia_Vendetta,,vendetta
+malpedia_Venom RAT,,venom
+malpedia_VenomLoader,,venomloader
+malpedia_VenomLNK,,venom lnk
+malpedia_Venom Proxy,,venom proxy
+malpedia_Venus Locker,,venus locker
+malpedia_Vermilion Strike,,vermilion strike
+malpedia_Vermin,,vermin
+malpedia_Vetta Loader,"BrokerLoader, EMPTYSPACE",vetta loader
+malpedia_Vflooder,,vflooder
+malpedia_VHD Ransomware,,vhd ransomware
+malpedia_VictoryGate,,victorygate
+malpedia_Vidar,,vidar
+malpedia_VIGILANT CLEANER,VIGILANT CHECKER,vigilant cleaner
+malpedia_Vilsa Stealer,,vilsastealer
+malpedia_virdetdoor,,virdetdoor
+malpedia_VirLock,,virlock
+malpedia_VIRTUALGATE,,virtualgate
+malpedia_Virut,,virut
+malpedia_Vizom,,vizom
+malpedia_Vjw0rm,,vjw0rm
+malpedia_VM Zeus,"VMzeus, ZeusVM, Zberp",vmzeus
+malpedia_Vobfus,Beebone,vobfus
+malpedia_Vohuk,,vohuk
+malpedia_Void,VoidCrypt,void
+malpedia_Voidoor,,voidoor
+malpedia_VoidRAT,,void rat
+malpedia_Voldemort,,voldemort
+malpedia_Volgmer,"FALLCHILL, Manuscrypt",volgmer
+malpedia_Vovalex,,vovalex
+malpedia_Vreikstadi,,vreikstadi
+malpedia_Vshell,,vshell
+malpedia_VSingle,,vsingle
+malpedia_vSkimmer,,vskimmer
+malpedia_Vulturi,,vulturi
+malpedia_Vyveva RAT,,vyveva
+malpedia_w32times,,w32times
+malpedia_win.wabot,,wabot
+malpedia_wAgentTea,wAgent,wagenttea
+malpedia_Wainscot,,wainscot
+malpedia_WallyShack,,wallyshack
+malpedia_WannaCryptor,"Wana Decrypt0r, WannaCry, WannaCrypt, Wcry",wannacryptor
+malpedia_WannaHusky,,wannahusky
+malpedia_WannaRen,,wannaren
+malpedia_Warezov,"Stration, Opnis",warezov
+malpedia_WarHawk,,warhawk
+malpedia_WarmCookie,"Badspace, Carrotstick, QUICKBIND",warmcookie
+malpedia_Warsaw,,warsaw
+malpedia_WastedLoader,,wastedloader
+malpedia_WastedLocker,,wastedlocker
+malpedia_Waterbear,"DbgPrint, EYEWELL",waterbear
+malpedia_WaterMiner,,waterminer
+malpedia_WaterSpout,,waterspout
+malpedia_Wave Stealer,,wavestealer
+malpedia_WavyExfiller,,wavy exfiller
+malpedia_WebbyTea,,webbytea
+malpedia_WebC2-AdSpace,,webc2 adspace
+malpedia_WebC2-Ausov,,webc2 ausov
+malpedia_WebC2-Bolid,,webc2 bolid
+malpedia_WebC2-Cson,,webc2 cson
+malpedia_WebC2-DIV,,webc2 div
+malpedia_WebC2-GreenCat,,webc2 greencat
+malpedia_WebC2-Head,,webc2 head
+malpedia_WebC2-Kt3,,webc2 kt3
+malpedia_WebC2-Qbp,,webc2 qbp
+malpedia_WebC2-Rave,,webc2 rave
+malpedia_WebC2-Table,,webc2 table
+malpedia_WebC2-UGX,,webc2 ugx
+malpedia_WebC2-Yahoo,,webc2 yahoo
+malpedia_WebMonitor RAT,RevCode,webmonitor
+malpedia_WeControl,,wecontrol
+malpedia_WellMess,,wellmess
+malpedia_WeSteal,,westeal
+malpedia_WhiskerSpy,,whiskerspy
+malpedia_WhisperGate,PAYWIPE,whispergate
+malpedia_WhiteBird,,whitebird
+malpedia_WhiteBlackCrypt,WARYLOOK,whiteblackcrypt
+malpedia_WhiteSnake Stealer,,whitesnake
+malpedia_WikiLoader,WailingCrab,wikiloader
+malpedia_WildFire,,wildfire
+malpedia_WinDealer,,windealer
+malpedia_WINELOADER,,wineloader
+malpedia_WinInetLoader,LIDSHOT,wininetloader
+malpedia_winlog,,winlog
+malpedia_WinMM,,winmm
+malpedia_Winnti,"BleDoor, JUMPALL, RbDoor, Pasteboy",winnti
+malpedia_WinorDLL64,,winordll64
+malpedia_Winos,,winos
+malpedia_WinPot,ATMPot,winpot
+malpedia_WinScreeny,,winscreeny
+malpedia_Winsloader,,winsloader
+malpedia_Wipbot,"Epic, Tavdig",wipbot
+malpedia_WMI Ghost,"Wimmie, Syndicasec",wmighost
+malpedia_WmRAT,,wm rat
+malpedia_WndTest,,wndtest
+malpedia_Wonknu,,wonknu
+malpedia_woody,,woody
+malpedia_Woody RAT,,woodyrat
+malpedia_Woolger,WoolenLogger,woolger
+malpedia_WorldWind,,worldwind
+malpedia_WORMHOLE,,wormhole
+malpedia_WormLocker,WormLckr,wormlocker
+malpedia_WpBruteBot,,wpbrutebot
+malpedia_WSCSPL,,wscspl
+malpedia_Wslink,FinickyFrogfish,wslink
+malpedia_x4,,x4
+malpedia_X-Agent,"splm, chopstick",xagent
+malpedia_XBot POS,,xbot pos
+malpedia_XBTL,,xbtl
+malpedia_xCaon,,xcaon
+malpedia_XData,AESNI,xdata
+malpedia_XDSpy,,xdspy
+malpedia_XehookStealer,,xehook
+malpedia_XenArmor,XenArmor Suite,xenarmor
+malpedia_Xenon Stealer,,xenon
+malpedia_XenoRAT,,xenorat
+malpedia_ X-Files Stealer,,xfilesstealer
+malpedia_XFSADM,,xfsadm
+malpedia_XFSCashNCR,,xfscashncr
+malpedia_Xiangoop,,xiangoop
+malpedia_XiaoBa,,xiaoba
+malpedia_xmrig,,xmrig
+malpedia_Xorist,,xorist
+malpedia_XP10,FakeChrome Ransomware,xp10
+malpedia_xPack,NERAPACK,xpack
+malpedia_Xpan,,xpan
+malpedia_XPCTRA,Expectra,xpctra
+malpedia_XpertRAT,,xpertrat
+malpedia_XP PrivEsc (CVE-2014-4076),,xp privesc
+malpedia_XServer,Filesnfer,xserver
+malpedia_xsPlus,nokian,xsplus
+malpedia_XTunnel,"Shunnael, X-Tunnel, xaps",xtunnel
+malpedia_X-Tunnel (.NET),,xtunnel net
+malpedia_Xwo,,xwo
+malpedia_XWorm,,xworm
+malpedia_xxmm,ShadowWalker,xxmm
+malpedia_X-ZIGZAG,,x zigzag
+malpedia_Yahoyah,KeyBoy,yahoyah
+malpedia_Yakuza,Teslarvng Ransomware,yakuza ransomware
+malpedia_YamaBot,Kaos,yamabot
+malpedia_Yanluowang,Dryxiphia,yanluowang
+malpedia_YaRAT,,yarat
+malpedia_Yarraq,,yarraq
+malpedia_Yasso,,yasso
+malpedia_Yatron,,yatron
+malpedia_yayih,"bbsinfo, aumlib",yayih
+malpedia_Yellow Cockatoo RAT,Polazer,yellow cockatoo
+malpedia_Yoddos,,yoddos
+malpedia_YoreKey,,yorekey
+malpedia_YoungLotus,DarkShare,younglotus
+malpedia_YourCyanide,"GonnaCope, Kekpop, Kekware",your cyanide
+malpedia_YTStealer,,ytstealer
+malpedia_yty,,yty
+malpedia_Yunsip,,yunsip
+malpedia_Z3,Z3enc Ransomware,z3
+malpedia_Zacinlo,s5mark,zacinlo
+malpedia_ZarDoor,,zardoor
+malpedia_Zebrocy,Zekapab,zebrocy
+malpedia_Zebrocy (AutoIT),,zebrocy au3
+malpedia_Zedhou,,zedhou
+malpedia_zenar,,zenar
+malpedia_Zeoticus,,zeoticus
+malpedia_Zeppelin,,zeppelin
+malpedia_ZeroAccess,"Max++, Smiscer, Sirefef",zeroaccess
+malpedia_ZeroCleare,,zerocleare
+malpedia_ZeroEvil,,zeroevil
+malpedia_ZeroLocker,,zerolocker
+malpedia_Zeropadypt,Ouroboros,zeropadypt
+malpedia_ZeroT,,zerot
+malpedia_Zeus,Zbot,zeus
+malpedia_ZeusAction,,zeus action
+malpedia_Zeus MailSniffer,,zeus mailsniffer
+malpedia_Zeus OpenSSL,XSphinx,zeus openssl
+malpedia_Zeus Sphinx,,zeus sphinx
+malpedia_Zezin,,zezin
+malpedia_zgRAT,,zgrat
+malpedia_ZhCat,,zhcat
+malpedia_ZhMimikatz,,zhmimikatz
+malpedia_ZingoStealer,Ginzo,zingo stealer
+malpedia_ZitMo,ZeuS-in-the-Mobile,zitmo
+malpedia_ZiyangRAT,,ziyangrat
+malpedia_Zloader,"DELoader, SILENTNIGHT, Terdot",zloader
+malpedia_Zlob,,zlob
+malpedia_ZStealer,Z*Stealer,zstealer
+malpedia_Zumanek,,zumanek
+malpedia_ZUpdater,Zpevdo,zupdater
+malpedia_Zupdax,,zupdax
+malpedia_ZXShell,Sensocode,zxshell
+malpedia_ZxxZ,MuuyDownloader,zxxz
+malpedia_Zyklon,,zyklon
