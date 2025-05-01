@@ -1,0 +1,1627 @@
+{
+  "Lazarus Group": [
+    "aix.fastcash",
+    "apk.badcall",
+    "apk.hardrain",
+    "elf.badcall",
+    "elf.simpletea",
+    "elf.spectral_blur",
+    "js.quickcafe",
+    "osx.3cx_backdoor",
+    "osx.applejeus",
+    "osx.casso",
+    "osx.dacls",
+    "osx.hloader",
+    "osx.interception",
+    "osx.kandykorn",
+    "osx.manuscrypt",
+    "osx.poolrat",
+    "osx.rustbucket",
+    "osx.simpletea",
+    "osx.spectral_blur",
+    "osx.sugarloader",
+    "osx.unidentified_001",
+    "osx.watchcat",
+    "osx.yort",
+    "php.redhat_hacker",
+    "ps1.powerbrace",
+    "ps1.powerspritz",
+    "win.3cx_backdoor",
+    "win.alphanc",
+    "win.alreay",
+    "win.anchormtea",
+    "win.applejeus",
+    "win.artfulpie",
+    "win.badcall",
+    "win.bankshot",
+    "win.banpolmex",
+    "win.bistromath",
+    "win.bitsran",
+    "win.blindingcan",
+    "win.blindtoad",
+    "win.bluenoroff",
+    "win.bookcodesrat",
+    "win.bootwreck",
+    "win.brambul",
+    "win.bravonc",
+    "win.buffetline",
+    "win.cheesetray",
+    "win.cleantoad",
+    "win.cloudburst",
+    "win.comebacker",
+    "win.contopee",
+    "win.coredn",
+    "win.crat",
+    "win.cur1_downloader",
+    "win.dacls",
+    "win.darkcomet",
+    "win.deltas",
+    "win.dratzarus",
+    "win.dtrack",
+    "win.duuzer",
+    "win.dyepack",
+    "win.electricfish",
+    "win.feed_load",
+    "win.forest_tiger",
+    "win.fudmodule",
+    "win.fuwuqidrama",
+    "win.ghost_rat",
+    "win.ghost_secret",
+    "win.gopuram",
+    "win.hardrain",
+    "win.hermes",
+    "win.hoplight",
+    "win.hotcroissant",
+    "win.hotwax",
+    "win.httpsuploader",
+    "win.iconic_stealer",
+    "win.imprudentcook",
+    "win.interception",
+    "win.jessiecontea",
+    "win.joanap",
+    "win.keymarble",
+    "win.klackring",
+    "win.lambload",
+    "win.lazardoor",
+    "win.lazarloader",
+    "win.lazarus_killdisk",
+    "win.lcpdot",
+    "win.lightlesscan",
+    "win.lpeclient",
+    "win.magic_rat",
+    "win.miniblindingcan",
+    "win.minitypeframe",
+    "win.nachocheese",
+    "win.neddnloader",
+    "win.nestegg",
+    "win.op_blockbuster",
+    "win.phandoor",
+    "win.postnaptea",
+    "win.power_ratankba",
+    "win.pslogger",
+    "win.racket",
+    "win.ratankba",
+    "win.ratankbapos",
+    "win.redshawl",
+    "win.rifdoor",
+    "win.roll_sling",
+    "win.romeos",
+    "win.rustbucket",
+    "win.scout",
+    "win.sierras",
+    "win.slickshoes",
+    "win.snatchcrypto",
+    "win.srdi",
+    "win.torisma",
+    "win.touchmove",
+    "win.tsunami",
+    "win.typeframe",
+    "win.unidentified_042",
+    "win.unidentified_077",
+    "win.unidentified_090",
+    "win.unidentified_101",
+    "win.veiledsignal",
+    "win.volgmer",
+    "win.vsingle",
+    "win.vyveva",
+    "win.wagenttea",
+    "win.wannacryptor",
+    "win.webbytea",
+    "win.wininetloader",
+    "win.winordll64",
+    "win.wormhole"
+  ],
+  "POISON CARP": [
+    "apk.actionspy",
+    "ios.poisoncarp"
+  ],
+  "APT29": [
+    "apk.androsnatch",
+    "apk.unidentified_009",
+    "ios.cookiesnatch",
+    "ios.validvictor",
+    "win.beatdrop",
+    "win.boombox",
+    "win.cloud_duke",
+    "win.cosmicduke",
+    "win.cozyduke",
+    "win.fatduke",
+    "win.gdrive",
+    "win.graphdrop",
+    "win.graphical_neutrino",
+    "win.halfrig",
+    "win.liteduke",
+    "win.miniduke",
+    "win.newpass",
+    "win.onionduke",
+    "win.pinchduke",
+    "win.polyglotduke",
+    "win.quarterrig",
+    "win.seadaddy",
+    "win.srdi",
+    "win.tdiscoverer",
+    "win.unidentified_098",
+    "win.unidentified_099",
+    "win.vapor_rage",
+    "win.wineloader"
+  ],
+  "APT15": [
+    "apk.badbazaar",
+    "win.graphican"
+  ],
+  "Molerats": [
+    "apk.badpatch",
+    "win.brittle_bush",
+    "win.dropbook",
+    "win.extreme_rat",
+    "win.molenet",
+    "win.molerat_loader",
+    "win.nimblemamba",
+    "win.pierogi",
+    "win.poison_ivy",
+    "win.sharpstage",
+    "win.spark"
+  ],
+  "Bahamut": [
+    "apk.bahamut"
+  ],
+  "Dropping Elephant": [
+    "apk.bahamut",
+    "win.quasar_rat",
+    "win.tinytyphon",
+    "win.unidentified_047",
+    "win.wscspl"
+  ],
+  "Gamaredon Group": [
+    "apk.bone_spy",
+    "apk.plain_gnome",
+    "elf.evilgnome",
+    "vbs.litterdrifter",
+    "vbs.unidentified_003",
+    "vbs.unidentified_006",
+    "win.dilongtrash",
+    "win.dinotrain",
+    "win.pteranodon",
+    "win.quietsieve"
+  ],
+  "Operation C-Major": [
+    "apk.capra_rat",
+    "apk.stealthmango",
+    "win.andromeda",
+    "win.beendoor",
+    "win.bezigate",
+    "win.bozok",
+    "win.breach_rat",
+    "win.crimson",
+    "win.darkcomet",
+    "win.eliza_rat",
+    "win.limepad",
+    "win.luminosity_rat",
+    "win.njrat",
+    "win.peppy_rat",
+    "win.unidentified_066"
+  ],
+  "HenBox": [
+    "apk.carbonsteal",
+    "apk.doubleagent",
+    "apk.goldeneagle",
+    "apk.henbox",
+    "apk.silkbean"
+  ],
+  "APT37": [
+    "apk.chinotto",
+    "apk.kevdroid",
+    "win.bluelight",
+    "win.chinotto",
+    "win.final1stspy",
+    "win.freenki",
+    "win.goldbackdoor",
+    "win.konni",
+    "win.nokki",
+    "win.open_carrot",
+    "win.poohmilk",
+    "win.poorweb",
+    "win.rokrat",
+    "win.starcruft",
+    "win.unidentified_067"
+  ],
+  "Inception Framework": [
+    "apk.cloudatlas",
+    "ps1.powershower"
+  ],
+  "Turla": [
+    "apk.cyber_azov",
+    "asp.unidentified_001",
+    "elf.penquin_turla",
+    "js.kopiluwak",
+    "js.minijs",
+    "js.turla_ff_ext",
+    "js.turla_maintools",
+    "osx.uroburos",
+    "win.agent_btz",
+    "win.cobra",
+    "win.comlook",
+    "win.crutch",
+    "win.delivery_check",
+    "win.gazer",
+    "win.kazuar",
+    "win.ksl0t",
+    "win.lightneuron",
+    "win.lunarmail",
+    "win.minipocket",
+    "win.mosquito",
+    "win.nautilus",
+    "win.netflash",
+    "win.neuron",
+    "win.newpass",
+    "win.outlook_backdoor",
+    "win.pelmeni",
+    "win.powershellrunner",
+    "win.quietcanary",
+    "win.satellite_turla",
+    "win.skipper",
+    "win.tinyturla_ng",
+    "win.tiny_turla",
+    "win.turla_rpc",
+    "win.turla_silentmoon",
+    "win.twodash",
+    "win.uroburos",
+    "win.wipbot"
+  ],
+  "HAZY TIGER": [
+    "apk.dracarys",
+    "win.almondrat",
+    "win.miya_rat",
+    "win.wm_rat",
+    "win.zxxz"
+  ],
+  "APT41": [
+    "apk.dragonegg",
+    "apk.wyrmspy",
+    "elf.keyplug",
+    "elf.messagetap",
+    "win.acehash",
+    "win.biopass",
+    "win.blackcoffee",
+    "win.chinachopper",
+    "win.cobalt_strike",
+    "win.coldlock",
+    "win.crackshot",
+    "win.crosswalk",
+    "win.dboxagent",
+    "win.derusbi",
+    "win.dusttrap",
+    "win.easynight",
+    "win.gearshift",
+    "win.highnoon",
+    "win.highnoon_bin",
+    "win.jumpall",
+    "win.lowkey",
+    "win.moonbounce",
+    "win.moonwalk",
+    "win.pinegrove",
+    "win.plugx",
+    "win.poisonplug",
+    "win.serialvlogger",
+    "win.shadowpad",
+    "win.skip20",
+    "win.zxshell"
+  ],
+  "Kimsuky": [
+    "apk.fastfire",
+    "apk.fastspy",
+    "elf.gomir",
+    "ps1.flowerpower",
+    "ps1.randomquery",
+    "ps1.unidentified_004",
+    "vbs.randomquery",
+    "win.alphaseed",
+    "win.appleseed",
+    "win.babyshark",
+    "win.grease",
+    "win.kimsuky",
+    "win.mechanical",
+    "win.navrat",
+    "win.nikihttp",
+    "win.troll_stealer",
+    "win.yorekey"
+  ],
+  "Yanbian Gang": [
+    "apk.funkybot",
+    "apk.moqhao"
+  ],
+  "Domestic Kitten": [
+    "apk.furball"
+  ],
+  "AridViper": [
+    "apk.glancelove",
+    "apk.gnatspy",
+    "apk.spyc23",
+    "apk.unidentified_004",
+    "ios.phenakite",
+    "win.aridgopher",
+    "win.aridhelper",
+    "win.barbie",
+    "win.barbwire",
+    "win.micropsia"
+  ],
+  "APT-C-27": [
+    "apk.goldenrat"
+  ],
+  "APT-C-35": [
+    "apk.knspy",
+    "apk.unidentified_005",
+    "win.yty"
+  ],
+  "Charming Kitten": [
+    "apk.little_looter",
+    "win.chairsmack",
+    "win.downpaper",
+    "win.mediapi",
+    "win.stonedrill",
+    "win.telegram_grabber",
+    "win.unidentified_073"
+  ],
+  "TA413": [
+    "apk.luckycat",
+    "win.exilerat",
+    "win.sepulcher"
+  ],
+  "Scarlet Mimic": [
+    "apk.mobile_order",
+    "win.cryptic_convo"
+  ],
+  "MuddyWater": [
+    "apk.mudwater",
+    "ps1.phonyc2",
+    "ps1.powerstats",
+    "ps1.powgoop",
+    "vbs.starwhale",
+    "vbs.unidentified_004",
+    "win.covicli",
+    "win.gramdoor",
+    "win.moriagent",
+    "win.muddyc2go",
+    "win.sharpstats"
+  ],
+  "APT32": [
+    "apk.phantomlance",
+    "elf.caja",
+    "elf.rotajakiro",
+    "js.cactustorch",
+    "js.unidentified_001",
+    "osx.oceanlotus",
+    "win.cobalt_strike",
+    "win.cuegoe",
+    "win.kerrdown",
+    "win.komprogo",
+    "win.metaljack",
+    "win.mimikatz",
+    "win.phoreal",
+    "win.ratsnif",
+    "win.salgorea",
+    "win.soundbite",
+    "win.strikesuit_gift",
+    "win.unidentified_068"
+  ],
+  "APT28": [
+    "apk.popr-d30",
+    "elf.xagent",
+    "ios.xagent",
+    "osx.komplex",
+    "osx.xagent",
+    "ps1.steelhook",
+    "py.masepie",
+    "win.arguepatch",
+    "win.caddywiper",
+    "win.cannon",
+    "win.computrace",
+    "win.coreshell",
+    "win.credomap",
+    "win.downdelph",
+    "win.driveocean",
+    "win.fusiondrive",
+    "win.gooseegg",
+    "win.graphite",
+    "win.koadic",
+    "win.lojax",
+    "win.mocky_lnk",
+    "win.oceanmap",
+    "win.oldbait",
+    "win.pocodown",
+    "win.sedreco",
+    "win.seduploader",
+    "win.unidentified_078",
+    "win.unidentified_114",
+    "win.xagent",
+    "win.xp_privesc",
+    "win.xtunnel",
+    "win.xtunnel_net",
+    "win.zebrocy",
+    "win.zebrocy_au3"
+  ],
+  "APT39": [
+    "apk.rana",
+    "php.antak",
+    "ps1.oilrig",
+    "win.remexi"
+  ],
+  "RAZOR TIGER": [
+    "apk.sidewinder",
+    "win.sidewinder",
+    "win.unidentified_093"
+  ],
+  "OilRig": [
+    "apk.spynote",
+    "asp.twoface",
+    "ps1.bondupdater",
+    "ps1.oilrig",
+    "win.alma_communicator",
+    "win.google_drive_rat",
+    "win.jason",
+    "win.karkoff",
+    "win.mango",
+    "win.oopsie",
+    "win.pupy",
+    "win.rdat",
+    "win.redcap",
+    "win.saitama",
+    "win.sidetwist",
+    "win.solar",
+    "win.stealhook",
+    "win.zerocleare"
+  ],
+  "Pirate Panda": [
+    "apk.titan",
+    "win.8t_dropper",
+    "win.chiser_client",
+    "win.keyboy",
+    "win.pcshare",
+    "win.poison_ivy",
+    "win.tclient",
+    "win.usbferry",
+    "win.winsloader",
+    "win.xpack",
+    "win.yahoyah"
+  ],
+  "Sandworm": [
+    "asp.localolive",
+    "ps1.kalambur",
+    "win.arguepatch",
+    "win.backorder",
+    "win.blackenergy",
+    "win.caddywiper",
+    "win.eternal_petya",
+    "win.industroyer2",
+    "win.kapeka",
+    "win.killdisk",
+    "win.rhadamanthys",
+    "win.roar_bat",
+    "win.swiftslicer",
+    "win.telebot",
+    "win.teledoor"
+  ],
+  "APT34": [
+    "asp.twoface",
+    "ps1.bondupdater",
+    "ps1.powruner",
+    "ps1.quadagent",
+    "win.helminth",
+    "win.ismagent",
+    "win.longwatch",
+    "win.nautilus",
+    "win.neuron",
+    "win.pickpocket",
+    "win.tonedeaf",
+    "win.valuevault"
+  ],
+  "APT 22": [
+    "elf.angryrebel",
+    "win.plugx"
+  ],
+  "Void Manticore": [
+    "elf.bibi_linux",
+    "win.bibi"
+  ],
+  "BlackTech": [
+    "elf.bifrost",
+    "elf.hipid",
+    "elf.plead",
+    "elf.tscookie",
+    "win.bifrose",
+    "win.bluether",
+    "win.flagpro",
+    "win.icondown",
+    "win.plead",
+    "win.selfmake",
+    "win.spider_rat",
+    "win.waterbear"
+  ],
+  "Red Menshen": [
+    "elf.bpfdoor",
+    "win.ghost_rat",
+    "win.mangzamel"
+  ],
+  "Equation Group": [
+    "elf.bvp47",
+    "elf.doublefantasy",
+    "win.darkpulsar",
+    "win.doublefantasy",
+    "win.doublepulsar",
+    "win.equationdrug",
+    "win.fancyfilter",
+    "win.fanny",
+    "win.grok",
+    "win.mistyveal",
+    "win.oddjob",
+    "win.peddlecheap",
+    "win.tildeb"
+  ],
+  "TeleBots": [
+    "elf.exaramel",
+    "win.credraptor",
+    "win.eternal_petya",
+    "win.exaramel",
+    "win.grey_energy",
+    "win.killdisk",
+    "win.telebot",
+    "win.teledoor"
+  ],
+  "Gelsemium": [
+    "elf.firewood",
+    "elf.wolfsbane",
+    "jsp.icesword",
+    "win.session_manager"
+  ],
+  "Pacha Group": [
+    "elf.greedyantd"
+  ],
+  "APT27": [
+    "elf.hyperssl"
+  ],
+  "Rocke": [
+    "elf.kerberods",
+    "elf.pro_ocean"
+  ],
+  "Earth Lusca": [
+    "elf.ktlv_door",
+    "elf.spry_socks",
+    "win.dizzyvoid",
+    "win.fishmaster",
+    "win.funnyswitch",
+    "win.ktlv_door",
+    "win.njrat",
+    "win.shadowpad"
+  ],
+  "Hellsing": [
+    "elf.lootwodniw",
+    "win.8t_dropper",
+    "win.grillmark",
+    "win.newcore_rat",
+    "win.plugx",
+    "win.sisfader",
+    "win.usbculprit"
+  ],
+  "Nexus Zeta": [
+    "elf.masuta"
+  ],
+  "Water Barghest": [
+    "elf.ngioweb"
+  ],
+  "Flax Typhoon": [
+    "elf.nosedive"
+  ],
+  "GALLIUM": [
+    "elf.pingpull",
+    "elf.sword2033",
+    "win.chinachopper",
+    "win.htran",
+    "win.mimikatz",
+    "win.poison_ivy",
+    "win.reshell",
+    "win.trochilus_rat"
+  ],
+  "GOLD DUPONT": [
+    "elf.ransomexx",
+    "win.ransomexx"
+  ],
+  "Earth Berberoka": [
+    "elf.rshell",
+    "win.hellobot"
+  ],
+  "SEXi": [
+    "elf.sexi"
+  ],
+  "Sea Turtle": [
+    "elf.snappy_tcp"
+  ],
+  "APT31": [
+    "elf.sowat",
+    "elf.unidentified_004",
+    "win.9002",
+    "win.plugx",
+    "win.rawdoor",
+    "win.sihost",
+    "win.stealer_0x3401",
+    "win.trochilus_rat",
+    "win.yarat"
+  ],
+  "APT17": [
+    "elf.speculoos",
+    "osx.winnti",
+    "win.derusbi",
+    "win.hdroot",
+    "win.highnote",
+    "win.shadowpad",
+    "win.winnti"
+  ],
+  "SideCopy": [
+    "elf.unidentified_005",
+    "win.action_rat"
+  ],
+  "Longhorn": [
+    "elf.vault8_hive",
+    "osx.lambert",
+    "win.lambert",
+    "win.unidentified_020_cia_vault7"
+  ],
+  "APT 29": [
+    "elf.wellmail",
+    "elf.wellmess",
+    "ps1.poshspy",
+    "win.ati_agent",
+    "win.cobalt_strike",
+    "win.gdrive",
+    "win.powerduke",
+    "win.sorefang",
+    "win.sunburst"
+  ],
+  "Iron Group": [
+    "elf.xbash"
+  ],
+  "Packrat": [
+    "jar.adzok"
+  ],
+  "Dark Caracal": [
+    "jar.crossrat",
+    "win.bandook"
+  ],
+  "Volt Typhoon": [
+    "jar.versamem",
+    "sh.kv",
+    "win.scanline"
+  ],
+  "Leviathan": [
+    "js.airbreak",
+    "js.cactustorch",
+    "js.nanhaishu",
+    "js.scanbox",
+    "win.badflick",
+    "win.blackcoffee",
+    "win.chinachopper",
+    "win.cobalt_strike",
+    "win.dadjoke",
+    "win.dadstache",
+    "win.derusbi",
+    "win.ghost_rat",
+    "win.grillmark",
+    "win.homefry",
+    "win.lazycat",
+    "win.lunchmoney",
+    "win.murkytop",
+    "win.plugx",
+    "win.sedll",
+    "win.zxshell"
+  ],
+  "WageMole": [
+    "js.beavertail",
+    "js.otter_cookie",
+    "osx.flexibleferret",
+    "osx.friendlyferret",
+    "osx.frostyferret",
+    "py.invisibleferret",
+    "win.beavertail"
+  ],
+  "GOLD PRELUDE": [
+    "js.fakeupdates"
+  ],
+  "FIN7": [
+    "js.griffon",
+    "ps1.powerplant",
+    "ps1.powertrash",
+    "win.boatlaunch",
+    "win.carbanak",
+    "win.cobalt_strike",
+    "win.gotroj",
+    "win.rekoobew"
+  ],
+  "FIN6": [
+    "js.magecart",
+    "js.more_eggs",
+    "win.cobalt_strike",
+    "win.grateful_pos",
+    "win.lockergoga",
+    "win.maze",
+    "win.ryuk",
+    "win.terra_stealer"
+  ],
+  "MageCart": [
+    "js.magecart"
+  ],
+  "RipperSec": [
+    "js.mega_medusa"
+  ],
+  "Cobalt": [
+    "js.more_eggs",
+    "win.atmspitter",
+    "win.cobalt_strike",
+    "win.cobint",
+    "win.formbook",
+    "win.lokipws",
+    "win.pony"
+  ],
+  "VENOM SPIDER": [
+    "js.more_eggs",
+    "win.terra_recon",
+    "win.terra_stealer",
+    "win.terra_tv"
+  ],
+  "Tick": [
+    "js.node_rat",
+    "win.8t_dropper",
+    "win.broler",
+    "win.daserf",
+    "win.datper",
+    "win.lilith",
+    "win.rarstar",
+    "win.xxmm"
+  ],
+  "MUMMY SPIDER": [
+    "js.unidentified_003",
+    "win.emotet"
+  ],
+  "Winter Vivern": [
+    "js.unidentified_006"
+  ],
+  "Evilnum": [
+    "osx.janicab",
+    "ps1.powerpepper",
+    "vbs.janicab",
+    "win.stormwind"
+  ],
+  "WindShift": [
+    "osx.windtail"
+  ],
+  "Energetic Bear": [
+    "php.wso",
+    "win.dorshel",
+    "win.havex_rat",
+    "win.heriplor",
+    "win.karagany",
+    "win.listrix"
+  ],
+  "UAC-0149": [
+    "ps1.cookbox"
+  ],
+  "Storm-1113": [
+    "ps1.eugenloader"
+  ],
+  "Chafer": [
+    "ps1.oilrig",
+    "win.remexi"
+  ],
+  "APT33": [
+    "ps1.powerton",
+    "win.darkcomet",
+    "win.dropshot",
+    "win.filerase",
+    "win.nanocore",
+    "win.netwire",
+    "win.poshc2",
+    "win.powerband",
+    "win.pupy",
+    "win.quasar_rat",
+    "win.remcos",
+    "win.shapeshift",
+    "win.turnedup"
+  ],
+  "DarkHotel": [
+    "ps1.rmot",
+    "win.asruex",
+    "win.dubnium_darkhotel",
+    "win.jaku",
+    "win.nemim",
+    "win.ramsay",
+    "win.retro",
+    "win.tapaoux",
+    "win.thinmon"
+  ],
+  "DarkHydrus": [
+    "ps1.roguerobin",
+    "win.cobalt_strike",
+    "win.roguerobin"
+  ],
+  "APT-C-12": [
+    "ps1.unidentified_001"
+  ],
+  "YoroTrooper": [
+    "ps1.unidentified_005"
+  ],
+  "Xcatze": [
+    "py.androxgh0st"
+  ],
+  "El Machete": [
+    "py.lokirat",
+    "py.pyark",
+    "win.elmachete_dropper_2022"
+  ],
+  "UAC-0063": [
+    "vbs.hatvibe",
+    "win.downex"
+  ],
+  "Putter Panda": [
+    "win.4h_rat",
+    "win.pngdowner"
+  ],
+  "Ice Fog": [
+    "win.8t_dropper"
+  ],
+  "RANCOR": [
+    "win.8t_dropper",
+    "win.ddkong",
+    "win.plaintee"
+  ],
+  "TA428": [
+    "win.8t_dropper",
+    "win.albaniiutas",
+    "win.cotx",
+    "win.ncctrojan",
+    "win.poison_ivy",
+    "win.tmanger"
+  ],
+  "Tonto Team": [
+    "win.8t_dropper",
+    "win.calmthorn",
+    "win.dexbia",
+    "win.korlia",
+    "win.quickmute",
+    "win.shadowpad",
+    "win.typehash"
+  ],
+  "Karma Panda": [
+    "win.8t_dropper",
+    "win.byeby"
+  ],
+  "Aurora Panda": [
+    "win.9002",
+    "win.blackcoffee",
+    "win.deputydog",
+    "win.highnoon",
+    "win.hikit",
+    "win.plugx"
+  ],
+  "Group 27": [
+    "win.9002"
+  ],
+  "SWEED": [
+    "win.agent_tesla",
+    "win.formbook",
+    "win.lokipws"
+  ],
+  "PLATINUM": [
+    "win.amtsol",
+    "win.redpepper",
+    "win.redsalt"
+  ],
+  "WIZARD SPIDER": [
+    "win.anchor",
+    "win.conti",
+    "win.dyre",
+    "win.ryuk",
+    "win.trickbot"
+  ],
+  "Silent Chollima": [
+    "win.andardoor",
+    "win.atharvan",
+    "win.bistromath",
+    "win.collection_rat",
+    "win.dtrack",
+    "win.jupiter",
+    "win.lilith",
+    "win.magic_rat",
+    "win.maui",
+    "win.ninerat",
+    "win.phandoor",
+    "win.quiterat",
+    "win.rifdoor",
+    "win.sharpknot",
+    "win.shatteredglass",
+    "win.tigerlite",
+    "win.tiger_rat",
+    "win.unidentified_105",
+    "win.vsingle",
+    "win.yamabot"
+  ],
+  "TA505": [
+    "win.andromut",
+    "win.clop",
+    "win.dridex",
+    "win.flawedammyy",
+    "win.flawedgrace",
+    "win.get2",
+    "win.locky",
+    "win.mirrorblast",
+    "win.rms",
+    "win.sdbbot",
+    "win.servhelper",
+    "win.silence",
+    "win.teleport",
+    "win.tinymet",
+    "win.trickbot"
+  ],
+  "Stone Panda": [
+    "win.anel",
+    "win.chches",
+    "win.cobalt_strike",
+    "win.derusbi",
+    "win.dilljuice",
+    "win.emdivi",
+    "win.evilgrab",
+    "win.flowcloud",
+    "win.ghost_rat",
+    "win.koadic",
+    "win.plugx",
+    "win.poison_ivy",
+    "win.poldat",
+    "win.quasar_rat",
+    "win.redleaves",
+    "win.sodamaster",
+    "win.trochilus_rat"
+  ],
+  "Pink Sandstorm": [
+    "win.apostle"
+  ],
+  "Naikon": [
+    "win.ariabody",
+    "win.naikon",
+    "win.nebulae",
+    "win.sslmm",
+    "win.sys10",
+    "win.winmm",
+    "win.xsplus"
+  ],
+  "Silence group": [
+    "win.atmosphere",
+    "win.silence"
+  ],
+  "Comment Crew": [
+    "win.auriga",
+    "win.bangat",
+    "win.biscuit",
+    "win.bouncer",
+    "win.combos",
+    "win.cookiebag",
+    "win.dairy",
+    "win.getmail",
+    "win.glooxmail",
+    "win.goggles",
+    "win.hacksfase",
+    "win.helauto",
+    "win.kurton",
+    "win.manitsme",
+    "win.mapiget",
+    "win.miniasp",
+    "win.newsreels",
+    "win.seasalt",
+    "win.starsypound",
+    "win.sword",
+    "win.tabmsgsql",
+    "win.tarsip",
+    "win.webc2_adspace",
+    "win.webc2_ausov",
+    "win.webc2_bolid",
+    "win.webc2_cson",
+    "win.webc2_div",
+    "win.webc2_greencat",
+    "win.webc2_head",
+    "win.webc2_kt3",
+    "win.webc2_qbp",
+    "win.webc2_rave",
+    "win.webc2_table",
+    "win.webc2_ugx",
+    "win.webc2_yahoo"
+  ],
+  "RIDDLE SPIDER": [
+    "win.avaddon"
+  ],
+  "The Gorgon Group": [
+    "win.azorult",
+    "win.lokipws",
+    "win.nanocore",
+    "win.njrat",
+    "win.quasar_rat",
+    "win.remcos",
+    "win.revenge_rat"
+  ],
+  "SNOWGLOBE": [
+    "win.babar",
+    "win.casper",
+    "win.evilbunny"
+  ],
+  "APT 30": [
+    "win.backbend",
+    "win.backspace",
+    "win.creamsicle",
+    "win.flashflood",
+    "win.gemcutter",
+    "win.milkmaid",
+    "win.neteagle",
+    "win.orangeade",
+    "win.rctrl",
+    "win.rhttpctrl",
+    "win.shipshape",
+    "win.spaceship"
+  ],
+  "VICEROY TIGER": [
+    "win.backconfig",
+    "win.donot",
+    "win.unidentified_102",
+    "win.unidentified_117"
+  ],
+  "FIN8": [
+    "win.badhatch",
+    "win.poslurp"
+  ],
+  "QUILTED TIGER": [
+    "win.badnews",
+    "win.spyder_patchwork"
+  ],
+  "UNC1878": [
+    "win.bazarbackdoor",
+    "win.cobalt_strike",
+    "win.grimagent",
+    "win.ryuk",
+    "win.trickbot"
+  ],
+  "Storm-0506": [
+    "win.blackbasta"
+  ],
+  "TA2101": [
+    "win.blackbasta",
+    "win.maze"
+  ],
+  "UNC4393": [
+    "win.blackbasta"
+  ],
+  "Temper Panda": [
+    "win.bozok",
+    "win.bubblewrap",
+    "win.lowball",
+    "win.poison_ivy"
+  ],
+  "Mirage": [
+    "win.bs2005",
+    "win.exchange_tool",
+    "win.ketrican",
+    "win.ketrum",
+    "win.mirage",
+    "win.miragefox",
+    "win.okrum",
+    "win.plugx",
+    "win.royalcli",
+    "win.royal_dns",
+    "win.tidepool"
+  ],
+  "BuhTrap": [
+    "win.buhtrap"
+  ],
+  "EXOTIC LILY": [
+    "win.bumblebee"
+  ],
+  "GOLD CABIN": [
+    "win.bumblebee",
+    "win.emotet",
+    "win.icedid",
+    "win.isfb",
+    "win.qakbot"
+  ],
+  "TA578": [
+    "win.bumblebee",
+    "win.ssload"
+  ],
+  "TA579": [
+    "win.bumblebee"
+  ],
+  "Careto": [
+    "win.careto"
+  ],
+  "Thrip": [
+    "win.catchamas",
+    "win.rikamanu",
+    "win.spedear",
+    "win.wmighost"
+  ],
+  "UNC2452": [
+    "win.ceeloader",
+    "win.cobalt_strike",
+    "win.goldmax",
+    "win.raindrop",
+    "win.sunburst",
+    "win.teardrop"
+  ],
+  "EMISSARY PANDA": [
+    "win.chinachopper",
+    "win.ghost_rat",
+    "win.httpbrowser",
+    "win.hyperbro",
+    "win.hyperssl",
+    "win.plugx",
+    "win.polpo",
+    "win.unidentified_080",
+    "win.zxshell"
+  ],
+  "HAFNIUM": [
+    "win.chinachopper"
+  ],
+  "Hurricane Panda": [
+    "win.chinachopper",
+    "win.ghost_rat",
+    "win.hikit",
+    "win.plugx",
+    "win.sakula_rat"
+  ],
+  "Evasive Panda": [
+    "win.cloud_scout"
+  ],
+  "AQUATIC PANDA": [
+    "win.cobalt_strike",
+    "win.njrat"
+  ],
+  "Codoso": [
+    "win.cobalt_strike"
+  ],
+  "CopyKittens": [
+    "win.cobalt_strike"
+  ],
+  "Earth Baxia": [
+    "win.cobalt_strike"
+  ],
+  "Mustang Panda": [
+    "win.cobalt_strike",
+    "win.crimsonias",
+    "win.plugx",
+    "win.poison_ivy"
+  ],
+  "Shell Crew": [
+    "win.cobalt_strike",
+    "win.firechili"
+  ],
+  "TianWu": [
+    "win.cobalt_strike"
+  ],
+  "Water Orthrus": [
+    "win.copperstealth"
+  ],
+  "POLONIUM": [
+    "win.creepysnail",
+    "win.creep_exfil",
+    "win.deepcreep",
+    "win.megacreep",
+    "win.unidentified_097"
+  ],
+  "UNC1860": [
+    "win.cryptoslay",
+    "win.templedoor"
+  ],
+  "Cleaver": [
+    "win.csext",
+    "win.jasus",
+    "win.kagent",
+    "win.netc",
+    "win.pvzout",
+    "win.synflooder",
+    "win.tinyzbot",
+    "win.wndtest",
+    "win.zhmimikatz"
+  ],
+  "NARWHAL SPIDER": [
+    "win.cutwail"
+  ],
+  "SCULLY SPIDER": [
+    "win.danabot"
+  ],
+  "Magic Hound": [
+    "win.disttrack",
+    "win.leash",
+    "win.mpkbot"
+  ],
+  "Timberworm": [
+    "win.disttrack"
+  ],
+  "DNSpionage": [
+    "win.dnspionage",
+    "win.karkoff"
+  ],
+  "MUSTANG PANDA": [
+    "win.doplugs",
+    "win.fdmtp",
+    "win.hodur",
+    "win.mqsttang",
+    "win.toneshell"
+  ],
+  "DOPPEL SPIDER": [
+    "win.doppeldridex",
+    "win.doppelpaymer"
+  ],
+  "NoName057(16)": [
+    "win.dosia"
+  ],
+  "UPS": [
+    "win.doublepulsar",
+    "win.htran",
+    "win.keylogger_apt3",
+    "win.pirpi",
+    "win.plugx",
+    "win.shareip",
+    "win.w32times",
+    "win.xserver"
+  ],
+  "Earth Estries": [
+    "win.dracu_loader",
+    "win.hemigate",
+    "win.snappybee"
+  ],
+  "Evil Corp": [
+    "win.dridex",
+    "win.payloadbin"
+  ],
+  "INDRIK SPIDER": [
+    "win.dridex",
+    "win.friedex"
+  ],
+  "APT35": [
+    "win.drokbk",
+    "win.pupy",
+    "win.syskit"
+  ],
+  "Unit 8200": [
+    "win.duqu"
+  ],
+  "Lotus Blossom": [
+    "win.elise"
+  ],
+  "Danti": [
+    "win.elmer"
+  ],
+  "APT 16": [
+    "win.elmer",
+    "win.ironhalo"
+  ],
+  "IXESHE": [
+    "win.etumbot",
+    "win.rapid_stealer",
+    "win.threebyte",
+    "win.waterspout"
+  ],
+  "Nazar": [
+    "win.eyservice"
+  ],
+  "Sowbug": [
+    "win.felismus",
+    "win.starloader"
+  ],
+  "GreyEnergy": [
+    "win.felixroot",
+    "win.grey_energy"
+  ],
+  "Rocket Kitten": [
+    "win.firemalv",
+    "win.ghole",
+    "win.matryoshka_rat",
+    "win.mpkbot",
+    "win.pupy",
+    "win.tdtess",
+    "win.woolger"
+  ],
+  "[Unnamed group]": [
+    "win.fivehands",
+    "win.puzzlemaker",
+    "win.sombrat"
+  ],
+  "Handala": [
+    "win.flash_develop",
+    "win.handala",
+    "win.hatef"
+  ],
+  "DragonOK": [
+    "win.former_first_rat",
+    "win.isspace",
+    "win.khrat",
+    "win.new_ct",
+    "win.plugx",
+    "win.rambo",
+    "win.sysget"
+  ],
+  "Samurai Panda": [
+    "win.former_first_rat",
+    "win.isspace",
+    "win.plugx",
+    "win.poldat",
+    "win.sykipot"
+  ],
+  "Pinchy Spider": [
+    "win.gandcrab",
+    "win.revil"
+  ],
+  "ExCobalt": [
+    "win.go_red"
+  ],
+  "SaintBear": [
+    "win.graphiron"
+  ],
+  "Skeleton Spider": [
+    "win.grateful_pos"
+  ],
+  "LightBasin": [
+    "win.gtpdoor"
+  ],
+  "GOLD WINTER": [
+    "win.hades"
+  ],
+  " Silent Chollima": [
+    "win.hazy_load"
+  ],
+  "Wekby": [
+    "win.httpbrowser",
+    "win.roseam"
+  ],
+  "Lunar Spider": [
+    "win.icedid",
+    "win.vawtrak"
+  ],
+  "IcePeony": [
+    "win.ice_cache",
+    "win.ice_event"
+  ],
+  "Tortoiseshell": [
+    "win.imap_loader",
+    "win.liderc",
+    "win.syskit"
+  ],
+  "Leafminer": [
+    "win.imecab",
+    "win.sorgu"
+  ],
+  "APT-C-36": [
+    "win.imminent_monitor_rat",
+    "win.limerat"
+  ],
+  "ELECTRUM": [
+    "win.industroyer"
+  ],
+  "Greenbug": [
+    "win.ismagent",
+    "win.ismdoor"
+  ],
+  "WildNeutron": [
+    "win.jripbot"
+  ],
+  "SOLAR SPIDER": [
+    "win.jsoutprox"
+  ],
+  "Orangeworm": [
+    "win.kwampirs"
+  ],
+  "APT5": [
+    "win.leouncia"
+  ],
+  " Scarred Manticore": [
+    "win.liontail"
+  ],
+  "MirrorFace": [
+    "win.lodeinfo",
+    "win.noopdoor"
+  ],
+  "TA410": [
+    "win.lookback",
+    "win.unidentified_096"
+  ],
+  "Lucky Cat": [
+    "win.lowzero"
+  ],
+  "LYCEUM": [
+    "win.lyceum_dns_backdoor_dotnet",
+    "win.lyceum_http_backdoor_dotnet",
+    "win.lyceum_http_backdoor_golang"
+  ],
+  "1937CN": [
+    "win.macamax"
+  ],
+  "Poseidon Group": [
+    "win.makadocs"
+  ],
+  "Ghostwriter": [
+    "win.microbackdoor"
+  ],
+  "Operation Soft Cell": [
+    "win.mim221"
+  ],
+  "Dust Storm": [
+    "win.misdat"
+  ],
+  "UNC2970": [
+    "win.mistpen"
+  ],
+  "MONTY SPIDER": [
+    "win.necurs"
+  ],
+  "NetTraveler": [
+    "win.nettraveler",
+    "win.plugx"
+  ],
+  "MoustachedBouncer": [
+    "win.nightclub"
+  ],
+  "Blackwood": [
+    "win.nspx30"
+  ],
+  "Pitty Panda": [
+    "win.paladin",
+    "win.pgift"
+  ],
+  "APT 26": [
+    "win.plugx",
+    "win.sakula_rat"
+  ],
+  "Nightshade Panda": [
+    "win.plugx",
+    "win.poison_ivy"
+  ],
+  "SLIME29": [
+    "win.plugx"
+  ],
+  "Violin Panda": [
+    "win.plugx",
+    "win.xserver"
+  ],
+  "Groundbait": [
+    "win.prikormka"
+  ],
+  "Guru Spider": [
+    "win.quantloader"
+  ],
+  "RansomHub": [
+    "win.ransomhub"
+  ],
+  "Hacking Team": [
+    "win.rcs"
+  ],
+  "APT-C-34": [
+    "win.rcs"
+  ],
+  "UAC-0050": [
+    "win.remcos"
+  ],
+  "ProjectSauron": [
+    "win.remsec_strider"
+  ],
+  "TA866": [
+    "win.resident"
+  ],
+  "Operation Sharpshooter": [
+    "win.rising_sun"
+  ],
+  "GRIM SPIDER": [
+    "win.ryuk"
+  ],
+  "LOTUS PANDA": [
+    "win.sagerunex"
+  ],
+  "Salty Spider": [
+    "win.sality"
+  ],
+  "Boss Spider": [
+    "win.samsam"
+  ],
+  "Operation ShadowHammer": [
+    "win.shadowhammer"
+  ],
+  "APT23": [
+    "win.shadowpad"
+  ],
+  "DAGGER PANDA": [
+    "win.shadowpad"
+  ],
+  "WET PANDA": [
+    "win.shadowpad"
+  ],
+  "Mofang": [
+    "win.shimrat"
+  ],
+  "SloppyLemming": [
+    "win.sidewinder"
+  ],
+  "PowerPool": [
+    "win.slothfulmedia"
+  ],
+  "SMOKY SPIDER": [
+    "win.smokeloader"
+  ],
+  "UAC-0006": [
+    "win.smokeloader"
+  ],
+  "CosmicBeetle": [
+    "win.spacecolon"
+  ],
+  "GhostEmperor": [
+    "win.sparrow_door"
+  ],
+  "Rebel Jackal": [
+    "win.spectralviper"
+  ],
+  "APT-C-60": [
+    "win.spygrace"
+  ],
+  "MosesStaff": [
+    "win.strifewater_rat"
+  ],
+  "PROMETHIUM": [
+    "win.strongpity"
+  ],
+  "StrongPity": [
+    "win.strongpity"
+  ],
+  "Tiny Spider": [
+    "win.tinyloader"
+  ],
+  "Infy": [
+    "win.tonnerre"
+  ],
+  "XENOTIME": [
+    "win.triton"
+  ],
+  "Higaisa": [
+    "win.unidentified_076"
+  ],
+  "APT-Q-12": [
+    "win.unidentified_100"
+  ],
+  "CeranaKeeper": [
+    "win.wavy_exfiller"
+  ],
+  "Void Arachne": [
+    "win.winos"
+  ],
+  "Antlion": [
+    "win.xpack"
+  ],
+  "TeamXRat": [
+    "win.xpan"
+  ],
+  "Donot Team": [
+    "win.yty"
+  ],
+  "Viceroy Tiger": [
+    "win.yty"
+  ]
+}
