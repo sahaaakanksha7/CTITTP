@@ -23,16 +23,28 @@
     },
         
     "jsonl_files": {
-        "Malpedia_2022": "group_profile_analysis/data/malpedia-db_2022-07-18_downloader.jsonl",
-        "Malpedia_2024": "group_profile_analysis/data/20241204_downloads.jsonl",
-        "MITRE": "group_profile_analysis/data/20241008_downloads.jsonl"
+        "Malpedia_2022": "../CTIDownloads/malpedia_20220718/malpedia_20220718/malpedia-db_2022-07-18_downloader.jsonl",
+        "Malpedia_2024": "../CTIDownloads/20241204_malpedia_downloads/20241204_downloads.jsonl",
+        "MITRE_enterprise": "../CTIDownloads/downloads/downloads/20241008_downloads.jsonl",
+        "MITRE_mobileics": "../CTIDownloads/downloads/downloads/mobile-ics/mobile-ics/downloads.jsonl"
+        
+    },
+    "bib_files":{
+        "malpedia_bib_file": "../CTIDownloads/20241204_malpedia_downloads/malpedia-db_2024-11-12.bib"
     },
 
-    "directory_paths": {
-        "CVE_Malpedia_2022": "C:/Users/ricewater/Documents/CTIDownloads/malpedia_20220718/malpedia_20220718/CVEs",
-        "CVE_Malpedia_2024": "C:/Users/ricewater/Documents/CTIDownloads/20241204_malpedia_downloads/CVEs",
-        "CVE_MITRE":"C:/Users/ricewater/Documents/CTIDownloads/CVEs",
-        "TTP_Malpedia_2024":"C:/Users/ricewater/Documents/CTIDownloads/20241204_malpedia_downloads/iocs",
-        "TTP_Malpedia_2022":"C:/Users/ricewater/Documents/CTIDownloads/malpedia_20220718/malpedia_20220718/iocs"
+    "threat_report_directories": {
+        "Malpedia_2022": "../CTIDownloads/malpedia_20220718/malpedia_20220718/documents",
+        "Malpedia_2024": "../CTIDownloads/20241204_malpedia_downloads/20241204_malpedia_downloads",
+        "MITRE": "../CTIDownloads/downloads/downloads/20241008_downloads"
+},
+
+    "directory_paths_ioc": {
+        "CVE_Malpedia_2022": "../CTIDownloads/malpedia_20220718/malpedia_20220718/CVEs",
+        "CVE_Malpedia_2024": "../CTIDownloads/20241204_malpedia_downloads/CVEs",
+        "CVE_MITRE":"../CTIDownloads/downloads/downloads/CVEs",
+        "TTP_Malpedia_2024":"../CTIDownloads/20241204_malpedia_downloads/iocs",
+        "TTP_Malpedia_2022":"../CTIDownloads/malpedia_20220718/malpedia_20220718/iocs",
+        "TTP_MITRE": "../CTIDownloads/downloads/downloads/iocs2"
     }
 }
