@@ -1,0 +1,88 @@
+software,num_groups,group_list
+win.plugx,19,APT 22; APT 26; APT31; APT41; Aurora Panda; DragonOK; EMISSARY PANDA; Hellsing; Hurricane Panda; Leviathan; Mirage; Mustang Panda; NetTraveler; Nightshade Panda; SLIME29; Samurai Panda; Stone Panda; UPS; Violin Panda
+win.cobalt_strike,18,APT 29; APT32; APT41; AQUATIC PANDA; Cobalt; Codoso; CopyKittens; DarkHydrus; Earth Baxia; FIN6; FIN7; Leviathan; Mustang Panda; Shell Crew; Stone Panda; TianWu; UNC1878; UNC2452
+win.8t_dropper,8,Hellsing; Ice Fog; Karma Panda; Pirate Panda; RANCOR; TA428; Tick; Tonto Team
+win.poison_ivy,8,GALLIUM; Molerats; Mustang Panda; Nightshade Panda; Pirate Panda; Stone Panda; TA428; Temper Panda
+win.shadowpad,7,APT17; APT23; APT41; DAGGER PANDA; Earth Lusca; Tonto Team; WET PANDA
+win.chinachopper,6,APT41; EMISSARY PANDA; GALLIUM; HAFNIUM; Hurricane Panda; Leviathan
+win.ghost_rat,6,EMISSARY PANDA; Hurricane Panda; Lazarus Group; Leviathan; Red Menshen; Stone Panda
+win.bumblebee,4,EXOTIC LILY; GOLD CABIN; TA578; TA579
+win.derusbi,4,APT17; APT41; Leviathan; Stone Panda
+win.njrat,4,AQUATIC PANDA; Earth Lusca; Operation C-Major; The Gorgon Group
+win.pupy,4,APT33; APT35; OilRig; Rocket Kitten
+win.quasar_rat,4,APT33; Dropping Elephant; Stone Panda; The Gorgon Group
+win.ryuk,4,FIN6; GRIM SPIDER; UNC1878; WIZARD SPIDER
+js.more_eggs,3,Cobalt; FIN6; VENOM SPIDER
+ps1.oilrig,3,APT39; Chafer; OilRig
+win.9002,3,APT31; Aurora Panda; Group 27
+win.blackbasta,3,Storm-0506; TA2101; UNC4393
+win.blackcoffee,3,APT41; Aurora Panda; Leviathan
+win.darkcomet,3,APT33; Lazarus Group; Operation C-Major
+win.dridex,3,Evil Corp; INDRIK SPIDER; TA505
+win.lokipws,3,Cobalt; SWEED; The Gorgon Group
+win.remcos,3,APT33; The Gorgon Group; UAC-0050
+win.trickbot,3,TA505; UNC1878; WIZARD SPIDER
+win.trochilus_rat,3,APT31; GALLIUM; Stone Panda
+win.yty,3,APT-C-35; Donot Team; Viceroy Tiger
+win.zxshell,3,APT41; EMISSARY PANDA; Leviathan
+apk.bahamut,2,Bahamut; Dropping Elephant
+asp.twoface,2,APT34; OilRig
+elf.hyperssl,2,APT27; EMISSARY PANDA
+js.cactustorch,2,APT32; Leviathan
+js.magecart,2,FIN6; MageCart
+ps1.bondupdater,2,APT34; OilRig
+win.arguepatch,2,APT28; Sandworm
+win.bistromath,2,Lazarus Group; Silent Chollima
+win.bozok,2,Operation C-Major; Temper Panda
+win.caddywiper,2,APT28; Sandworm
+win.disttrack,2,Magic Hound; Timberworm
+win.doublepulsar,2,Equation Group; UPS
+win.dtrack,2,Lazarus Group; Silent Chollima
+win.elmer,2,APT 16; Danti
+win.emotet,2,GOLD CABIN; MUMMY SPIDER
+win.eternal_petya,2,Sandworm; TeleBots
+win.formbook,2,Cobalt; SWEED
+win.former_first_rat,2,DragonOK; Samurai Panda
+win.gdrive,2,APT 29; APT29
+win.grateful_pos,2,FIN6; Skeleton Spider
+win.grey_energy,2,GreyEnergy; TeleBots
+win.grillmark,2,Hellsing; Leviathan
+win.highnoon,2,APT41; Aurora Panda
+win.hikit,2,Aurora Panda; Hurricane Panda
+win.htran,2,GALLIUM; UPS
+win.httpbrowser,2,EMISSARY PANDA; Wekby
+win.hyperssl,2,APT27; EMISSARY PANDA
+win.icedid,2,GOLD CABIN; Lunar Spider
+win.ismagent,2,APT34; Greenbug
+win.isspace,2,DragonOK; Samurai Panda
+win.karkoff,2,DNSpionage; OilRig
+win.killdisk,2,Sandworm; TeleBots
+win.koadic,2,APT28; Stone Panda
+win.lilith,2,Silent Chollima; Tick
+win.magic_rat,2,Lazarus Group; Silent Chollima
+win.maze,2,FIN6; TA2101
+win.mimikatz,2,APT32; GALLIUM
+win.mpkbot,2,Magic Hound; Rocket Kitten
+win.nanocore,2,APT33; The Gorgon Group
+win.nautilus,2,APT34; Turla
+win.neuron,2,APT34; Turla
+win.newpass,2,APT29; Turla
+win.phandoor,2,Lazarus Group; Silent Chollima
+win.poldat,2,Samurai Panda; Stone Panda
+win.rcs,2,APT-C-34; Hacking Team
+win.remexi,2,APT39; Chafer
+win.rifdoor,2,Lazarus Group; Silent Chollima
+win.sakula_rat,2,APT 26; Hurricane Panda
+win.sidewinder,2,RAZOR TIGER; SloppyLemming
+win.silence,2,Silence group; TA505
+win.smokeloader,2,SMOKY SPIDER; UAC-0006
+win.srdi,2,APT29; Lazarus Group
+win.strongpity,2,PROMETHIUM; StrongPity
+win.sunburst,2,APT 29; UNC2452
+win.syskit,2,APT35; Tortoiseshell
+win.telebot,2,Sandworm; TeleBots
+win.teledoor,2,Sandworm; TeleBots
+win.terra_stealer,2,FIN6; VENOM SPIDER
+win.vsingle,2,Lazarus Group; Silent Chollima
+win.xpack,2,Antlion; Pirate Panda
+win.xserver,2,UPS; Violin Panda
